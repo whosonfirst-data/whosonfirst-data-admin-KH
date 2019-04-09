@@ -1,0 +1,78 @@
+{
+  "id": 1360242851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.78657,13.72897,103.78657,13.72897",
+    "geom:latitude":13.72897,
+    "geom:longitude":103.78657,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Doun Aem",
+    "gn:country_code":"KH",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828523,
+    "gn:latitude":13.72897,
+    "gn:longitude":103.78657,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Doun Aem",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Doun Aem"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u178a\u17bc\u1793\u17af\u1798",
+        "Phum Don \u00cam"
+    ],
+    "name:und_x_variant":[
+        "Done Em",
+        "Phum\u012d Don \u00cam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673029,
+        1108564583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828523
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"a6b2bb15e9050282908278ccd1911f23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564583,
+            "locality_id":1360242851,
+            "region_id":85673029
+        }
+    ],
+    "wof:id":1360242851,
+    "wof:lastmodified":1537653812,
+    "wof:name":"Doun Aem",
+    "wof:parent_id":1108564583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.78657,
+    13.72897,
+    103.78657,
+    13.72897
+],
+  "geometry": {"coordinates":[103.78657,13.72897],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343336813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.94647,11.10053,104.94647,11.10053",
+    "geom:latitude":11.10053,
+    "geom:longitude":104.94647,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Phumi Prey Kabbas",
+    "gn:country_code":"KH",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825836,
+    "gn:latitude":11.10053,
+    "gn:longitude":104.94647,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Prey K\u00e2bbas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Prey Krabas",
+        "Phum\u012d Prey K\u00e2pbas",
+        "Phum Prey Krabas",
+        "Phum\u012d Prey K\u00e2bbas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673107,
+        1108564787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825836
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"2b4823a4fb8cabd200b54780568c1a23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564787,
+            "locality_id":1343336813,
+            "region_id":85673107
+        }
+    ],
+    "wof:id":1343336813,
+    "wof:lastmodified":1537653570,
+    "wof:name":"Phumi Prey Kabbas",
+    "wof:parent_id":1108564787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.94647,
+    11.10053,
+    104.94647,
+    11.10053
+],
+  "geometry": {"coordinates":[104.94647000000001,11.10053],"type":"Point"}
+}

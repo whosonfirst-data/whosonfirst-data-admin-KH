@@ -1,0 +1,76 @@
+{
+  "id": 1343908961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.86313,10.73744,103.86313,10.73744",
+    "geom:latitude":10.73744,
+    "geom:longitude":103.86313,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Phum Boeng Reang",
+    "gn:country_code":"KH",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829384,
+    "gn:latitude":10.73744,
+    "gn:longitude":103.86313,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Phum B\u0153\u0306ng Re\u00e0ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum B\u0153\u0306ng Re\u00e0ng"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1794\u17b9\u1784\u179a\u17b6\u17c6\u1784"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d B\u0153\u0306ng R\u00e9ang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673101,
+        421188243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829384
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"561ae88e1b9ac6bd9059f99fece82fd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421188243,
+            "locality_id":1343908961,
+            "region_id":85673101
+        }
+    ],
+    "wof:id":1343908961,
+    "wof:lastmodified":1537653879,
+    "wof:name":"Phum Boeng Reang",
+    "wof:parent_id":421188243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.86313,
+    10.73744,
+    103.86313,
+    10.73744
+],
+  "geometry": {"coordinates":[103.86313,10.73744],"type":"Point"}
+}

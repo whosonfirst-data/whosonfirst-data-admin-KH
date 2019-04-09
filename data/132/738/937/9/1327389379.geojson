@@ -1,0 +1,78 @@
+{
+  "id": 1327389379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.58925,13.6739,102.58925,13.6739",
+    "geom:latitude":13.6739,
+    "geom:longitude":102.58925,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Prey Kob",
+    "gn:country_code":"KH",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825784,
+    "gn:latitude":13.6739,
+    "gn:longitude":102.58925,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Prey Kob",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Prey Kob"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1796\u17d2\u179a\u17c3\u1782\u1794"
+    ],
+    "name:und_x_variant":[
+        "Phum Prey K\u016dp",
+        "Phum\u012d Prey K\u016dp",
+        "Phum\u012d Prey K\u016db"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673011,
+        1108564751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825784
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"2b302943c725b162f40703d8cdf8bbdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564751,
+            "locality_id":1327389379,
+            "region_id":85673011
+        }
+    ],
+    "wof:id":1327389379,
+    "wof:lastmodified":1537653565,
+    "wof:name":"Prey Kob",
+    "wof:parent_id":1108564751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.58925,
+    13.6739,
+    102.58925,
+    13.6739
+],
+  "geometry": {"coordinates":[102.58925000000001,13.6739],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209305267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.733,11.05914,103.733,11.05914",
+    "geom:latitude":11.05914,
+    "geom:longitude":103.733,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Chheu Neang",
+    "gn:country_code":"KH",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829019,
+    "gn:latitude":11.05914,
+    "gn:longitude":103.733,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Chheu Neang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Chheu Neang"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Chheu N\u00e9ang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829019
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"7555c1a1070ca842a86f6f25b7eeaad8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209305267
+        }
+    ],
+    "wof:id":1209305267,
+    "wof:lastmodified":1537653851,
+    "wof:name":"Chheu Neang",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.733,
+    11.05914,
+    103.733,
+    11.05914
+],
+  "geometry": {"coordinates":[103.733,11.05914],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293726363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.82408,12.25335,105.82408,12.25335",
+    "geom:latitude":12.25335,
+    "geom:longitude":105.82408,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Preaek Ta Hok",
+    "gn:country_code":"KH",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11507508,
+    "gn:latitude":12.25335,
+    "gn:longitude":105.82408,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Preaek Ta Hok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Preaek Ta Hok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        1108804319,
+        1108564719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11507508
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"cfba6ccfc32402b93c6b9766f05d8b09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564719,
+            "locality_id":1293726363,
+            "region_id":1108804319
+        }
+    ],
+    "wof:id":1293726363,
+    "wof:lastmodified":1537654077,
+    "wof:name":"Preaek Ta Hok",
+    "wof:parent_id":1108564719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.82408,
+    12.25335,
+    105.82408,
+    12.25335
+],
+  "geometry": {"coordinates":[105.82408,12.25335],"type":"Point"}
+}

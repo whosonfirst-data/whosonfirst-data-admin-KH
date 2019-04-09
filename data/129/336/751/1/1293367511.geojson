@@ -1,0 +1,73 @@
+{
+  "id": 1293367511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.9601,12.54013,103.9601,12.54013",
+    "geom:latitude":12.54013,
+    "geom:longitude":103.9601,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Phum Toul Ta Koy",
+    "gn:country_code":"KH",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11538864,
+    "gn:latitude":12.54013,
+    "gn:longitude":103.9601,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Phum To\u016dl Ta K\u014fy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum To\u016dl Ta K\u014fy"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1791\u17bd\u179b\u178f\u17b6\u1780\u17bb\u1799"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673023,
+        1108564795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11538864
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"76c5e6a343204c7c37a8a614731bb281",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564795,
+            "locality_id":1293367511,
+            "region_id":85673023
+        }
+    ],
+    "wof:id":1293367511,
+    "wof:lastmodified":1537654101,
+    "wof:name":"Phum Toul Ta Koy",
+    "wof:parent_id":1108564795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.9601,
+    12.54013,
+    103.9601,
+    12.54013
+],
+  "geometry": {"coordinates":[103.9601,12.54013],"type":"Point"}
+}

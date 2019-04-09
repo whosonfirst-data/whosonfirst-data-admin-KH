@@ -1,0 +1,72 @@
+{
+  "id": 1276825433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.97961,11.49356,104.97961,11.49356",
+    "geom:latitude":11.49356,
+    "geom:longitude":104.97961,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Phumi Robas Angkanh",
+    "gn:country_code":"KH",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825448,
+    "gn:latitude":11.49356,
+    "gn:longitude":104.97961,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Phum\u012d R\u00f4b\u00e1s \u00c2ngk\u0103nh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tuol Phk\u014fl",
+        "Phum\u012d R\u00f4ba\u00f4h \u00c2ngkanh",
+        "Phum\u012d R\u00f4b\u00e1s \u00c2ngk\u0103nh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673063,
+        1108564629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825448
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"17856aa764d2cc8939f03834fc2e0c19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564629,
+            "locality_id":1276825433,
+            "region_id":85673063
+        }
+    ],
+    "wof:id":1276825433,
+    "wof:lastmodified":1537653542,
+    "wof:name":"Phumi Robas Angkanh",
+    "wof:parent_id":1108564629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.97961,
+    11.49356,
+    104.97961,
+    11.49356
+],
+  "geometry": {"coordinates":[104.97960999999999,11.49356],"type":"Point"}
+}

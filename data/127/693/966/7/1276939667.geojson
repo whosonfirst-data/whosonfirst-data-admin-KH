@@ -1,0 +1,71 @@
+{
+  "id": 1276939667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.59009,11.06688,104.59009,11.06688",
+    "geom:latitude":11.06688,
+    "geom:longitude":104.59009,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Vott Angk S'at",
+    "gn:country_code":"KH",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1821381,
+    "gn:latitude":11.06688,
+    "gn:longitude":104.59009,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"V\u00f4tt \u00c2ngk S\u2019at",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum\u012d \u00c2ng S\u00e2at",
+        "V\u00f4tt \u00c2ngk S\u2019at"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673107,
+        1108564877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1821381
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"0cad7c4e14663531e3740d03a2921248",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564877,
+            "locality_id":1276939667,
+            "region_id":85673107
+        }
+    ],
+    "wof:id":1276939667,
+    "wof:lastmodified":1537653320,
+    "wof:name":"Vott Angk S'at",
+    "wof:parent_id":1108564877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.59009,
+    11.06688,
+    104.59009,
+    11.06688
+],
+  "geometry": {"coordinates":[104.59009,11.06688],"type":"Point"}
+}

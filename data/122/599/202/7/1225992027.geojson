@@ -1,0 +1,78 @@
+{
+  "id": 1225992027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.56394,14.31698,103.56394,14.31698",
+    "geom:latitude":14.31698,
+    "geom:longitude":103.56394,
+    "gn:admin1_code":"27",
+    "gn:asciiname":"Phum Kdol",
+    "gn:country_code":"KH",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827792,
+    "gn:latitude":14.31698,
+    "gn:longitude":103.56394,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Phum Kd\u014fl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Kd\u014fl"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1780\u17d2\u178a\u17bb\u179b"
+    ],
+    "name:und_x_variant":[
+        "Khdol",
+        "Kadot",
+        "Phum\u012d Kd\u014fl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673033,
+        1108564823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827792
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"e03bad5a54b8940520cda2059028e619",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564823,
+            "locality_id":1225992027,
+            "region_id":85673033
+        }
+    ],
+    "wof:id":1225992027,
+    "wof:lastmodified":1537653750,
+    "wof:name":"Phum Kdol",
+    "wof:parent_id":1108564823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.56394,
+    14.31698,
+    103.56394,
+    14.31698
+],
+  "geometry": {"coordinates":[103.56394,14.31698],"type":"Point"}
+}

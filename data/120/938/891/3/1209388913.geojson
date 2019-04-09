@@ -1,0 +1,68 @@
+{
+  "id": 1209388913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.48202,10.65195,104.48202,10.65195",
+    "geom:latitude":10.65195,
+    "geom:longitude":104.48202,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Damnak",
+    "gn:country_code":"KH",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828614,
+    "gn:latitude":10.65195,
+    "gn:longitude":104.48202,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Damnak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Damnak"
+    ],
+    "name:und_x_variant":[
+        "Phum Damnak Trayung",
+        "Phum\u012d D\u00e2mn\u0103k Tr\u00e2y\u0153\u0306ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828614
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"e4b97242523dbac02cfef5d2d65780ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209388913
+        }
+    ],
+    "wof:id":1209388913,
+    "wof:lastmodified":1537653819,
+    "wof:name":"Damnak",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.48202,
+    10.65195,
+    104.48202,
+    10.65195
+],
+  "geometry": {"coordinates":[104.48202000000001,10.65195],"type":"Point"}
+}

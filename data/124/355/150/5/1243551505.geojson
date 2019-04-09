@@ -1,0 +1,78 @@
+{
+  "id": 1243551505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.19796,11.45103,105.19796,11.45103",
+    "geom:latitude":11.45103,
+    "geom:longitude":105.19796,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Phum Lovea Sar Kandal",
+    "gn:country_code":"KH",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1826934,
+    "gn:latitude":11.45103,
+    "gn:longitude":105.19796,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Phum L\u00f4v\u00e9a S\u00e2r K\u00e2ndal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum L\u00f4v\u00e9a S\u00e2r K\u00e2ndal"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u179b\u17d2\u179c\u17b6\u179f\u179a\u1780\u178e\u17d2\u178f\u17b6\u179b"
+    ],
+    "name:und_x_variant":[
+        "Phum Lovea Sar",
+        "Phum\u012d Lov\u00e9a Sar Kandal",
+        "Phum\u012d Lv\u00e9a S\u00e2r K\u00e2ndal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673051,
+        1108564725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1826934
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"8e9a491f35d9a582b6467edf82814673",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564725,
+            "locality_id":1243551505,
+            "region_id":85673051
+        }
+    ],
+    "wof:id":1243551505,
+    "wof:lastmodified":1537653672,
+    "wof:name":"Phum Lovea Sar Kandal",
+    "wof:parent_id":1108564725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.19796,
+    11.45103,
+    105.19796,
+    11.45103
+],
+  "geometry": {"coordinates":[105.19795999999999,11.45103],"type":"Point"}
+}

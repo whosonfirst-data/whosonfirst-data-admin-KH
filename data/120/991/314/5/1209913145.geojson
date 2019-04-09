@@ -1,0 +1,70 @@
+{
+  "id": 1209913145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.21264,12.45535,105.21264,12.45535",
+    "geom:latitude":12.45535,
+    "geom:longitude":105.21264,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Ponley",
+    "gn:country_code":"KH",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11478734,
+    "gn:latitude":12.45535,
+    "gn:longitude":105.21264,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Ponley",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Ponley"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673057,
+        421198921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11478734
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"447f0f43155016625e0b50ef3a8cba3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421198921,
+            "locality_id":1209913145,
+            "region_id":85673057
+        }
+    ],
+    "wof:id":1209913145,
+    "wof:lastmodified":1537654044,
+    "wof:name":"Ponley",
+    "wof:parent_id":421198921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.21264,
+    12.45535,
+    105.21264,
+    12.45535
+],
+  "geometry": {"coordinates":[105.21263999999999,12.45535],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1326503911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.18992,10.95703,105.18992,10.95703",
+    "geom:latitude":10.95703,
+    "geom:longitude":105.18992,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Kaoh Roka",
+    "gn:country_code":"KH",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1830771,
+    "gn:latitude":10.95703,
+    "gn:longitude":105.18992,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Kaoh Roka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Kaoh Roka"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Ka\u00f4h R\u00f4kar",
+        "Khum Kas Rokar",
+        "Kh\u016dm Ka\u00f4h R\u00f4kar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673067,
+        1108564755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1830771
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"33e4eba42fa64c8e4cb61475ff9ceaf2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564755,
+            "locality_id":1326503911,
+            "region_id":85673067
+        }
+    ],
+    "wof:id":1326503911,
+    "wof:lastmodified":1537653950,
+    "wof:name":"Kaoh Roka",
+    "wof:parent_id":1108564755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.18992,
+    10.95703,
+    105.18992,
+    10.95703
+],
+  "geometry": {"coordinates":[105.18992,10.95703],"type":"Point"}
+}

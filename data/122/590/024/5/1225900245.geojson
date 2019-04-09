@@ -1,0 +1,73 @@
+{
+  "id": 1225900245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.78252,13.36416,103.78252,13.36416",
+    "geom:latitude":13.36416,
+    "geom:longitude":103.78252,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Phum Tras Treang",
+    "gn:country_code":"KH",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1823166,
+    "gn:latitude":13.36416,
+    "gn:longitude":103.78252,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Phum Tr\u00e2s Tre\u0103ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Tr\u00e2s Tre\u0103ng"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Tr\u00e1s Tre\u0103ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673029,
+        421204115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1823166
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"648cd63d8b7a51937fc62279e985e4c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421204115,
+            "locality_id":1225900245,
+            "region_id":85673029
+        }
+    ],
+    "wof:id":1225900245,
+    "wof:lastmodified":1537653361,
+    "wof:name":"Phum Tras Treang",
+    "wof:parent_id":421204115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.78252,
+    13.36416,
+    103.78252,
+    13.36416
+],
+  "geometry": {"coordinates":[103.78252000000001,13.36416],"type":"Point"}
+}

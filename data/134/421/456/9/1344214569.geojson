@@ -1,0 +1,74 @@
+{
+  "id": 1344214569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.84234,13.47433,102.84234,13.47433",
+    "geom:latitude":13.47433,
+    "geom:longitude":102.84234,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Phumi Tuol Damnak Preah Angk",
+    "gn:country_code":"KH",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1823072,
+    "gn:latitude":13.47433,
+    "gn:longitude":102.84234,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Tu\u014fl D\u00e2mn\u0103k Pre\u0103h \u00c2ngk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Damnac Prea An",
+        "Khum Damnak Preas Ang",
+        "Phum\u012d Tu\u014fl D\u00e2mnak Preak Ang",
+        "Phum Damnak Preas Ang",
+        "Phum\u012d Tu\u014fl D\u00e2mn\u0103k Pre\u0103h \u00c2ngk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673011,
+        1108564737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1823072
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"819a67a9f907ad6720a59973f5a407e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564737,
+            "locality_id":1344214569,
+            "region_id":85673011
+        }
+    ],
+    "wof:id":1344214569,
+    "wof:lastmodified":1537653354,
+    "wof:name":"Phumi Tuol Damnak Preah Angk",
+    "wof:parent_id":1108564737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.84234,
+    13.47433,
+    102.84234,
+    13.47433
+],
+  "geometry": {"coordinates":[102.84233999999999,13.47433],"type":"Point"}
+}

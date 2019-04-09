@@ -1,0 +1,71 @@
+{
+  "id": 1343617451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.65752,13.89906,103.65752,13.89906",
+    "geom:latitude":13.89906,
+    "geom:longitude":103.65752,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Phumi Aprak Slab",
+    "gn:country_code":"KH",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829737,
+    "gn:latitude":13.89906,
+    "gn:longitude":103.65752,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Apr\u0103k Sl\u0103b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum\u012d Aprak Slap",
+        "Phum\u012d Apr\u0103k Sl\u0103b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673029,
+        1108564847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829737
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"83feb49af158b54d339d212f62ebd7d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564847,
+            "locality_id":1343617451,
+            "region_id":85673029
+        }
+    ],
+    "wof:id":1343617451,
+    "wof:lastmodified":1537653907,
+    "wof:name":"Phumi Aprak Slab",
+    "wof:parent_id":1108564847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.65752,
+    13.89906,
+    103.65752,
+    13.89906
+],
+  "geometry": {"coordinates":[103.65752000000001,13.89906],"type":"Point"}
+}

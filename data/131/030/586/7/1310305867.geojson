@@ -1,0 +1,70 @@
+{
+  "id": 1310305867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.54565,11.5544,104.54565,11.5544",
+    "geom:latitude":11.5544,
+    "geom:longitude":104.54565,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Trea",
+    "gn:country_code":"KH",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11475436,
+    "gn:latitude":11.5544,
+    "gn:longitude":104.54565,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Trea",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Trea"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673053,
+        1108564819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11475436
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"7b659a59e0cea1791cda3d717673aa3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564819,
+            "locality_id":1310305867,
+            "region_id":85673053
+        }
+    ],
+    "wof:id":1310305867,
+    "wof:lastmodified":1537654031,
+    "wof:name":"Trea",
+    "wof:parent_id":1108564819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.54565,
+    11.5544,
+    104.54565,
+    11.5544
+],
+  "geometry": {"coordinates":[104.54564999999999,11.5544],"type":"Point"}
+}

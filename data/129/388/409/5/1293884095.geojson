@@ -1,0 +1,73 @@
+{
+  "id": 1293884095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.41003,11.17242,104.41003,11.17242",
+    "geom:latitude":11.17242,
+    "geom:longitude":104.41003,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Prey Rumdael",
+    "gn:country_code":"KH",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825695,
+    "gn:latitude":11.17242,
+    "gn:longitude":104.41003,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Prey Rumdael",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Prey Rumdael"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Prey Rumd\u00e9l"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673053,
+        1108564609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825695
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"6c1187b5632320db4bf92203feb9adb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564609,
+            "locality_id":1293884095,
+            "region_id":85673053
+        }
+    ],
+    "wof:id":1293884095,
+    "wof:lastmodified":1537653559,
+    "wof:name":"Prey Rumdael",
+    "wof:parent_id":1108564609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.41003,
+    11.17242,
+    104.41003,
+    11.17242
+],
+  "geometry": {"coordinates":[104.41003000000001,11.17242],"type":"Point"}
+}

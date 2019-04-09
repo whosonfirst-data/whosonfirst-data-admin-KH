@@ -1,0 +1,75 @@
+{
+  "id": 1309827485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.77692,11.74573,104.77692,11.74573",
+    "geom:latitude":11.74573,
+    "geom:longitude":104.77692,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Chambak Phluoh",
+    "gn:country_code":"KH",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829245,
+    "gn:latitude":11.74573,
+    "gn:longitude":104.77692,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Chambak Phluoh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Chambak Phluoh"
+    ],
+    "name:und_x_variant":[
+        "Chum Bo Phluk",
+        "Phum\u012d Ch\u00e2mb\u00e2k Phlu\u014fh",
+        "Phum\u012d Ch\u00e2mb\u00e1k Phl\u014f\u0103h"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673051,
+        421188235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829245
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"4b090d55728e067a29059b04f52f16e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421188235,
+            "locality_id":1309827485,
+            "region_id":85673051
+        }
+    ],
+    "wof:id":1309827485,
+    "wof:lastmodified":1537653869,
+    "wof:name":"Chambak Phluoh",
+    "wof:parent_id":421188235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.77692,
+    11.74573,
+    104.77692,
+    11.74573
+],
+  "geometry": {"coordinates":[104.77692,11.74573],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293354795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.59829,10.72934,104.59829,10.72934",
+    "geom:latitude":10.72934,
+    "geom:longitude":104.59829,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Phumi Tram Sasar",
+    "gn:country_code":"KH",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1823503,
+    "gn:latitude":10.72934,
+    "gn:longitude":104.59829,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Phum\u012d Tr\u0103m S\u00e2s\u00e2r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673093,
+        1108564601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1823503
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"a77a145dd4d494777bb493153274fe29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564601,
+            "locality_id":1293354795,
+            "region_id":85673093
+        }
+    ],
+    "wof:id":1293354795,
+    "wof:lastmodified":1536977898,
+    "wof:name":"Phumi Tram Sasar",
+    "wof:parent_id":1108564601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.59829,
+    10.72934,
+    104.59829,
+    10.72934
+],
+  "geometry": {"coordinates":[104.59829000000001,10.72934],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1226613391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.74197,13.65416,102.74197,13.65416",
+    "geom:latitude":13.65416,
+    "geom:longitude":102.74197,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Thma Sen",
+    "gn:country_code":"KH",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1823872,
+    "gn:latitude":13.65416,
+    "gn:longitude":102.74197,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Thma Sen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Thma Sen"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1790\u17d2\u1798\u179f\u17b7\u1793"
+    ],
+    "name:und_x_variant":[
+        "Phum Thm\u00e2 S\u0115n",
+        "Phum Thmar Sen",
+        "Phum\u012d Thm\u00e2 S\u0115n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673011,
+        1108564751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1823872
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"5f959338eec9219e8837bc97a2842df4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564751,
+            "locality_id":1226613391,
+            "region_id":85673011
+        }
+    ],
+    "wof:id":1226613391,
+    "wof:lastmodified":1537653412,
+    "wof:name":"Thma Sen",
+    "wof:parent_id":1108564751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.74197,
+    13.65416,
+    102.74197,
+    13.65416
+],
+  "geometry": {"coordinates":[102.74196999999999,13.65416],"type":"Point"}
+}

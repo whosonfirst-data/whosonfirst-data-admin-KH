@@ -1,0 +1,77 @@
+{
+  "id": 1243324591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.62121,12.74818,103.62121,12.74818",
+    "geom:latitude":12.74818,
+    "geom:longitude":103.62121,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Chrab",
+    "gn:country_code":"KH",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828845,
+    "gn:latitude":12.74818,
+    "gn:longitude":103.62121,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Chrab",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Chrab"
+    ],
+    "name:und_x_variant":[
+        "P\u2019um Chr\u00e2p",
+        "Chrop",
+        "Phum Chrap",
+        "Phum\u012d Chrap",
+        "Phum\u012d Chrab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673015,
+        1108564739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828845
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"f16ec8dcfccc58ccf6d3f31b3382b0d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564739,
+            "locality_id":1243324591,
+            "region_id":85673015
+        }
+    ],
+    "wof:id":1243324591,
+    "wof:lastmodified":1537653836,
+    "wof:name":"Chrab",
+    "wof:parent_id":1108564739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.62121,
+    12.74818,
+    103.62121,
+    12.74818
+],
+  "geometry": {"coordinates":[103.62121,12.74818],"type":"Point"}
+}

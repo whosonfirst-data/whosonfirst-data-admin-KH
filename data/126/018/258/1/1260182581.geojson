@@ -1,0 +1,79 @@
+{
+  "id": 1260182581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.23469,11.57742,104.23469,11.57742",
+    "geom:latitude":11.57742,
+    "geom:longitude":104.23469,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Tang Robang",
+    "gn:country_code":"KH",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1821347,
+    "gn:latitude":11.57742,
+    "gn:longitude":104.23469,
+    "gn:modification_date":"2017-07-05",
+    "gn:name":"Tang Robang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Tang Robang"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u178f\u17b6\u17c6\u1784\u179a\u1794\u1784",
+        "Phum T\u0103ng R\u00f4b\u00e2ng"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Vatt T\u0103ng R\u00f4b\u00e2ng",
+        "Vatt T\u0103ng R\u00f4b\u00e2ng",
+        "V\u00f4tt T\u0103ng R\u00f4b\u00e2ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673053,
+        1108564591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1821347
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"efb33fc6ae8345f08a7cb0644fcd9cc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564591,
+            "locality_id":1260182581,
+            "region_id":85673053
+        }
+    ],
+    "wof:id":1260182581,
+    "wof:lastmodified":1537653317,
+    "wof:name":"Tang Robang",
+    "wof:parent_id":1108564591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.23469,
+    11.57742,
+    104.23469,
+    11.57742
+],
+  "geometry": {"coordinates":[104.23469,11.57742],"type":"Point"}
+}

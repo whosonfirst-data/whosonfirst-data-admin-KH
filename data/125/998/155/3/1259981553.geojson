@@ -1,0 +1,77 @@
+{
+  "id": 1259981553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.4911,12.42317,104.4911,12.42317",
+    "geom:latitude":12.42317,
+    "geom:longitude":104.4911,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Phum Cheung Phleung",
+    "gn:country_code":"KH",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829054,
+    "gn:latitude":12.42317,
+    "gn:longitude":104.4911,
+    "gn:modification_date":"2017-07-05",
+    "gn:name":"Phum Cheung Phleung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Cheung Phleung"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1787\u17be\u1784\u1797\u17d2\u179b\u17be\u1784"
+    ],
+    "name:und_x_variant":[
+        "Ch\u0153ung Phl\u0153ung",
+        "Phum\u012d Cheung Phleung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673047,
+        421202235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829054
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"15e9a4e74a9975c6616ecc13ab46861b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421202235,
+            "locality_id":1259981553,
+            "region_id":85673047
+        }
+    ],
+    "wof:id":1259981553,
+    "wof:lastmodified":1537653854,
+    "wof:name":"Phum Cheung Phleung",
+    "wof:parent_id":421202235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.4911,
+    12.42317,
+    104.4911,
+    12.42317
+],
+  "geometry": {"coordinates":[104.4911,12.42317],"type":"Point"}
+}

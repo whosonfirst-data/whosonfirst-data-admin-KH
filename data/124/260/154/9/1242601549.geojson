@@ -1,0 +1,71 @@
+{
+  "id": 1242601549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.61959,11.46688,104.61959,11.46688",
+    "geom:latitude":11.46688,
+    "geom:longitude":104.61959,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Phumi Chheuteal Leu",
+    "gn:country_code":"KH",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828999,
+    "gn:latitude":11.46688,
+    "gn:longitude":104.61959,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Chheut\u00e9al Leu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum\u012d Chheut\u00e9al",
+        "Phum\u012d Chheut\u00e9al Leu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673053,
+        1108564819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828999
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"c6fe8a494be375d1ca6f42ab3dcd6a06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564819,
+            "locality_id":1242601549,
+            "region_id":85673053
+        }
+    ],
+    "wof:id":1242601549,
+    "wof:lastmodified":1537653849,
+    "wof:name":"Phumi Chheuteal Leu",
+    "wof:parent_id":1108564819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.61959,
+    11.46688,
+    104.61959,
+    11.46688
+],
+  "geometry": {"coordinates":[104.61959,11.46688],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243026501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.0083,13.92435,107.0083,13.92435",
+    "geom:latitude":13.92435,
+    "geom:longitude":107.0083,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Phumi Chan",
+    "gn:country_code":"KH",
+    "gn:dem":287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829176,
+    "gn:latitude":13.92435,
+    "gn:longitude":107.0083,
+    "gn:modification_date":"2009-05-12",
+    "gn:name":"Phum\u012d Ch\u0103n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673089,
+        1108564743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829176
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"b06faaf75b5bb956ac5f0a85c457ec39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564743,
+            "locality_id":1243026501,
+            "region_id":85673089
+        }
+    ],
+    "wof:id":1243026501,
+    "wof:lastmodified":1536914494,
+    "wof:name":"Phumi Chan",
+    "wof:parent_id":1108564743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.0083,
+    13.92435,
+    107.0083,
+    13.92435
+],
+  "geometry": {"coordinates":[107.00830000000001,13.92435],"type":"Point"}
+}

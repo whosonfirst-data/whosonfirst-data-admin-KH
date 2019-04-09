@@ -1,0 +1,72 @@
+{
+  "id": 1209308989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.06578,11.00305,105.06578,11.00305",
+    "geom:latitude":11.00305,
+    "geom:longitude":105.06578,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Chheu Khmau",
+    "gn:country_code":"KH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828874,
+    "gn:latitude":11.00305,
+    "gn:longitude":105.06578,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Chheu Khmau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Chheu Khmau"
+    ],
+    "name:khm_x_variant":[
+        "Phum Ch\u014fng Khsach",
+        "\u1797\u17bc\u1798\u17b7 \u1785\u17bb\u1784\u1781\u17d2\u179f\u17b6\u1780"
+    ],
+    "name:und_x_variant":[
+        "Phum Kbal Chroi",
+        "Phum\u012d Ch\u014fng Khs\u0103ch"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828874
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"262876b281f21f7e7bf0ffc1310fcc3b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209308989
+        }
+    ],
+    "wof:id":1209308989,
+    "wof:lastmodified":1537653839,
+    "wof:name":"Chheu Khmau",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.06578,
+    11.00305,
+    105.06578,
+    11.00305
+],
+  "geometry": {"coordinates":[105.06578,11.00305],"type":"Point"}
+}

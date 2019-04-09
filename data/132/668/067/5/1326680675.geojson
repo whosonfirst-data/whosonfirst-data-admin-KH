@@ -1,0 +1,70 @@
+{
+  "id": 1326680675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.13821,12.93163,103.13821,12.93163",
+    "geom:latitude":12.93163,
+    "geom:longitude":103.13821,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Kantueu Pir",
+    "gn:country_code":"KH",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11424629,
+    "gn:latitude":12.93163,
+    "gn:longitude":103.13821,
+    "gn:modification_date":"2017-01-07",
+    "gn:name":"Kantueu Pir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Kantueu Pir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673015,
+        1108564597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11424629
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"3dddd51c43fb2bbab27e1dfce343ab85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564597,
+            "locality_id":1326680675,
+            "region_id":85673015
+        }
+    ],
+    "wof:id":1326680675,
+    "wof:lastmodified":1537654002,
+    "wof:name":"Kantueu Pir",
+    "wof:parent_id":1108564597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.13821,
+    12.93163,
+    103.13821,
+    12.93163
+],
+  "geometry": {"coordinates":[103.13821,12.93163],"type":"Point"}
+}

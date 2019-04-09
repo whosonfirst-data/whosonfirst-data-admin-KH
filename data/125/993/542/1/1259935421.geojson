@@ -1,0 +1,73 @@
+{
+  "id": 1259935421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.98668,13.54919,102.98668,13.54919",
+    "geom:latitude":13.54919,
+    "geom:longitude":102.98668,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Preaek Chik",
+    "gn:country_code":"KH",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1826045,
+    "gn:latitude":13.54919,
+    "gn:longitude":102.98668,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Preaek Chik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Preaek Chik"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Pr\u00eak Chik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673011,
+        1108564737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1826045
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"599155ff3b925ac8adba4326b1108c31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564737,
+            "locality_id":1259935421,
+            "region_id":85673011
+        }
+    ],
+    "wof:id":1259935421,
+    "wof:lastmodified":1537653589,
+    "wof:name":"Preaek Chik",
+    "wof:parent_id":1108564737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.98668,
+    13.54919,
+    102.98668,
+    13.54919
+],
+  "geometry": {"coordinates":[102.98668000000001,13.54919],"type":"Point"}
+}

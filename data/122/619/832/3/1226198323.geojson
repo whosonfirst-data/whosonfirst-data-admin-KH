@@ -1,0 +1,73 @@
+{
+  "id": 1226198323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.30168,13.07958,104.30168,13.07958",
+    "geom:latitude":13.07958,
+    "geom:longitude":104.30168,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Phum Thnal",
+    "gn:country_code":"KH",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11603117,
+    "gn:latitude":13.07958,
+    "gn:longitude":104.30168,
+    "gn:modification_date":"2017-07-06",
+    "gn:name":"Phum Thn\u00e2l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Thn\u00e2l"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1790\u17d2\u1793\u179b\u17cb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673029,
+        1108564639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11603117
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"71ddd4f445ed1911c4b91de93efac76e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564639,
+            "locality_id":1226198323,
+            "region_id":85673029
+        }
+    ],
+    "wof:id":1226198323,
+    "wof:lastmodified":1537654130,
+    "wof:name":"Phum Thnal",
+    "wof:parent_id":1108564639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.30168,
+    13.07958,
+    104.30168,
+    13.07958
+],
+  "geometry": {"coordinates":[104.30168,13.07958],"type":"Point"}
+}

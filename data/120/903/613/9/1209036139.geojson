@@ -1,0 +1,70 @@
+{
+  "id": 1209036139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.9564,12.02355,105.9564,12.02355",
+    "geom:latitude":12.02355,
+    "geom:longitude":105.9564,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Phum Pralaoh Tbong",
+    "gn:country_code":"KH",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1826217,
+    "gn:latitude":12.02355,
+    "gn:longitude":105.9564,
+    "gn:modification_date":"2017-07-05",
+    "gn:name":"Phum Pr\u00e2la\u00f4h Tbong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Pr\u00e2la\u00f4h Tbong"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1794\u17d2\u179a\u17a1\u17c4\u17c7\u178f\u17d2\u1794\u17bc\u1784"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Pr\u00e2la\u00f4h Tbong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1826217
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"3a13113b5242f9f54c70a940cc64f841",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209036139
+        }
+    ],
+    "wof:id":1209036139,
+    "wof:lastmodified":1537653605,
+    "wof:name":"Phum Pralaoh Tbong",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.9564,
+    12.02355,
+    105.9564,
+    12.02355
+],
+  "geometry": {"coordinates":[105.9564,12.02355],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1276193743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.15737,13.41145,104.15737,13.41145",
+    "geom:latitude":13.41145,
+    "geom:longitude":104.15737,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Trapeang Phong",
+    "gn:country_code":"KH",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11604934,
+    "gn:latitude":13.41145,
+    "gn:longitude":104.15737,
+    "gn:modification_date":"2017-07-06",
+    "gn:name":"Trapeang Phong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Trapeang Phong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673029,
+        1108564843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11604934
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"7d506b3ac7b00eefbdb2c30b86fe3401",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564843,
+            "locality_id":1276193743,
+            "region_id":85673029
+        }
+    ],
+    "wof:id":1276193743,
+    "wof:lastmodified":1537654138,
+    "wof:name":"Trapeang Phong",
+    "wof:parent_id":1108564843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.15737,
+    13.41145,
+    104.15737,
+    13.41145
+],
+  "geometry": {"coordinates":[104.15737,13.41145],"type":"Point"}
+}

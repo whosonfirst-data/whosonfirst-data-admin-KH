@@ -1,0 +1,73 @@
+{
+  "id": 1344093211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.16591,11.86035,106.16591,11.86035",
+    "geom:latitude":11.86035,
+    "geom:longitude":106.16591,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Cheach",
+    "gn:country_code":"KH",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829099,
+    "gn:latitude":11.86035,
+    "gn:longitude":106.16591,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Cheach",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Cheach"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Ch\u00e9ach"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        1108804319,
+        1108564735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829099
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"0f8f6b07f05ff7d30cf8dd10a7651536",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564735,
+            "locality_id":1344093211,
+            "region_id":1108804319
+        }
+    ],
+    "wof:id":1344093211,
+    "wof:lastmodified":1537653858,
+    "wof:name":"Cheach",
+    "wof:parent_id":1108564735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.16591,
+    11.86035,
+    106.16591,
+    11.86035
+],
+  "geometry": {"coordinates":[106.16591,11.86035],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1260050843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.31034,11.32905,105.31034,11.32905",
+    "geom:latitude":11.32905,
+    "geom:longitude":105.31034,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Chak Khlanh",
+    "gn:country_code":"KH",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829272,
+    "gn:latitude":11.32905,
+    "gn:longitude":105.31034,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Chak Khlanh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Chak Khlanh"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1785\u17b6\u1780\u17cb\u1781\u17d2\u179b\u17b6\u1789\u17cb"
+    ],
+    "name:und_x_variant":[
+        "Phum Beng Chak Khlanh",
+        "Phum\u012d Ch\u0103k Khl\u0103nh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673067,
+        421191397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829272
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"f76a9dba4fdd6ca1fcb2cb5878ac4c9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421191397,
+            "locality_id":1260050843,
+            "region_id":85673067
+        }
+    ],
+    "wof:id":1260050843,
+    "wof:lastmodified":1537653871,
+    "wof:name":"Chak Khlanh",
+    "wof:parent_id":421191397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.31034,
+    11.32905,
+    105.31034,
+    11.32905
+],
+  "geometry": {"coordinates":[105.31034,11.32905],"type":"Point"}
+}

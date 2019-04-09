@@ -1,0 +1,74 @@
+{
+  "id": 1293548351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.67865,10.55402,104.67865,10.55402",
+    "geom:latitude":10.55402,
+    "geom:longitude":104.67865,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Samraong Chen",
+    "gn:country_code":"KH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825092,
+    "gn:latitude":10.55402,
+    "gn:longitude":104.67865,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Samraong Chen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Samraong Chen"
+    ],
+    "name:und_x_variant":[
+        "Phum Samrong Chen",
+        "Phum\u012d S\u00e2mra\u00f4ng Ch\u0115n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673093,
+        1108564601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825092
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"ad2fe08134b7ad9dc6219077d0d4f414",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564601,
+            "locality_id":1293548351,
+            "region_id":85673093
+        }
+    ],
+    "wof:id":1293548351,
+    "wof:lastmodified":1537653512,
+    "wof:name":"Samraong Chen",
+    "wof:parent_id":1108564601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.67865,
+    10.55402,
+    104.67865,
+    10.55402
+],
+  "geometry": {"coordinates":[104.67865,10.55402],"type":"Point"}
+}

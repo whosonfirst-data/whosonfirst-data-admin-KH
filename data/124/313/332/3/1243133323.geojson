@@ -1,0 +1,73 @@
+{
+  "id": 1243133323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.42674,12.77635,103.42674,12.77635",
+    "geom:latitude":12.77635,
+    "geom:longitude":103.42674,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Phum Pralay",
+    "gn:country_code":"KH",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11349829,
+    "gn:latitude":12.77635,
+    "gn:longitude":103.42674,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Phum Pr\u00e2lay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Pr\u00e2lay"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1794\u17d2\u179a\u17a1\u17b6\u1799"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673015,
+        1108564739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11349829
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"c3fdd606591d6f93ef60a5ee22d68e2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564739,
+            "locality_id":1243133323,
+            "region_id":85673015
+        }
+    ],
+    "wof:id":1243133323,
+    "wof:lastmodified":1537653976,
+    "wof:name":"Phum Pralay",
+    "wof:parent_id":1108564739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.42674,
+    12.77635,
+    103.42674,
+    12.77635
+],
+  "geometry": {"coordinates":[103.42674,12.77635],"type":"Point"}
+}

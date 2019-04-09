@@ -1,0 +1,71 @@
+{
+  "id": 1259641403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.69119,13.99383,103.69119,13.99383",
+    "geom:latitude":13.99383,
+    "geom:longitude":103.69119,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Phumi Bak Thlav",
+    "gn:country_code":"KH",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829692,
+    "gn:latitude":13.99383,
+    "gn:longitude":103.69119,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d B\u0103k Thlav",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum\u012d Bak Thkav",
+        "Phum\u012d B\u0103k Thlav"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673033,
+        1108564647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829692
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"d68fb94745449eb1f54f3a73a4001a98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564647,
+            "locality_id":1259641403,
+            "region_id":85673033
+        }
+    ],
+    "wof:id":1259641403,
+    "wof:lastmodified":1537653903,
+    "wof:name":"Phumi Bak Thlav",
+    "wof:parent_id":1108564647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.69119,
+    13.99383,
+    103.69119,
+    13.99383
+],
+  "geometry": {"coordinates":[103.69119000000001,13.99383],"type":"Point"}
+}

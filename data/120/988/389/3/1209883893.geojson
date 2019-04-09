@@ -1,0 +1,70 @@
+{
+  "id": 1209883893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.79819,13.60215,102.79819,13.60215",
+    "geom:latitude":13.60215,
+    "geom:longitude":102.79819,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Mak Heun",
+    "gn:country_code":"KH",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11423691,
+    "gn:latitude":13.60215,
+    "gn:longitude":102.79819,
+    "gn:modification_date":"2017-01-07",
+    "gn:name":"Mak Heun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Mak Heun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673011,
+        421198129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11423691
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"c5622a3d3a276e8a93174897521d43da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421198129,
+            "locality_id":1209883893,
+            "region_id":85673011
+        }
+    ],
+    "wof:id":1209883893,
+    "wof:lastmodified":1537654001,
+    "wof:name":"Mak Heun",
+    "wof:parent_id":421198129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.79819,
+    13.60215,
+    102.79819,
+    13.60215
+],
+  "geometry": {"coordinates":[102.79819000000001,13.60215],"type":"Point"}
+}

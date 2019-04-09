@@ -1,0 +1,67 @@
+{
+  "id": 1209925735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.54839,12.21447,104.54839,12.21447",
+    "geom:latitude":12.21447,
+    "geom:longitude":104.54839,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Phumi Sre Veal",
+    "gn:country_code":"KH",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1824542,
+    "gn:latitude":12.21447,
+    "gn:longitude":104.54839,
+    "gn:modification_date":"1993-12-30",
+    "gn:name":"Phum\u012d Sr\u00ea V\u00e9al",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673047,
+        421198923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1824542
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"385c8f4b2d295c24d35b27ff5dec1fcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421198923,
+            "locality_id":1209925735,
+            "region_id":85673047
+        }
+    ],
+    "wof:id":1209925735,
+    "wof:lastmodified":1536394996,
+    "wof:name":"Phumi Sre Veal",
+    "wof:parent_id":421198923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.54839,
+    12.21447,
+    104.54839,
+    12.21447
+],
+  "geometry": {"coordinates":[104.54839,12.21447],"type":"Point"}
+}

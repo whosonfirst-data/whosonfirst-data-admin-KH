@@ -1,0 +1,74 @@
+{
+  "id": 1260339385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.77993,10.54485,103.77993,10.54485",
+    "geom:latitude":10.54485,
+    "geom:longitude":103.77993,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Phum Sre Cham Kraom",
+    "gn:country_code":"KH",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1824666,
+    "gn:latitude":10.54485,
+    "gn:longitude":103.77993,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Phum Sr\u00ea Cham Kra\u00f4m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Sr\u00ea Cham Kra\u00f4m"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u179f\u17d2\u179a\u17c2\u1785\u17b6\u1798\u1780\u17d2\u179a\u17c4\u1798",
+        "Phum\u012d Sr\u00ea Cham Kra\u00f4m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673101,
+        421188243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1824666
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"a0f2a63ce6c8bc27a01fce0a0156e004",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421188243,
+            "locality_id":1260339385,
+            "region_id":85673101
+        }
+    ],
+    "wof:id":1260339385,
+    "wof:lastmodified":1537653476,
+    "wof:name":"Phum Sre Cham Kraom",
+    "wof:parent_id":421188243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.77993,
+    10.54485,
+    103.77993,
+    10.54485
+],
+  "geometry": {"coordinates":[103.77992999999999,10.54485],"type":"Point"}
+}

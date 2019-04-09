@@ -1,0 +1,73 @@
+{
+  "id": 1310524365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.12182,12.34309,105.12182,12.34309",
+    "geom:latitude":12.34309,
+    "geom:longitude":105.12182,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Veal Ampil",
+    "gn:country_code":"KH",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1822947,
+    "gn:latitude":12.34309,
+    "gn:longitude":105.12182,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Veal Ampil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Veal Ampil"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d V\u00e9al \u00c2mp\u012dl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673057,
+        421198921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1822947
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"a561374faad1bef3a8512f5242ee5d92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421198921,
+            "locality_id":1310524365,
+            "region_id":85673057
+        }
+    ],
+    "wof:id":1310524365,
+    "wof:lastmodified":1537653346,
+    "wof:name":"Veal Ampil",
+    "wof:parent_id":421198921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.12182,
+    12.34309,
+    105.12182,
+    12.34309
+],
+  "geometry": {"coordinates":[105.12182,12.34309],"type":"Point"}
+}

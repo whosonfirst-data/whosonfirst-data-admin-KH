@@ -1,0 +1,76 @@
+{
+  "id": 1209963721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.16216,12.99315,103.16216,12.99315",
+    "geom:latitude":12.99315,
+    "geom:longitude":103.16216,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Bay Damram",
+    "gn:country_code":"KH",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829510,
+    "gn:latitude":12.99315,
+    "gn:longitude":103.16216,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Bay Damram",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Bay Damram"
+    ],
+    "name:und_x_variant":[
+        "Khum Baydamrom",
+        "Khum Baydamran",
+        "Khum Baydamram",
+        "Phum\u012d Bay D\u00e2mr\u0103m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673015,
+        1108564597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829510
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"82f51e64629701d2c480e8f0ef7ddac6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564597,
+            "locality_id":1209963721,
+            "region_id":85673015
+        }
+    ],
+    "wof:id":1209963721,
+    "wof:lastmodified":1537653888,
+    "wof:name":"Bay Damram",
+    "wof:parent_id":1108564597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.16216,
+    12.99315,
+    103.16216,
+    12.99315
+],
+  "geometry": {"coordinates":[103.16216,12.99315],"type":"Point"}
+}

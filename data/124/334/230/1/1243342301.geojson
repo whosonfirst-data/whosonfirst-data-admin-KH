@@ -1,0 +1,74 @@
+{
+  "id": 1243342301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.76204,11.63041,105.76204,11.63041",
+    "geom:latitude":11.63041,
+    "geom:longitude":105.76204,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Kanlaeng Chrov",
+    "gn:country_code":"KH",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828060,
+    "gn:latitude":11.63041,
+    "gn:longitude":105.76204,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Kanlaeng Chrov",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Kanlaeng Chrov"
+    ],
+    "name:und_x_variant":[
+        "Phum Kanleng Chreou",
+        "Phum\u012d K\u00e2nl\u00eang Chr\u014fu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673067,
+        1108564669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828060
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"94d24784f0e1ca571589398a0e48bae0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564669,
+            "locality_id":1243342301,
+            "region_id":85673067
+        }
+    ],
+    "wof:id":1243342301,
+    "wof:lastmodified":1537653772,
+    "wof:name":"Kanlaeng Chrov",
+    "wof:parent_id":1108564669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.76203999999998,
+    11.63041,
+    105.76203999999998,
+    11.63041
+],
+  "geometry": {"coordinates":[105.76203999999998,11.63041],"type":"Point"}
+}

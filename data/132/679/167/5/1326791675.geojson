@@ -1,0 +1,67 @@
+{
+  "id": 1326791675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.94966,13.33853,102.94966,13.33853",
+    "geom:latitude":13.33853,
+    "geom:longitude":102.94966,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Phumi Tuol Ta Dom",
+    "gn:country_code":"KH",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1822996,
+    "gn:latitude":13.33853,
+    "gn:longitude":102.94966,
+    "gn:modification_date":"2009-05-11",
+    "gn:name":"Phum\u012d Tu\u014fl Ta Dom",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673015,
+        1108564615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1822996
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"9b841b6f3bd55d8bf0865626385a1485",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564615,
+            "locality_id":1326791675,
+            "region_id":85673015
+        }
+    ],
+    "wof:id":1326791675,
+    "wof:lastmodified":1536607363,
+    "wof:name":"Phumi Tuol Ta Dom",
+    "wof:parent_id":1108564615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.94966,
+    13.33853,
+    102.94966,
+    13.33853
+],
+  "geometry": {"coordinates":[102.94965999999999,13.33853],"type":"Point"}
+}

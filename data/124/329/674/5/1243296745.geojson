@@ -1,0 +1,67 @@
+{
+  "id": 1243296745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.57922,11.74724,104.57922,11.74724",
+    "geom:latitude":11.74724,
+    "geom:longitude":104.57922,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Phumi Trapeang Sleng",
+    "gn:country_code":"KH",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1823266,
+    "gn:latitude":11.74724,
+    "gn:longitude":104.57922,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Phum\u012d Tr\u00e2pe\u0103ng Sl\u00eang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673053,
+        1108564873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1823266
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"942c39073d2b6ac3f4c693e51ec2f8ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564873,
+            "locality_id":1243296745,
+            "region_id":85673053
+        }
+    ],
+    "wof:id":1243296745,
+    "wof:lastmodified":1537020441,
+    "wof:name":"Phumi Trapeang Sleng",
+    "wof:parent_id":1108564873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.57922,
+    11.74724,
+    104.57922,
+    11.74724
+],
+  "geometry": {"coordinates":[104.57922000000001,11.74724],"type":"Point"}
+}

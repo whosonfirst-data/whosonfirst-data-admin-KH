@@ -1,0 +1,74 @@
+{
+  "id": 1259580929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.78125,11.0945,103.78125,11.0945",
+    "geom:latitude":11.0945,
+    "geom:longitude":103.78125,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Boeng Preav",
+    "gn:country_code":"KH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829393,
+    "gn:latitude":11.0945,
+    "gn:longitude":103.78125,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Boeng Preav",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Boeng Preav"
+    ],
+    "name:und_x_variant":[
+        "Phumi Boeng",
+        "Phum\u012d B\u0153\u0306ng Pr\u00e9av"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673019,
+        421183117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829393
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"cd03cc2cdbcf7ade8982a0bf4d1f290a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421183117,
+            "locality_id":1259580929,
+            "region_id":85673019
+        }
+    ],
+    "wof:id":1259580929,
+    "wof:lastmodified":1537653879,
+    "wof:name":"Boeng Preav",
+    "wof:parent_id":421183117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.78125,
+    11.0945,
+    103.78125,
+    11.0945
+],
+  "geometry": {"coordinates":[103.78125,11.0945],"type":"Point"}
+}

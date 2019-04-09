@@ -1,0 +1,72 @@
+{
+  "id": 1226255847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.58333,12.41667,105.58333,12.41667",
+    "geom:latitude":12.41667,
+    "geom:longitude":105.58333,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Phumi Konh Pratong",
+    "gn:cc2":"KH",
+    "gn:country_code":"KH",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827466,
+    "gn:latitude":12.41667,
+    "gn:longitude":105.58333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d K\u014fnh Pr\u00e2t\u00f4ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kohn Batong",
+        "Phum\u012d K\u014fnh Pr\u00e2t\u00f4ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673041,
+        1108564853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827466
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"3157a410659ac0d056c37b3f80228b02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564853,
+            "locality_id":1226255847,
+            "region_id":85673041
+        }
+    ],
+    "wof:id":1226255847,
+    "wof:lastmodified":1537653721,
+    "wof:name":"Phumi Konh Pratong",
+    "wof:parent_id":1108564853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.58333,
+    12.41667,
+    105.58333,
+    12.41667
+],
+  "geometry": {"coordinates":[105.58333,12.41667],"type":"Point"}
+}

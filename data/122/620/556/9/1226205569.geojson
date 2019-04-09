@@ -1,0 +1,70 @@
+{
+  "id": 1226205569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.65126,11.25412,105.65126,11.25412",
+    "geom:latitude":11.25412,
+    "geom:longitude":105.65126,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Prama",
+    "gn:country_code":"KH",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11482247,
+    "gn:latitude":11.25412,
+    "gn:longitude":105.65126,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Prama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Prama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673105,
+        1108564861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11482247
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"6800d58d202b9b49126e5dd89bf9d4d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564861,
+            "locality_id":1226205569,
+            "region_id":85673105
+        }
+    ],
+    "wof:id":1226205569,
+    "wof:lastmodified":1537654053,
+    "wof:name":"Prama",
+    "wof:parent_id":1108564861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.65126,
+    11.25412,
+    105.65126,
+    11.25412
+],
+  "geometry": {"coordinates":[105.65125999999999,11.25412],"type":"Point"}
+}

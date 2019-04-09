@@ -1,0 +1,67 @@
+{
+  "id": 1209395087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.89788,12.18458,103.89788,12.18458",
+    "geom:latitude":12.18458,
+    "geom:longitude":103.89788,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Phumi Mol",
+    "gn:country_code":"KH",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1826859,
+    "gn:latitude":12.18458,
+    "gn:longitude":103.89788,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d M\u00f3l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "P\u2019um M\u014fl",
+        "Phum Morrh",
+        "Phum\u012d M\u016dl",
+        "Phum\u012d M\u00f3l"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1826859
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"37040078ff4606d6a044bdca65ae6fd1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209395087
+        }
+    ],
+    "wof:id":1209395087,
+    "wof:lastmodified":1537653664,
+    "wof:name":"Phumi Mol",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.89788,
+    12.18458,
+    103.89788,
+    12.18458
+],
+  "geometry": {"coordinates":[103.89788,12.18458],"type":"Point"}
+}

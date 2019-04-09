@@ -1,0 +1,74 @@
+{
+  "id": 1243353133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.4571,12.05403,106.4571,12.05403",
+    "geom:latitude":12.05403,
+    "geom:longitude":106.4571,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Pir Thnu",
+    "gn:country_code":"KH",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11509950,
+    "gn:latitude":12.05403,
+    "gn:longitude":106.4571,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Pir Thnu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Pir Thnu"
+    ],
+    "name:khm_x_variant":[
+        "Phum Cheung Khlu Krau",
+        "\u1797\u17bc\u1798\u17b7 \u1787\u17be\u1784\u1783\u17d2\u179b\u17bc\u1780\u17d2\u179a\u17c5"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673081,
+        1108564841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11509950
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"d3e5768ef059092290b991255b3db3a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564841,
+            "locality_id":1243353133,
+            "region_id":85673081
+        }
+    ],
+    "wof:id":1243353133,
+    "wof:lastmodified":1537654084,
+    "wof:name":"Pir Thnu",
+    "wof:parent_id":1108564841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.4571,
+    12.05403,
+    106.4571,
+    12.05403
+],
+  "geometry": {"coordinates":[106.4571,12.05403],"type":"Point"}
+}

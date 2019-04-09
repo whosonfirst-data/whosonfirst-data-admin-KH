@@ -1,0 +1,73 @@
+{
+  "id": 1310669123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.65803,13.75709,103.65803,13.75709",
+    "geom:latitude":13.75709,
+    "geom:longitude":103.65803,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Kouk Knang",
+    "gn:country_code":"KH",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827395,
+    "gn:latitude":13.75709,
+    "gn:longitude":103.65803,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Kouk Knang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Kouk Knang"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Ko\u016dk Kn\u014fng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673029,
+        1108564583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827395
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"695f4a3d3def1ef299e976684cab3c52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564583,
+            "locality_id":1310669123,
+            "region_id":85673029
+        }
+    ],
+    "wof:id":1310669123,
+    "wof:lastmodified":1537653714,
+    "wof:name":"Kouk Knang",
+    "wof:parent_id":1108564583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.65803,
+    13.75709,
+    103.65803,
+    13.75709
+],
+  "geometry": {"coordinates":[103.65803,13.75709],"type":"Point"}
+}

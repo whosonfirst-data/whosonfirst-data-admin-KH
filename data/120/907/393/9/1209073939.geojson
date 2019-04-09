@@ -1,0 +1,71 @@
+{
+  "id": 1209073939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.08674,13.65148,103.08674,13.65148",
+    "geom:latitude":13.65148,
+    "geom:longitude":103.08674,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Phum Mat Thbo",
+    "gn:country_code":"KH",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1826918,
+    "gn:latitude":13.65148,
+    "gn:longitude":103.08674,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Phum Mat Thbo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Mat Thbo"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1798\u17c9\u17b6\u178f\u17cb \u178f\u17d2\u1794\u17bc"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Mat Thbo",
+        "Phum\u012d M\u0103t Tbo (2)"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1826918
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"8ac2cbc2445899c92a7e842088a81792",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209073939
+        }
+    ],
+    "wof:id":1209073939,
+    "wof:lastmodified":1537653670,
+    "wof:name":"Phum Mat Thbo",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.08674,
+    13.65148,
+    103.08674,
+    13.65148
+],
+  "geometry": {"coordinates":[103.08674000000001,13.65148],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1327342547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.06549,11.83721,105.06549,11.83721",
+    "geom:latitude":11.83721,
+    "geom:longitude":105.06549,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Phumi Moan Dab",
+    "gn:country_code":"KH",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1826873,
+    "gn:latitude":11.83721,
+    "gn:longitude":105.06549,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Mo\u0103n D\u00e1b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mean D\u00e2p",
+        "Phum\u012d M\u00f4an D\u00e2p",
+        "Phum\u012d Mo\u0103n D\u00e1b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673041,
+        1108564845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1826873
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"904862240e83b7a20cac564cd1cdf2c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564845,
+            "locality_id":1327342547,
+            "region_id":85673041
+        }
+    ],
+    "wof:id":1327342547,
+    "wof:lastmodified":1537653665,
+    "wof:name":"Phumi Moan Dab",
+    "wof:parent_id":1108564845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.06549,
+    11.83721,
+    105.06549,
+    11.83721
+],
+  "geometry": {"coordinates":[105.06549,11.83721],"type":"Point"}
+}

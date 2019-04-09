@@ -1,0 +1,81 @@
+{
+  "id": 1343317399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.72136,13.60573,102.72136,13.60573",
+    "geom:latitude":13.60573,
+    "geom:longitude":102.72136,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Dong Aranh",
+    "gn:country_code":"KH",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828505,
+    "gn:latitude":13.60573,
+    "gn:longitude":102.72136,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Dong Aranh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Dong Aranh"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u178a\u17bb\u1784\u17a2\u17b6\u179a\u1789\u17d2\u1789"
+    ],
+    "name:und_x_variant":[
+        "Phum Sranh Chas",
+        "Aranh Chas",
+        "Phum Aranh Chas",
+        "Phum\u012d D\u014fng Aranh",
+        "Phum D\u014fng Aranh",
+        "Phum\u012d D\u014fng Ar\u00e2nhnh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673011,
+        1108564751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828505
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"11d7fd6139b80bf4b8a28b649f1ba3bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564751,
+            "locality_id":1343317399,
+            "region_id":85673011
+        }
+    ],
+    "wof:id":1343317399,
+    "wof:lastmodified":1537653811,
+    "wof:name":"Dong Aranh",
+    "wof:parent_id":1108564751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.72136,
+    13.60573,
+    102.72136,
+    13.60573
+],
+  "geometry": {"coordinates":[102.72136,13.60573],"type":"Point"}
+}

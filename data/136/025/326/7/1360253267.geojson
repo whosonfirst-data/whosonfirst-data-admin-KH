@@ -1,0 +1,73 @@
+{
+  "id": 1360253267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.86938,13.33221,103.86938,13.33221",
+    "geom:latitude":13.33221,
+    "geom:longitude":103.86938,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Phum Kouk Talong",
+    "gn:country_code":"KH",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11559284,
+    "gn:latitude":13.33221,
+    "gn:longitude":103.86938,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Phum Ko\u016dk Tal\u014fng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Ko\u016dk Tal\u014fng"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1782\u17c4\u1780\u178f\u17b6\u17a1\u17bb\u1784"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673029,
+        421204115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11559284
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"83fa5f00547b275d4d918034f516a625",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421204115,
+            "locality_id":1360253267,
+            "region_id":85673029
+        }
+    ],
+    "wof:id":1360253267,
+    "wof:lastmodified":1537654105,
+    "wof:name":"Phum Kouk Talong",
+    "wof:parent_id":421204115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.86938,
+    13.33221,
+    103.86938,
+    13.33221
+],
+  "geometry": {"coordinates":[103.86938000000001,13.33221],"type":"Point"}
+}

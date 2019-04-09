@@ -1,0 +1,70 @@
+{
+  "id": 1242848469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.46859,10.64852,104.46859,10.64852",
+    "geom:latitude":10.64852,
+    "geom:longitude":104.46859,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Trapeang Andoung",
+    "gn:country_code":"KH",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11449441,
+    "gn:latitude":10.64852,
+    "gn:longitude":104.46859,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Trapeang Andoung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Trapeang Andoung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673093,
+        1108564657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11449441
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"1fe8b5a002ed4a542479fab8c0e1069f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564657,
+            "locality_id":1242848469,
+            "region_id":85673093
+        }
+    ],
+    "wof:id":1242848469,
+    "wof:lastmodified":1537654011,
+    "wof:name":"Trapeang Andoung",
+    "wof:parent_id":1108564657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.46859,
+    10.64852,
+    104.46859,
+    10.64852
+],
+  "geometry": {"coordinates":[104.46859000000001,10.64852],"type":"Point"}
+}

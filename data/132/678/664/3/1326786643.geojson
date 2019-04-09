@@ -1,0 +1,74 @@
+{
+  "id": 1326786643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.99186,13.74354,106.99186,13.74354",
+    "geom:latitude":13.74354,
+    "geom:longitude":106.99186,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Thuoy Tum",
+    "gn:country_code":"KH",
+    "gn:dem":310,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11483435,
+    "gn:latitude":13.74354,
+    "gn:longitude":106.99186,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Thuoy Tum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Thuoy Tum"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1790\u17bd\u1799\u1792\u17c6",
+        "Phum Thu\u014fy Thom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673089,
+        421185341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11483435
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"924beb22dd3f74369672a45817f43ded",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421185341,
+            "locality_id":1326786643,
+            "region_id":85673089
+        }
+    ],
+    "wof:id":1326786643,
+    "wof:lastmodified":1537654060,
+    "wof:name":"Thuoy Tum",
+    "wof:parent_id":421185341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.99186,
+    13.74354,
+    106.99186,
+    13.74354
+],
+  "geometry": {"coordinates":[106.99186,13.74354],"type":"Point"}
+}

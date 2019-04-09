@@ -1,0 +1,71 @@
+{
+  "id": 1226652185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.5908,11.54307,104.5908,11.54307",
+    "geom:latitude":11.54307,
+    "geom:longitude":104.5908,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Phumi Robang Chros",
+    "gn:country_code":"KH",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825453,
+    "gn:latitude":11.54307,
+    "gn:longitude":104.5908,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d R\u00f4b\u00e2ng Chr\u014fs",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum Robang Chros",
+        "Phum\u012d R\u00f4b\u00e2ng Chr\u014fs"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673053,
+        1108564819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825453
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"5d20a62ab9b81920df6113b2ed1beab3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564819,
+            "locality_id":1226652185,
+            "region_id":85673053
+        }
+    ],
+    "wof:id":1226652185,
+    "wof:lastmodified":1537653543,
+    "wof:name":"Phumi Robang Chros",
+    "wof:parent_id":1108564819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.5908,
+    11.54307,
+    104.5908,
+    11.54307
+],
+  "geometry": {"coordinates":[104.5908,11.54307],"type":"Point"}
+}

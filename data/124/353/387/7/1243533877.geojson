@@ -1,0 +1,71 @@
+{
+  "id": 1243533877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.27076,13.64525,105.27076,13.64525",
+    "geom:latitude":13.64525,
+    "geom:longitude":105.27076,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Phumi Meunreach",
+    "gn:country_code":"KH",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1826895,
+    "gn:latitude":13.64525,
+    "gn:longitude":105.27076,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Meunr\u00e9ach",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum\u012d Meinr\u00e9ach",
+        "Phum\u012d Meunr\u00e9ach"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673071,
+        1108564633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1826895
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"28e1d2648d5f2567e92bae0c99735edb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564633,
+            "locality_id":1243533877,
+            "region_id":85673071
+        }
+    ],
+    "wof:id":1243533877,
+    "wof:lastmodified":1537653667,
+    "wof:name":"Phumi Meunreach",
+    "wof:parent_id":1108564633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.27076,
+    13.64525,
+    105.27076,
+    13.64525
+],
+  "geometry": {"coordinates":[105.27076,13.64525],"type":"Point"}
+}

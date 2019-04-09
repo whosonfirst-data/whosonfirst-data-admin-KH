@@ -1,0 +1,72 @@
+{
+  "id": 1209662751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.81187,10.6892,103.81187,10.6892",
+    "geom:latitude":10.6892,
+    "geom:longitude":103.81187,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Samrong",
+    "gn:country_code":"KH",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825087,
+    "gn:latitude":10.6892,
+    "gn:longitude":103.81187,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Samrong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Samrong"
+    ],
+    "name:khm_x_variant":[
+        "Phum S\u00e2mra\u00f4ng Kra\u00f4m",
+        "\u1797\u17bc\u1798\u17b7 \u179f\u17c6\u179a\u17c4\u1784\u1780\u17d2\u179a\u17c4\u1798"
+    ],
+    "name:und_x_variant":[
+        "Samr\u00fang",
+        "Phum\u012d S\u00e2mra\u00f4ng Kra\u00f4m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825087
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"0e7951f189305acda0a7411b299cf606",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209662751
+        }
+    ],
+    "wof:id":1209662751,
+    "wof:lastmodified":1537653511,
+    "wof:name":"Samrong",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.81187,
+    10.6892,
+    103.81187,
+    10.6892
+],
+  "geometry": {"coordinates":[103.81187,10.6892],"type":"Point"}
+}

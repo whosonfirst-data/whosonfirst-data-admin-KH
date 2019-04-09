@@ -1,0 +1,71 @@
+{
+  "id": 1343967995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.09606,11.83492,105.09606,11.83492",
+    "geom:latitude":11.83492,
+    "geom:longitude":105.09606,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Phumi Turi",
+    "gn:country_code":"KH",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1822964,
+    "gn:latitude":11.83492,
+    "gn:longitude":105.09606,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Turi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tourey",
+        "Phum\u012d Turi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673041,
+        1108564845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1822964
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"d9074fc9bfde0c0cbfc2a159faf5cce6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564845,
+            "locality_id":1343967995,
+            "region_id":85673041
+        }
+    ],
+    "wof:id":1343967995,
+    "wof:lastmodified":1537653347,
+    "wof:name":"Phumi Turi",
+    "wof:parent_id":1108564845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.09606,
+    11.83492,
+    105.09606,
+    11.83492
+],
+  "geometry": {"coordinates":[105.09605999999999,11.83492],"type":"Point"}
+}

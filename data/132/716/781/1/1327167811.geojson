@@ -1,0 +1,70 @@
+{
+  "id": 1327167811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.1179,11.83472,106.1179,11.83472",
+    "geom:latitude":11.83472,
+    "geom:longitude":106.1179,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Chhngar Kandal",
+    "gn:country_code":"KH",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11482771,
+    "gn:latitude":11.83472,
+    "gn:longitude":106.1179,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Chhngar Kandal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Chhngar Kandal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        1108804319,
+        1108564735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11482771
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"b0efdb7bd9e7bdd6b9048bbebd4e20aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564735,
+            "locality_id":1327167811,
+            "region_id":1108804319
+        }
+    ],
+    "wof:id":1327167811,
+    "wof:lastmodified":1537654057,
+    "wof:name":"Chhngar Kandal",
+    "wof:parent_id":1108564735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.1179,
+    11.83472,
+    106.1179,
+    11.83472
+],
+  "geometry": {"coordinates":[106.11790000000001,11.83472],"type":"Point"}
+}

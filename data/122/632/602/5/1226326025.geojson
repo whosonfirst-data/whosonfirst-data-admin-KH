@@ -1,0 +1,74 @@
+{
+  "id": 1226326025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.32367,11.51091,105.32367,11.51091",
+    "geom:latitude":11.51091,
+    "geom:longitude":105.32367,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Svay Sokhao",
+    "gn:country_code":"KH",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1824372,
+    "gn:latitude":11.51091,
+    "gn:longitude":105.32367,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Svay Sokhao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Svay Sokhao"
+    ],
+    "name:und_x_variant":[
+        "Phum Prey Svai",
+        "Phum\u012d Svay S\u014fkha\u00f4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673067,
+        1108564789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1824372
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"c16c8ec78b2871c847aa1c02a246b056",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564789,
+            "locality_id":1226326025,
+            "region_id":85673067
+        }
+    ],
+    "wof:id":1226326025,
+    "wof:lastmodified":1537653452,
+    "wof:name":"Svay Sokhao",
+    "wof:parent_id":1108564789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.32367,
+    11.51091,
+    105.32367,
+    11.51091
+],
+  "geometry": {"coordinates":[105.32367000000001,11.51091],"type":"Point"}
+}

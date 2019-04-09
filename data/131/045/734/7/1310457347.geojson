@@ -1,0 +1,78 @@
+{
+  "id": 1310457347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.22441,13.45388,103.22441,13.45388",
+    "geom:latitude":13.45388,
+    "geom:longitude":103.22441,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Doun Loek",
+    "gn:country_code":"KH",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828479,
+    "gn:latitude":13.45388,
+    "gn:longitude":103.22441,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Doun Loek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Doun Loek"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u178a\u17bc\u1793\u17a1\u17b9\u1780",
+        "Phum Don L\u0153k"
+    ],
+    "name:und_x_variant":[
+        "Dan Loek",
+        "Phum\u012d Don L\u0153\u0306k (1)"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673011,
+        1108564737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828479
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"fd80fb9af7aa9cea3c5b4ff516186ac4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564737,
+            "locality_id":1310457347,
+            "region_id":85673011
+        }
+    ],
+    "wof:id":1310457347,
+    "wof:lastmodified":1537653809,
+    "wof:name":"Doun Loek",
+    "wof:parent_id":1108564737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.22441,
+    13.45388,
+    103.22441,
+    13.45388
+],
+  "geometry": {"coordinates":[103.22441000000001,13.45388],"type":"Point"}
+}

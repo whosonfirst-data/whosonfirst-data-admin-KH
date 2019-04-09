@@ -1,0 +1,77 @@
+{
+  "id": 1225795817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.04045,13.27114,103.04045,13.27114",
+    "geom:latitude":13.27114,
+    "geom:longitude":103.04045,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Phum Bansay Treng",
+    "gn:country_code":"KH",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829622,
+    "gn:latitude":13.27114,
+    "gn:longitude":103.04045,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Phum B\u00e2nsay Tr\u00eang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum B\u00e2nsay Tr\u00eang"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1794\u1793\u17d2\u179f\u17b6\u1799\u178f\u17d2\u179a\u17c2\u1784"
+    ],
+    "name:und_x_variant":[
+        "Phum Kansai Treng",
+        "Phum\u012d B\u00e2nsay Tr\u00eang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673015,
+        1108564871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829622
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"0099ae7543b4d96b874c9693722c8c51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564871,
+            "locality_id":1225795817,
+            "region_id":85673015
+        }
+    ],
+    "wof:id":1225795817,
+    "wof:lastmodified":1537653898,
+    "wof:name":"Phum Bansay Treng",
+    "wof:parent_id":1108564871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.04045,
+    13.27114,
+    103.04045,
+    13.27114
+],
+  "geometry": {"coordinates":[103.04045000000001,13.27114],"type":"Point"}
+}

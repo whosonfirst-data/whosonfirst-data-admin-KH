@@ -1,0 +1,72 @@
+{
+  "id": 1226413289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.59078,11.52817,105.59078,11.52817",
+    "geom:latitude":11.52817,
+    "geom:longitude":105.59078,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Vott Kev Thum",
+    "gn:country_code":"KH",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1821366,
+    "gn:latitude":11.52817,
+    "gn:longitude":105.59078,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"V\u00f4tt K\u00eav Thum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vat Keo Thom",
+        "Vatt K\u00eav Thom",
+        "V\u00f4tt K\u00eav Thum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673067,
+        1108564669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1821366
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"0b194bb2df2e2e80101f88d0ea80a0fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564669,
+            "locality_id":1226413289,
+            "region_id":85673067
+        }
+    ],
+    "wof:id":1226413289,
+    "wof:lastmodified":1537653319,
+    "wof:name":"Vott Kev Thum",
+    "wof:parent_id":1108564669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.59078,
+    11.52817,
+    105.59078,
+    11.52817
+],
+  "geometry": {"coordinates":[105.59078,11.52817],"type":"Point"}
+}

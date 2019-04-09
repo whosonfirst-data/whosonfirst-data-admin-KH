@@ -1,0 +1,66 @@
+{
+  "id": 1209102775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.78891,11.50996,103.78891,11.50996",
+    "geom:latitude":11.50996,
+    "geom:longitude":103.78891,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Tadak Pong",
+    "gn:country_code":"KH",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1821959,
+    "gn:latitude":11.50996,
+    "gn:longitude":103.78891,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tad\u00e1k P\u00f4ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum\u012d Tad\u00e2k P\u00f4ng",
+        "Tdac Pong",
+        "Tad\u00e1k P\u00f4ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1821959
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"63d88065e3538f8eaba5e02b33db1fd4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209102775
+        }
+    ],
+    "wof:id":1209102775,
+    "wof:lastmodified":1537653326,
+    "wof:name":"Tadak Pong",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.78891,
+    11.50996,
+    103.78891,
+    11.50996
+],
+  "geometry": {"coordinates":[103.78891,11.50996],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1226602725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.83784,13.32826,103.83784,13.32826",
+    "geom:latitude":13.32826,
+    "geom:longitude":103.83784,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Krasang Roleung",
+    "gn:country_code":"KH",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11559283,
+    "gn:latitude":13.32826,
+    "gn:longitude":103.83784,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Krasang Roleung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Krasang Roleung"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1780\u17d2\u179a\u179f\u17b6\u17c6\u1784\u179a\u179b\u17b8\u1784",
+        "Phum\u012d Kr\u00e2s\u0103ng R\u00f4leung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673029,
+        421204115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11559283
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"48b55ba74683cbd275f3777629f76ac4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421204115,
+            "locality_id":1226602725,
+            "region_id":85673029
+        }
+    ],
+    "wof:id":1226602725,
+    "wof:lastmodified":1537654105,
+    "wof:name":"Krasang Roleung",
+    "wof:parent_id":421204115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.83784,
+    13.32826,
+    103.83784,
+    13.32826
+],
+  "geometry": {"coordinates":[103.83784,13.32826],"type":"Point"}
+}

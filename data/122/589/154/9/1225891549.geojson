@@ -1,0 +1,71 @@
+{
+  "id": 1225891549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.344,13.14993,103.344,13.14993",
+    "geom:latitude":13.14993,
+    "geom:longitude":103.344,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Phumi Ponleak Krut",
+    "gn:country_code":"KH",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1826352,
+    "gn:latitude":13.14993,
+    "gn:longitude":103.344,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d P\u00f4nl\u00e9ak Kr\u016dt",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum\u012d P\u00f4nle\u00e1k Khr\u016dt",
+        "Phum\u012d P\u00f4nl\u00e9ak Kr\u016dt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673015,
+        421202239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1826352
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"2e7bd2b51b5f3b276cca489f6f240894",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421202239,
+            "locality_id":1225891549,
+            "region_id":85673015
+        }
+    ],
+    "wof:id":1225891549,
+    "wof:lastmodified":1537653617,
+    "wof:name":"Phumi Ponleak Krut",
+    "wof:parent_id":421202239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.344,
+    13.14993,
+    103.344,
+    13.14993
+],
+  "geometry": {"coordinates":[103.34399999999999,13.14993],"type":"Point"}
+}

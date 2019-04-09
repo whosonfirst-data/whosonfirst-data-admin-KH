@@ -1,0 +1,70 @@
+{
+  "id": 1292995121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.38016,11.97041,106.38016,11.97041",
+    "geom:latitude":11.97041,
+    "geom:longitude":106.38016,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Mean Chey",
+    "gn:country_code":"KH",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11482709,
+    "gn:latitude":11.97041,
+    "gn:longitude":106.38016,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Mean Chey",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Mean Chey"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673081,
+        1108564841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11482709
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"15cc78f94a946c531f47328c57e4d022",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564841,
+            "locality_id":1292995121,
+            "region_id":85673081
+        }
+    ],
+    "wof:id":1292995121,
+    "wof:lastmodified":1537654055,
+    "wof:name":"Mean Chey",
+    "wof:parent_id":1108564841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.38016,
+    11.97041,
+    106.38016,
+    11.97041
+],
+  "geometry": {"coordinates":[106.38016,11.97041],"type":"Point"}
+}

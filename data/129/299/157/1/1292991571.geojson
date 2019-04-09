@@ -1,0 +1,79 @@
+{
+  "id": 1292991571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.61415,11.76179,103.61415,11.76179",
+    "geom:latitude":11.76179,
+    "geom:longitude":103.61415,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Chamnar",
+    "gn:country_code":"KH",
+    "gn:dem":198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1831689,
+    "gn:latitude":11.76179,
+    "gn:longitude":103.61415,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Chamnar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Chamnar"
+    ],
+    "name:khm_x_variant":[
+        "\u1785\u17c6\u178e\u17b6\u179a"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Ch\u00e2mna",
+        "Ch\u00e2mna",
+        "Chomna",
+        "Ch\u00e2mnar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673019,
+        421194857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1831689
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"3aa7ee693a7eadb08dd21e4ed048c179",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421194857,
+            "locality_id":1292991571,
+            "region_id":85673019
+        }
+    ],
+    "wof:id":1292991571,
+    "wof:lastmodified":1537653961,
+    "wof:name":"Chamnar",
+    "wof:parent_id":421194857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.61415,
+    11.76179,
+    103.61415,
+    11.76179
+],
+  "geometry": {"coordinates":[103.61415,11.76179],"type":"Point"}
+}

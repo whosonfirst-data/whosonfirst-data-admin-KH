@@ -1,0 +1,77 @@
+{
+  "id": 1259719715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.93917,12.19968,105.93917,12.19968",
+    "geom:latitude":12.19968,
+    "geom:longitude":105.93917,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Kampong Reang",
+    "gn:country_code":"KH",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828233,
+    "gn:latitude":12.19968,
+    "gn:longitude":105.93917,
+    "gn:modification_date":"2017-07-05",
+    "gn:name":"Kampong Reang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Kampong Reang"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1780\u17c6\u1796\u1784\u17cb\u179a\u17b6\u17c6\u1784",
+        "Phum K\u00e2mp\u00f4ng Re\u0103ng"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d K\u00e2mp\u00f3ng Re\u0103ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        1108804319,
+        1108564653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828233
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"15f0aae709456e60fc90e6861ad1e8e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564653,
+            "locality_id":1259719715,
+            "region_id":1108804319
+        }
+    ],
+    "wof:id":1259719715,
+    "wof:lastmodified":1537653787,
+    "wof:name":"Kampong Reang",
+    "wof:parent_id":1108564653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.93917,
+    12.19968,
+    105.93917,
+    12.19968
+],
+  "geometry": {"coordinates":[105.93917,12.19968],"type":"Point"}
+}

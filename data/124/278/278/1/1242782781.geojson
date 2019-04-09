@@ -1,0 +1,67 @@
+{
+  "id": 1242782781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.34319,12.86454,104.34319,12.86454",
+    "geom:latitude":12.86454,
+    "geom:longitude":104.34319,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Phumi Veng Ta Sau",
+    "gn:country_code":"KH",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1822883,
+    "gn:latitude":12.86454,
+    "gn:longitude":104.34319,
+    "gn:modification_date":"1993-12-30",
+    "gn:name":"Phum\u012d V\u00eang Ta Sau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673057,
+        1108564849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1822883
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"006ed2ed7463be53ffdff0a428e27892",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564849,
+            "locality_id":1242782781,
+            "region_id":85673057
+        }
+    ],
+    "wof:id":1242782781,
+    "wof:lastmodified":1536768534,
+    "wof:name":"Phumi Veng Ta Sau",
+    "wof:parent_id":1108564849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.34319,
+    12.86454,
+    104.34319,
+    12.86454
+],
+  "geometry": {"coordinates":[104.34319000000001,12.86454],"type":"Point"}
+}

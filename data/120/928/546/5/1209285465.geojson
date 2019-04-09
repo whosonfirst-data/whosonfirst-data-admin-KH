@@ -1,0 +1,70 @@
+{
+  "id": 1209285465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.30422,11.70597,105.30422,11.70597",
+    "geom:latitude":11.70597,
+    "geom:longitude":105.30422,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Kanhcham",
+    "gn:country_code":"KH",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828069,
+    "gn:latitude":11.70597,
+    "gn:longitude":105.30422,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Kanhcham",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Kanhcham"
+    ],
+    "name:und_x_variant":[
+        "Phum Kacham",
+        "Phum\u012d K\u00e2nch\u014fm",
+        "Phum Kancham",
+        "Phum\u012d K\u00e2nhchom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828069
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"5556d436765c43b3456d61ce33872a19",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209285465
+        }
+    ],
+    "wof:id":1209285465,
+    "wof:lastmodified":1537653774,
+    "wof:name":"Kanhcham",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.30422,
+    11.70597,
+    105.30422,
+    11.70597
+],
+  "geometry": {"coordinates":[105.30422,11.70597],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1276143557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.24826,11.35321,105.24826,11.35321",
+    "geom:latitude":11.35321,
+    "geom:longitude":105.24826,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Phum Pou Miev",
+    "gn:country_code":"KH",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11506742,
+    "gn:latitude":11.35321,
+    "gn:longitude":105.24826,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Phum Po\u016d Mi\u0115v",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Po\u016d Mi\u0115v"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1796\u17c4\u1798\u17c0\u179c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673051,
+        1108564707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11506742
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"078e6c485544813c4f0927c5882ddc19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564707,
+            "locality_id":1276143557,
+            "region_id":85673051
+        }
+    ],
+    "wof:id":1276143557,
+    "wof:lastmodified":1537654076,
+    "wof:name":"Phum Pou Miev",
+    "wof:parent_id":1108564707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.24826000000002,
+    11.35321,
+    105.24826000000002,
+    11.35321
+],
+  "geometry": {"coordinates":[105.24826000000002,11.35321],"type":"Point"}
+}

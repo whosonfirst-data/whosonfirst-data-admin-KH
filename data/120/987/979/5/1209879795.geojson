@@ -1,0 +1,72 @@
+{
+  "id": 1209879795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.95121,13.9242,105.95121,13.9242",
+    "geom:latitude":13.9242,
+    "geom:longitude":105.95121,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Phumi Anlong Chheuteal",
+    "gn:country_code":"KH",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829852,
+    "gn:latitude":13.9242,
+    "gn:longitude":105.95121,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d \u00c2nl\u00f3ng Chheut\u00e9al",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Veun Nhang",
+        "Phum\u012d \u00c2nl\u016dng Chheut\u00e9al",
+        "Phum\u012d \u00c2nl\u00f3ng Chheut\u00e9al"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673075,
+        1108564869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829852
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"ca522c0dc0ad87251653b7a80801703f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564869,
+            "locality_id":1209879795,
+            "region_id":85673075
+        }
+    ],
+    "wof:id":1209879795,
+    "wof:lastmodified":1537653918,
+    "wof:name":"Phumi Anlong Chheuteal",
+    "wof:parent_id":1108564869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.95121,
+    13.9242,
+    105.95121,
+    13.9242
+],
+  "geometry": {"coordinates":[105.95121,13.9242],"type":"Point"}
+}

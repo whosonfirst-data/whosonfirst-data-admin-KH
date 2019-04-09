@@ -1,0 +1,76 @@
+{
+  "id": 1276719611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.68101,13.68532,103.68101,13.68532",
+    "geom:latitude":13.68532,
+    "geom:longitude":103.68101,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Kouk Thmei",
+    "gn:country_code":"KH",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827317,
+    "gn:latitude":13.68532,
+    "gn:longitude":103.68101,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Kouk Thmei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Kouk Thmei"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1782\u17c4\u1780\u1790\u17d2\u1798\u17b8",
+        "Phum\u012d Ko\u016dk Thmei",
+        "Phum Ko\u016dk R\u00e9ach",
+        "Phum Ko\u016dk Thmei"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673029,
+        1108564583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827317
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"833d17dc11d8f7a0955c3f21277dc1de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564583,
+            "locality_id":1276719611,
+            "region_id":85673029
+        }
+    ],
+    "wof:id":1276719611,
+    "wof:lastmodified":1537653706,
+    "wof:name":"Kouk Thmei",
+    "wof:parent_id":1108564583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.68101,
+    13.68532,
+    103.68101,
+    13.68532
+],
+  "geometry": {"coordinates":[103.68101,13.68532],"type":"Point"}
+}

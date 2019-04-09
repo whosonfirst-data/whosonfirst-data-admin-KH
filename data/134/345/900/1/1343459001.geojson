@@ -1,0 +1,75 @@
+{
+  "id": 1343459001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.55993,11.54884,104.55993,11.54884",
+    "geom:latitude":11.54884,
+    "geom:longitude":104.55993,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Krang Ta Roat",
+    "gn:country_code":"KH",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827163,
+    "gn:latitude":11.54884,
+    "gn:longitude":104.55993,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Krang Ta Roat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Krang Ta Roat"
+    ],
+    "name:und_x_variant":[
+        "Phum Krang Tar\u00e2t",
+        "Phum\u012d Kr\u0103ng Tar\u00f4t",
+        "Phum\u012d Kr\u0103ng Taro\u0103t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673053,
+        1108564819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827163
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"6123ac79dad7fde3553aa1a3965f9fae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564819,
+            "locality_id":1343459001,
+            "region_id":85673053
+        }
+    ],
+    "wof:id":1343459001,
+    "wof:lastmodified":1537653691,
+    "wof:name":"Krang Ta Roat",
+    "wof:parent_id":1108564819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.55993,
+    11.54884,
+    104.55993,
+    11.54884
+],
+  "geometry": {"coordinates":[104.55992999999999,11.54884],"type":"Point"}
+}

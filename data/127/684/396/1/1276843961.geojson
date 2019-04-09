@@ -1,0 +1,71 @@
+{
+  "id": 1276843961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.54207,11.46144,105.54207,11.46144",
+    "geom:latitude":11.46144,
+    "geom:longitude":105.54207,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Phumi Tuol Ta Pou",
+    "gn:country_code":"KH",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1822993,
+    "gn:latitude":11.46144,
+    "gn:longitude":105.54207,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Tu\u014fl Ta P\u014fu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum Tuol Sampeou",
+        "Phum\u012d Tu\u014fl Ta P\u014fu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673067,
+        1108564859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1822993
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"2c06c57f9c3d45cf6042da6fb7b3e67e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564859,
+            "locality_id":1276843961,
+            "region_id":85673067
+        }
+    ],
+    "wof:id":1276843961,
+    "wof:lastmodified":1537653349,
+    "wof:name":"Phumi Tuol Ta Pou",
+    "wof:parent_id":1108564859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.54207,
+    11.46144,
+    105.54207,
+    11.46144
+],
+  "geometry": {"coordinates":[105.54207,11.46144],"type":"Point"}
+}

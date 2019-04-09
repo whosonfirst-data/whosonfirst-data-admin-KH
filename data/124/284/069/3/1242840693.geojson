@@ -1,0 +1,74 @@
+{
+  "id": 1242840693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.02717,11.08218,106.02717,11.08218",
+    "geom:latitude":11.08218,
+    "geom:longitude":106.02717,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Prey Tob",
+    "gn:country_code":"KH",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11509626,
+    "gn:latitude":11.08218,
+    "gn:longitude":106.02717,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Prey Tob",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Prey Tob"
+    ],
+    "name:khm_x_variant":[
+        "Phum\u012d K\u00e2mp\u016dng R\u00f4t\u00e9h",
+        "\u1797\u17bc\u1798\u17b7 \u1780\u17c6\u1796\u1784\u17cb\u179a\u1791\u17c1\u17c7"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673105,
+        1108564865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11509626
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"7463b67fbd5251e4f8eb9ed970cd14cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564865,
+            "locality_id":1242840693,
+            "region_id":85673105
+        }
+    ],
+    "wof:id":1242840693,
+    "wof:lastmodified":1537654081,
+    "wof:name":"Prey Tob",
+    "wof:parent_id":1108564865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.02717,
+    11.08218,
+    106.02717,
+    11.08218
+],
+  "geometry": {"coordinates":[106.02717,11.08218],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1343424677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.39864,14.12985,106.39864,14.12985",
+    "geom:latitude":14.12985,
+    "geom:longitude":106.39864,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Pha Bang",
+    "gn:country_code":"KH",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1826553,
+    "gn:latitude":14.12985,
+    "gn:longitude":106.39864,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Pha Bang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Pha Bang"
+    ],
+    "name:und_x_variant":[
+        "Ban Hat Chum",
+        "Phum\u012d Phanbang",
+        "Phum\u012d Phab\u0103ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673075,
+        1108564835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1826553
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"3716cd8061ea8ca54ffdbe080ed515c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564835,
+            "locality_id":1343424677,
+            "region_id":85673075
+        }
+    ],
+    "wof:id":1343424677,
+    "wof:lastmodified":1537653636,
+    "wof:name":"Pha Bang",
+    "wof:parent_id":1108564835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.39864,
+    14.12985,
+    106.39864,
+    14.12985
+],
+  "geometry": {"coordinates":[106.39864,14.12985],"type":"Point"}
+}

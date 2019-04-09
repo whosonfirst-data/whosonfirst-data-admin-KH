@@ -1,0 +1,71 @@
+{
+  "id": 1209949643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.52664,11.40608,104.52664,11.40608",
+    "geom:latitude":11.40608,
+    "geom:longitude":104.52664,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Khum Krang Ampil",
+    "gn:country_code":"KH",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1830764,
+    "gn:latitude":11.40608,
+    "gn:longitude":104.52664,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kh\u016dm Kr\u0103ng \u00c2mp\u012dl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kr\u0103ng Ampil",
+        "Kh\u016dm Kr\u0103ng \u00c2mp\u012dl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673053,
+        1108564819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1830764
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"8178f97db6ba05f27235329ec05e0a6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564819,
+            "locality_id":1209949643,
+            "region_id":85673053
+        }
+    ],
+    "wof:id":1209949643,
+    "wof:lastmodified":1537653949,
+    "wof:name":"Khum Krang Ampil",
+    "wof:parent_id":1108564819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.52664,
+    11.40608,
+    104.52664,
+    11.40608
+],
+  "geometry": {"coordinates":[104.52664,11.40608],"type":"Point"}
+}

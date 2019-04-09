@@ -1,0 +1,74 @@
+{
+  "id": 1344026585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.84029,13.96975,106.84029,13.96975",
+    "geom:latitude":13.96975,
+    "geom:longitude":106.84029,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Ban Pong",
+    "gn:country_code":"KH",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829624,
+    "gn:latitude":13.96975,
+    "gn:longitude":106.84029,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Ban Pong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Ban Pong"
+    ],
+    "name:und_x_variant":[
+        "Pong",
+        "Phum\u012d Ban P\u016dng (1)"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673089,
+        421194641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829624
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"719ce1f08df62f230e13edb6d1a20a76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421194641,
+            "locality_id":1344026585,
+            "region_id":85673089
+        }
+    ],
+    "wof:id":1344026585,
+    "wof:lastmodified":1537653898,
+    "wof:name":"Ban Pong",
+    "wof:parent_id":421194641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.84029,
+    13.96975,
+    106.84029,
+    13.96975
+],
+  "geometry": {"coordinates":[106.84029,13.96975],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1276513307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.79714,11.10323,105.79714,11.10323",
+    "geom:latitude":11.10323,
+    "geom:longitude":105.79714,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Phumi Prey Chhlak",
+    "gn:country_code":"KH",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825857,
+    "gn:latitude":11.10323,
+    "gn:longitude":105.79714,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Prey Chhl\u0103k",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum Prey Chlak",
+        "Phum\u012d Prey Chhl\u0103k"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673105,
+        1108564863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825857
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"57e6500f37b10e35bd41c89841aa1246",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564863,
+            "locality_id":1276513307,
+            "region_id":85673105
+        }
+    ],
+    "wof:id":1276513307,
+    "wof:lastmodified":1537653571,
+    "wof:name":"Phumi Prey Chhlak",
+    "wof:parent_id":1108564863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.79713999999998,
+    11.10323,
+    105.79713999999998,
+    11.10323
+],
+  "geometry": {"coordinates":[105.79713999999998,11.10323],"type":"Point"}
+}

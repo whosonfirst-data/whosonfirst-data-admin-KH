@@ -1,0 +1,70 @@
+{
+  "id": 1209305287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.13302,10.88374,103.13302,10.88374",
+    "geom:latitude":10.88374,
+    "geom:longitude":103.13302,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Phum Prek Khsach",
+    "gn:country_code":"KH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1826019,
+    "gn:latitude":10.88374,
+    "gn:longitude":103.13302,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Phum Pr\u00eak Khs\u0103ch",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Pr\u00eak Khs\u0103ch"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1796\u17d2\u179a\u17c2\u1780\u1781\u17d2\u179f\u17b6\u1785\u17cb"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Pr\u00eak Khs\u0103ch"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1826019
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"5acbd7d088cc774ce50021ced53d13b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209305287
+        }
+    ],
+    "wof:id":1209305287,
+    "wof:lastmodified":1537653587,
+    "wof:name":"Phum Prek Khsach",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.13302,
+    10.88374,
+    103.13302,
+    10.88374
+],
+  "geometry": {"coordinates":[103.13302,10.88374],"type":"Point"}
+}

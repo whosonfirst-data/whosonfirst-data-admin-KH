@@ -1,0 +1,73 @@
+{
+  "id": 1343366565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.84912,12.16674,104.84912,12.16674",
+    "geom:latitude":12.16674,
+    "geom:longitude":104.84912,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Russey Tang Kuoch",
+    "gn:country_code":"KH",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825430,
+    "gn:latitude":12.16674,
+    "gn:longitude":104.84912,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Russey Tang Kuoch",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum Russey Tang Kuoch",
+        "Phum\u012d R\u016dssei D\u00e2ng Ku\u014fch",
+        "Russey Tang Kuoch",
+        "Phum\u012d R\u0153ssei D\u00e2ngku\u014fch"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673047,
+        1108564645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825430
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"7800d3a26296588d01aac690b20c5078",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564645,
+            "locality_id":1343366565,
+            "region_id":85673047
+        }
+    ],
+    "wof:id":1343366565,
+    "wof:lastmodified":1537653540,
+    "wof:name":"Russey Tang Kuoch",
+    "wof:parent_id":1108564645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.84912,
+    12.16674,
+    104.84912,
+    12.16674
+],
+  "geometry": {"coordinates":[104.84912,12.16674],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1259379779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.70518,11.60796,104.70518,11.60796",
+    "geom:latitude":11.60796,
+    "geom:longitude":104.70518,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Khlong",
+    "gn:country_code":"KH",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827707,
+    "gn:latitude":11.60796,
+    "gn:longitude":104.70518,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Khlong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum\u012d Khl\u014fng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673051,
+        1108564577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827707
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"bc964c7cf902bdc4c3ddf24e64ea4f03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564577,
+            "locality_id":1259379779,
+            "region_id":85673051
+        }
+    ],
+    "wof:id":1259379779,
+    "wof:lastmodified":1537653742,
+    "wof:name":"Khlong",
+    "wof:parent_id":1108564577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.70518,
+    11.60796,
+    104.70518,
+    11.60796
+],
+  "geometry": {"coordinates":[104.70518,11.60796],"type":"Point"}
+}

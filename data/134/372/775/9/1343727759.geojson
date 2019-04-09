@@ -1,0 +1,67 @@
+{
+  "id": 1343727759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.66831,11.02614,104.66831,11.02614",
+    "geom:latitude":11.02614,
+    "geom:longitude":104.66831,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Phumi Khla Krohoem",
+    "gn:country_code":"KH",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827738,
+    "gn:latitude":11.02614,
+    "gn:longitude":104.66831,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Phum\u012d Khla Kr\u00f4h\u0153\u0306m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673107,
+        1108564877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827738
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"15855c1671306e0f71be9dd9484becbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564877,
+            "locality_id":1343727759,
+            "region_id":85673107
+        }
+    ],
+    "wof:id":1343727759,
+    "wof:lastmodified":1536856894,
+    "wof:name":"Phumi Khla Krohoem",
+    "wof:parent_id":1108564877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.66831,
+    11.02614,
+    104.66831,
+    11.02614
+],
+  "geometry": {"coordinates":[104.66831000000001,11.02614],"type":"Point"}
+}

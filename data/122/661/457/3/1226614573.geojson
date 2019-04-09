@@ -1,0 +1,71 @@
+{
+  "id": 1226614573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.805,11.54638,104.805,11.54638",
+    "geom:latitude":11.54638,
+    "geom:longitude":104.805,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Phumi Trapeang Tea",
+    "gn:country_code":"KH",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1823243,
+    "gn:latitude":11.54638,
+    "gn:longitude":104.805,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Tr\u00e2pe\u0103ng T\u00e9a",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tr\u00e2peang Atea",
+        "Phum\u012d Tr\u00e2pe\u0103ng T\u00e9a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673063,
+        1108564793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1823243
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"7913770c3831ce640f5c10c971b3da6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564793,
+            "locality_id":1226614573,
+            "region_id":85673063
+        }
+    ],
+    "wof:id":1226614573,
+    "wof:lastmodified":1537653366,
+    "wof:name":"Phumi Trapeang Tea",
+    "wof:parent_id":1108564793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.805,
+    11.54638,
+    104.805,
+    11.54638
+],
+  "geometry": {"coordinates":[104.80500000000001,11.54638],"type":"Point"}
+}

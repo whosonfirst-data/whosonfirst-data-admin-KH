@@ -1,0 +1,74 @@
+{
+  "id": 1343479135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.28333,12.41667,107.28333,12.41667",
+    "geom:latitude":12.41667,
+    "geom:longitude":107.28333,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Mondol Kiri",
+    "gn:cc2":"KH",
+    "gn:country_code":"KH",
+    "gn:dem":901,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1830307,
+    "gn:latitude":12.41667,
+    "gn:longitude":107.28333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"M\u00f4nd\u00f3l Kiri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mondol Khiri City",
+        "Mondulkiri",
+        "Monthol Kiri",
+        "M\u00f4nd\u00f3l Kiri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673085,
+        1108564745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1830307
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"b8d839023a446d81ce0bb7ecec3ebe35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564745,
+            "locality_id":1343479135,
+            "region_id":85673085
+        }
+    ],
+    "wof:id":1343479135,
+    "wof:lastmodified":1537653939,
+    "wof:name":"Mondol Kiri",
+    "wof:parent_id":1108564745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.28333,
+    12.41667,
+    107.28333,
+    12.41667
+],
+  "geometry": {"coordinates":[107.28333000000001,12.41667],"type":"Point"}
+}

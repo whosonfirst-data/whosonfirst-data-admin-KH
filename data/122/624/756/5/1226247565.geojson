@@ -1,0 +1,74 @@
+{
+  "id": 1226247565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.21417,13.52301,105.21417,13.52301",
+    "geom:latitude":13.52301,
+    "geom:longitude":105.21417,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Phumi Kampong Putrea Chas",
+    "gn:country_code":"KH",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828238,
+    "gn:latitude":13.52301,
+    "gn:longitude":105.21417,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d K\u00e2mp\u00f3ng P\u016dtr\u00e9a Ch\u0103s",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kompong Poutrea",
+        "Phum Kompong Puttrea",
+        "Phum Kompong Pultrea",
+        "Phum Kompong Poutr\u00e9a",
+        "Phum\u012d K\u00e2mp\u00f3ng P\u016dtr\u00e9a Ch\u0103s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673071,
+        1108564633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828238
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"5d6eb1bde043bae02abd19153a723085",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564633,
+            "locality_id":1226247565,
+            "region_id":85673071
+        }
+    ],
+    "wof:id":1226247565,
+    "wof:lastmodified":1537653788,
+    "wof:name":"Phumi Kampong Putrea Chas",
+    "wof:parent_id":1108564633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.21417,
+    13.52301,
+    105.21417,
+    13.52301
+],
+  "geometry": {"coordinates":[105.21417,13.52301],"type":"Point"}
+}

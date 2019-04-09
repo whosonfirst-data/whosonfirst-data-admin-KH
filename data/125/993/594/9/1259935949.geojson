@@ -1,0 +1,73 @@
+{
+  "id": 1259935949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.98311,13.4063,103.98311,13.4063",
+    "geom:latitude":13.4063,
+    "geom:longitude":103.98311,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Bangkaong",
+    "gn:country_code":"KH",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11559388,
+    "gn:latitude":13.4063,
+    "gn:longitude":103.98311,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Bangkaong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Bangkaong"
+    ],
+    "name:khm_x_variant":[
+        "Phum\u012d B\u00e2ng Ka\u00f4ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673029,
+        421204115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11559388
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"4dcb5661ea212e2ab4e723bd36494438",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421204115,
+            "locality_id":1259935949,
+            "region_id":85673029
+        }
+    ],
+    "wof:id":1259935949,
+    "wof:lastmodified":1537654110,
+    "wof:name":"Bangkaong",
+    "wof:parent_id":421204115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.98311,
+    13.4063,
+    103.98311,
+    13.4063
+],
+  "geometry": {"coordinates":[103.98311,13.4063],"type":"Point"}
+}

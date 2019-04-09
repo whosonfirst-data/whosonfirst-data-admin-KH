@@ -1,0 +1,65 @@
+{
+  "id": 1209285475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.47128,11.58632,105.47128,11.58632",
+    "geom:latitude":11.58632,
+    "geom:longitude":105.47128,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Phumi Chhke Kon",
+    "gn:country_code":"KH",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828991,
+    "gn:latitude":11.58632,
+    "gn:longitude":105.47128,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Chhk\u00ea Kon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum Chhker Kon",
+        "Phum\u012d Chhk\u00ea Kon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828991
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"fa0026c2cf7950b0dc62bd4145372d9c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209285475
+        }
+    ],
+    "wof:id":1209285475,
+    "wof:lastmodified":1537653849,
+    "wof:name":"Phumi Chhke Kon",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.47128,
+    11.58632,
+    105.47128,
+    11.58632
+],
+  "geometry": {"coordinates":[105.47127999999999,11.58632],"type":"Point"}
+}

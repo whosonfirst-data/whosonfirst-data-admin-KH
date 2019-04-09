@@ -1,0 +1,76 @@
+{
+  "id": 1276119871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.39343,12.33355,104.39343,12.33355",
+    "geom:latitude":12.33355,
+    "geom:longitude":104.39343,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Phum Krang Sleng",
+    "gn:country_code":"KH",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827176,
+    "gn:latitude":12.33355,
+    "gn:longitude":104.39343,
+    "gn:modification_date":"2017-07-05",
+    "gn:name":"Phum Kr\u0103ng Sl\u00eang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Kr\u0103ng Sl\u00eang"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1780\u17d2\u179a\u17b6\u17c6\u1784\u179f\u17d2\u179b\u17c2\u1784"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Kr\u0103ng Sl\u00eang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673047,
+        421202235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827176
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"27c2ca288d4c086c0932ac0d1c59b54e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421202235,
+            "locality_id":1276119871,
+            "region_id":85673047
+        }
+    ],
+    "wof:id":1276119871,
+    "wof:lastmodified":1537653693,
+    "wof:name":"Phum Krang Sleng",
+    "wof:parent_id":421202235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.39343,
+    12.33355,
+    104.39343,
+    12.33355
+],
+  "geometry": {"coordinates":[104.39343,12.33355],"type":"Point"}
+}

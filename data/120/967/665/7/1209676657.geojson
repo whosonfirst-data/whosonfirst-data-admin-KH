@@ -1,0 +1,73 @@
+{
+  "id": 1209676657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.43485,12.72335,103.43485,12.72335",
+    "geom:latitude":12.72335,
+    "geom:longitude":103.43485,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Anlong Koub",
+    "gn:country_code":"KH",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829842,
+    "gn:latitude":12.72335,
+    "gn:longitude":103.43485,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Anlong Koub",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Anlong Koub"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u17a2\u1793\u17d2\u179b\u1784\u17cb\u1780\u17bc\u1794"
+    ],
+    "name:und_x_variant":[
+        "Phum Anlong Kop",
+        "P\u2019um Anlong Kop",
+        "Phum\u012d \u00c2nl\u016dng Kop",
+        "Phum\u012d \u00c2nl\u00f3ng Kob"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829842
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"f50561440edfc70b43cd1d85169631cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209676657
+        }
+    ],
+    "wof:id":1209676657,
+    "wof:lastmodified":1537653917,
+    "wof:name":"Anlong Koub",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.43485,
+    12.72335,
+    103.43485,
+    12.72335
+],
+  "geometry": {"coordinates":[103.43485,12.72335],"type":"Point"}
+}

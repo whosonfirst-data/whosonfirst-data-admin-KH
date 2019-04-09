@@ -1,0 +1,70 @@
+{
+  "id": 1343879643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.0776,11.14336,105.0776,11.14336",
+    "geom:latitude":11.14336,
+    "geom:longitude":105.0776,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Phum Chrung Pomeas",
+    "gn:country_code":"KH",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11504353,
+    "gn:latitude":11.14336,
+    "gn:longitude":105.0776,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Phum Chr\u016dng P\u00f4m\u00e9as",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Chr\u016dng P\u00f4m\u00e9as"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673051,
+        1108564703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11504353
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"877ca4d35efc8d43bfffd2e8d6b32d96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564703,
+            "locality_id":1343879643,
+            "region_id":85673051
+        }
+    ],
+    "wof:id":1343879643,
+    "wof:lastmodified":1537654070,
+    "wof:name":"Phum Chrung Pomeas",
+    "wof:parent_id":1108564703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.0776,
+    11.14336,
+    105.0776,
+    11.14336
+],
+  "geometry": {"coordinates":[105.0776,11.14336],"type":"Point"}
+}

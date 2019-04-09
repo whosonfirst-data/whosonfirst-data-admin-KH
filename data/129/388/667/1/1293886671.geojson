@@ -1,0 +1,74 @@
+{
+  "id": 1293886671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.21513,12.36134,105.21513,12.36134",
+    "geom:latitude":12.36134,
+    "geom:longitude":105.21513,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Multhan Roung Chakr",
+    "gn:country_code":"KH",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829223,
+    "gn:latitude":12.36134,
+    "gn:longitude":105.21513,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Multhan Roung Chakr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Multhan Roung Chakr"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Ch\u00e2mkar Caoutchouc",
+        "Phum\u012d Ch\u00e2mkar Kausu (1)"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673041,
+        1108564621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829223
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"a57f5203c1efb97d0101bde33c14433b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564621,
+            "locality_id":1293886671,
+            "region_id":85673041
+        }
+    ],
+    "wof:id":1293886671,
+    "wof:lastmodified":1537653867,
+    "wof:name":"Multhan Roung Chakr",
+    "wof:parent_id":1108564621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.21513,
+    12.36134,
+    105.21513,
+    12.36134
+],
+  "geometry": {"coordinates":[105.21513,12.36134],"type":"Point"}
+}

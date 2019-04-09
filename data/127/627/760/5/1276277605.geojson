@@ -1,0 +1,74 @@
+{
+  "id": 1276277605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.26899,12.92984,103.26899,12.92984",
+    "geom:latitude":12.92984,
+    "geom:longitude":103.26899,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Voat Kandal",
+    "gn:country_code":"KH",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11349763,
+    "gn:latitude":12.92984,
+    "gn:longitude":103.26899,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Voat Kandal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Voat Kandal"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u179c\u178f\u17d2\u178f\u1780\u178e\u17d2\u178f\u17b6\u179b",
+        "Phum Vatt K\u00e2ndal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673015,
+        421202239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11349763
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"7fc95531cc235721525b19f806e6a865",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421202239,
+            "locality_id":1276277605,
+            "region_id":85673015
+        }
+    ],
+    "wof:id":1276277605,
+    "wof:lastmodified":1537653972,
+    "wof:name":"Voat Kandal",
+    "wof:parent_id":421202239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.26899,
+    12.92984,
+    103.26899,
+    12.92984
+],
+  "geometry": {"coordinates":[103.26899,12.92984],"type":"Point"}
+}

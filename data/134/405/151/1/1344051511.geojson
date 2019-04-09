@@ -1,0 +1,74 @@
+{
+  "id": 1344051511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.08044,12.1692,106.08044,12.1692",
+    "geom:latitude":12.1692,
+    "geom:longitude":106.08044,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Damrei Phong",
+    "gn:country_code":"KH",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828602,
+    "gn:latitude":12.1692,
+    "gn:longitude":106.08044,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Damrei Phong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Damrei Phong"
+    ],
+    "name:und_x_variant":[
+        "Phum Damrey Phong",
+        "Phum\u012d D\u00e2mrei Ph\u014fng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673081,
+        1108564635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828602
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"188c4b055ae97f4e05be6d3b8751be1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564635,
+            "locality_id":1344051511,
+            "region_id":85673081
+        }
+    ],
+    "wof:id":1344051511,
+    "wof:lastmodified":1537653818,
+    "wof:name":"Damrei Phong",
+    "wof:parent_id":1108564635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.08044,
+    12.1692,
+    106.08044,
+    12.1692
+],
+  "geometry": {"coordinates":[106.08044,12.1692],"type":"Point"}
+}

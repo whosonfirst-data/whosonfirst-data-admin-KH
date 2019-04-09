@@ -1,0 +1,67 @@
+{
+  "id": 1209414107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.16873,12.92411,105.16873,12.92411",
+    "geom:latitude":12.92411,
+    "geom:longitude":105.16873,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Phumi Kampong Chvea",
+    "gn:country_code":"KH",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828305,
+    "gn:latitude":12.92411,
+    "gn:longitude":105.16873,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d K\u00e2mp\u00f3ng Chv\u00e9a",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kompong Threa",
+        "Phum\u012d K\u00e2mp\u00f4ng Chhv\u00e9a",
+        "Kompong Thyea",
+        "Phum\u012d K\u00e2mp\u00f3ng Chv\u00e9a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828305
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"14fbdd8e72869e14c418aed747b9d5ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209414107
+        }
+    ],
+    "wof:id":1209414107,
+    "wof:lastmodified":1537653794,
+    "wof:name":"Phumi Kampong Chvea",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.16873,
+    12.92411,
+    105.16873,
+    12.92411
+],
+  "geometry": {"coordinates":[105.16873,12.92411],"type":"Point"}
+}

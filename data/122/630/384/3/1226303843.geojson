@@ -1,0 +1,74 @@
+{
+  "id": 1226303843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.62722,13.10361,102.62722,13.10361",
+    "geom:latitude":13.10361,
+    "geom:longitude":102.62722,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Phumi Samseb",
+    "gn:country_code":"KH",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825056,
+    "gn:latitude":13.10361,
+    "gn:longitude":102.62722,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Sams\u0115b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sam Sep",
+        "Phum Sams\u014fap",
+        "Phum\u012d Sams\u0153\u0306p",
+        "Phum Sams\u0153\u0306p",
+        "Phum\u012d Sams\u0115b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673015,
+        1108564683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825056
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"650160c20fed3bef53bfb33067f4d3a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564683,
+            "locality_id":1226303843,
+            "region_id":85673015
+        }
+    ],
+    "wof:id":1226303843,
+    "wof:lastmodified":1537653508,
+    "wof:name":"Phumi Samseb",
+    "wof:parent_id":1108564683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.62722,
+    13.10361,
+    102.62722,
+    13.10361
+],
+  "geometry": {"coordinates":[102.62721999999999,13.10361],"type":"Point"}
+}

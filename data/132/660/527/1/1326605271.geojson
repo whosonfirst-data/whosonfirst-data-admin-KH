@@ -1,0 +1,67 @@
+{
+  "id": 1326605271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.68803,10.90271,104.68803,10.90271",
+    "geom:latitude":10.90271,
+    "geom:longitude":104.68803,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Phumi Don Pheu",
+    "gn:country_code":"KH",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828462,
+    "gn:latitude":10.90271,
+    "gn:longitude":104.68803,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Phum\u012d Don Pheu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673107,
+        1108564881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828462
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"7e18b4b6f0136a3051b4db80529a8870",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564881,
+            "locality_id":1326605271,
+            "region_id":85673107
+        }
+    ],
+    "wof:id":1326605271,
+    "wof:lastmodified":1536877999,
+    "wof:name":"Phumi Don Pheu",
+    "wof:parent_id":1108564881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.68803,
+    10.90271,
+    104.68803,
+    10.90271
+],
+  "geometry": {"coordinates":[104.68803,10.90271],"type":"Point"}
+}

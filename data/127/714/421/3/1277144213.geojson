@@ -1,0 +1,77 @@
+{
+  "id": 1277144213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.3198,10.54141,104.3198,10.54141",
+    "geom:latitude":10.54141,
+    "geom:longitude":104.3198,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Damnak Chang'aeur",
+    "gn:country_code":"KH",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828648,
+    "gn:latitude":10.54141,
+    "gn:longitude":104.3198,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"D\u00e2mn\u0103k Ch\u00e2ng\u2019aeur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Damnak Chang \u0152u",
+        "Phum\u012d D\u00e2mnak Ch\u00e2ng Aeu",
+        "Damnak Chang De",
+        "Damnak Changoe",
+        "Damnak",
+        "Damnak Chang Oeur",
+        "Phum\u012d D\u00e2mn\u0103k Ch\u00e2ng\u2019aeur",
+        "D\u00e2mn\u0103k Ch\u00e2ng\u2019aeur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673099,
+        1108564665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828648
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"e76af5b9f22d49d97ba0801b0ca5e803",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564665,
+            "locality_id":1277144213,
+            "region_id":85673099
+        }
+    ],
+    "wof:id":1277144213,
+    "wof:lastmodified":1537653822,
+    "wof:name":"Damnak Chang'aeur",
+    "wof:parent_id":1108564665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.3198,
+    10.54141,
+    104.3198,
+    10.54141
+],
+  "geometry": {"coordinates":[104.3198,10.54141],"type":"Point"}
+}

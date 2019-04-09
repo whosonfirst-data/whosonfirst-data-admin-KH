@@ -1,0 +1,66 @@
+{
+  "id": 1209009041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.13134,12.49539,105.13134,12.49539",
+    "geom:latitude":12.49539,
+    "geom:longitude":105.13134,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Phumi Kampong Thma",
+    "gn:country_code":"KH",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828191,
+    "gn:latitude":12.49539,
+    "gn:longitude":105.13134,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d K\u00e2mp\u00f3ng Thm\u00e2",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kompong Thma",
+        "Kompong Thmar",
+        "Phum\u012d K\u00e2mp\u00f3ng Thm\u00e2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828191
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"7e94609b62c599acb55303ddbbcd9e92",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209009041
+        }
+    ],
+    "wof:id":1209009041,
+    "wof:lastmodified":1537653783,
+    "wof:name":"Phumi Kampong Thma",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.13134,
+    12.49539,
+    105.13134,
+    12.49539
+],
+  "geometry": {"coordinates":[105.13133999999999,12.49539],"type":"Point"}
+}

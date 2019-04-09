@@ -1,0 +1,71 @@
+{
+  "id": 1226404857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.85087,11.31425,104.85087,11.31425",
+    "geom:latitude":11.31425,
+    "geom:longitude":104.85087,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Phumi Hanuman",
+    "gn:country_code":"KH",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828415,
+    "gn:latitude":11.31425,
+    "gn:longitude":104.85087,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d H\u00e2n\u016dman",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum\u012d Hakn\u016dman",
+        "Phum\u012d H\u00e2n\u016dman"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673107,
+        1108564613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828415
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"e3d8e1ab191ff12feb7132e2a9cde605",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564613,
+            "locality_id":1226404857,
+            "region_id":85673107
+        }
+    ],
+    "wof:id":1226404857,
+    "wof:lastmodified":1537653804,
+    "wof:name":"Phumi Hanuman",
+    "wof:parent_id":1108564613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.85087,
+    11.31425,
+    104.85087,
+    11.31425
+],
+  "geometry": {"coordinates":[104.85087,11.31425],"type":"Point"}
+}

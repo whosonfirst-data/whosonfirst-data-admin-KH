@@ -1,0 +1,74 @@
+{
+  "id": 1293221683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.05541,10.99327,105.05541,10.99327",
+    "geom:latitude":10.99327,
+    "geom:longitude":105.05541,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Kampong Thkol",
+    "gn:country_code":"KH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828257,
+    "gn:latitude":10.99327,
+    "gn:longitude":105.05541,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Kampong Thkol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Kampong Thkol"
+    ],
+    "name:und_x_variant":[
+        "Phum Kompong Phkol",
+        "Phum\u012d K\u00e2mp\u00f3ng Phd\u014fl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673051,
+        1108564703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828257
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"132685dfd4d9bd8a1933e0782f784b44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564703,
+            "locality_id":1293221683,
+            "region_id":85673051
+        }
+    ],
+    "wof:id":1293221683,
+    "wof:lastmodified":1537653790,
+    "wof:name":"Kampong Thkol",
+    "wof:parent_id":1108564703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.05541,
+    10.99327,
+    105.05541,
+    10.99327
+],
+  "geometry": {"coordinates":[105.05540999999999,10.99327],"type":"Point"}
+}

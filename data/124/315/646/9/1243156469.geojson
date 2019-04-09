@@ -1,0 +1,73 @@
+{
+  "id": 1243156469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.85983,12.28331,105.85983,12.28331",
+    "geom:latitude":12.28331,
+    "geom:longitude":105.85983,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Phum Prek Boeng",
+    "gn:country_code":"KH",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11507494,
+    "gn:latitude":12.28331,
+    "gn:longitude":105.85983,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Phum Pr\u00eak B\u0153\u0306ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Pr\u00eak B\u0153\u0306ng"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1796\u17d2\u179a\u17c2\u1780\u1794\u17b9\u1784"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673081,
+        1108564781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11507494
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"c749752c0974724425e8a4dbf2505a10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564781,
+            "locality_id":1243156469,
+            "region_id":85673081
+        }
+    ],
+    "wof:id":1243156469,
+    "wof:lastmodified":1537654077,
+    "wof:name":"Phum Prek Boeng",
+    "wof:parent_id":1108564781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.85983,
+    12.28331,
+    105.85983,
+    12.28331
+],
+  "geometry": {"coordinates":[105.85983,12.28331],"type":"Point"}
+}

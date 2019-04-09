@@ -1,0 +1,71 @@
+{
+  "id": 1209671291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.62321,13.49755,103.62321,13.49755",
+    "geom:latitude":13.49755,
+    "geom:longitude":103.62321,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Phum Chhuk Ta Loch",
+    "gn:country_code":"KH",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828951,
+    "gn:latitude":13.49755,
+    "gn:longitude":103.62321,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Phum Chhuk Ta L\u014fch",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Chhuk Ta L\u014fch"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1788\u17bc\u1780\u178f\u17b6\u17a1\u17bb\u1785"
+    ],
+    "name:und_x_variant":[
+        "Chhouk Taloch",
+        "Phum\u012d Chhuk Ta L\u014fch"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828951
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"faaf03f9ad7517b97b2493c32c3c0c92",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209671291
+        }
+    ],
+    "wof:id":1209671291,
+    "wof:lastmodified":1537653845,
+    "wof:name":"Phum Chhuk Ta Loch",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.62321,
+    13.49755,
+    103.62321,
+    13.49755
+],
+  "geometry": {"coordinates":[103.62321,13.49755],"type":"Point"}
+}

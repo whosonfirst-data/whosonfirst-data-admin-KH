@@ -1,0 +1,68 @@
+{
+  "id": 1209062153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.4948,13.85689,103.4948,13.85689",
+    "geom:latitude":13.85689,
+    "geom:longitude":103.4948,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Slaeng Ta Vet",
+    "gn:country_code":"KH",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11375383,
+    "gn:latitude":13.85689,
+    "gn:longitude":103.4948,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Slaeng Ta Vet",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Slaeng Ta Vet"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u179f\u17d2\u179b\u17c2\u1784\u178f\u17b6\u179c\u17c2\u178f",
+        "Phum Sl\u00eang Ta V\u00eat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11375383
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"46c38e323132edf80ec9a05809467b53",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209062153
+        }
+    ],
+    "wof:id":1209062153,
+    "wof:lastmodified":1537653990,
+    "wof:name":"Slaeng Ta Vet",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.4948,
+    13.85689,
+    103.4948,
+    13.85689
+],
+  "geometry": {"coordinates":[103.4948,13.85689],"type":"Point"}
+}

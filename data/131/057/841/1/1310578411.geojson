@@ -1,0 +1,78 @@
+{
+  "id": 1310578411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.81741,12.58425,103.81741,12.58425",
+    "geom:latitude":12.58425,
+    "geom:longitude":103.81741,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Andoung Krasang",
+    "gn:country_code":"KH",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829984,
+    "gn:latitude":12.58425,
+    "gn:longitude":103.81741,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Andoung Krasang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Andoung Krasang"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u17a2\u178e\u17d2\u178a\u17bc\u1784\u1780\u17d2\u179a\u179f\u17b6\u17c6\u1784",
+        "Phum \u00c2ndong Kr\u00e2s\u0103ng"
+    ],
+    "name:und_x_variant":[
+        "P\u2019um \u00c2nd\u00e2ung Kr\u00e2s\u00e2ng",
+        "Phum\u012d \u00c2ndong Kr\u00e2s\u0103ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673023,
+        1108564595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829984
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"e3140e5656688f5a51194745b25d159b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564595,
+            "locality_id":1310578411,
+            "region_id":85673023
+        }
+    ],
+    "wof:id":1310578411,
+    "wof:lastmodified":1537653930,
+    "wof:name":"Andoung Krasang",
+    "wof:parent_id":1108564595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.81741,
+    12.58425,
+    103.81741,
+    12.58425
+],
+  "geometry": {"coordinates":[103.81741,12.58425],"type":"Point"}
+}

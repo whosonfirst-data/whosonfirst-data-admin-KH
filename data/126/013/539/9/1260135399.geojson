@@ -1,0 +1,71 @@
+{
+  "id": 1260135399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.9109,13.56587,102.9109,13.56587",
+    "geom:latitude":13.56587,
+    "geom:longitude":102.9109,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Phumi Tumnub Kandal",
+    "gn:country_code":"KH",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1823116,
+    "gn:latitude":13.56587,
+    "gn:longitude":102.9109,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Tumn\u016db K\u00e2ndal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum T\u016dmn\u016dp Kandal",
+        "Phum\u012d Tumn\u016db K\u00e2ndal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673011,
+        421170329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1823116
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"c79ea2c359d3f7c2ad365eab0088d533",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421170329,
+            "locality_id":1260135399,
+            "region_id":85673011
+        }
+    ],
+    "wof:id":1260135399,
+    "wof:lastmodified":1537653357,
+    "wof:name":"Phumi Tumnub Kandal",
+    "wof:parent_id":421170329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.9109,
+    13.56587,
+    102.9109,
+    13.56587
+],
+  "geometry": {"coordinates":[102.9109,13.56587],"type":"Point"}
+}

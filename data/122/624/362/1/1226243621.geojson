@@ -1,0 +1,72 @@
+{
+  "id": 1226243621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.56082,11.49281,104.56082,11.49281",
+    "geom:latitude":11.49281,
+    "geom:longitude":104.56082,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Phumi Ta Koam",
+    "gn:country_code":"KH",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1824262,
+    "gn:latitude":11.49281,
+    "gn:longitude":104.56082,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Ta K\u014f\u00e2m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum Ta Koam",
+        "Phum\u012d Taka\u00f4m",
+        "Phum\u012d Ta K\u014f\u00e2m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673053,
+        1108564819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1824262
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"ace26e63402627e7862d7ae7f3c230e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564819,
+            "locality_id":1226243621,
+            "region_id":85673053
+        }
+    ],
+    "wof:id":1226243621,
+    "wof:lastmodified":1537653443,
+    "wof:name":"Phumi Ta Koam",
+    "wof:parent_id":1108564819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.56082,
+    11.49281,
+    104.56082,
+    11.49281
+],
+  "geometry": {"coordinates":[104.56082000000001,11.49281],"type":"Point"}
+}

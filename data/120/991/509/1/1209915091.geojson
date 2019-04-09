@@ -1,0 +1,71 @@
+{
+  "id": 1209915091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.14145,11.41663,104.14145,11.41663",
+    "geom:latitude":11.41663,
+    "geom:longitude":104.14145,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Phumi Banteay Rokar",
+    "gn:country_code":"KH",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829601,
+    "gn:latitude":11.41663,
+    "gn:longitude":104.14145,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d B\u00e2nt\u00e9ay R\u00f4kar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bant\u00e9ay Roka",
+        "Phum\u012d B\u00e2nt\u00e9ay R\u00f4kar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673053,
+        1108564765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829601
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"1a1dc93e8d33b127f899474f2d7f1e1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564765,
+            "locality_id":1209915091,
+            "region_id":85673053
+        }
+    ],
+    "wof:id":1209915091,
+    "wof:lastmodified":1537653895,
+    "wof:name":"Phumi Banteay Rokar",
+    "wof:parent_id":1108564765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.14145,
+    11.41663,
+    104.14145,
+    11.41663
+],
+  "geometry": {"coordinates":[104.14145000000001,11.41663],"type":"Point"}
+}

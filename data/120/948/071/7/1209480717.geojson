@@ -1,0 +1,66 @@
+{
+  "id": 1209480717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.77211,11.25297,104.77211,11.25297",
+    "geom:latitude":11.25297,
+    "geom:longitude":104.77211,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Phumi Tram Dei Sa",
+    "gn:country_code":"KH",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1823514,
+    "gn:latitude":11.25297,
+    "gn:longitude":104.77211,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Tr\u0103m Dei S\u00e2",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tram D\u00e9y S\u0103",
+        "Phum\u012d Tr\u0103m Det S\u00e2",
+        "Phum\u012d Tr\u0103m Dei S\u00e2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1823514
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"844cbf0f4041b894843fbcc800a1ce46",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209480717
+        }
+    ],
+    "wof:id":1209480717,
+    "wof:lastmodified":1537653384,
+    "wof:name":"Phumi Tram Dei Sa",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.77211,
+    11.25297,
+    104.77211,
+    11.25297
+],
+  "geometry": {"coordinates":[104.77211,11.25297],"type":"Point"}
+}

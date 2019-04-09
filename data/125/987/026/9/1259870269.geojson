@@ -1,0 +1,68 @@
+{
+  "id": 1259870269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.04385,11.53802,103.04385,11.53802",
+    "geom:latitude":11.53802,
+    "geom:longitude":103.04385,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Kaoh Chak",
+    "gn:country_code":"KH",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828012,
+    "gn:latitude":11.53802,
+    "gn:longitude":103.04385,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Kaoh Chak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Kaoh Chak"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Ko\u00e2h Chas",
+        "Phum\u012d Ka\u00f4h Ch\u0103s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828012
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"45a5fa40916e7d2a983b7957c0df1de9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1259870269,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259870269,
+    "wof:lastmodified":1537653768,
+    "wof:name":"Kaoh Chak",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.04385,
+    11.53802,
+    103.04385,
+    11.53802
+],
+  "geometry": {"coordinates":[103.04385000000001,11.53802],"type":"Point"}
+}

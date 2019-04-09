@@ -1,0 +1,76 @@
+{
+  "id": 1243206741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.85911,12.05516,105.85911,12.05516",
+    "geom:latitude":12.05516,
+    "geom:longitude":105.85911,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Phum Krakor",
+    "gn:country_code":"KH",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827257,
+    "gn:latitude":12.05516,
+    "gn:longitude":105.85911,
+    "gn:modification_date":"2017-07-05",
+    "gn:name":"Phum Kr\u00e2k\u00f4r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Kr\u00e2k\u00f4r"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1780\u17d2\u179a\u1782\u179a"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Kr\u00e2k\u00f4r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        1108804319,
+        1108564653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827257
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"d3a38c0f9d4d07901b65afab601667dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564653,
+            "locality_id":1243206741,
+            "region_id":1108804319
+        }
+    ],
+    "wof:id":1243206741,
+    "wof:lastmodified":1537653699,
+    "wof:name":"Phum Krakor",
+    "wof:parent_id":1108564653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.85911000000002,
+    12.05516,
+    105.85911000000002,
+    12.05516
+],
+  "geometry": {"coordinates":[105.85911000000002,12.05516],"type":"Point"}
+}

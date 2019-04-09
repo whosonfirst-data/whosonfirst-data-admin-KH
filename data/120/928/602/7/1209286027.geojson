@@ -1,0 +1,67 @@
+{
+  "id": 1209286027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.93368,13.29465,105.93368,13.29465",
+    "geom:latitude":13.29465,
+    "geom:longitude":105.93368,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Kaoh Preah",
+    "gn:country_code":"KH",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1831025,
+    "gn:latitude":13.29465,
+    "gn:longitude":105.93368,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ka\u00f4h Pre\u0103h",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum Kas Preas",
+        "Phum\u012d Ka\u00f4h Pre\u0103h",
+        "Kas Preas",
+        "Ka\u00f4h Pre\u0103h"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1831025
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"49c9b5816c1dfc4eb8777072c8828e49",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209286027
+        }
+    ],
+    "wof:id":1209286027,
+    "wof:lastmodified":1537653955,
+    "wof:name":"Kaoh Preah",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.93368,
+    13.29465,
+    105.93368,
+    13.29465
+],
+  "geometry": {"coordinates":[105.93368,13.29465],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1209983579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.40494,10.50076,104.40494,10.50076",
+    "geom:latitude":10.50076,
+    "geom:longitude":104.40494,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Kaoh Saom",
+    "gn:country_code":"KH",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11449473,
+    "gn:latitude":10.50076,
+    "gn:longitude":104.40494,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Kaoh Saom",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Kaoh Saom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673099,
+        1108564655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11449473
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"05b0dd0326d73d603b713415b28928a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564655,
+            "locality_id":1209983579,
+            "region_id":85673099
+        }
+    ],
+    "wof:id":1209983579,
+    "wof:lastmodified":1537654012,
+    "wof:name":"Kaoh Saom",
+    "wof:parent_id":1108564655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.40494,
+    10.50076,
+    104.40494,
+    10.50076
+],
+  "geometry": {"coordinates":[104.40494,10.50076],"type":"Point"}
+}

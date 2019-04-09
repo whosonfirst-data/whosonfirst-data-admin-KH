@@ -1,0 +1,72 @@
+{
+  "id": 1310108867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.97239,12.08639,104.97239,12.08639",
+    "geom:latitude":12.08639,
+    "geom:longitude":104.97239,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Phumi Don Pen",
+    "gn:country_code":"KH",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828464,
+    "gn:latitude":12.08639,
+    "gn:longitude":104.97239,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Don P\u00ean",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Don P\u00ean",
+        "Phum\u012d Don",
+        "Phum\u012d Don P\u00ean"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673041,
+        1108564611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828464
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"4231d2fe7dc9b7a527e5c9990d4cdda9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564611,
+            "locality_id":1310108867,
+            "region_id":85673041
+        }
+    ],
+    "wof:id":1310108867,
+    "wof:lastmodified":1537653808,
+    "wof:name":"Phumi Don Pen",
+    "wof:parent_id":1108564611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.97239,
+    12.08639,
+    104.97239,
+    12.08639
+],
+  "geometry": {"coordinates":[104.97239,12.08639],"type":"Point"}
+}

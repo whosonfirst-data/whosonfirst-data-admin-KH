@@ -1,0 +1,78 @@
+{
+  "id": 1226705979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.651,13.50935,103.651,13.50935",
+    "geom:latitude":13.50935,
+    "geom:longitude":103.651,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Kouk Chrey",
+    "gn:country_code":"KH",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827392,
+    "gn:latitude":13.50935,
+    "gn:longitude":103.651,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Kouk Chrey",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Kouk Chrey"
+    ],
+    "name:khm_x_variant":[
+        "Phum Ko\u016dk K\u00f4r",
+        "\u1797\u17bc\u1798\u17b7 \u1782\u17c4\u1780\u1782\u179a"
+    ],
+    "name:und_x_variant":[
+        "Phum Kauk Ko",
+        "Phum\u012d Ko\u016dk K\u00f4r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673029,
+        421185505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827392
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"9b09ce95b34fa181e7e53832fc53748f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421185505,
+            "locality_id":1226705979,
+            "region_id":85673029
+        }
+    ],
+    "wof:id":1226705979,
+    "wof:lastmodified":1537653713,
+    "wof:name":"Kouk Chrey",
+    "wof:parent_id":421185505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.651,
+    13.50935,
+    103.651,
+    13.50935
+],
+  "geometry": {"coordinates":[103.651,13.50935],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1276524227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.92902,13.57883,104.92902,13.57883",
+    "geom:latitude":13.57883,
+    "geom:longitude":104.92902,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Pra Heat",
+    "gn:country_code":"KH",
+    "gn:dem":103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1826132,
+    "gn:latitude":13.57883,
+    "gn:longitude":104.92902,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Pra Heat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Pra Heat"
+    ],
+    "name:khm_x_variant":[
+        "Phum\u012d Pr\u00e2th\u00e9at",
+        "\u1797\u17bc\u1798\u17b7 \u1794\u17d2\u179a\u1792\u17b6\u178f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673071,
+        1108564827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1826132
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"6472169ee5cb15f12ebbe021f3e36384",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564827,
+            "locality_id":1276524227,
+            "region_id":85673071
+        }
+    ],
+    "wof:id":1276524227,
+    "wof:lastmodified":1537653597,
+    "wof:name":"Pra Heat",
+    "wof:parent_id":1108564827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.92902,
+    13.57883,
+    104.92902,
+    13.57883
+],
+  "geometry": {"coordinates":[104.92901999999999,13.57883],"type":"Point"}
+}

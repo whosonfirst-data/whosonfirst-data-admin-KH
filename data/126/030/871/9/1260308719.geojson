@@ -1,0 +1,67 @@
+{
+  "id": 1260308719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.78728,12.79336,104.78728,12.79336",
+    "geom:latitude":12.79336,
+    "geom:longitude":104.78728,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Phumi Ta Ream",
+    "gn:country_code":"KH",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1824060,
+    "gn:latitude":12.79336,
+    "gn:longitude":104.78728,
+    "gn:modification_date":"1993-12-30",
+    "gn:name":"Phum\u012d Ta R\u00e9am",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673057,
+        421169333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1824060
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"55659a674c280486bfd1531772686707",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421169333,
+            "locality_id":1260308719,
+            "region_id":85673057
+        }
+    ],
+    "wof:id":1260308719,
+    "wof:lastmodified":1536678140,
+    "wof:name":"Phumi Ta Ream",
+    "wof:parent_id":421169333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.78728,
+    12.79336,
+    104.78728,
+    12.79336
+],
+  "geometry": {"coordinates":[104.78728,12.79336],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1293460683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.26379,11.37183,105.26379,11.37183",
+    "geom:latitude":11.37183,
+    "geom:longitude":105.26379,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Phum Banlich",
+    "gn:country_code":"KH",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829636,
+    "gn:latitude":11.37183,
+    "gn:longitude":105.26379,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Phum B\u00e2nl\u012dch",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum B\u00e2nl\u012dch"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1794\u1793\u17d2\u179b\u17b7\u1785"
+    ],
+    "name:und_x_variant":[
+        "Phum Banlech",
+        "Phum\u012d B\u00e2nl\u012dch"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673067,
+        421191397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829636
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"b0c98e7e42979bde8715c24429c64b81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421191397,
+            "locality_id":1293460683,
+            "region_id":85673067
+        }
+    ],
+    "wof:id":1293460683,
+    "wof:lastmodified":1537653898,
+    "wof:name":"Phum Banlich",
+    "wof:parent_id":421191397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.26379,
+    11.37183,
+    105.26379,
+    11.37183
+],
+  "geometry": {"coordinates":[105.26379,11.37183],"type":"Point"}
+}

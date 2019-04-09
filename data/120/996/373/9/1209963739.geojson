@@ -1,0 +1,73 @@
+{
+  "id": 1209963739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.4903,12.87272,103.4903,12.87272",
+    "geom:latitude":12.87272,
+    "geom:longitude":103.4903,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Phum Tul Kod Veach",
+    "gn:country_code":"KH",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11349824,
+    "gn:latitude":12.87272,
+    "gn:longitude":103.4903,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Phum T\u016dl K\u014fd Veach",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum T\u016dl K\u014fd Veach"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1791\u179b\u1780\u17bb\u178a\u179c\u17b6\u1785"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673015,
+        1108564739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11349824
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"3c6d30bf7f500fed675b4f8660d3141e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564739,
+            "locality_id":1209963739,
+            "region_id":85673015
+        }
+    ],
+    "wof:id":1209963739,
+    "wof:lastmodified":1537653976,
+    "wof:name":"Phum Tul Kod Veach",
+    "wof:parent_id":1108564739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.4903,
+    12.87272,
+    103.4903,
+    12.87272
+],
+  "geometry": {"coordinates":[103.4903,12.87272],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1243459295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.12538,12.39688,105.12538,12.39688",
+    "geom:latitude":12.39688,
+    "geom:longitude":105.12538,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Chan Lhang",
+    "gn:country_code":"KH",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829151,
+    "gn:latitude":12.39688,
+    "gn:longitude":105.12538,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Chan Lhang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Chan Lhang"
+    ],
+    "name:und_x_variant":[
+        "Phum Chanlohang",
+        "Phum\u012d Ch\u0103n Lh\u00e1ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673057,
+        421198921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829151
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"d2160022f3baac4cc32bbd373438f92a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421198921,
+            "locality_id":1243459295,
+            "region_id":85673057
+        }
+    ],
+    "wof:id":1243459295,
+    "wof:lastmodified":1537653862,
+    "wof:name":"Chan Lhang",
+    "wof:parent_id":421198921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.12538,
+    12.39688,
+    105.12538,
+    12.39688
+],
+  "geometry": {"coordinates":[105.12538000000001,12.39688],"type":"Point"}
+}

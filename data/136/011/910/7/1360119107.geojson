@@ -1,0 +1,78 @@
+{
+  "id": 1360119107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.72515,12.16399,105.72515,12.16399",
+    "geom:latitude":12.16399,
+    "geom:longitude":105.72515,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Phum Slap Ruos",
+    "gn:country_code":"KH",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1824865,
+    "gn:latitude":12.16399,
+    "gn:longitude":105.72515,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Phum Slap Ru\u014fs",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Slap Ru\u014fs"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u179f\u17d2\u179b\u17b6\u1794\u17cb\u179a\u179f\u17cb"
+    ],
+    "name:und_x_variant":[
+        "Phum Slap Ros",
+        "Phum Slop Ros",
+        "Phum\u012d Sl\u0103b R\u00f3s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        1108804319,
+        1108564719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1824865
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"49abd99395765d9cd6e4bfc0f8728890",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564719,
+            "locality_id":1360119107,
+            "region_id":1108804319
+        }
+    ],
+    "wof:id":1360119107,
+    "wof:lastmodified":1537653492,
+    "wof:name":"Phum Slap Ruos",
+    "wof:parent_id":1108564719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.72515,
+    12.16399,
+    105.72515,
+    12.16399
+],
+  "geometry": {"coordinates":[105.72515,12.16399],"type":"Point"}
+}

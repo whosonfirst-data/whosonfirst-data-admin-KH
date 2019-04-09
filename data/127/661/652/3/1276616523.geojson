@@ -1,0 +1,72 @@
+{
+  "id": 1276616523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.80698,10.84156,104.80698,10.84156",
+    "geom:latitude":10.84156,
+    "geom:longitude":104.80698,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Phumi Chheuteal",
+    "gn:country_code":"KH",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828995,
+    "gn:latitude":10.84156,
+    "gn:longitude":104.80698,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Phum\u012d Chheut\u00e9al",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum\u012d Prey Chheut\u00e9al",
+        "Phum Chh\u0153ut\u00e9al",
+        "Phum\u012d Chheut\u00e9al"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673107,
+        1108564881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828995
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"91e906601972ad2ae3745c632d11c192",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564881,
+            "locality_id":1276616523,
+            "region_id":85673107
+        }
+    ],
+    "wof:id":1276616523,
+    "wof:lastmodified":1537653849,
+    "wof:name":"Phumi Chheuteal",
+    "wof:parent_id":1108564881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.80698,
+    10.84156,
+    104.80698,
+    10.84156
+],
+  "geometry": {"coordinates":[104.80698,10.84156],"type":"Point"}
+}

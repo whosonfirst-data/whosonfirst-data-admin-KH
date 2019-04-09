@@ -1,0 +1,72 @@
+{
+  "id": 1192993509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.79553,10.97935,104.79553,10.97935",
+    "geom:latitude":10.97935,
+    "geom:longitude":104.79553,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Vott Amra",
+    "gn:country_code":"KH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1821387,
+    "gn:latitude":10.97935,
+    "gn:longitude":104.79553,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"V\u00f4tt \u00c2mra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vatt \u00c2mra",
+        "Vat Amra",
+        "V\u00f4tt \u00c2mra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673107,
+        421187977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1821387
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"49e80c7becebece99665e8df5be8cf31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421187977,
+            "locality_id":1192993509,
+            "region_id":85673107
+        }
+    ],
+    "wof:id":1192993509,
+    "wof:lastmodified":1537653321,
+    "wof:name":"Vott Amra",
+    "wof:parent_id":421187977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.79553,
+    10.97935,
+    104.79553,
+    10.97935
+],
+  "geometry": {"coordinates":[104.79553,10.97935],"type":"Point"}
+}

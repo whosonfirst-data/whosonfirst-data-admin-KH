@@ -1,0 +1,78 @@
+{
+  "id": 1326619743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.84172,12.27215,105.84172,12.27215",
+    "geom:latitude":12.27215,
+    "geom:longitude":105.84172,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Chrouy Thma",
+    "gn:country_code":"KH",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828738,
+    "gn:latitude":12.27215,
+    "gn:longitude":105.84172,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Chrouy Thma",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Chrouy Thma"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1787\u17d2\u179a\u17c4\u1799\u1790\u17d2\u1798",
+        "Phum Chro\u016dy Thm\u00e2"
+    ],
+    "name:und_x_variant":[
+        "Phum Chruy Thmor",
+        "Phum\u012d Chro\u016dy Thm\u00e2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673081,
+        1108564781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828738
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"156c49700db280df01ada69839f2f060",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564781,
+            "locality_id":1326619743,
+            "region_id":85673081
+        }
+    ],
+    "wof:id":1326619743,
+    "wof:lastmodified":1537653829,
+    "wof:name":"Chrouy Thma",
+    "wof:parent_id":1108564781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.84172,
+    12.27215,
+    105.84172,
+    12.27215
+],
+  "geometry": {"coordinates":[105.84172,12.27215],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1326909711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.67555,13.84134,104.67555,13.84134",
+    "geom:latitude":13.84134,
+    "geom:longitude":104.67555,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Pyuor Chruk",
+    "gn:country_code":"KH",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1822573,
+    "gn:latitude":13.84134,
+    "gn:longitude":104.67555,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Pyuor Chruk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Pyuor Chruk"
+    ],
+    "name:khm_x_variant":[
+        "\u1796\u17d2\u1799\u17bd\u179a\u1787\u17d2\u179a\u17bc\u1780"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Phyu\u014fr Chruk",
+        "Phyuor Chruk",
+        "Pyu\u014fr Chruk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673071,
+        421194859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1822573
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"9bb36dbee217ebd6524a3ea0f99e388f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421194859,
+            "locality_id":1326909711,
+            "region_id":85673071
+        }
+    ],
+    "wof:id":1326909711,
+    "wof:lastmodified":1537653333,
+    "wof:name":"Pyuor Chruk",
+    "wof:parent_id":421194859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.67555,
+    13.84134,
+    104.67555,
+    13.84134
+],
+  "geometry": {"coordinates":[104.67555,13.84134],"type":"Point"}
+}

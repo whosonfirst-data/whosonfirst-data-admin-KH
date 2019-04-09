@@ -1,0 +1,75 @@
+{
+  "id": 1242769595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.78719,11.72547,104.78719,11.72547",
+    "geom:latitude":11.72547,
+    "geom:longitude":104.78719,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Chrey Loas",
+    "gn:country_code":"KH",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1821309,
+    "gn:latitude":11.72547,
+    "gn:longitude":104.78719,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Chrey Loas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Chrey Loas"
+    ],
+    "name:und_x_variant":[
+        "Wat chrey Leas",
+        "Kh\u016dm Chreg Le\u0103s",
+        "Kh\u016dm Chrey Lo\u0103s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673051,
+        421188235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1821309
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"b6f6a2bec0df6cd15cb98d273a5ffe25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421188235,
+            "locality_id":1242769595,
+            "region_id":85673051
+        }
+    ],
+    "wof:id":1242769595,
+    "wof:lastmodified":1537653317,
+    "wof:name":"Chrey Loas",
+    "wof:parent_id":421188235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.78719,
+    11.72547,
+    104.78719,
+    11.72547
+],
+  "geometry": {"coordinates":[104.78719,11.72547],"type":"Point"}
+}

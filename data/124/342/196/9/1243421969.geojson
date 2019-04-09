@@ -1,0 +1,79 @@
+{
+  "id": 1243421969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.35532,13.59679,103.35532,13.59679",
+    "geom:latitude":13.59679,
+    "geom:longitude":103.35532,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Phnum Lieb",
+    "gn:country_code":"KH",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1826456,
+    "gn:latitude":13.59679,
+    "gn:longitude":103.35532,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Phnum Lieb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phnum Lieb"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1797\u17d2\u1793\u17c6\u179b\u17c0\u1794",
+        "Phum Phn\u016dm Li\u0115p"
+    ],
+    "name:und_x_variant":[
+        "Phum Phnom Liep",
+        "Phum\u012d Phn\u016dm Li\u0115p",
+        "Phum\u012d Phnum Li\u0115b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673011,
+        421183973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1826456
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"0b055578c569300d02f29b33c185f402",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421183973,
+            "locality_id":1243421969,
+            "region_id":85673011
+        }
+    ],
+    "wof:id":1243421969,
+    "wof:lastmodified":1537653627,
+    "wof:name":"Phnum Lieb",
+    "wof:parent_id":421183973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.35532,
+    13.59679,
+    103.35532,
+    13.59679
+],
+  "geometry": {"coordinates":[103.35532000000001,13.59679],"type":"Point"}
+}

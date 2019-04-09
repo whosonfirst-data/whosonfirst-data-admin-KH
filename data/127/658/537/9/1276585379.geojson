@@ -1,0 +1,70 @@
+{
+  "id": 1276585379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.6,11.74698,104.6,11.74698",
+    "geom:latitude":11.74698,
+    "geom:longitude":104.6,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Tep Phirom",
+    "gn:country_code":"KH",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11475459,
+    "gn:latitude":11.74698,
+    "gn:longitude":104.6,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Tep Phirom",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Tep Phirom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673053,
+        1108564873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11475459
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"fae20ea6b0798ffd168927f8667424bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564873,
+            "locality_id":1276585379,
+            "region_id":85673053
+        }
+    ],
+    "wof:id":1276585379,
+    "wof:lastmodified":1537654032,
+    "wof:name":"Tep Phirom",
+    "wof:parent_id":1108564873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.6,
+    11.74698,
+    104.6,
+    11.74698
+],
+  "geometry": {"coordinates":[104.59999999999999,11.74698],"type":"Point"}
+}

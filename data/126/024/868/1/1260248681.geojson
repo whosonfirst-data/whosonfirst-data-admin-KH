@@ -1,0 +1,70 @@
+{
+  "id": 1260248681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.15491,14.13075,103.15491,14.13075",
+    "geom:latitude":14.13075,
+    "geom:longitude":103.15491,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Sopheap",
+    "gn:country_code":"KH",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11531757,
+    "gn:latitude":14.13075,
+    "gn:longitude":103.15491,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Sopheap",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Sopheap"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673033,
+        1108564599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11531757
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"bfe4f57b654259a1329d3eb72eeaa17a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564599,
+            "locality_id":1260248681,
+            "region_id":85673033
+        }
+    ],
+    "wof:id":1260248681,
+    "wof:lastmodified":1537654092,
+    "wof:name":"Sopheap",
+    "wof:parent_id":1108564599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.15491,
+    14.13075,
+    103.15491,
+    14.13075
+],
+  "geometry": {"coordinates":[103.15491,14.13075],"type":"Point"}
+}

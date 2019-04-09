@@ -1,0 +1,71 @@
+{
+  "id": 1310064279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.95512,11.68664,104.95512,11.68664",
+    "geom:latitude":11.68664,
+    "geom:longitude":104.95512,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Phumi Kbal Kaoh Leu",
+    "gn:country_code":"KH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827855,
+    "gn:latitude":11.68664,
+    "gn:longitude":104.95512,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Phum\u012d Kbal Ka\u00f4h Leu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khbal Kos",
+        "Phum\u012d Kbal Ka\u00f4h Leu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673063,
+        1108564649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827855
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"2129dda27e7e90270d8b70c2babfef9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564649,
+            "locality_id":1310064279,
+            "region_id":85673063
+        }
+    ],
+    "wof:id":1310064279,
+    "wof:lastmodified":1537653755,
+    "wof:name":"Phumi Kbal Kaoh Leu",
+    "wof:parent_id":1108564649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.95512,
+    11.68664,
+    104.95512,
+    11.68664
+],
+  "geometry": {"coordinates":[104.95511999999999,11.68664],"type":"Point"}
+}

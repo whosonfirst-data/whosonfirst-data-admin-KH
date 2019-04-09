@@ -1,0 +1,65 @@
+{
+  "id": 1209013345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.9677,12.25593,104.9677,12.25593",
+    "geom:latitude":12.25593,
+    "geom:longitude":104.9677,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Phumi Rout",
+    "gn:country_code":"KH",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825291,
+    "gn:latitude":12.25593,
+    "gn:longitude":104.9677,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Ro\u016dt",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum Rot",
+        "Phum\u012d Ro\u016dt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825291
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"590d5b101cd06c02350fcb2c23e0c9ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209013345
+        }
+    ],
+    "wof:id":1209013345,
+    "wof:lastmodified":1537653528,
+    "wof:name":"Phumi Rout",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.9677,
+    12.25593,
+    104.9677,
+    12.25593
+],
+  "geometry": {"coordinates":[104.96769999999999,12.25593],"type":"Point"}
+}

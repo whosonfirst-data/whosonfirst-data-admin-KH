@@ -1,0 +1,72 @@
+{
+  "id": 1344267013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.81338,11.35697,104.81338,11.35697",
+    "geom:latitude":11.35697,
+    "geom:longitude":104.81338,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Phumi Damrei Slab",
+    "gn:country_code":"KH",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828598,
+    "gn:latitude":11.35697,
+    "gn:longitude":104.81338,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d D\u00e2mrei Sl\u0103b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum\u012d D\u00e2mret Slap",
+        "Phum\u012d D\u00e2mrei Slap",
+        "Phum\u012d D\u00e2mrei Sl\u0103b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673051,
+        1108564685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828598
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"f3aca83d1055391432295b039a4066ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564685,
+            "locality_id":1344267013,
+            "region_id":85673051
+        }
+    ],
+    "wof:id":1344267013,
+    "wof:lastmodified":1537653818,
+    "wof:name":"Phumi Damrei Slab",
+    "wof:parent_id":1108564685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.81338,
+    11.35697,
+    104.81338,
+    11.35697
+],
+  "geometry": {"coordinates":[104.81338,11.35697],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1309774683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.20852,14.03386,107.20852,14.03386",
+    "geom:latitude":14.03386,
+    "geom:longitude":107.20852,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Phum Chuay",
+    "gn:country_code":"KH",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8442095,
+    "gn:latitude":14.03386,
+    "gn:longitude":107.20852,
+    "gn:modification_date":"2013-01-12",
+    "gn:name":"Phum Chuay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673089,
+        421188053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8442095
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"95551ea89ea3a554a71e421352aee904",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421188053,
+            "locality_id":1309774683,
+            "region_id":85673089
+        }
+    ],
+    "wof:id":1309774683,
+    "wof:lastmodified":1536975539,
+    "wof:name":"Phum Chuay",
+    "wof:parent_id":421188053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.20852,
+    14.03386,
+    107.20852,
+    14.03386
+],
+  "geometry": {"coordinates":[107.20851999999999,14.03386],"type":"Point"}
+}

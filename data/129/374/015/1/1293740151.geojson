@@ -1,0 +1,71 @@
+{
+  "id": 1293740151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.88067,13.85508,106.88067,13.85508",
+    "geom:latitude":13.85508,
+    "geom:longitude":106.88067,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Phumi Kalai Kanuv",
+    "gn:country_code":"KH",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828382,
+    "gn:latitude":13.85508,
+    "gn:longitude":106.88067,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Kalai Kanuv",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kompong Cham Kau",
+        "Phum\u012d Kalai Kanuv"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673089,
+        421194641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828382
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"d94f8150f79a1265ad2aa8c2c5763d45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421194641,
+            "locality_id":1293740151,
+            "region_id":85673089
+        }
+    ],
+    "wof:id":1293740151,
+    "wof:lastmodified":1537653801,
+    "wof:name":"Phumi Kalai Kanuv",
+    "wof:parent_id":421194641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.88067,
+    13.85508,
+    106.88067,
+    13.85508
+],
+  "geometry": {"coordinates":[106.88066999999999,13.85508],"type":"Point"}
+}

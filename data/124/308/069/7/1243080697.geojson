@@ -1,0 +1,73 @@
+{
+  "id": 1243080697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.05746,12.12058,105.05746,12.12058",
+    "geom:latitude":12.12058,
+    "geom:longitude":105.05746,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Kdoy",
+    "gn:country_code":"KH",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827785,
+    "gn:latitude":12.12058,
+    "gn:longitude":105.05746,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Kdoy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Kdoy"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Kd\u014fy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673041,
+        421195831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827785
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"1ee867f577d597d041aa9b4abba16f40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421195831,
+            "locality_id":1243080697,
+            "region_id":85673041
+        }
+    ],
+    "wof:id":1243080697,
+    "wof:lastmodified":1537653749,
+    "wof:name":"Kdoy",
+    "wof:parent_id":421195831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.05746,
+    12.12058,
+    105.05746,
+    12.12058
+],
+  "geometry": {"coordinates":[105.05746000000001,12.12058],"type":"Point"}
+}

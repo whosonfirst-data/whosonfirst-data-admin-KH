@@ -1,0 +1,73 @@
+{
+  "id": 1276938209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.5478,13.29312,103.5478,13.29312",
+    "geom:latitude":13.29312,
+    "geom:longitude":103.5478,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Phum Kaoh Anhchanh",
+    "gn:country_code":"KH",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11564504,
+    "gn:latitude":13.29312,
+    "gn:longitude":103.5478,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Phum Ka\u00f4h \u00c2nhchanh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Ka\u00f4h \u00c2nhchanh"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1780\u17c4\u17c7\u17a2\u1789\u17d2\u1785\u17b6\u1789"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673015,
+        421172391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11564504
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"ee613bd4bd123bd91be4263937402407",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421172391,
+            "locality_id":1276938209,
+            "region_id":85673015
+        }
+    ],
+    "wof:id":1276938209,
+    "wof:lastmodified":1537654112,
+    "wof:name":"Phum Kaoh Anhchanh",
+    "wof:parent_id":421172391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.5478,
+    13.29312,
+    103.5478,
+    13.29312
+],
+  "geometry": {"coordinates":[103.5478,13.29312],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1360268963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.46535,11.23508,105.46535,11.23508",
+    "geom:latitude":11.23508,
+    "geom:longitude":105.46535,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Sdau Kaong",
+    "gn:country_code":"KH",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11478016,
+    "gn:latitude":11.23508,
+    "gn:longitude":105.46535,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Sdau Kaong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Sdau Kaong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673067,
+        1108564593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11478016
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"68e2c20a60fd7fd5a60141af0be48e7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564593,
+            "locality_id":1360268963,
+            "region_id":85673067
+        }
+    ],
+    "wof:id":1360268963,
+    "wof:lastmodified":1537654039,
+    "wof:name":"Sdau Kaong",
+    "wof:parent_id":1108564593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.46535,
+    11.23508,
+    105.46535,
+    11.23508
+],
+  "geometry": {"coordinates":[105.46535,11.23508],"type":"Point"}
+}

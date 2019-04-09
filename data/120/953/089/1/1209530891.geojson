@@ -1,0 +1,61 @@
+{
+  "id": 1209530891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.93009,13.37017,102.93009,13.37017",
+    "geom:latitude":13.37017,
+    "geom:longitude":102.93009,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Phumi Ta Mau",
+    "gn:country_code":"KH",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1824223,
+    "gn:latitude":13.37017,
+    "gn:longitude":102.93009,
+    "gn:modification_date":"1993-12-30",
+    "gn:name":"Phum\u012d Ta Mau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1824223
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"462eaef15081f8a6141e36e8d52e2cbf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209530891
+        }
+    ],
+    "wof:id":1209530891,
+    "wof:lastmodified":1536284283,
+    "wof:name":"Phumi Ta Mau",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.93009,
+    13.370170000000002,
+    102.93009,
+    13.370170000000002
+],
+  "geometry": {"coordinates":[102.93009000000001,13.37017],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1310502081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.1909,11.66719,104.1909,11.66719",
+    "geom:latitude":11.66719,
+    "geom:longitude":104.1909,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Ta Minh",
+    "gn:country_code":"KH",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1823397,
+    "gn:latitude":11.66719,
+    "gn:longitude":104.1909,
+    "gn:modification_date":"2017-07-05",
+    "gn:name":"Ta Minh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Ta Minh"
+    ],
+    "name:khm_x_variant":[
+        "Phum\u012d Tr\u00e2pe\u0103ng K\u00f4ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673053,
+        1108564591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1823397
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"1b4c8e53e6c7e73788ba3e6d451cab8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564591,
+            "locality_id":1310502081,
+            "region_id":85673053
+        }
+    ],
+    "wof:id":1310502081,
+    "wof:lastmodified":1537653376,
+    "wof:name":"Ta Minh",
+    "wof:parent_id":1108564591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.1909,
+    11.66719,
+    104.1909,
+    11.66719
+],
+  "geometry": {"coordinates":[104.1909,11.66719],"type":"Point"}
+}

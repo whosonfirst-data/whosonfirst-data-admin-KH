@@ -1,0 +1,71 @@
+{
+  "id": 1360219517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.54539,11.94668,105.54539,11.94668",
+    "geom:latitude":11.94668,
+    "geom:longitude":105.54539,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Phumi Sre Siem",
+    "gn:country_code":"KH",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1824567,
+    "gn:latitude":11.94668,
+    "gn:longitude":105.54539,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Phum\u012d Sr\u00ea Si\u0115m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum\u012d Sr\u00ea S\u00e9am",
+        "Phum\u012d Sr\u00ea Si\u0115m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        1108804319,
+        421183891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1824567
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"7a9d25f2ec4dc6bce655d169b7f738e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421183891,
+            "locality_id":1360219517,
+            "region_id":1108804319
+        }
+    ],
+    "wof:id":1360219517,
+    "wof:lastmodified":1537653468,
+    "wof:name":"Phumi Sre Siem",
+    "wof:parent_id":421183891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.54539,
+    11.94668,
+    105.54539,
+    11.94668
+],
+  "geometry": {"coordinates":[105.54539,11.94668],"type":"Point"}
+}

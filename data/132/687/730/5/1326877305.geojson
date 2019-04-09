@@ -1,0 +1,73 @@
+{
+  "id": 1326877305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.78813,13.11908,102.78813,13.11908",
+    "geom:latitude":13.11908,
+    "geom:longitude":102.78813,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Anlong Reang",
+    "gn:country_code":"KH",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829815,
+    "gn:latitude":13.11908,
+    "gn:longitude":102.78813,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Anlong Reang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Anlong Reang"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d \u00c2nl\u00f3ng Re\u0103ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673015,
+        1108564615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829815
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"55f9a10a2a77a45973ee71d227ba8eb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564615,
+            "locality_id":1326877305,
+            "region_id":85673015
+        }
+    ],
+    "wof:id":1326877305,
+    "wof:lastmodified":1537653914,
+    "wof:name":"Anlong Reang",
+    "wof:parent_id":1108564615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.78813,
+    13.11908,
+    102.78813,
+    13.11908
+],
+  "geometry": {"coordinates":[102.78813,13.11908],"type":"Point"}
+}

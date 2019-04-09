@@ -1,0 +1,70 @@
+{
+  "id": 1276719595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.24008,13.55617,104.24008,13.55617",
+    "geom:latitude":13.55617,
+    "geom:longitude":104.24008,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Bet Phka",
+    "gn:country_code":"KH",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11458519,
+    "gn:latitude":13.55617,
+    "gn:longitude":104.24008,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Bet Phka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Bet Phka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673029,
+        421200831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11458519
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"07337ea2fb21333b367c2a35a7ea536c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421200831,
+            "locality_id":1276719595,
+            "region_id":85673029
+        }
+    ],
+    "wof:id":1276719595,
+    "wof:lastmodified":1537654017,
+    "wof:name":"Bet Phka",
+    "wof:parent_id":421200831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.24008,
+    13.55617,
+    104.24008,
+    13.55617
+],
+  "geometry": {"coordinates":[104.24008000000001,13.55617],"type":"Point"}
+}

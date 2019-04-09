@@ -1,0 +1,71 @@
+{
+  "id": 1226125843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.43416,11.22045,105.43416,11.22045",
+    "geom:latitude":11.22045,
+    "geom:longitude":105.43416,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Phumi Svay Tmat",
+    "gn:country_code":"KH",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1824354,
+    "gn:latitude":11.22045,
+    "gn:longitude":105.43416,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Svay Tmat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum Soai Thmat",
+        "Phum\u012d Svay Tmat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673067,
+        1108564593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1824354
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"194c5ab98d1fd20428678c913022853d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564593,
+            "locality_id":1226125843,
+            "region_id":85673067
+        }
+    ],
+    "wof:id":1226125843,
+    "wof:lastmodified":1537653450,
+    "wof:name":"Phumi Svay Tmat",
+    "wof:parent_id":1108564593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.43416,
+    11.22045,
+    105.43416,
+    11.22045
+],
+  "geometry": {"coordinates":[105.43416000000001,11.22045],"type":"Point"}
+}

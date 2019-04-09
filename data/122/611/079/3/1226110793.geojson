@@ -1,0 +1,71 @@
+{
+  "id": 1226110793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.99027,13.80206,106.99027,13.80206",
+    "geom:latitude":13.80206,
+    "geom:longitude":106.99027,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Phumi Thlang Svay",
+    "gn:country_code":"KH",
+    "gn:dem":254,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1823936,
+    "gn:latitude":13.80206,
+    "gn:longitude":106.99027,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Thl\u00e2ng Svay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Talong Nhay",
+        "Phum\u012d Thl\u00e2ng Svay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673089,
+        1108564743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1823936
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"560388ef809367ed94a8f8d04be4788a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564743,
+            "locality_id":1226110793,
+            "region_id":85673089
+        }
+    ],
+    "wof:id":1226110793,
+    "wof:lastmodified":1537653417,
+    "wof:name":"Phumi Thlang Svay",
+    "wof:parent_id":1108564743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.99027,
+    13.80206,
+    106.99027,
+    13.80206
+],
+  "geometry": {"coordinates":[106.99027,13.80206],"type":"Point"}
+}

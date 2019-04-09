@@ -1,0 +1,73 @@
+{
+  "id": 1293563177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.45785,10.60797,104.45785,10.60797",
+    "geom:latitude":10.60797,
+    "geom:longitude":104.45785,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Ou Slaeng",
+    "gn:country_code":"KH",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1826686,
+    "gn:latitude":10.60797,
+    "gn:longitude":104.45785,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Ou Slaeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Ou Slaeng"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d O Sl\u00eang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673093,
+        1108564675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1826686
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"dcffe3c54aab5dca8051fddbfc7c3e9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564675,
+            "locality_id":1293563177,
+            "region_id":85673093
+        }
+    ],
+    "wof:id":1293563177,
+    "wof:lastmodified":1537653649,
+    "wof:name":"Ou Slaeng",
+    "wof:parent_id":1108564675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.45785,
+    10.60797,
+    104.45785,
+    10.60797
+],
+  "geometry": {"coordinates":[104.45784999999999,10.60797],"type":"Point"}
+}

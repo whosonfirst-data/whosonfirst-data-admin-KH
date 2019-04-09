@@ -1,0 +1,71 @@
+{
+  "id": 1259981345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.69011,12.30201,104.69011,12.30201",
+    "geom:latitude":12.30201,
+    "geom:longitude":104.69011,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Phumi Peam Tonlea",
+    "gn:country_code":"KH",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1826588,
+    "gn:latitude":12.30201,
+    "gn:longitude":104.69011,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d P\u00e9am T\u00f4nl\u00e9a",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Peam Tonlea",
+        "Phum\u012d P\u00e9am T\u00f4nl\u00e9a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673047,
+        421188239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1826588
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"cfc4d3f4c5d6f65b05db707ca15ae432",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421188239,
+            "locality_id":1259981345,
+            "region_id":85673047
+        }
+    ],
+    "wof:id":1259981345,
+    "wof:lastmodified":1537653639,
+    "wof:name":"Phumi Peam Tonlea",
+    "wof:parent_id":421188239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.69011,
+    12.30201,
+    104.69011,
+    12.30201
+],
+  "geometry": {"coordinates":[104.69011,12.30201],"type":"Point"}
+}

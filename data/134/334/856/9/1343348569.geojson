@@ -1,0 +1,73 @@
+{
+  "id": 1343348569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.1157,12.57479,104.1157,12.57479",
+    "geom:latitude":12.57479,
+    "geom:longitude":104.1157,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Ou Ta Prok",
+    "gn:country_code":"KH",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1826671,
+    "gn:latitude":12.57479,
+    "gn:longitude":104.1157,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Ou Ta Prok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Ou Ta Prok"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d O Ta Pr\u014fk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673023,
+        421203239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1826671
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"152dc472c4b630bb82b86bd436ee8fc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421203239,
+            "locality_id":1343348569,
+            "region_id":85673023
+        }
+    ],
+    "wof:id":1343348569,
+    "wof:lastmodified":1537653647,
+    "wof:name":"Ou Ta Prok",
+    "wof:parent_id":421203239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.1157,
+    12.57479,
+    104.1157,
+    12.57479
+],
+  "geometry": {"coordinates":[104.1157,12.57479],"type":"Point"}
+}

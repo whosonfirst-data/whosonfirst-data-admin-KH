@@ -1,0 +1,77 @@
+{
+  "id": 1225995549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.81458,10.69556,103.81458,10.69556",
+    "geom:latitude":10.69556,
+    "geom:longitude":103.81458,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Phum Samraong Kandal",
+    "gn:country_code":"KH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825091,
+    "gn:latitude":10.69556,
+    "gn:longitude":103.81458,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Phum S\u00e2mra\u00f4ng K\u00e2ndal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum S\u00e2mra\u00f4ng K\u00e2ndal"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u179f\u17c6\u179a\u17c4\u1784\u1780\u178e\u17d2\u178f\u17b6\u179b"
+    ],
+    "name:und_x_variant":[
+        "Samrung",
+        "Phum\u012d S\u00e2mra\u00f4ng K\u00e2ndal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673101,
+        421188243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825091
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"9d295ca601b138bd65f02138e4c8af85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421188243,
+            "locality_id":1225995549,
+            "region_id":85673101
+        }
+    ],
+    "wof:id":1225995549,
+    "wof:lastmodified":1537653511,
+    "wof:name":"Phum Samraong Kandal",
+    "wof:parent_id":421188243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.81458,
+    10.69556,
+    103.81458,
+    10.69556
+],
+  "geometry": {"coordinates":[103.81458000000001,10.69556],"type":"Point"}
+}

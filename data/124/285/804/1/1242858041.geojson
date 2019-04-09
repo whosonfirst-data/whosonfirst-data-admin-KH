@@ -1,0 +1,72 @@
+{
+  "id": 1242858041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.3475,10.98058,105.3475,10.98058",
+    "geom:latitude":10.98058,
+    "geom:longitude":105.3475,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Prey Toab",
+    "gn:country_code":"KH",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1822614,
+    "gn:latitude":10.98058,
+    "gn:longitude":105.3475,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Prey To\u0103b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Prey Te\u0103b",
+        "Prey Toap",
+        "Prey To\u0103b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673067,
+        1108564775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1822614
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"295c2e1edc227279c09909ed8c8cf50c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564775,
+            "locality_id":1242858041,
+            "region_id":85673067
+        }
+    ],
+    "wof:id":1242858041,
+    "wof:lastmodified":1537653333,
+    "wof:name":"Prey Toab",
+    "wof:parent_id":1108564775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.3475,
+    10.98058,
+    105.3475,
+    10.98058
+],
+  "geometry": {"coordinates":[105.3475,10.98058],"type":"Point"}
+}

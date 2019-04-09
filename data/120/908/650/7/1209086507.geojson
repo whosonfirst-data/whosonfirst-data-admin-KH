@@ -1,0 +1,67 @@
+{
+  "id": 1209086507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.81193,12.40969,103.81193,12.40969",
+    "geom:latitude":12.40969,
+    "geom:longitude":103.81193,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Kampeaeng",
+    "gn:country_code":"KH",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828334,
+    "gn:latitude":12.40969,
+    "gn:longitude":103.81193,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Kampeaeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Kampeaeng"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d K\u00e2mp\u00f3ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828334
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"0e1412972a2f14b9112cfe8b55ac9616",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209086507
+        }
+    ],
+    "wof:id":1209086507,
+    "wof:lastmodified":1537653797,
+    "wof:name":"Kampeaeng",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.81193,
+    12.40969,
+    103.81193,
+    12.40969
+],
+  "geometry": {"coordinates":[103.81193,12.40969],"type":"Point"}
+}

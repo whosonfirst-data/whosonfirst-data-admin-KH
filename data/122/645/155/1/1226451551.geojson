@@ -1,0 +1,74 @@
+{
+  "id": 1226451551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.9303,11.87096,104.9303,11.87096",
+    "geom:latitude":11.87096,
+    "geom:longitude":104.9303,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Prasat",
+    "gn:country_code":"KH",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1826170,
+    "gn:latitude":11.87096,
+    "gn:longitude":104.9303,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Prasat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Prasat"
+    ],
+    "name:und_x_variant":[
+        "Prasai",
+        "Phum\u012d Prasat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673041,
+        1108564611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1826170
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"7fd2afaef52c91623bf9db5bcb3601fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564611,
+            "locality_id":1226451551,
+            "region_id":85673041
+        }
+    ],
+    "wof:id":1226451551,
+    "wof:lastmodified":1537653601,
+    "wof:name":"Prasat",
+    "wof:parent_id":1108564611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.9303,
+    11.87096,
+    104.9303,
+    11.87096
+],
+  "geometry": {"coordinates":[104.9303,11.87096],"type":"Point"}
+}

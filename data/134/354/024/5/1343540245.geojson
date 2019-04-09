@@ -1,0 +1,74 @@
+{
+  "id": 1343540245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.27574,11.47798,105.27574,11.47798",
+    "geom:latitude":11.47798,
+    "geom:longitude":105.27574,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Bak Daok",
+    "gn:country_code":"KH",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829712,
+    "gn:latitude":11.47798,
+    "gn:longitude":105.27574,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Bak Daok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Bak Daok"
+    ],
+    "name:khm_x_variant":[
+        "Phum\u012d B\u0103k Da\u00f4k",
+        "\u1797\u17bc\u1798\u17b7 \u1794\u17b6\u1780\u17cb\u178a\u17c4\u1780"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673067,
+        1108564791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829712
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"f765ec8de7f280226fcb5e6c92e7f5fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564791,
+            "locality_id":1343540245,
+            "region_id":85673067
+        }
+    ],
+    "wof:id":1343540245,
+    "wof:lastmodified":1537653904,
+    "wof:name":"Bak Daok",
+    "wof:parent_id":1108564791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.27573999999998,
+    11.47798,
+    105.27573999999998,
+    11.47798
+],
+  "geometry": {"coordinates":[105.27573999999998,11.47798],"type":"Point"}
+}

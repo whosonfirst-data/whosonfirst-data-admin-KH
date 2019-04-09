@@ -1,0 +1,74 @@
+{
+  "id": 1243155621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.43728,11.43805,105.43728,11.43805",
+    "geom:latitude":11.43805,
+    "geom:longitude":105.43728,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Phum Praloeng Meas",
+    "gn:country_code":"KH",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1826201,
+    "gn:latitude":11.43805,
+    "gn:longitude":105.43728,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Phum Pr\u00e2l\u0153\u0306ng M\u00e9as",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Pr\u00e2l\u0153\u0306ng M\u00e9as"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1798\u17d2\u179a\u179b\u17b9\u1784\u1798\u17b6\u179f",
+        "Phum\u012d Pr\u00e2l\u0153\u0306ng M\u00e9as"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673067,
+        1108564859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1826201
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"f4242f2f36f8ad57097df32b4f47f372",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564859,
+            "locality_id":1243155621,
+            "region_id":85673067
+        }
+    ],
+    "wof:id":1243155621,
+    "wof:lastmodified":1537653603,
+    "wof:name":"Phum Praloeng Meas",
+    "wof:parent_id":1108564859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.43728,
+    11.43805,
+    105.43728,
+    11.43805
+],
+  "geometry": {"coordinates":[105.43728,11.43805],"type":"Point"}
+}

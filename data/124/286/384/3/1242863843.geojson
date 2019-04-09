@@ -1,0 +1,73 @@
+{
+  "id": 1242863843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.42459,12.10579,106.42459,12.10579",
+    "geom:latitude":12.10579,
+    "geom:longitude":106.42459,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Phum Tumlus",
+    "gn:country_code":"KH",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11509936,
+    "gn:latitude":12.10579,
+    "gn:longitude":106.42459,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Phum T\u016dml\u016ds",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum T\u016dml\u016ds"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1791\u17c6\u179b\u17bb\u179f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673081,
+        1108564841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11509936
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"c8bd1d49028d7f73d647f6751fd8db6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564841,
+            "locality_id":1242863843,
+            "region_id":85673081
+        }
+    ],
+    "wof:id":1242863843,
+    "wof:lastmodified":1537654083,
+    "wof:name":"Phum Tumlus",
+    "wof:parent_id":1108564841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.42459,
+    12.10579,
+    106.42459,
+    12.10579
+],
+  "geometry": {"coordinates":[106.42458999999999,12.10579],"type":"Point"}
+}

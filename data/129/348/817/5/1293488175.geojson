@@ -1,0 +1,70 @@
+{
+  "id": 1293488175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.68931,11.35784,104.68931,11.35784",
+    "geom:latitude":11.35784,
+    "geom:longitude":104.68931,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Phum Beng Kandol",
+    "gn:country_code":"KH",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829353,
+    "gn:latitude":11.35784,
+    "gn:longitude":104.68931,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Phum Beng Kandol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum\u012d B\u0153\u0306ng Tr\u00e9a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673053,
+        1108564715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829353
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"6cab80858ac06f8448dd886cb8cfd0f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564715,
+            "locality_id":1293488175,
+            "region_id":85673053
+        }
+    ],
+    "wof:id":1293488175,
+    "wof:lastmodified":1537653876,
+    "wof:name":"Phum Beng Kandol",
+    "wof:parent_id":1108564715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.68931,
+    11.35784,
+    104.68931,
+    11.35784
+],
+  "geometry": {"coordinates":[104.68931000000001,11.35784],"type":"Point"}
+}

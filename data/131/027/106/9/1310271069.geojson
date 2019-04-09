@@ -1,0 +1,74 @@
+{
+  "id": 1310271069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.94204,10.91967,105.94204,10.91967",
+    "geom:latitude":10.91967,
+    "geom:longitude":105.94204,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Kampong Rou",
+    "gn:country_code":"KH",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1831146,
+    "gn:latitude":10.91967,
+    "gn:longitude":105.94204,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"K\u00e2mp\u00f3ng Ro\u016d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kompong Rou",
+        "Kompong-Ra\u00fb",
+        "Kompang Ro",
+        "Kompong Ro",
+        "K\u00e2mp\u00f3ng Ro\u016d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673105,
+        1108564671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1831146
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"60202afba625068162b1b9dc1b5ce10b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564671,
+            "locality_id":1310271069,
+            "region_id":85673105
+        }
+    ],
+    "wof:id":1310271069,
+    "wof:lastmodified":1537653956,
+    "wof:name":"Kampong Rou",
+    "wof:parent_id":1108564671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.94204,
+    10.91967,
+    105.94204,
+    10.91967
+],
+  "geometry": {"coordinates":[105.94204000000001,10.91967],"type":"Point"}
+}

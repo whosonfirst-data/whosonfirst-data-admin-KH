@@ -1,0 +1,78 @@
+{
+  "id": 1260127039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.27743,12.87099,103.27743,12.87099",
+    "geom:latitude":12.87099,
+    "geom:longitude":103.27743,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Ra",
+    "gn:country_code":"KH",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1826448,
+    "gn:latitude":12.87099,
+    "gn:longitude":103.27743,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Ra"
+    ],
+    "name:khm_x_variant":[
+        "Phum Phn\u016dm Thipp\u00e2dei",
+        "\u1797\u17bc\u1798\u17b7 \u1797\u17d2\u1793\u17c6\u1792\u17b7\u1794\u178f\u17b8"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Phn\u016dm Thipp\u00e2dei",
+        "Phum\u012d Phnum Thipdei (2)"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673015,
+        1108564711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1826448
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"4ec03d323863b21611fbea5951770d06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564711,
+            "locality_id":1260127039,
+            "region_id":85673015
+        }
+    ],
+    "wof:id":1260127039,
+    "wof:lastmodified":1537653626,
+    "wof:name":"Ra",
+    "wof:parent_id":1108564711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.27743,
+    12.87099,
+    103.27743,
+    12.87099
+],
+  "geometry": {"coordinates":[103.27743,12.87099],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1327111043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.13059,13.38821,105.13059,13.38821",
+    "geom:latitude":13.38821,
+    "geom:longitude":105.13059,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Chambak Ph'aem",
+    "gn:country_code":"KH",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11481837,
+    "gn:latitude":13.38821,
+    "gn:longitude":105.13059,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Chambak Ph\u2019aem",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Chambak Ph\u2019aem"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673071,
+        1108564801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11481837
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"59763bb7276e3037856733d7f05da849",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564801,
+            "locality_id":1327111043,
+            "region_id":85673071
+        }
+    ],
+    "wof:id":1327111043,
+    "wof:lastmodified":1537654045,
+    "wof:name":"Chambak Ph'aem",
+    "wof:parent_id":1108564801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.13058999999998,
+    13.38821,
+    105.13058999999998,
+    13.38821
+],
+  "geometry": {"coordinates":[105.13058999999998,13.38821],"type":"Point"}
+}

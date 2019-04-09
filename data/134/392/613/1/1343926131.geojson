@@ -1,0 +1,77 @@
+{
+  "id": 1343926131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.49049,13.84256,103.49049,13.84256",
+    "geom:latitude":13.84256,
+    "geom:longitude":103.49049,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Klang Hay",
+    "gn:country_code":"KH",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827733,
+    "gn:latitude":13.84256,
+    "gn:longitude":103.49049,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Klang Hay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Klang Hay"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1781\u17d2\u179b\u17b6\u17c6\u1784\u17a0\u17b6\u1799",
+        "Phum Khl\u0103ng Hay"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Khl\u0103ng Hay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673029,
+        1108564847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827733
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"534c1821a400e4717994e71e28928848",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564847,
+            "locality_id":1343926131,
+            "region_id":85673029
+        }
+    ],
+    "wof:id":1343926131,
+    "wof:lastmodified":1537653744,
+    "wof:name":"Klang Hay",
+    "wof:parent_id":1108564847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.49049,
+    13.84256,
+    103.49049,
+    13.84256
+],
+  "geometry": {"coordinates":[103.49048999999999,13.84256],"type":"Point"}
+}

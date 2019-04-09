@@ -1,0 +1,67 @@
+{
+  "id": 1209039447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.45797,11.20606,104.45797,11.20606",
+    "geom:latitude":11.20606,
+    "geom:longitude":104.45797,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Trapeang Peuk",
+    "gn:country_code":"KH",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1823368,
+    "gn:latitude":11.20606,
+    "gn:longitude":104.45797,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Trapeang Peuk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Trapeang Peuk"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Tr\u00e2pe\u0103ng Peuk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1823368
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"40419cd7bacbb7070dd908fb5fac5912",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209039447
+        }
+    ],
+    "wof:id":1209039447,
+    "wof:lastmodified":1537653374,
+    "wof:name":"Trapeang Peuk",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.45797,
+    11.20606,
+    104.45797,
+    11.20606
+],
+  "geometry": {"coordinates":[104.45797,11.20606],"type":"Point"}
+}

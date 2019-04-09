@@ -1,0 +1,77 @@
+{
+  "id": 1242634817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.22701,13.6385,103.22701,13.6385",
+    "geom:latitude":13.6385,
+    "geom:longitude":103.22701,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Paoy Svay",
+    "gn:country_code":"KH",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1826630,
+    "gn:latitude":13.6385,
+    "gn:longitude":103.22701,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Paoy Svay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Paoy Svay"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1794\u17c9\u17c4\u1799\u179f\u17d2\u179c\u17b6\u1799",
+        "Phum Pa\u00f4y Svay"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Pa\u00f4y Svay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673011,
+        421183973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1826630
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"8fa803826bdc61d7b74a5d99fcd05acc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421183973,
+            "locality_id":1242634817,
+            "region_id":85673011
+        }
+    ],
+    "wof:id":1242634817,
+    "wof:lastmodified":1537653643,
+    "wof:name":"Paoy Svay",
+    "wof:parent_id":421183973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.22701,
+    13.6385,
+    103.22701,
+    13.6385
+],
+  "geometry": {"coordinates":[103.22701000000001,13.6385],"type":"Point"}
+}

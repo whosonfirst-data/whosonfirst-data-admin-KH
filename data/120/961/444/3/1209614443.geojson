@@ -1,0 +1,65 @@
+{
+  "id": 1209614443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.1535,13.37975,105.1535,13.37975",
+    "geom:latitude":13.37975,
+    "geom:longitude":105.1535,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Phumi Anlong Svay",
+    "gn:country_code":"KH",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829793,
+    "gn:latitude":13.37975,
+    "gn:longitude":105.1535,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d \u00c2nl\u00f3ng Svay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum\u012d \u00c2nl\u016dng Svay",
+        "Phum\u012d \u00c2nl\u00f3ng Svay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829793
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"c58570a2726421bf30c14852dda80da9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209614443
+        }
+    ],
+    "wof:id":1209614443,
+    "wof:lastmodified":1537653912,
+    "wof:name":"Phumi Anlong Svay",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.1535,
+    13.37975,
+    105.1535,
+    13.37975
+],
+  "geometry": {"coordinates":[105.15349999999999,13.37975],"type":"Point"}
+}

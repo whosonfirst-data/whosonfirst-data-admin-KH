@@ -1,0 +1,70 @@
+{
+  "id": 1293090125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.42393,12.55254,107.42393,12.55254",
+    "geom:latitude":12.55254,
+    "geom:longitude":107.42393,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Pechreada",
+    "gn:country_code":"KH",
+    "gn:dem":522,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":11531574,
+    "gn:latitude":12.55254,
+    "gn:longitude":107.42393,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Pechreada",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Pechreada"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673085,
+        1108564757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11531574
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"ac9c0f105ed4a9aec527c14fba0dc7db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564757,
+            "locality_id":1293090125,
+            "region_id":85673085
+        }
+    ],
+    "wof:id":1293090125,
+    "wof:lastmodified":1537654091,
+    "wof:name":"Pechreada",
+    "wof:parent_id":1108564757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.42393,
+    12.55254,
+    107.42393,
+    12.55254
+],
+  "geometry": {"coordinates":[107.42393,12.55254],"type":"Point"}
+}

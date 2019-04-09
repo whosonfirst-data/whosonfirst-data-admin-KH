@@ -1,0 +1,74 @@
+{
+  "id": 1242580613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.52087,12.10658,105.52087,12.10658",
+    "geom:latitude":12.10658,
+    "geom:longitude":105.52087,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Chheu Teal Srot Kraom",
+    "gn:country_code":"KH",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11507524,
+    "gn:latitude":12.10658,
+    "gn:longitude":105.52087,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Chheu Teal Srot Kraom",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Chheu Teal Srot Kraom"
+    ],
+    "name:khm_x_variant":[
+        "Phum Chheaut\u00e9al Sr\u014ft",
+        "\u1797\u17bc\u1798\u17b7 \u1788\u17be\u1791\u17b6\u179b\u179f\u17d2\u179a\u17bb\u178f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673041,
+        421205043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11507524
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"f23096d7ce7769006f1b4b31b723d026",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421205043,
+            "locality_id":1242580613,
+            "region_id":85673041
+        }
+    ],
+    "wof:id":1242580613,
+    "wof:lastmodified":1537654078,
+    "wof:name":"Chheu Teal Srot Kraom",
+    "wof:parent_id":421205043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.52087,
+    12.10658,
+    105.52087,
+    12.10658
+],
+  "geometry": {"coordinates":[105.52087,12.10658],"type":"Point"}
+}

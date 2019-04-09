@@ -1,0 +1,74 @@
+{
+  "id": 1260164491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.21849,11.09529,105.21849,11.09529",
+    "geom:latitude":11.09529,
+    "geom:longitude":105.21849,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Phum Ta Prum",
+    "gn:country_code":"KH",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1824070,
+    "gn:latitude":11.09529,
+    "gn:longitude":105.21849,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Phum Ta Pr\u016dm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Ta Pr\u016dm"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u178f\u17b6\u1796\u17d2\u179a\u17bb\u17c6",
+        "Phum\u012d Ta Pr\u016dm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673067,
+        1108564755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1824070
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"430dfb20d885caa53a987a07ea9c468f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564755,
+            "locality_id":1260164491,
+            "region_id":85673067
+        }
+    ],
+    "wof:id":1260164491,
+    "wof:lastmodified":1537653428,
+    "wof:name":"Phum Ta Prum",
+    "wof:parent_id":1108564755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.21849,
+    11.09529,
+    105.21849,
+    11.09529
+],
+  "geometry": {"coordinates":[105.21849,11.09529],"type":"Point"}
+}

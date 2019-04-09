@@ -1,0 +1,78 @@
+{
+  "id": 1343345979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.8221,12.27368,105.8221,12.27368",
+    "geom:latitude":12.27368,
+    "geom:longitude":105.8221,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Chrouy Ampil Ti Mouy",
+    "gn:country_code":"KH",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828755,
+    "gn:latitude":12.27368,
+    "gn:longitude":105.8221,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Chrouy Ampil Ti Mouy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Chrouy Ampil Ti Mouy"
+    ],
+    "name:khm_x_variant":[
+        "Phum Chro\u016dy \u00c2mp\u012dl",
+        "\u1797\u17bc\u1798\u17b7 \u1787\u17d2\u179a\u17c4\u1799\u17a2\u17c6\u1796\u17b7\u179b"
+    ],
+    "name:und_x_variant":[
+        "Phum Chruoy Ampil",
+        "Phum\u012d Chro\u016dy \u00c2mp\u012dl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673081,
+        1108564781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828755
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"59808bbe85e3c677cf3bacc318112069",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564781,
+            "locality_id":1343345979,
+            "region_id":85673081
+        }
+    ],
+    "wof:id":1343345979,
+    "wof:lastmodified":1537653830,
+    "wof:name":"Chrouy Ampil Ti Mouy",
+    "wof:parent_id":1108564781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.8221,
+    12.27368,
+    105.8221,
+    12.27368
+],
+  "geometry": {"coordinates":[105.82210000000001,12.27368],"type":"Point"}
+}

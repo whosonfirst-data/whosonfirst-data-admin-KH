@@ -1,0 +1,71 @@
+{
+  "id": 1226243675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.63874,11.4453,104.63874,11.4453",
+    "geom:latitude":11.4453,
+    "geom:longitude":104.63874,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Phumi Prey Sala",
+    "gn:country_code":"KH",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825685,
+    "gn:latitude":11.4453,
+    "gn:longitude":104.63874,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Prey Sala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tram Prot Preal",
+        "Phum\u012d Prey Sala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673053,
+        1108564819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825685
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"50acd132c0c7611bb3b2be1f8130d8d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564819,
+            "locality_id":1226243675,
+            "region_id":85673053
+        }
+    ],
+    "wof:id":1226243675,
+    "wof:lastmodified":1537653558,
+    "wof:name":"Phumi Prey Sala",
+    "wof:parent_id":1108564819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.63874,
+    11.4453,
+    104.63874,
+    11.4453
+],
+  "geometry": {"coordinates":[104.63874,11.4453],"type":"Point"}
+}

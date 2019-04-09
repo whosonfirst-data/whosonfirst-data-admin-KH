@@ -1,0 +1,71 @@
+{
+  "id": 1259719825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.48298,11.80864,105.48298,11.80864",
+    "geom:latitude":11.80864,
+    "geom:longitude":105.48298,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Phumi Svay Tralak",
+    "gn:country_code":"KH",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1824350,
+    "gn:latitude":11.80864,
+    "gn:longitude":105.48298,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Phum\u012d Svay Tr\u00e2l\u00e2k",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum Svay Ta Lak",
+        "Phum\u012d Svay Tr\u00e2l\u00e2k"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        1108804319,
+        421177919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1824350
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"ffd1d8530723c9a486f80dcde8aee798",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421177919,
+            "locality_id":1259719825,
+            "region_id":1108804319
+        }
+    ],
+    "wof:id":1259719825,
+    "wof:lastmodified":1537653450,
+    "wof:name":"Phumi Svay Tralak",
+    "wof:parent_id":421177919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.48298,
+    11.80864,
+    105.48298,
+    11.80864
+],
+  "geometry": {"coordinates":[105.48298,11.80864],"type":"Point"}
+}

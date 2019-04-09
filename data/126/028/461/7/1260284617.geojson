@@ -1,0 +1,77 @@
+{
+  "id": 1260284617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.08983,11.94714,104.08983,11.94714",
+    "geom:latitude":11.94714,
+    "geom:longitude":104.08983,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Phum Thma Bang",
+    "gn:country_code":"KH",
+    "gn:dem":197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1823907,
+    "gn:latitude":11.94714,
+    "gn:longitude":104.08983,
+    "gn:modification_date":"2017-07-05",
+    "gn:name":"Phum Thm\u00e2 B\u0103ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Thm\u00e2 B\u0103ng"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1790\u17d2\u1798\u1794\u17b6\u17c6\u1784"
+    ],
+    "name:und_x_variant":[
+        "Thmar Bang",
+        "Phum\u012d Thm\u00e2 B\u0103ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673053,
+        1108564591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1823907
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"7d91dd1f77472e3eb6df1aabb0cee707",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564591,
+            "locality_id":1260284617,
+            "region_id":85673053
+        }
+    ],
+    "wof:id":1260284617,
+    "wof:lastmodified":1537653415,
+    "wof:name":"Phum Thma Bang",
+    "wof:parent_id":1108564591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.08983,
+    11.94714,
+    104.08983,
+    11.94714
+],
+  "geometry": {"coordinates":[104.08983000000001,11.94714],"type":"Point"}
+}

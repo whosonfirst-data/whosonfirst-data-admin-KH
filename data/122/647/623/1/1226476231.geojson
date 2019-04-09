@@ -1,0 +1,70 @@
+{
+  "id": 1226476231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.68286,12.12819,105.68286,12.12819",
+    "geom:latitude":12.12819,
+    "geom:longitude":105.68286,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Samrom",
+    "gn:country_code":"KH",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11507563,
+    "gn:latitude":12.12819,
+    "gn:longitude":105.68286,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Samrom",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Samrom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        1108804319,
+        421183891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11507563
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"eb13bf619d7b49e450d526237bdcd177",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421183891,
+            "locality_id":1226476231,
+            "region_id":1108804319
+        }
+    ],
+    "wof:id":1226476231,
+    "wof:lastmodified":1537654080,
+    "wof:name":"Samrom",
+    "wof:parent_id":421183891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.68286,
+    12.12819,
+    105.68286,
+    12.12819
+],
+  "geometry": {"coordinates":[105.68286000000001,12.12819],"type":"Point"}
+}

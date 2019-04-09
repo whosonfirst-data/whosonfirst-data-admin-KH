@@ -1,0 +1,72 @@
+{
+  "id": 1225901651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.84449,13.71625,102.84449,13.71625",
+    "geom:latitude":13.71625,
+    "geom:longitude":102.84449,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Phumi Tnaot",
+    "gn:country_code":"KH",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1823685,
+    "gn:latitude":13.71625,
+    "gn:longitude":102.84449,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Tna\u00f4t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum Tnol",
+        "Phum Tnot",
+        "Phum\u012d Tna\u00f4t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673011,
+        421198129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1823685
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"c59735fc6dd26d51fb1ffd0bf9a3b055",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421198129,
+            "locality_id":1225901651,
+            "region_id":85673011
+        }
+    ],
+    "wof:id":1225901651,
+    "wof:lastmodified":1537653397,
+    "wof:name":"Phumi Tnaot",
+    "wof:parent_id":421198129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.84449,
+    13.71625,
+    102.84449,
+    13.71625
+],
+  "geometry": {"coordinates":[102.84448999999999,13.71625],"type":"Point"}
+}

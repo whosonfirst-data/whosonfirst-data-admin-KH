@@ -1,0 +1,68 @@
+{
+  "id": 1209017445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.09861,12.07108,105.09861,12.07108",
+    "geom:latitude":12.07108,
+    "geom:longitude":105.09861,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Sram Kaeut",
+    "gn:country_code":"KH",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1824711,
+    "gn:latitude":12.07108,
+    "gn:longitude":105.09861,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Sram Kaeut",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Sram Kaeut"
+    ],
+    "name:und_x_variant":[
+        "Sram",
+        "Phum\u012d Sram"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1824711
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"968fe2fb9a7bb893b992fa9b06e326e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209017445
+        }
+    ],
+    "wof:id":1209017445,
+    "wof:lastmodified":1537653479,
+    "wof:name":"Sram Kaeut",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.09861,
+    12.07108,
+    105.09861,
+    12.07108
+],
+  "geometry": {"coordinates":[105.09860999999999,12.07108],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1193252435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.4852,10.52313,104.4852,10.52313",
+    "geom:latitude":10.52313,
+    "geom:longitude":104.4852,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Phumi Robang Kras",
+    "gn:country_code":"KH",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825452,
+    "gn:latitude":10.52313,
+    "gn:longitude":104.4852,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Phum\u012d R\u00f4b\u00e2ng Kras",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673093,
+        1108564675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825452
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"6a8e67a5b2fe73389146dc3fcd4c4755",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564675,
+            "locality_id":1193252435,
+            "region_id":85673093
+        }
+    ],
+    "wof:id":1193252435,
+    "wof:lastmodified":1536366737,
+    "wof:name":"Phumi Robang Kras",
+    "wof:parent_id":1108564675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.4852,
+    10.52313,
+    104.4852,
+    10.52313
+],
+  "geometry": {"coordinates":[104.48520000000001,10.52313],"type":"Point"}
+}

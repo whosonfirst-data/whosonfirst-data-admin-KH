@@ -1,0 +1,67 @@
+{
+  "id": 1276943655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.74105,11.36077,105.74105,11.36077",
+    "geom:latitude":11.36077,
+    "geom:longitude":105.74105,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Phumi Tuol Sokram",
+    "gn:country_code":"KH",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1823004,
+    "gn:latitude":11.36077,
+    "gn:longitude":105.74105,
+    "gn:modification_date":"1993-12-30",
+    "gn:name":"Phum\u012d Tu\u014fl S\u014fkr\u00e2m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673105,
+        1108564797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1823004
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"e324d7fc3098d4cd798e4354aeb32ec5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564797,
+            "locality_id":1276943655,
+            "region_id":85673105
+        }
+    ],
+    "wof:id":1276943655,
+    "wof:lastmodified":1536955968,
+    "wof:name":"Phumi Tuol Sokram",
+    "wof:parent_id":1108564797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.74105,
+    11.36077,
+    105.74105,
+    11.36077
+],
+  "geometry": {"coordinates":[105.74105,11.36077],"type":"Point"}
+}

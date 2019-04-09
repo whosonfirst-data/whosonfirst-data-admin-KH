@@ -1,0 +1,70 @@
+{
+  "id": 1343524691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.76386,11.07906,105.76386,11.07906",
+    "geom:latitude":11.07906,
+    "geom:longitude":105.76386,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Ta Chey",
+    "gn:country_code":"KH",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11482115,
+    "gn:latitude":11.07906,
+    "gn:longitude":105.76386,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Ta Chey",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Ta Chey"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673105,
+        1108564861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11482115
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"5b7ccd165a76e741b0785771448ee237",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564861,
+            "locality_id":1343524691,
+            "region_id":85673105
+        }
+    ],
+    "wof:id":1343524691,
+    "wof:lastmodified":1537654049,
+    "wof:name":"Ta Chey",
+    "wof:parent_id":1108564861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.76386,
+    11.07906,
+    105.76386,
+    11.07906
+],
+  "geometry": {"coordinates":[105.76385999999999,11.07906],"type":"Point"}
+}

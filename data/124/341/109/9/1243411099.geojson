@@ -1,0 +1,70 @@
+{
+  "id": 1243411099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.32877,10.50637,104.32877,10.50637",
+    "geom:latitude":10.50637,
+    "geom:longitude":104.32877,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Kaev Krasang",
+    "gn:country_code":"KH",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11449470,
+    "gn:latitude":10.50637,
+    "gn:longitude":104.32877,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Kaev Krasang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Kaev Krasang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673099,
+        1108564665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11449470
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"836539df0071490ffe2ba7a5deae6b87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564665,
+            "locality_id":1243411099,
+            "region_id":85673099
+        }
+    ],
+    "wof:id":1243411099,
+    "wof:lastmodified":1537654012,
+    "wof:name":"Kaev Krasang",
+    "wof:parent_id":1108564665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.32877,
+    10.50637,
+    104.32877,
+    10.50637
+],
+  "geometry": {"coordinates":[104.32877000000001,10.50637],"type":"Point"}
+}

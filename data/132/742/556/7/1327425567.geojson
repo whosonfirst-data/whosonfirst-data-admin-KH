@@ -1,0 +1,74 @@
+{
+  "id": 1327425567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.80271,11.4222,104.80271,11.4222",
+    "geom:latitude":11.4222,
+    "geom:longitude":104.80271,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Anlong Romiet",
+    "gn:country_code":"KH",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829812,
+    "gn:latitude":11.4222,
+    "gn:longitude":104.80271,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Anlong Romiet",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Anlong Romiet"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Anl\u016dng R\u00f4m\u00e9at",
+        "Phum\u012d \u00c2nl\u00f3ng R\u00f4mi\u0115t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673051,
+        1108564685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829812
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"036fd9801d20b7ce26d83e0eba1f54fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564685,
+            "locality_id":1327425567,
+            "region_id":85673051
+        }
+    ],
+    "wof:id":1327425567,
+    "wof:lastmodified":1537653914,
+    "wof:name":"Anlong Romiet",
+    "wof:parent_id":1108564685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.80271,
+    11.4222,
+    104.80271,
+    11.4222
+],
+  "geometry": {"coordinates":[104.80271,11.4222],"type":"Point"}
+}

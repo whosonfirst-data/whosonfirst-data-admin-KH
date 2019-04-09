@@ -1,0 +1,73 @@
+{
+  "id": 1327338211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.42927,12.86364,105.42927,12.86364",
+    "geom:latitude":12.86364,
+    "geom:longitude":105.42927,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Phumi Tum Ar",
+    "gn:country_code":"KH",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1823126,
+    "gn:latitude":12.86364,
+    "gn:longitude":105.42927,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Tum \u00c2r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum Tumar",
+        "Phum Thmar",
+        "Phum Thmay",
+        "Phum\u012d Tum \u00c2r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673057,
+        421188047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1823126
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"5e0212dd991f84c3ec09c00f562927de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421188047,
+            "locality_id":1327338211,
+            "region_id":85673057
+        }
+    ],
+    "wof:id":1327338211,
+    "wof:lastmodified":1537653358,
+    "wof:name":"Phumi Tum Ar",
+    "wof:parent_id":421188047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.42927,
+    12.86364,
+    105.42927,
+    12.86364
+],
+  "geometry": {"coordinates":[105.42927,12.86364],"type":"Point"}
+}

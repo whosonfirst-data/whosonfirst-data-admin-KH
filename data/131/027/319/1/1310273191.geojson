@@ -1,0 +1,79 @@
+{
+  "id": 1310273191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.4498,13.85691,103.4498,13.85691",
+    "geom:latitude":13.85691,
+    "geom:longitude":103.4498,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Krabau",
+    "gn:country_code":"KH",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827277,
+    "gn:latitude":13.85691,
+    "gn:longitude":103.4498,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Krabau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Krabau"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u178f\u17d2\u179a\u1794\u17c9\u17c4",
+        "Phum Kr\u00e2bau"
+    ],
+    "name:und_x_variant":[
+        "Krebac",
+        "Krebau",
+        "Phum\u012d Kr\u00e2bau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673029,
+        1108564847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827277
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"2725590e43e3fd00cdcd29b5c4810237",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564847,
+            "locality_id":1310273191,
+            "region_id":85673029
+        }
+    ],
+    "wof:id":1310273191,
+    "wof:lastmodified":1537653701,
+    "wof:name":"Krabau",
+    "wof:parent_id":1108564847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.4498,
+    13.85691,
+    103.4498,
+    13.85691
+],
+  "geometry": {"coordinates":[103.4498,13.85691],"type":"Point"}
+}

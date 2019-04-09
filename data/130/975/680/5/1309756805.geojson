@@ -1,0 +1,67 @@
+{
+  "id": 1309756805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.87661,13.11956,102.87661,13.11956",
+    "geom:latitude":13.11956,
+    "geom:longitude":102.87661,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Phumi Pech Changva",
+    "gn:country_code":"KH",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1826566,
+    "gn:latitude":13.11956,
+    "gn:longitude":102.87661,
+    "gn:modification_date":"2009-05-11",
+    "gn:name":"Phum\u012d P\u00e9ch Ch\u00e2ngva",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673015,
+        1108564615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1826566
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"0abf18febdb72b48d0f609ee256f1b5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564615,
+            "locality_id":1309756805,
+            "region_id":85673015
+        }
+    ],
+    "wof:id":1309756805,
+    "wof:lastmodified":1537001105,
+    "wof:name":"Phumi Pech Changva",
+    "wof:parent_id":1108564615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.87661,
+    13.11956,
+    102.87661,
+    13.11956
+],
+  "geometry": {"coordinates":[102.87661,13.11956],"type":"Point"}
+}

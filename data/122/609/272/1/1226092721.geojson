@@ -1,0 +1,78 @@
+{
+  "id": 1226092721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.42132,12.69197,103.42132,12.69197",
+    "geom:latitude":12.69197,
+    "geom:longitude":103.42132,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Phum Kuoy Chik Dei",
+    "gn:country_code":"KH",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827036,
+    "gn:latitude":12.69197,
+    "gn:longitude":103.42132,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Phum Ku\u014fy Chik Dei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Ku\u014fy Chik Dei"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1782\u17bd\u1799\u1787\u17b8\u1780\u178a\u17b8"
+    ],
+    "name:und_x_variant":[
+        "Phum Kuoi Chikdey",
+        "Khum Kuoi Chikdey",
+        "Phum\u012d Ku\u014fy Chik Dei"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673015,
+        1108564739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827036
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"95c3bb4a510ea4359ee3ae62de2a2cc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564739,
+            "locality_id":1226092721,
+            "region_id":85673015
+        }
+    ],
+    "wof:id":1226092721,
+    "wof:lastmodified":1537653681,
+    "wof:name":"Phum Kuoy Chik Dei",
+    "wof:parent_id":1108564739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.42132,
+    12.69197,
+    103.42132,
+    12.69197
+],
+  "geometry": {"coordinates":[103.42131999999999,12.69197],"type":"Point"}
+}

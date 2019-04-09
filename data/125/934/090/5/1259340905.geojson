@@ -1,0 +1,74 @@
+{
+  "id": 1259340905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.99742,13.46325,103.99742,13.46325",
+    "geom:latitude":13.46325,
+    "geom:longitude":103.99742,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Chey",
+    "gn:country_code":"KH",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11559433,
+    "gn:latitude":13.46325,
+    "gn:longitude":103.99742,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Chey",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Chey"
+    ],
+    "name:khm_x_variant":[
+        "Phum\u012d Chrey",
+        "\u1797\u17bc\u1798\u17b7 \u1787\u17d2\u179a\u17c3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673029,
+        1108564603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11559433
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"ea6232b825b13fcc88beff0160477675",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564603,
+            "locality_id":1259340905,
+            "region_id":85673029
+        }
+    ],
+    "wof:id":1259340905,
+    "wof:lastmodified":1537654111,
+    "wof:name":"Chey",
+    "wof:parent_id":1108564603,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.99742,
+    13.46325,
+    103.99742,
+    13.46325
+],
+  "geometry": {"coordinates":[103.99742000000001,13.46325],"type":"Point"}
+}

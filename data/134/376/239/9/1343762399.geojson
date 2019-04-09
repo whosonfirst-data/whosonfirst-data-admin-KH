@@ -1,0 +1,77 @@
+{
+  "id": 1343762399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.45591,11.61451,104.45591,11.61451",
+    "geom:latitude":11.61451,
+    "geom:longitude":104.45591,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Svay",
+    "gn:country_code":"KH",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1823802,
+    "gn:latitude":11.61451,
+    "gn:longitude":104.45591,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Svay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Svay"
+    ],
+    "name:khm_x_variant":[
+        "Phum Thmei",
+        "\u1797\u17bc\u1798\u17b7 \u1790\u17d2\u1798\u17b8 \u1796\u17b8\u179a"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Thmei"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673053,
+        1108564873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1823802
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"be750943ce1237f6989babba1095a7ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564873,
+            "locality_id":1343762399,
+            "region_id":85673053
+        }
+    ],
+    "wof:id":1343762399,
+    "wof:lastmodified":1537653406,
+    "wof:name":"Svay",
+    "wof:parent_id":1108564873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.45591,
+    11.61451,
+    104.45591,
+    11.61451
+],
+  "geometry": {"coordinates":[104.45591,11.61451],"type":"Point"}
+}

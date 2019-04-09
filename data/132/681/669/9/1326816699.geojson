@@ -1,0 +1,70 @@
+{
+  "id": 1326816699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.81281,13.49014,104.81281,13.49014",
+    "geom:latitude":13.49014,
+    "geom:longitude":104.81281,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Soch",
+    "gn:country_code":"KH",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11477369,
+    "gn:latitude":13.49014,
+    "gn:longitude":104.81281,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Soch",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Soch"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673071,
+        1108564827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11477369
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"4dd9d269bcba6ff9868b734713f5ab19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564827,
+            "locality_id":1326816699,
+            "region_id":85673071
+        }
+    ],
+    "wof:id":1326816699,
+    "wof:lastmodified":1537654035,
+    "wof:name":"Soch",
+    "wof:parent_id":1108564827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.81281,
+    13.49014,
+    104.81281,
+    13.49014
+],
+  "geometry": {"coordinates":[104.81281,13.49014],"type":"Point"}
+}

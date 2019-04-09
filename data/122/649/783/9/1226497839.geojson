@@ -1,0 +1,70 @@
+{
+  "id": 1226497839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.11568,13.51758,103.11568,13.51758",
+    "geom:latitude":13.51758,
+    "geom:longitude":103.11568,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Boeng Khleang Lech",
+    "gn:country_code":"KH",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11407735,
+    "gn:latitude":13.51758,
+    "gn:longitude":103.11568,
+    "gn:modification_date":"2017-01-07",
+    "gn:name":"Boeng Khleang Lech",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Boeng Khleang Lech"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673011,
+        1108564737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11407735
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"2e7eab21a395d598e7a745e9d17d1380",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564737,
+            "locality_id":1226497839,
+            "region_id":85673011
+        }
+    ],
+    "wof:id":1226497839,
+    "wof:lastmodified":1537653995,
+    "wof:name":"Boeng Khleang Lech",
+    "wof:parent_id":1108564737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.11568,
+    13.51758,
+    103.11568,
+    13.51758
+],
+  "geometry": {"coordinates":[103.11568,13.51758],"type":"Point"}
+}

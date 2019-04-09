@@ -1,0 +1,71 @@
+{
+  "id": 1209573381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.02437,13.35228,104.02437,13.35228",
+    "geom:latitude":13.35228,
+    "geom:longitude":104.02437,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Kantreang",
+    "gn:country_code":"KH",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828041,
+    "gn:latitude":13.35228,
+    "gn:longitude":104.02437,
+    "gn:modification_date":"2017-07-05",
+    "gn:name":"Kantreang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Kantreang"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1780\u1793\u17d2\u1791\u17d2\u179a\u17b6\u17c6\u1784",
+        "Phum K\u00e2ntre\u0103ng"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d K\u00e2ntre\u0103ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828041
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"710c0edeb09c2da5d825ed9456ad2459",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209573381
+        }
+    ],
+    "wof:id":1209573381,
+    "wof:lastmodified":1537653771,
+    "wof:name":"Kantreang",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.02437,
+    13.35228,
+    104.02437,
+    13.35228
+],
+  "geometry": {"coordinates":[104.02437,13.35228],"type":"Point"}
+}

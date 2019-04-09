@@ -1,0 +1,70 @@
+{
+  "id": 1226510057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.52947,13.56166,102.52947,13.56166",
+    "geom:latitude":13.56166,
+    "geom:longitude":102.52947,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Khla Ngoab",
+    "gn:country_code":"KH",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11338534,
+    "gn:latitude":13.56166,
+    "gn:longitude":102.52947,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Khla Ngoab",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Khla Ngoab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673011,
+        1108564727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11338534
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"341269757871c982a60f47943957767f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564727,
+            "locality_id":1226510057,
+            "region_id":85673011
+        }
+    ],
+    "wof:id":1226510057,
+    "wof:lastmodified":1537653971,
+    "wof:name":"Khla Ngoab",
+    "wof:parent_id":1108564727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.52947,
+    13.56166,
+    102.52947,
+    13.56166
+],
+  "geometry": {"coordinates":[102.52947,13.56166],"type":"Point"}
+}

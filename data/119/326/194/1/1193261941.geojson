@@ -1,0 +1,67 @@
+{
+  "id": 1193261941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.11314,11.60374,105.11314,11.60374",
+    "geom:latitude":11.60374,
+    "geom:longitude":105.11314,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Phumi Sambuor",
+    "gn:country_code":"KH",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825171,
+    "gn:latitude":11.60374,
+    "gn:longitude":105.11314,
+    "gn:modification_date":"1993-12-30",
+    "gn:name":"Phum\u012d S\u00e2mbu\u014fr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673051,
+        421188351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825171
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"9b8c1e176cdbcc1037572503595685d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421188351,
+            "locality_id":1193261941,
+            "region_id":85673051
+        }
+    ],
+    "wof:id":1193261941,
+    "wof:lastmodified":1536379923,
+    "wof:name":"Phumi Sambuor",
+    "wof:parent_id":421188351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.11314,
+    11.60374,
+    105.11314,
+    11.60374
+],
+  "geometry": {"coordinates":[105.11314,11.60374],"type":"Point"}
+}

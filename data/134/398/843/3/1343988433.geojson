@@ -1,0 +1,73 @@
+{
+  "id": 1343988433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.50871,11.76722,105.50871,11.76722",
+    "geom:latitude":11.76722,
+    "geom:longitude":105.50871,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Phum Kong Chey",
+    "gn:country_code":"KH",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1822821,
+    "gn:latitude":11.76722,
+    "gn:longitude":105.50871,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Phum K\u00f4ng Chey",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khum de K\u00f4ng Ch\u00e9i",
+        "Khum Kong-Chey",
+        "Khum de Khong Chey",
+        "Phum K\u00f4ng Chey"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        1108804319,
+        421177919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1822821
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"556e46cee051da843e2d75065145eb57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421177919,
+            "locality_id":1343988433,
+            "region_id":1108804319
+        }
+    ],
+    "wof:id":1343988433,
+    "wof:lastmodified":1537653336,
+    "wof:name":"Phum Kong Chey",
+    "wof:parent_id":421177919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.50871,
+    11.76722,
+    105.50871,
+    11.76722
+],
+  "geometry": {"coordinates":[105.50870999999999,11.76722],"type":"Point"}
+}

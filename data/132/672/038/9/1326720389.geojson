@@ -1,0 +1,70 @@
+{
+  "id": 1326720389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.54399,12.03558,106.54399,12.03558",
+    "geom:latitude":12.03558,
+    "geom:longitude":106.54399,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Trapeang Srae",
+    "gn:country_code":"KH",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11483313,
+    "gn:latitude":12.03558,
+    "gn:longitude":106.54399,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Trapeang Srae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Trapeang Srae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673081,
+        1108564841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11483313
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"21a7eb1283446537339994b38f5e2bf6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564841,
+            "locality_id":1326720389,
+            "region_id":85673081
+        }
+    ],
+    "wof:id":1326720389,
+    "wof:lastmodified":1537654059,
+    "wof:name":"Trapeang Srae",
+    "wof:parent_id":1108564841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.54399,
+    12.03558,
+    106.54399,
+    12.03558
+],
+  "geometry": {"coordinates":[106.54398999999999,12.03558],"type":"Point"}
+}

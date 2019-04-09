@@ -1,0 +1,77 @@
+{
+  "id": 1259604631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.13977,11.49331,105.13977,11.49331",
+    "geom:latitude":11.49331,
+    "geom:longitude":105.13977,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Phum Modum",
+    "gn:country_code":"KH",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1826914,
+    "gn:latitude":11.49331,
+    "gn:longitude":105.13977,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Phum M\u00f4d\u016dm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum M\u00f4d\u016dm"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1798\u17d2\u178c\u17bb\u17c6"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d M\u00f4d\u016dm",
+        "Phum\u012d Md\u016dm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673051,
+        1108564725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1826914
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"ccb7633a16fe075a52f3149b5f991eec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564725,
+            "locality_id":1259604631,
+            "region_id":85673051
+        }
+    ],
+    "wof:id":1259604631,
+    "wof:lastmodified":1537653669,
+    "wof:name":"Phum Modum",
+    "wof:parent_id":1108564725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.13977,
+    11.49331,
+    105.13977,
+    11.49331
+],
+  "geometry": {"coordinates":[105.13977,11.49331],"type":"Point"}
+}

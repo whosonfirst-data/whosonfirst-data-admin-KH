@@ -1,0 +1,72 @@
+{
+  "id": 1209426577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.43809,12.40571,104.43809,12.40571",
+    "geom:latitude":12.40571,
+    "geom:longitude":104.43809,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Bos Meas",
+    "gn:country_code":"KH",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829316,
+    "gn:latitude":12.40571,
+    "gn:longitude":104.43809,
+    "gn:modification_date":"2017-07-05",
+    "gn:name":"Bos Meas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Bos Meas"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1794\u17bb\u179f\u1798\u17b6\u179f",
+        "Phum B\u014fs M\u00e9as"
+    ],
+    "name:und_x_variant":[
+        "Ph\u016bm Vear Meas",
+        "Phum\u012d B\u014fs M\u00e9as"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829316
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"a1222528bbc213b08ab679e008665131",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209426577
+        }
+    ],
+    "wof:id":1209426577,
+    "wof:lastmodified":1537653874,
+    "wof:name":"Bos Meas",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.43809,
+    12.40571,
+    104.43809,
+    12.40571
+],
+  "geometry": {"coordinates":[104.43809,12.40571],"type":"Point"}
+}

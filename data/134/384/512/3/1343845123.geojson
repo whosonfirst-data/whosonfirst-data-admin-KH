@@ -1,0 +1,71 @@
+{
+  "id": 1343845123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.81229,12.48794,103.81229,12.48794",
+    "geom:latitude":12.48794,
+    "geom:longitude":103.81229,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Phumi Char Kan",
+    "gn:country_code":"KH",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829121,
+    "gn:latitude":12.48794,
+    "gn:longitude":103.81229,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Char Kan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum\u012d Chakan",
+        "Phum\u012d Char Kan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673023,
+        1108564795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829121
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"d8143cb936f9d227e8fb3821a3968c28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564795,
+            "locality_id":1343845123,
+            "region_id":85673023
+        }
+    ],
+    "wof:id":1343845123,
+    "wof:lastmodified":1537653859,
+    "wof:name":"Phumi Char Kan",
+    "wof:parent_id":1108564795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.81229,
+    12.48794,
+    103.81229,
+    12.48794
+],
+  "geometry": {"coordinates":[103.81229,12.48794],"type":"Point"}
+}

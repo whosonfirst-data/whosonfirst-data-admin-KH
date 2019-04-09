@@ -1,0 +1,77 @@
+{
+  "id": 1309877257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.06153,13.5435,106.06153,13.5435",
+    "geom:latitude":13.5435,
+    "geom:longitude":106.06153,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Phum Hin Sung",
+    "gn:country_code":"KH",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828410,
+    "gn:latitude":13.5435,
+    "gn:longitude":106.06153,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Phum Hin Sung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Hin Sung"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u17a0\u17ca\u17b8\u1793\u179f\u17bb\u1784"
+    ],
+    "name:und_x_variant":[
+        "Ban Nim Soun",
+        "Phum\u012d Hin Song"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673075,
+        1108564831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828410
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"057e5beec82db23db9712a703af0b386",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564831,
+            "locality_id":1309877257,
+            "region_id":85673075
+        }
+    ],
+    "wof:id":1309877257,
+    "wof:lastmodified":1537653803,
+    "wof:name":"Phum Hin Sung",
+    "wof:parent_id":1108564831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.06153,
+    13.5435,
+    106.06153,
+    13.5435
+],
+  "geometry": {"coordinates":[106.06153,13.5435],"type":"Point"}
+}

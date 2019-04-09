@@ -1,0 +1,68 @@
+{
+  "id": 1209372725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.78112,13.34593,103.78112,13.34593",
+    "geom:latitude":13.34593,
+    "geom:longitude":103.78112,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Phum Pama",
+    "gn:country_code":"KH",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1826641,
+    "gn:latitude":13.34593,
+    "gn:longitude":103.78112,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Phum P\u00e2ma",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum P\u00e2ma"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1794\u1798",
+        "Phum\u012d P\u00e2ma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1826641
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"448669e077155e57f8e8d0b1e91a41f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209372725
+        }
+    ],
+    "wof:id":1209372725,
+    "wof:lastmodified":1537653645,
+    "wof:name":"Phum Pama",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.78112,
+    13.34593,
+    103.78112,
+    13.34593
+],
+  "geometry": {"coordinates":[103.78112,13.34593],"type":"Point"}
+}

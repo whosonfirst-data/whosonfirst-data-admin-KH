@@ -1,0 +1,67 @@
+{
+  "id": 1293744805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.16433,12.98166,103.16433,12.98166",
+    "geom:latitude":12.98166,
+    "geom:longitude":103.16433,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Phumi Tuol Bay Damram",
+    "gn:country_code":"KH",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1823086,
+    "gn:latitude":12.98166,
+    "gn:longitude":103.16433,
+    "gn:modification_date":"2009-05-11",
+    "gn:name":"Phum\u012d Tu\u014fl Bay D\u00e2mr\u0103m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673015,
+        1108564597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1823086
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"f69e18ffc4fd737090d711a3230dedb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564597,
+            "locality_id":1293744805,
+            "region_id":85673015
+        }
+    ],
+    "wof:id":1293744805,
+    "wof:lastmodified":1536913830,
+    "wof:name":"Phumi Tuol Bay Damram",
+    "wof:parent_id":1108564597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.16433,
+    12.98166,
+    103.16433,
+    12.98166
+],
+  "geometry": {"coordinates":[103.16433000000001,12.98166],"type":"Point"}
+}

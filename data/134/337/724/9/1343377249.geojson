@@ -1,0 +1,71 @@
+{
+  "id": 1343377249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.92923,11.46457,104.92923,11.46457",
+    "geom:latitude":11.46457,
+    "geom:longitude":104.92923,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Prek Russey",
+    "gn:country_code":"KH",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825968,
+    "gn:latitude":11.46457,
+    "gn:longitude":104.92923,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Prek Russey",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum\u012d Pr\u00eak R\u016dssei",
+        "Phum\u012d Pr\u00eak R\u0153ssei"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673051,
+        421168305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825968
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"df44a1760b58a2081d1b2f8340df5161",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421168305,
+            "locality_id":1343377249,
+            "region_id":85673051
+        }
+    ],
+    "wof:id":1343377249,
+    "wof:lastmodified":1537653581,
+    "wof:name":"Prek Russey",
+    "wof:parent_id":421168305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.92923,
+    11.46457,
+    104.92923,
+    11.46457
+],
+  "geometry": {"coordinates":[104.92923,11.46457],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1209381059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.01392,11.03674,106.01392,11.03674",
+    "geom:latitude":11.03674,
+    "geom:longitude":106.01392,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Chiphu",
+    "gn:country_code":"KH",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1831546,
+    "gn:latitude":11.03674,
+    "gn:longitude":106.01392,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Chiphu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "\u1787\u17b8\u1797\u17bc"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Chiphu",
+        "Chipou",
+        "Chi Dou",
+        "Chiphu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1831546
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"d29fe989d618839978ec451480374c6b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209381059
+        }
+    ],
+    "wof:id":1209381059,
+    "wof:lastmodified":1537653960,
+    "wof:name":"Chiphu",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.01392,
+    11.03674,
+    106.01392,
+    11.03674
+],
+  "geometry": {"coordinates":[106.01392,11.03674],"type":"Point"}
+}

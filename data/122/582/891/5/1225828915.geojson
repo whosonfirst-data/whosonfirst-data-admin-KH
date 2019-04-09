@@ -1,0 +1,72 @@
+{
+  "id": 1225828915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.29754,12.96442,107.29754,12.96442",
+    "geom:latitude":12.96442,
+    "geom:longitude":107.29754,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"O Tea",
+    "gn:country_code":"KH",
+    "gn:dem":219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1830214,
+    "gn:latitude":12.96442,
+    "gn:longitude":107.29754,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"O T\u00e9a",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum\u012d O T\u00e9a",
+        "Dak Der",
+        "O T\u00e9a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673085,
+        1108564699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1830214
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"fb8ed8358901d1d70a6ebaec6a85eabc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564699,
+            "locality_id":1225828915,
+            "region_id":85673085
+        }
+    ],
+    "wof:id":1225828915,
+    "wof:lastmodified":1537653938,
+    "wof:name":"O Tea",
+    "wof:parent_id":1108564699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.29753999999998,
+    12.96442,
+    107.29753999999998,
+    12.96442
+],
+  "geometry": {"coordinates":[107.29753999999998,12.96442],"type":"Point"}
+}

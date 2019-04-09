@@ -1,0 +1,70 @@
+{
+  "id": 1293221877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.11946,10.96234,105.11946,10.96234",
+    "geom:latitude":10.96234,
+    "geom:longitude":105.11946,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Preaek Chrey",
+    "gn:country_code":"KH",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11477960,
+    "gn:latitude":10.96234,
+    "gn:longitude":105.11946,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Preaek Chrey",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Preaek Chrey"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673051,
+        1108564703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11477960
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"af1f5bd54687acaa7dc6edc69a17aaee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564703,
+            "locality_id":1293221877,
+            "region_id":85673051
+        }
+    ],
+    "wof:id":1293221877,
+    "wof:lastmodified":1537654038,
+    "wof:name":"Preaek Chrey",
+    "wof:parent_id":1108564703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.11946,
+    10.96234,
+    105.11946,
+    10.96234
+],
+  "geometry": {"coordinates":[105.11946,10.96234],"type":"Point"}
+}

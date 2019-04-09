@@ -1,0 +1,70 @@
+{
+  "id": 1243334483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.44416,11.50573,105.44416,11.50573",
+    "geom:latitude":11.50573,
+    "geom:longitude":105.44416,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Ou Kandaol Cheung",
+    "gn:country_code":"KH",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11478261,
+    "gn:latitude":11.50573,
+    "gn:longitude":105.44416,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Ou Kandaol Cheung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Ou Kandaol Cheung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673067,
+        1108564859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11478261
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"1e0ac5af2f2657aecf0d5b65eb8311ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564859,
+            "locality_id":1243334483,
+            "region_id":85673067
+        }
+    ],
+    "wof:id":1243334483,
+    "wof:lastmodified":1537654042,
+    "wof:name":"Ou Kandaol Cheung",
+    "wof:parent_id":1108564859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.44416,
+    11.50573,
+    105.44416,
+    11.50573
+],
+  "geometry": {"coordinates":[105.44416,11.50573],"type":"Point"}
+}

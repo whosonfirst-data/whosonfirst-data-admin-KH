@@ -1,0 +1,71 @@
+{
+  "id": 1326616537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.42643,13.62896,105.42643,13.62896",
+    "geom:latitude":13.62896,
+    "geom:longitude":105.42643,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Phumi Chrach",
+    "gn:country_code":"KH",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828842,
+    "gn:latitude":13.62896,
+    "gn:longitude":105.42643,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Chrach",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chrach",
+        "Phum\u012d Chrach"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673071,
+        1108564633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828842
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"21c316711aaf9fc7846269bfb17f66b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564633,
+            "locality_id":1326616537,
+            "region_id":85673071
+        }
+    ],
+    "wof:id":1326616537,
+    "wof:lastmodified":1537653836,
+    "wof:name":"Phumi Chrach",
+    "wof:parent_id":1108564633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.42643,
+    13.62896,
+    105.42643,
+    13.62896
+],
+  "geometry": {"coordinates":[105.42643,13.62896],"type":"Point"}
+}

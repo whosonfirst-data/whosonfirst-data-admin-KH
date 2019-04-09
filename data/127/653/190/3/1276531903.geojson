@@ -1,0 +1,67 @@
+{
+  "id": 1276531903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.05546,12.49967,107.05546,12.49967",
+    "geom:latitude":12.49967,
+    "geom:longitude":107.05546,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Phum Pu Ngoul",
+    "gn:country_code":"KH",
+    "gn:dem":379,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8442102,
+    "gn:latitude":12.49967,
+    "gn:longitude":107.05546,
+    "gn:modification_date":"2013-01-12",
+    "gn:name":"Phum Pu Ngoul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673085,
+        421188055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8442102
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"9a3435d561977ebfc42815e331eb5d40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421188055,
+            "locality_id":1276531903,
+            "region_id":85673085
+        }
+    ],
+    "wof:id":1276531903,
+    "wof:lastmodified":1537009230,
+    "wof:name":"Phum Pu Ngoul",
+    "wof:parent_id":421188055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.05546,
+    12.49967,
+    107.05546,
+    12.49967
+],
+  "geometry": {"coordinates":[107.05546,12.49967],"type":"Point"}
+}

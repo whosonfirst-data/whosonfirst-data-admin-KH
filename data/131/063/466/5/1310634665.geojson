@@ -1,0 +1,70 @@
+{
+  "id": 1310634665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.61531,12.03446,105.61531,12.03446",
+    "geom:latitude":12.03446,
+    "geom:longitude":105.61531,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Chies Ti Muoy",
+    "gn:country_code":"KH",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11507565,
+    "gn:latitude":12.03446,
+    "gn:longitude":105.61531,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Chies Ti Muoy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Chies Ti Muoy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        1108804319,
+        421183891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11507565
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"a78b25a2931650718ec8c5fe76712331",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421183891,
+            "locality_id":1310634665,
+            "region_id":1108804319
+        }
+    ],
+    "wof:id":1310634665,
+    "wof:lastmodified":1537654080,
+    "wof:name":"Chies Ti Muoy",
+    "wof:parent_id":421183891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.61531,
+    12.03446,
+    105.61531,
+    12.03446
+],
+  "geometry": {"coordinates":[105.61530999999999,12.03446],"type":"Point"}
+}

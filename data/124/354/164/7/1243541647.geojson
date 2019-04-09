@@ -1,0 +1,77 @@
+{
+  "id": 1243541647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.33207,12.5322,104.33207,12.5322",
+    "geom:latitude":12.5322,
+    "geom:longitude":104.33207,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Phum Kampong Thkaol",
+    "gn:country_code":"KH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828193,
+    "gn:latitude":12.5322,
+    "gn:longitude":104.33207,
+    "gn:modification_date":"2017-07-05",
+    "gn:name":"Phum K\u00e2mp\u00f4ng Thka\u00f4l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum K\u00e2mp\u00f4ng Thka\u00f4l"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1780\u17c6\u1796\u1784\u17cb\u1790\u17d2\u1780\u17c4\u179b"
+    ],
+    "name:und_x_variant":[
+        "Kompong Tkol",
+        "Phum\u012d K\u00e2mp\u00f3ng Thka\u00f4l"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673023,
+        421203239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828193
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"413758d5c713b0839795a5dca3dd1e19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421203239,
+            "locality_id":1243541647,
+            "region_id":85673023
+        }
+    ],
+    "wof:id":1243541647,
+    "wof:lastmodified":1537653783,
+    "wof:name":"Phum Kampong Thkaol",
+    "wof:parent_id":421203239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.33207,
+    12.5322,
+    104.33207,
+    12.5322
+],
+  "geometry": {"coordinates":[104.33207,12.5322],"type":"Point"}
+}

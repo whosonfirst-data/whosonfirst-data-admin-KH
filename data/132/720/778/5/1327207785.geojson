@@ -1,0 +1,71 @@
+{
+  "id": 1327207785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.6873,11.61344,105.6873,11.61344",
+    "geom:latitude":11.61344,
+    "geom:longitude":105.6873,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Phumi Kamchay Mea",
+    "gn:country_code":"KH",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828367,
+    "gn:latitude":11.61344,
+    "gn:longitude":105.6873,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d K\u00e2mchay M\u00e9a",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum Komchai Meas",
+        "Phum\u012d K\u00e2mchay M\u00e9a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673067,
+        1108564669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828367
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"4c2da73db13247b11270d216e5b86959",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564669,
+            "locality_id":1327207785,
+            "region_id":85673067
+        }
+    ],
+    "wof:id":1327207785,
+    "wof:lastmodified":1537653800,
+    "wof:name":"Phumi Kamchay Mea",
+    "wof:parent_id":1108564669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.6873,
+    11.61344,
+    105.6873,
+    11.61344
+],
+  "geometry": {"coordinates":[105.68729999999999,11.61344],"type":"Point"}
+}

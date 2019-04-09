@@ -1,0 +1,77 @@
+{
+  "id": 1276830435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.76813,12.72421,102.76813,12.72421",
+    "geom:latitude":12.72421,
+    "geom:longitude":102.76813,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Kampong Tuk",
+    "gn:country_code":"KH",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828177,
+    "gn:latitude":12.72421,
+    "gn:longitude":102.76813,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kampong Tuk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Kampong Tuk"
+    ],
+    "name:khm_x_variant":[
+        "Phum\u012d K\u00e2mp\u00f4ng Tuk"
+    ],
+    "name:und_x_variant":[
+        "Kompong Touk",
+        "Phum\u012d K\u00e2mp\u00f3ng Tuk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673015,
+        421196403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828177
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"0374a3eb1ab7b2f386f89caf916253c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421196403,
+            "locality_id":1276830435,
+            "region_id":85673015
+        }
+    ],
+    "wof:id":1276830435,
+    "wof:lastmodified":1537653781,
+    "wof:name":"Kampong Tuk",
+    "wof:parent_id":421196403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.76813,
+    12.72421,
+    102.76813,
+    12.72421
+],
+  "geometry": {"coordinates":[102.76813,12.72421],"type":"Point"}
+}

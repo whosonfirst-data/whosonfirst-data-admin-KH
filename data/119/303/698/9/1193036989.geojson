@@ -1,0 +1,81 @@
+{
+  "id": 1193036989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.42078,12.07244,106.42078,12.07244",
+    "geom:latitude":12.07244,
+    "geom:longitude":106.42078,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Snuol",
+    "gn:country_code":"KH",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1822158,
+    "gn:latitude":12.07244,
+    "gn:longitude":106.42078,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Snuol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Snuol"
+    ],
+    "name:khm_x_variant":[
+        "\u179f\u17d2\u1793\u17bd\u179b"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Snu\u014fl",
+        "Shuol",
+        "Shoul",
+        "Snoul",
+        "Sooul",
+        "Snu\u014fl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673081,
+        1108564841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1822158
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"c4138cc56bf26ac4c245f7cd76ab0ec9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564841,
+            "locality_id":1193036989,
+            "region_id":85673081
+        }
+    ],
+    "wof:id":1193036989,
+    "wof:lastmodified":1537653330,
+    "wof:name":"Snuol",
+    "wof:parent_id":1108564841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.42078,
+    12.07244,
+    106.42078,
+    12.07244
+],
+  "geometry": {"coordinates":[106.42077999999999,12.07244],"type":"Point"}
+}

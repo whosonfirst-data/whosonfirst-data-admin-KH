@@ -1,0 +1,73 @@
+{
+  "id": 1292976689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.88089,11.07143,105.88089,11.07143",
+    "geom:latitude":11.07143,
+    "geom:longitude":105.88089,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Prey Sampor",
+    "gn:country_code":"KH",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825680,
+    "gn:latitude":11.07143,
+    "gn:longitude":105.88089,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Prey Sampor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Prey Sampor"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Prey S\u00e2mph\u00f4r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673105,
+        1108564865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825680
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"4b2b1fbcda3d67a6f38b9b2bf3e5531e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564865,
+            "locality_id":1292976689,
+            "region_id":85673105
+        }
+    ],
+    "wof:id":1292976689,
+    "wof:lastmodified":1537653558,
+    "wof:name":"Prey Sampor",
+    "wof:parent_id":1108564865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.88089,
+    11.07143,
+    105.88089,
+    11.07143
+],
+  "geometry": {"coordinates":[105.88088999999999,11.07143],"type":"Point"}
+}

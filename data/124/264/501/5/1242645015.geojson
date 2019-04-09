@@ -1,0 +1,78 @@
+{
+  "id": 1242645015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.04908,13.77304,103.04908,13.77304",
+    "geom:latitude":13.77304,
+    "geom:longitude":103.04908,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Ta Phou",
+    "gn:country_code":"KH",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1824092,
+    "gn:latitude":13.77304,
+    "gn:longitude":103.04908,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Ta Phou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Ta Phou"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u178f\u17b6\u1795\u17bc",
+        "Phum Ta Pho"
+    ],
+    "name:und_x_variant":[
+        "Khum Taphau",
+        "Phum\u012d Ta Pho"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673011,
+        421181961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1824092
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"bf63bb56856e7595b48f182c2cf79ee8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421181961,
+            "locality_id":1242645015,
+            "region_id":85673011
+        }
+    ],
+    "wof:id":1242645015,
+    "wof:lastmodified":1537653430,
+    "wof:name":"Ta Phou",
+    "wof:parent_id":421181961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.04908,
+    13.77304,
+    103.04908,
+    13.77304
+],
+  "geometry": {"coordinates":[103.04908,13.77304],"type":"Point"}
+}

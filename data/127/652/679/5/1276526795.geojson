@@ -1,0 +1,74 @@
+{
+  "id": 1276526795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.4362,11.0927,105.4362,11.0927",
+    "geom:latitude":11.0927,
+    "geom:longitude":105.4362,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Krasang Char",
+    "gn:country_code":"KH",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827111,
+    "gn:latitude":11.0927,
+    "gn:longitude":105.4362,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Krasang Char",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Krasang Char"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Kr\u00e2ns\u0103ng Cha",
+        "Phum\u012d Kr\u00e2s\u0103ng Char"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673067,
+        1108564775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827111
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"49072e72b79108dec2f94f6e82442b2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564775,
+            "locality_id":1276526795,
+            "region_id":85673067
+        }
+    ],
+    "wof:id":1276526795,
+    "wof:lastmodified":1537653687,
+    "wof:name":"Krasang Char",
+    "wof:parent_id":1108564775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.4362,
+    11.0927,
+    105.4362,
+    11.0927
+],
+  "geometry": {"coordinates":[105.4362,11.0927],"type":"Point"}
+}

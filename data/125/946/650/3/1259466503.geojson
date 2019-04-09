@@ -1,0 +1,73 @@
+{
+  "id": 1259466503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.29871,11.33742,105.29871,11.33742",
+    "geom:latitude":11.33742,
+    "geom:longitude":105.29871,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Phum Bati",
+    "gn:country_code":"KH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11503525,
+    "gn:latitude":11.33742,
+    "gn:longitude":105.29871,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Phum Bati",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Bati"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1794\u17b6\u1791\u17b8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673067,
+        421191397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11503525
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"3c9d47eba4336b7319e30752c1fb7b94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421191397,
+            "locality_id":1259466503,
+            "region_id":85673067
+        }
+    ],
+    "wof:id":1259466503,
+    "wof:lastmodified":1537654066,
+    "wof:name":"Phum Bati",
+    "wof:parent_id":421191397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.29871,
+    11.33742,
+    105.29871,
+    11.33742
+],
+  "geometry": {"coordinates":[105.29871,11.33742],"type":"Point"}
+}

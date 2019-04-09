@@ -1,0 +1,67 @@
+{
+  "id": 1259456709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.36879,11.52854,105.36879,11.52854",
+    "geom:latitude":11.52854,
+    "geom:longitude":105.36879,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Phumi Kok Trom",
+    "gn:country_code":"KH",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827490,
+    "gn:latitude":11.52854,
+    "gn:longitude":105.36879,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Phum\u012d K\u014fk Trom",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673067,
+        1108564791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827490
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"4857e89f87cedefacca2042a9f23b271",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564791,
+            "locality_id":1259456709,
+            "region_id":85673067
+        }
+    ],
+    "wof:id":1259456709,
+    "wof:lastmodified":1536897216,
+    "wof:name":"Phumi Kok Trom",
+    "wof:parent_id":1108564791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.36879,
+    11.52854,
+    105.36879,
+    11.52854
+],
+  "geometry": {"coordinates":[105.36879,11.52854],"type":"Point"}
+}

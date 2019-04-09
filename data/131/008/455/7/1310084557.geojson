@@ -1,0 +1,70 @@
+{
+  "id": 1310084557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.30143,11.77022,105.30143,11.77022",
+    "geom:latitude":11.77022,
+    "geom:longitude":105.30143,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Ta Nal",
+    "gn:country_code":"KH",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11478208,
+    "gn:latitude":11.77022,
+    "gn:longitude":105.30143,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Ta Nal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Ta Nal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673067,
+        1108564837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11478208
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"e61bb4cd0e41c22a9a1dbe1d19267e22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564837,
+            "locality_id":1310084557,
+            "region_id":85673067
+        }
+    ],
+    "wof:id":1310084557,
+    "wof:lastmodified":1537654041,
+    "wof:name":"Ta Nal",
+    "wof:parent_id":1108564837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.30143,
+    11.77022,
+    105.30143,
+    11.77022
+],
+  "geometry": {"coordinates":[105.30143,11.77022],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1293457501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.10648,13.47194,103.10648,13.47194",
+    "geom:latitude":13.47194,
+    "geom:longitude":103.10648,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Phum Chong Chap",
+    "gn:country_code":"KH",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828888,
+    "gn:latitude":13.47194,
+    "gn:longitude":103.10648,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Phum Ch\u014fng Chap",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Ch\u014fng Chap"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1785\u17bb\u1784\u1785\u17b6\u1794"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Ch\u014fng Chap",
+        "Phum\u012d Ch\u014fng Chab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673011,
+        1108564737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828888
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"4f1badfd8aec4a83f6d4391fd46a465d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564737,
+            "locality_id":1293457501,
+            "region_id":85673011
+        }
+    ],
+    "wof:id":1293457501,
+    "wof:lastmodified":1537653840,
+    "wof:name":"Phum Chong Chap",
+    "wof:parent_id":1108564737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.10648,
+    13.47194,
+    103.10648,
+    13.47194
+],
+  "geometry": {"coordinates":[103.10648,13.47194],"type":"Point"}
+}

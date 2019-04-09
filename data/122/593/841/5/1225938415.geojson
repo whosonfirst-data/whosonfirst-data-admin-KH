@@ -1,0 +1,74 @@
+{
+  "id": 1225938415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.06681,10.98857,105.06681,10.98857",
+    "geom:latitude":10.98857,
+    "geom:longitude":105.06681,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Chong Khsach",
+    "gn:country_code":"KH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828875,
+    "gn:latitude":10.98857,
+    "gn:longitude":105.06681,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Chong Khsach",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Chong Khsach"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Ch\u014fng Khsach",
+        "Phum\u012d Ch\u014fng Khs\u0103ch"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673051,
+        1108564703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828875
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"2adb6dc81971600f77ca96b8f4b35582",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564703,
+            "locality_id":1225938415,
+            "region_id":85673051
+        }
+    ],
+    "wof:id":1225938415,
+    "wof:lastmodified":1537653839,
+    "wof:name":"Chong Khsach",
+    "wof:parent_id":1108564703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.06681,
+    10.98857,
+    105.06681,
+    10.98857
+],
+  "geometry": {"coordinates":[105.06681,10.98857],"type":"Point"}
+}

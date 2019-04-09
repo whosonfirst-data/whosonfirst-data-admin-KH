@@ -1,0 +1,71 @@
+{
+  "id": 1259844987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.72515,11.32609,104.72515,11.32609",
+    "geom:latitude":11.32609,
+    "geom:longitude":104.72515,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Phumi Prey Kral",
+    "gn:country_code":"KH",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825788,
+    "gn:latitude":11.32609,
+    "gn:longitude":104.72515,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Prey Kral",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Prey Kray",
+        "Phum\u012d Prey Kral"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673107,
+        1108564613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825788
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"6b24933021917871cb4fd7a262c99945",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564613,
+            "locality_id":1259844987,
+            "region_id":85673107
+        }
+    ],
+    "wof:id":1259844987,
+    "wof:lastmodified":1537653566,
+    "wof:name":"Phumi Prey Kral",
+    "wof:parent_id":1108564613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.72515,
+    11.32609,
+    104.72515,
+    11.32609
+],
+  "geometry": {"coordinates":[104.72515,11.32609],"type":"Point"}
+}

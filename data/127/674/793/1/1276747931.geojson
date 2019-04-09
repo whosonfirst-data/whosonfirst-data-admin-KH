@@ -1,0 +1,73 @@
+{
+  "id": 1276747931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.39571,12.98954,106.39571,12.98954",
+    "geom:latitude":12.98954,
+    "geom:longitude":106.39571,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Phum Paeu",
+    "gn:country_code":"KH",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11512897,
+    "gn:latitude":12.98954,
+    "gn:longitude":106.39571,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Phum P\u00e2eu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum P\u00e2eu"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1794\u17d2\u17a2\u17be"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673081,
+        421188051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11512897
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"b4a040f48be6aca79175d5014112f901",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421188051,
+            "locality_id":1276747931,
+            "region_id":85673081
+        }
+    ],
+    "wof:id":1276747931,
+    "wof:lastmodified":1537654086,
+    "wof:name":"Phum Paeu",
+    "wof:parent_id":421188051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.39571,
+    12.98954,
+    106.39571,
+    12.98954
+],
+  "geometry": {"coordinates":[106.39570999999999,12.98954],"type":"Point"}
+}

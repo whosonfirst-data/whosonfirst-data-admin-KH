@@ -1,0 +1,73 @@
+{
+  "id": 1327335233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.60984,12.26776,104.60984,12.26776",
+    "geom:latitude":12.26776,
+    "geom:longitude":104.60984,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Phlov Veay",
+    "gn:country_code":"KH",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825199,
+    "gn:latitude":12.26776,
+    "gn:longitude":104.60984,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Phlov Veay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phlov Veay"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Sala Phlov V\u00e9ay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673047,
+        421198923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825199
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"d7b7cedc4e2bd691356e0d644820acbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421198923,
+            "locality_id":1327335233,
+            "region_id":85673047
+        }
+    ],
+    "wof:id":1327335233,
+    "wof:lastmodified":1537653520,
+    "wof:name":"Phlov Veay",
+    "wof:parent_id":421198923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.60984,
+    12.26776,
+    104.60984,
+    12.26776
+],
+  "geometry": {"coordinates":[104.60984000000001,12.26776],"type":"Point"}
+}

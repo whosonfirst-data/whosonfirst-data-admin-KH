@@ -1,0 +1,79 @@
+{
+  "id": 1209770997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.72943,13.70834,102.72943,13.70834",
+    "geom:latitude":13.70834,
+    "geom:longitude":102.72943,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Preav",
+    "gn:country_code":"KH",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1826085,
+    "gn:latitude":13.70834,
+    "gn:longitude":102.72943,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Preav",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Preav"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1796\u17d2\u179a\u17b6\u179c"
+    ],
+    "name:und_x_variant":[
+        "Phum Pread",
+        "Phum Preao",
+        "Phum Pr\u00e9av",
+        "Phum\u012d Pr\u00e9av"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673011,
+        421198129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1826085
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"c543dfc50fdfe09157a74d022d966e0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421198129,
+            "locality_id":1209770997,
+            "region_id":85673011
+        }
+    ],
+    "wof:id":1209770997,
+    "wof:lastmodified":1537653593,
+    "wof:name":"Preav",
+    "wof:parent_id":421198129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.72943,
+    13.70834,
+    102.72943,
+    13.70834
+],
+  "geometry": {"coordinates":[102.72942999999999,13.70834],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1344204447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.285,13.09496,103.285,13.09496",
+    "geom:latitude":13.09496,
+    "geom:longitude":103.285,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Ta Haen Pir",
+    "gn:country_code":"KH",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11424657,
+    "gn:latitude":13.09496,
+    "gn:longitude":103.285,
+    "gn:modification_date":"2017-01-07",
+    "gn:name":"Ta Haen Pir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Ta Haen Pir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673015,
+        421202239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11424657
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"d9a99d6eee5174e7a4659425c81b61cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421202239,
+            "locality_id":1344204447,
+            "region_id":85673015
+        }
+    ],
+    "wof:id":1344204447,
+    "wof:lastmodified":1537654003,
+    "wof:name":"Ta Haen Pir",
+    "wof:parent_id":421202239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.285,
+    13.09496,
+    103.285,
+    13.09496
+],
+  "geometry": {"coordinates":[103.285,13.09496],"type":"Point"}
+}

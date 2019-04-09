@@ -1,0 +1,70 @@
+{
+  "id": 1260044315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.63183,10.54698,104.63183,10.54698",
+    "geom:latitude":10.54698,
+    "geom:longitude":104.63183,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Prey Tonle",
+    "gn:country_code":"KH",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11459797,
+    "gn:latitude":10.54698,
+    "gn:longitude":104.63183,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Prey Tonle",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Prey Tonle"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673093,
+        1108564601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11459797
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"b2c3258f9be2eef4ae6cb45665ddc92e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564601,
+            "locality_id":1260044315,
+            "region_id":85673093
+        }
+    ],
+    "wof:id":1260044315,
+    "wof:lastmodified":1537654020,
+    "wof:name":"Prey Tonle",
+    "wof:parent_id":1108564601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.63183,
+    10.54698,
+    104.63183,
+    10.54698
+],
+  "geometry": {"coordinates":[104.63182999999999,10.54698],"type":"Point"}
+}

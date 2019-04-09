@@ -1,0 +1,75 @@
+{
+  "id": 1277024605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.6356,12.8044,103.6356,12.8044",
+    "geom:latitude":12.8044,
+    "geom:longitude":103.6356,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Neak Ta Tvear",
+    "gn:country_code":"KH",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1826817,
+    "gn:latitude":12.8044,
+    "gn:longitude":103.6356,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Neak Ta Tvear",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Neak Ta Tvear"
+    ],
+    "name:und_x_variant":[
+        "P\u2019um Neak Ta Thv\u00e9a",
+        "Phum\u012d Nerkta Tv\u00e9a",
+        "Phum\u012d \u2019Ne\u0103kta Tv\u00e9a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673015,
+        1108564739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1826817
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"e230afe057f6ad5f1830422513a04862",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564739,
+            "locality_id":1277024605,
+            "region_id":85673015
+        }
+    ],
+    "wof:id":1277024605,
+    "wof:lastmodified":1537653659,
+    "wof:name":"Neak Ta Tvear",
+    "wof:parent_id":1108564739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.6356,
+    12.8044,
+    103.6356,
+    12.8044
+],
+  "geometry": {"coordinates":[103.6356,12.8044],"type":"Point"}
+}

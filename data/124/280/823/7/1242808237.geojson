@@ -1,0 +1,67 @@
+{
+  "id": 1242808237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.68478,11.82955,105.68478,11.82955",
+    "geom:latitude":11.82955,
+    "geom:longitude":105.68478,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Phumi Dong Preah",
+    "gn:country_code":"KH",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828494,
+    "gn:latitude":11.82955,
+    "gn:longitude":105.68478,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Phum\u012d Dong Pre\u0103h",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        1108804319,
+        421183891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828494
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"d40e7d63703b123506a3f14134ab4acd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421183891,
+            "locality_id":1242808237,
+            "region_id":1108804319
+        }
+    ],
+    "wof:id":1242808237,
+    "wof:lastmodified":1536731862,
+    "wof:name":"Phumi Dong Preah",
+    "wof:parent_id":421183891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.68478,
+    11.82955,
+    105.68478,
+    11.82955
+],
+  "geometry": {"coordinates":[105.68478,11.82955],"type":"Point"}
+}

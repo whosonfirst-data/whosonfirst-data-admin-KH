@@ -1,0 +1,67 @@
+{
+  "id": 1276563351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.8513,13.40773,102.8513,13.40773",
+    "geom:latitude":13.40773,
+    "geom:longitude":102.8513,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Phumi Boeng Kalong",
+    "gn:country_code":"KH",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829446,
+    "gn:latitude":13.40773,
+    "gn:longitude":102.8513,
+    "gn:modification_date":"1993-12-30",
+    "gn:name":"Phum\u012d B\u0153\u0306ng Kalong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673011,
+        1108564737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829446
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"284f09a71f0f6b2b71284201ade2ba3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564737,
+            "locality_id":1276563351,
+            "region_id":85673011
+        }
+    ],
+    "wof:id":1276563351,
+    "wof:lastmodified":1536967561,
+    "wof:name":"Phumi Boeng Kalong",
+    "wof:parent_id":1108564737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.8513,
+    13.40773,
+    102.8513,
+    13.40773
+],
+  "geometry": {"coordinates":[102.85129999999999,13.40773],"type":"Point"}
+}

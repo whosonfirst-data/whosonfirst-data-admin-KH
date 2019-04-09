@@ -1,0 +1,70 @@
+{
+  "id": 1293287033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.98091,11.75513,104.98091,11.75513",
+    "geom:latitude":11.75513,
+    "geom:longitude":104.98091,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Chheu Tea",
+    "gn:country_code":"KH",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11475146,
+    "gn:latitude":11.75513,
+    "gn:longitude":104.98091,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Chheu Tea",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Chheu Tea"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673051,
+        1108564741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11475146
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"e68195d825c403db4fa55f10ea23b304",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564741,
+            "locality_id":1293287033,
+            "region_id":85673051
+        }
+    ],
+    "wof:id":1293287033,
+    "wof:lastmodified":1537654024,
+    "wof:name":"Chheu Tea",
+    "wof:parent_id":1108564741,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.98091,
+    11.75513,
+    104.98091,
+    11.75513
+],
+  "geometry": {"coordinates":[104.98090999999999,11.75513],"type":"Point"}
+}

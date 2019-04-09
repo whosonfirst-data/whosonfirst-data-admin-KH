@@ -1,0 +1,72 @@
+{
+  "id": 1210008225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.10844,11.66307,105.10844,11.66307",
+    "geom:latitude":11.66307,
+    "geom:longitude":105.10844,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Khum Sithor",
+    "gn:country_code":"KH",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1830716,
+    "gn:latitude":11.66307,
+    "gn:longitude":105.10844,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kh\u016dm Sith\u00f4r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum Sithor",
+        "Phum Stihor",
+        "Kh\u016dm Sith\u00f4r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673051,
+        421188351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1830716
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"b5bf88eac0fe2543752746bce77b9ff1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421188351,
+            "locality_id":1210008225,
+            "region_id":85673051
+        }
+    ],
+    "wof:id":1210008225,
+    "wof:lastmodified":1537653944,
+    "wof:name":"Khum Sithor",
+    "wof:parent_id":421188351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.10844,
+    11.66307,
+    105.10844,
+    11.66307
+],
+  "geometry": {"coordinates":[105.10844,11.66307],"type":"Point"}
+}

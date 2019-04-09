@@ -1,0 +1,74 @@
+{
+  "id": 1293286817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.06235,11.15038,105.06235,11.15038",
+    "geom:latitude":11.15038,
+    "geom:longitude":105.06235,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Preaek Thmei",
+    "gn:country_code":"KH",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11504345,
+    "gn:latitude":11.15038,
+    "gn:longitude":105.06235,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Preaek Thmei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Preaek Thmei"
+    ],
+    "name:khm_x_variant":[
+        "Phum K\u00e2mp\u00f4ng S\u00e2mbu\u014fr",
+        "\u1797\u17bc\u1798\u17b7 \u1780\u17c6\u1796\u1784\u17cb\u179f\u17c6\u1794\u17ca\u17bd\u179a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673051,
+        1108564703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11504345
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"389740d9d30a33cec2ea834d8bf523b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564703,
+            "locality_id":1293286817,
+            "region_id":85673051
+        }
+    ],
+    "wof:id":1293286817,
+    "wof:lastmodified":1537654070,
+    "wof:name":"Preaek Thmei",
+    "wof:parent_id":1108564703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.06235,
+    11.15038,
+    105.06235,
+    11.15038
+],
+  "geometry": {"coordinates":[105.06235,11.15038],"type":"Point"}
+}

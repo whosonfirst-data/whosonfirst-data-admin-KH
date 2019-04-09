@@ -1,0 +1,70 @@
+{
+  "id": 1360142705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.99968,13.33028,103.99968,13.33028",
+    "geom:latitude":13.33028,
+    "geom:longitude":103.99968,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Roluos Kaeut",
+    "gn:country_code":"KH",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11559435,
+    "gn:latitude":13.33028,
+    "gn:longitude":103.99968,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Roluos Kaeut",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Roluos Kaeut"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673029,
+        421171409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11559435
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"99c595c41fc2cdfe265bfa5345ab1d5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421171409,
+            "locality_id":1360142705,
+            "region_id":85673029
+        }
+    ],
+    "wof:id":1360142705,
+    "wof:lastmodified":1537654111,
+    "wof:name":"Roluos Kaeut",
+    "wof:parent_id":421171409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.99968,
+    13.33028,
+    103.99968,
+    13.33028
+],
+  "geometry": {"coordinates":[103.99968,13.33028],"type":"Point"}
+}

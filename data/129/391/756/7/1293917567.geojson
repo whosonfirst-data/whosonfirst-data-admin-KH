@@ -1,0 +1,74 @@
+{
+  "id": 1293917567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.69963,12.10797,105.69963,12.10797",
+    "geom:latitude":12.10797,
+    "geom:longitude":105.69963,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Multhan Ta Pav",
+    "gn:country_code":"KH",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11507547,
+    "gn:latitude":12.10797,
+    "gn:longitude":105.69963,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Multhan Ta Pav",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Multhan Ta Pav"
+    ],
+    "name:khm_x_variant":[
+        "Phum Ch\u00e2mkar Caoutchouc",
+        "\u1797\u17bc\u1798\u17b7 \u1785\u17c6\u1780\u17b6\u179a\u1780\u17c5\u179f\u17ca\u17bc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        1108804319,
+        421183891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11507547
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"798e930254fea1e1cdac57eca03d43e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421183891,
+            "locality_id":1293917567,
+            "region_id":1108804319
+        }
+    ],
+    "wof:id":1293917567,
+    "wof:lastmodified":1537654079,
+    "wof:name":"Multhan Ta Pav",
+    "wof:parent_id":421183891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.69963,
+    12.10797,
+    105.69963,
+    12.10797
+],
+  "geometry": {"coordinates":[105.69963,12.10797],"type":"Point"}
+}

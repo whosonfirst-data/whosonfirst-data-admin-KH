@@ -1,0 +1,74 @@
+{
+  "id": 1293750275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.50188,14.18802,103.50188,14.18802",
+    "geom:latitude":14.18802,
+    "geom:longitude":103.50188,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Kamnab",
+    "gn:country_code":"KH",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11590010,
+    "gn:latitude":14.18802,
+    "gn:longitude":103.50188,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Kamnab",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Kamnab"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1780\u17c6\u178e\u1794\u17cb",
+        "Phum K\u00e2mn\u00e2p"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673033,
+        1108564823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11590010
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"5d950364cc308c723d3062230c500f29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564823,
+            "locality_id":1293750275,
+            "region_id":85673033
+        }
+    ],
+    "wof:id":1293750275,
+    "wof:lastmodified":1537654120,
+    "wof:name":"Kamnab",
+    "wof:parent_id":1108564823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.50188,
+    14.18802,
+    103.50188,
+    14.18802
+],
+  "geometry": {"coordinates":[103.50188,14.18802],"type":"Point"}
+}

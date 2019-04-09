@@ -1,0 +1,70 @@
+{
+  "id": 1276277635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.3619,13.43601,102.3619,13.43601",
+    "geom:latitude":13.43601,
+    "geom:longitude":102.3619,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Santepheap",
+    "gn:country_code":"KH",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11411725,
+    "gn:latitude":13.43601,
+    "gn:longitude":102.3619,
+    "gn:modification_date":"2017-01-07",
+    "gn:name":"Santepheap",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Santepheap"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673015,
+        1108564817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11411725
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"fa2f433a78c2d9d256f00a03094e4bac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564817,
+            "locality_id":1276277635,
+            "region_id":85673015
+        }
+    ],
+    "wof:id":1276277635,
+    "wof:lastmodified":1537653997,
+    "wof:name":"Santepheap",
+    "wof:parent_id":1108564817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.3619,
+    13.43601,
+    102.3619,
+    13.43601
+],
+  "geometry": {"coordinates":[102.36190000000001,13.43601],"type":"Point"}
+}

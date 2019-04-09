@@ -1,0 +1,75 @@
+{
+  "id": 1276394789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.83982,13.37382,103.83982,13.37382",
+    "geom:latitude":13.37382,
+    "geom:longitude":103.83982,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Kruos",
+    "gn:country_code":"KH",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827053,
+    "gn:latitude":13.37382,
+    "gn:longitude":103.83982,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Kruos",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Kruos"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1782\u17d2\u179a\u17bd\u179f",
+        "Phum\u012d Kru\u014fs",
+        "Phum Kru\u014fs"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673029,
+        421204115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827053
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"64205060ad02f014b5e33d6f61af3974",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421204115,
+            "locality_id":1276394789,
+            "region_id":85673029
+        }
+    ],
+    "wof:id":1276394789,
+    "wof:lastmodified":1537653682,
+    "wof:name":"Kruos",
+    "wof:parent_id":421204115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.83982,
+    13.37382,
+    103.83982,
+    13.37382
+],
+  "geometry": {"coordinates":[103.83982,13.37382],"type":"Point"}
+}

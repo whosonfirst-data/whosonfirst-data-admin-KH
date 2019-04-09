@@ -1,0 +1,73 @@
+{
+  "id": 1259777031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.69952,12.90898,106.69952,12.90898",
+    "geom:latitude":12.90898,
+    "geom:longitude":106.69952,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Phum Dei Hoy",
+    "gn:country_code":"KH",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828550,
+    "gn:latitude":12.90898,
+    "gn:longitude":106.69952,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Phum Dei H\u014fy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Dei H\u014fy"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u178a\u17b8\u17a0\u17bb\u1799"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673085,
+        1108564699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828550
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"908a796ae9f1a892f5983fd9095e5174",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564699,
+            "locality_id":1259777031,
+            "region_id":85673085
+        }
+    ],
+    "wof:id":1259777031,
+    "wof:lastmodified":1537653814,
+    "wof:name":"Phum Dei Hoy",
+    "wof:parent_id":1108564699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.69952,
+    12.90898,
+    106.69952,
+    12.90898
+],
+  "geometry": {"coordinates":[106.69952000000001,12.90898],"type":"Point"}
+}

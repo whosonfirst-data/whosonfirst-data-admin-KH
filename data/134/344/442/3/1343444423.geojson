@@ -1,0 +1,72 @@
+{
+  "id": 1343444423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.54769,11.57524,105.54769,11.57524",
+    "geom:latitude":11.57524,
+    "geom:longitude":105.54769,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Phum Ben Kok",
+    "gn:country_code":"KH",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829448,
+    "gn:latitude":11.57524,
+    "gn:longitude":105.54769,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Phum Ben Kok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum Beng Kok",
+        "Phum Ben Kok",
+        "Phum\u012d B\u0153\u0306ng K\u00e1k"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673067,
+        1108564669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829448
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"d0b4693b5b7f460222e53c647787b650",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564669,
+            "locality_id":1343444423,
+            "region_id":85673067
+        }
+    ],
+    "wof:id":1343444423,
+    "wof:lastmodified":1537653883,
+    "wof:name":"Phum Ben Kok",
+    "wof:parent_id":1108564669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.54769,
+    11.57524,
+    105.54769,
+    11.57524
+],
+  "geometry": {"coordinates":[105.54769,11.57524],"type":"Point"}
+}

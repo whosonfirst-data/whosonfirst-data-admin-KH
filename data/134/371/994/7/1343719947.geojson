@@ -1,0 +1,77 @@
+{
+  "id": 1343719947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.91202,13.83838,103.91202,13.83838",
+    "geom:latitude":13.83838,
+    "geom:longitude":103.91202,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Kouk Chan",
+    "gn:country_code":"KH",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827429,
+    "gn:latitude":13.83838,
+    "gn:longitude":103.91202,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Kouk Chan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Kouk Chan"
+    ],
+    "name:khm_x_variant":[
+        "Phum Ko\u016dk Chann"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Ko\u016dk Chann",
+        "Phum\u012d Ko\u016dk Ch\u0103n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673029,
+        421200833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827429
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"cb99e50aa6cc3526051769b1b2551f00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421200833,
+            "locality_id":1343719947,
+            "region_id":85673029
+        }
+    ],
+    "wof:id":1343719947,
+    "wof:lastmodified":1537653718,
+    "wof:name":"Kouk Chan",
+    "wof:parent_id":421200833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.91202,
+    13.83838,
+    103.91202,
+    13.83838
+],
+  "geometry": {"coordinates":[103.91202,13.83838],"type":"Point"}
+}

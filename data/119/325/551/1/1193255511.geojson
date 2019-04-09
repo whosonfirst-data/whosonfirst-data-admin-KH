@@ -1,0 +1,72 @@
+{
+  "id": 1193255511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.75019,12.30997,103.75019,12.30997",
+    "geom:latitude":12.30997,
+    "geom:longitude":103.75019,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Phumi Tranh Bangrul",
+    "gn:country_code":"KH",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1823488,
+    "gn:latitude":12.30997,
+    "gn:longitude":103.75019,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Tr\u0103nh B\u00e2ngrul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum\u012d Tranh B\u00e2ngrol",
+        "Phum\u012d Tranh B\u00e2ngro",
+        "Phum\u012d Tr\u0103nh B\u00e2ngrul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673023,
+        1108564759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1823488
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"7d7e1ac24b81e6d9f460629eafa84535",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564759,
+            "locality_id":1193255511,
+            "region_id":85673023
+        }
+    ],
+    "wof:id":1193255511,
+    "wof:lastmodified":1537653381,
+    "wof:name":"Phumi Tranh Bangrul",
+    "wof:parent_id":1108564759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.75019,
+    12.30997,
+    103.75019,
+    12.30997
+],
+  "geometry": {"coordinates":[103.75019,12.30997],"type":"Point"}
+}

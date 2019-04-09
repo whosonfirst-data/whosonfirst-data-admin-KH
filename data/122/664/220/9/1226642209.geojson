@@ -1,0 +1,76 @@
+{
+  "id": 1226642209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.38168,12.06233,106.38168,12.06233",
+    "geom:latitude":12.06233,
+    "geom:longitude":106.38168,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Phum Chivoat",
+    "gn:country_code":"KH",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828916,
+    "gn:latitude":12.06233,
+    "gn:longitude":106.38168,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Phum Chiv\u00f4\u0103t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Chiv\u00f4\u0103t"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1787\u17b8\u179c\u17b6\u178f\u17cb"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Chivo\u0103t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673081,
+        1108564841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828916
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"b197a00eeba405dc3b20a7166a6d80d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564841,
+            "locality_id":1226642209,
+            "region_id":85673081
+        }
+    ],
+    "wof:id":1226642209,
+    "wof:lastmodified":1537653842,
+    "wof:name":"Phum Chivoat",
+    "wof:parent_id":1108564841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.38168,
+    12.06233,
+    106.38168,
+    12.06233
+],
+  "geometry": {"coordinates":[106.38168,12.06233],"type":"Point"}
+}

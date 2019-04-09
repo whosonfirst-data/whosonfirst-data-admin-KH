@@ -1,0 +1,74 @@
+{
+  "id": 1293557071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.94792,13.95949,102.94792,13.95949",
+    "geom:latitude":13.95949,
+    "geom:longitude":102.94792,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Kouk Prich",
+    "gn:country_code":"KH",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1830590,
+    "gn:latitude":13.95949,
+    "gn:longitude":102.94792,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Kouk Prich",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Kouk Prich"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Ko\u016dk Pr\u00e9ch",
+        "Ko\u016dk Pr\u00e9ch"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673011,
+        421203293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1830590
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"cecf6febd035ce566e55da88fa9619b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421203293,
+            "locality_id":1293557071,
+            "region_id":85673011
+        }
+    ],
+    "wof:id":1293557071,
+    "wof:lastmodified":1537653941,
+    "wof:name":"Kouk Prich",
+    "wof:parent_id":421203293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.94792,
+    13.95949,
+    102.94792,
+    13.95949
+],
+  "geometry": {"coordinates":[102.94792,13.95949],"type":"Point"}
+}

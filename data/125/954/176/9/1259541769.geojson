@@ -1,0 +1,70 @@
+{
+  "id": 1259541769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.42095,13.67231,107.42095,13.67231",
+    "geom:latitude":13.67231,
+    "geom:longitude":107.42095,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Ten Ngol",
+    "gn:country_code":"KH",
+    "gn:dem":230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11484024,
+    "gn:latitude":13.67231,
+    "gn:longitude":107.42095,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Ten Ngol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Ten Ngol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673089,
+        1108564747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11484024
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"8d2607ccbc49d031d6ea6ae60964ad62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564747,
+            "locality_id":1259541769,
+            "region_id":85673089
+        }
+    ],
+    "wof:id":1259541769,
+    "wof:lastmodified":1537654063,
+    "wof:name":"Ten Ngol",
+    "wof:parent_id":1108564747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.42095,
+    13.67231,
+    107.42095,
+    13.67231
+],
+  "geometry": {"coordinates":[107.42095,13.67231],"type":"Point"}
+}

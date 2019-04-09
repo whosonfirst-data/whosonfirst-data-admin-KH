@@ -1,0 +1,72 @@
+{
+  "id": 1209416777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.28648,12.23416,104.28648,12.23416",
+    "geom:latitude":12.23416,
+    "geom:longitude":104.28648,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Phum Kdol Thmei",
+    "gn:country_code":"KH",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827786,
+    "gn:latitude":12.23416,
+    "gn:longitude":104.28648,
+    "gn:modification_date":"2017-07-05",
+    "gn:name":"Phum Kd\u014fl Thmei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Kd\u014fl Thmei"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1780\u17d2\u178f\u17bb\u179b\u1790\u17d2\u1798\u17b8"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Kd\u014fl Thmei",
+        "Phum Ka\u014fl Thme",
+        "Phum Ko\u014fl Thmei"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827786
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"cc6f92c87f506eb34d6f7c1a6f5116bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209416777
+        }
+    ],
+    "wof:id":1209416777,
+    "wof:lastmodified":1537653749,
+    "wof:name":"Phum Kdol Thmei",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.28648,
+    12.23416,
+    104.28648,
+    12.23416
+],
+  "geometry": {"coordinates":[104.28648,12.23416],"type":"Point"}
+}

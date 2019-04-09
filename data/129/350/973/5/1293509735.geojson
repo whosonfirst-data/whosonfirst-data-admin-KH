@@ -1,0 +1,76 @@
+{
+  "id": 1293509735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.15314,11.35373,103.15314,11.35373",
+    "geom:latitude":11.35373,
+    "geom:longitude":103.15314,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Phum Sre Kandal",
+    "gn:country_code":"KH",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1824637,
+    "gn:latitude":11.35373,
+    "gn:longitude":103.15314,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Phum Sr\u00ea K\u00e2ndal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Sr\u00ea K\u00e2ndal"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u179f\u17d2\u179a\u17c2\u1780\u178e\u17d2\u178a\u17b6\u179b"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Sr\u00ea K\u00e2ndal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673019,
+        1108564697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1824637
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"61a9a41eec4a9612f62088c0cee872df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564697,
+            "locality_id":1293509735,
+            "region_id":85673019
+        }
+    ],
+    "wof:id":1293509735,
+    "wof:lastmodified":1537653474,
+    "wof:name":"Phum Sre Kandal",
+    "wof:parent_id":1108564697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.15314,
+    11.35373,
+    103.15314,
+    11.35373
+],
+  "geometry": {"coordinates":[103.15313999999999,11.35373],"type":"Point"}
+}

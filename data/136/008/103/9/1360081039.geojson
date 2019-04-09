@@ -1,0 +1,67 @@
+{
+  "id": 1360081039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.26102,12.46942,107.26102,12.46942",
+    "geom:latitude":12.46942,
+    "geom:longitude":107.26102,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Phumi Pu Rodet Kraom",
+    "gn:country_code":"KH",
+    "gn:dem":710,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825512,
+    "gn:latitude":12.46942,
+    "gn:longitude":107.26102,
+    "gn:modification_date":"1993-12-30",
+    "gn:name":"Phum\u012d Pu R\u00f4d\u00eat Kra\u00f4m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673085,
+        421188055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825512
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"2739b8618c635b6763ce2f95c52a9852",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421188055,
+            "locality_id":1360081039,
+            "region_id":85673085
+        }
+    ],
+    "wof:id":1360081039,
+    "wof:lastmodified":1536951697,
+    "wof:name":"Phumi Pu Rodet Kraom",
+    "wof:parent_id":421188055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.26102,
+    12.46942,
+    107.26102,
+    12.46942
+],
+  "geometry": {"coordinates":[107.26102,12.46942],"type":"Point"}
+}

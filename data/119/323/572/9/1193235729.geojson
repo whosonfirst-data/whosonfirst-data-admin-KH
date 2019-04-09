@@ -1,0 +1,73 @@
+{
+  "id": 1193235729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.40752,13.57801,103.40752,13.57801",
+    "geom:latitude":13.57801,
+    "geom:longitude":103.40752,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Phum Ta Dek",
+    "gn:country_code":"KH",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11376312,
+    "gn:latitude":13.57801,
+    "gn:longitude":103.40752,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Phum Ta D\u00eak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Ta D\u00eak"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u178f\u17b6\u178a\u17c1\u1780"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673011,
+        421183973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11376312
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"d31acab71f364c0cdd931b935439ba53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421183973,
+            "locality_id":1193235729,
+            "region_id":85673011
+        }
+    ],
+    "wof:id":1193235729,
+    "wof:lastmodified":1537653991,
+    "wof:name":"Phum Ta Dek",
+    "wof:parent_id":421183973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.40752,
+    13.57801,
+    103.40752,
+    13.57801
+],
+  "geometry": {"coordinates":[103.40752000000001,13.57801],"type":"Point"}
+}

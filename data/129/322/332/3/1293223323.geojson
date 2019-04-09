@@ -1,0 +1,67 @@
+{
+  "id": 1293223323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.46703,12.96689,104.46703,12.96689",
+    "geom:latitude":12.96689,
+    "geom:longitude":104.46703,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Phumi Kampong Khlong",
+    "gn:country_code":"KH",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828290,
+    "gn:latitude":12.96689,
+    "gn:longitude":104.46703,
+    "gn:modification_date":"1993-12-30",
+    "gn:name":"Phum\u012d K\u00e2mp\u00f3ng Khl\u014fng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673057,
+        1108564849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828290
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"717e1a487e4e2952796db70e01470689",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564849,
+            "locality_id":1293223323,
+            "region_id":85673057
+        }
+    ],
+    "wof:id":1293223323,
+    "wof:lastmodified":1536670850,
+    "wof:name":"Phumi Kampong Khlong",
+    "wof:parent_id":1108564849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.46703,
+    12.96689,
+    104.46703,
+    12.96689
+],
+  "geometry": {"coordinates":[104.46702999999999,12.96689],"type":"Point"}
+}

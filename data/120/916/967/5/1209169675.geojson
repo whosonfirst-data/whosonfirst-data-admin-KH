@@ -1,0 +1,68 @@
+{
+  "id": 1209169675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.06575,13.75841,103.06575,13.75841",
+    "geom:latitude":13.75841,
+    "geom:longitude":103.06575,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Ta Srei",
+    "gn:country_code":"KH",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11409991,
+    "gn:latitude":13.75841,
+    "gn:longitude":103.06575,
+    "gn:modification_date":"2017-01-07",
+    "gn:name":"Ta Srei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Ta Srei"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u178f\u17b6\u179f\u17d2\u179a\u17b8",
+        "Phum Ta Srei"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11409991
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"e23cb2fe8769e8b08a609ef5bed2a0e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209169675
+        }
+    ],
+    "wof:id":1209169675,
+    "wof:lastmodified":1537653996,
+    "wof:name":"Ta Srei",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.06575,
+    13.75841,
+    103.06575,
+    13.75841
+],
+  "geometry": {"coordinates":[103.06574999999999,13.75841],"type":"Point"}
+}

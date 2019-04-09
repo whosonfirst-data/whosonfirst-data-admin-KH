@@ -1,0 +1,70 @@
+{
+  "id": 1259880221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.39568,11.35992,104.39568,11.35992",
+    "geom:latitude":11.35992,
+    "geom:longitude":104.39568,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Kiri Voan",
+    "gn:country_code":"KH",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11450622,
+    "gn:latitude":11.35992,
+    "gn:longitude":104.39568,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Kiri Voan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Kiri Voan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673053,
+        1108564765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11450622
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"b8ae063928a4824bc811bde98230e649",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564765,
+            "locality_id":1259880221,
+            "region_id":85673053
+        }
+    ],
+    "wof:id":1259880221,
+    "wof:lastmodified":1537654013,
+    "wof:name":"Kiri Voan",
+    "wof:parent_id":1108564765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.39568,
+    11.35992,
+    104.39568,
+    11.35992
+],
+  "geometry": {"coordinates":[104.39568,11.35992],"type":"Point"}
+}

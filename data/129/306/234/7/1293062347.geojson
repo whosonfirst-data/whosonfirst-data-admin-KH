@@ -1,0 +1,77 @@
+{
+  "id": 1293062347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.38964,12.62623,103.38964,12.62623",
+    "geom:latitude":12.62623,
+    "geom:longitude":103.38964,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Phum Tram Seh",
+    "gn:country_code":"KH",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1823502,
+    "gn:latitude":12.62623,
+    "gn:longitude":103.38964,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Phum Tr\u0103m S\u00e9h",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Tr\u0103m S\u00e9h"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u178f\u17d2\u179a\u17b6\u17c6\u179f\u17c1\u17c7"
+    ],
+    "name:und_x_variant":[
+        "Phum Tram Ses",
+        "Phum\u012d Tr\u0103m S\u00e9h"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673015,
+        1108564805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1823502
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"a624815d2634ae4837485d44e21b5a5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564805,
+            "locality_id":1293062347,
+            "region_id":85673015
+        }
+    ],
+    "wof:id":1293062347,
+    "wof:lastmodified":1537653382,
+    "wof:name":"Phum Tram Seh",
+    "wof:parent_id":1108564805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.38964,
+    12.62623,
+    103.38964,
+    12.62623
+],
+  "geometry": {"coordinates":[103.38964,12.62623],"type":"Point"}
+}

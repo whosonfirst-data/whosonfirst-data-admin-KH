@@ -1,0 +1,61 @@
+{
+  "id": 1209578019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.57208,11.04651,104.57208,11.04651",
+    "geom:latitude":11.04651,
+    "geom:longitude":104.57208,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Phumi Prey Preal",
+    "gn:country_code":"KH",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825718,
+    "gn:latitude":11.04651,
+    "gn:longitude":104.57208,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Phum\u012d Prey Pr\u00e9al",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825718
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"abf54e4fdf649577b6d794a864e7d944",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209578019
+        }
+    ],
+    "wof:id":1209578019,
+    "wof:lastmodified":1536282875,
+    "wof:name":"Phumi Prey Preal",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.57208,
+    11.04651,
+    104.57208,
+    11.04651
+],
+  "geometry": {"coordinates":[104.57208,11.04651],"type":"Point"}
+}

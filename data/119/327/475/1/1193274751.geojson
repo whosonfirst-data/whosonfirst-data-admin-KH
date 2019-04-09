@@ -1,0 +1,71 @@
+{
+  "id": 1193274751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.21632,12.8303,105.21632,12.8303",
+    "geom:latitude":12.8303,
+    "geom:longitude":105.21632,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Phumi Sraeung",
+    "gn:country_code":"KH",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1824734,
+    "gn:latitude":12.8303,
+    "gn:longitude":105.21632,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Sraeung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum Sr\u0153ung",
+        "Phum\u012d Sraeung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673057,
+        421182521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1824734
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"26ae0faa559805162f7c8c7bc9421246",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421182521,
+            "locality_id":1193274751,
+            "region_id":85673057
+        }
+    ],
+    "wof:id":1193274751,
+    "wof:lastmodified":1537653481,
+    "wof:name":"Phumi Sraeung",
+    "wof:parent_id":421182521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.21632,
+    12.8303,
+    105.21632,
+    12.8303
+],
+  "geometry": {"coordinates":[105.21632,12.8303],"type":"Point"}
+}

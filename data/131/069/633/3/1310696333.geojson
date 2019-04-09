@@ -1,0 +1,75 @@
+{
+  "id": 1310696333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.41834,12.28438,106.41834,12.28438",
+    "geom:latitude":12.28438,
+    "geom:longitude":106.41834,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Srae Roneam",
+    "gn:country_code":"KH",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1824577,
+    "gn:latitude":12.28438,
+    "gn:longitude":106.41834,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Srae Roneam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Srae Roneam"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Sr\u00ea R\u00f4n\u00e9am",
+        "Phum\u012d Sr\u00ea R\u00f4n\u00e9an",
+        "Sr\u00ea R\u00f4n\u00e9am"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673081,
+        1108564841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1824577
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"9ec9625a7d5ddb06b05ab8bec5796510",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564841,
+            "locality_id":1310696333,
+            "region_id":85673081
+        }
+    ],
+    "wof:id":1310696333,
+    "wof:lastmodified":1537653468,
+    "wof:name":"Srae Roneam",
+    "wof:parent_id":1108564841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.41834,
+    12.28438,
+    106.41834,
+    12.28438
+],
+  "geometry": {"coordinates":[106.41834,12.28438],"type":"Point"}
+}

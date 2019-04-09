@@ -1,0 +1,74 @@
+{
+  "id": 1226002091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.99795,13.98296,102.99795,13.98296",
+    "geom:latitude":13.98296,
+    "geom:longitude":102.99795,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Kandaol",
+    "gn:country_code":"KH",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828098,
+    "gn:latitude":13.98296,
+    "gn:longitude":102.99795,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Kandaol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Kandaol"
+    ],
+    "name:und_x_variant":[
+        "Kandol",
+        "Phum\u012d K\u00e2nda\u00f4l"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673011,
+        421203293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828098
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"318345e14cad4a18a755023e7d1558bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421203293,
+            "locality_id":1226002091,
+            "region_id":85673011
+        }
+    ],
+    "wof:id":1226002091,
+    "wof:lastmodified":1537653775,
+    "wof:name":"Kandaol",
+    "wof:parent_id":421203293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.99795,
+    13.98296,
+    102.99795,
+    13.98296
+],
+  "geometry": {"coordinates":[102.99795,13.98296],"type":"Point"}
+}

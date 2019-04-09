@@ -1,0 +1,75 @@
+{
+  "id": 1293212125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.70183,12.34671,104.70183,12.34671",
+    "geom:latitude":12.34671,
+    "geom:longitude":104.70183,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Kampong Ba Chen",
+    "gn:country_code":"KH",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828329,
+    "gn:latitude":12.34671,
+    "gn:longitude":104.70183,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Kampong Ba Chen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Kampong Ba Chen"
+    ],
+    "name:und_x_variant":[
+        "Kompong Prachen",
+        "Phum\u012d K\u00e2mp\u00f4ng Bach\u0153\u0306n",
+        "Phum\u012d K\u00e2mp\u00f3ng Bach\u0115n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673047,
+        421188239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828329
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"a20b6b81462a39605d627540f584c1d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421188239,
+            "locality_id":1293212125,
+            "region_id":85673047
+        }
+    ],
+    "wof:id":1293212125,
+    "wof:lastmodified":1537653797,
+    "wof:name":"Kampong Ba Chen",
+    "wof:parent_id":421188239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.70183,
+    12.34671,
+    104.70183,
+    12.34671
+],
+  "geometry": {"coordinates":[104.70183,12.34671],"type":"Point"}
+}

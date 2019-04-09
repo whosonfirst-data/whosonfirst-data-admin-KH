@@ -1,0 +1,72 @@
+{
+  "id": 1327198361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.25213,10.63195,104.25213,10.63195",
+    "geom:latitude":10.63195,
+    "geom:longitude":104.25213,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Phumi Boh Kroch",
+    "gn:country_code":"KH",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829335,
+    "gn:latitude":10.63195,
+    "gn:longitude":104.25213,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d B\u014fh Kroch",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum Bos Krauch",
+        "Phum\u012d B\u014fs Kroch",
+        "Phum\u012d B\u014fh Kroch"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673093,
+        1108564883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829335
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"4fe60bd095bf63c53455c1e41a023934",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564883,
+            "locality_id":1327198361,
+            "region_id":85673093
+        }
+    ],
+    "wof:id":1327198361,
+    "wof:lastmodified":1537653875,
+    "wof:name":"Phumi Boh Kroch",
+    "wof:parent_id":1108564883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.25213,
+    10.63195,
+    104.25213,
+    10.63195
+],
+  "geometry": {"coordinates":[104.25212999999999,10.63195],"type":"Point"}
+}

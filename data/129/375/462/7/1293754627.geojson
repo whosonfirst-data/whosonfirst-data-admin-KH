@@ -1,0 +1,73 @@
+{
+  "id": 1293754627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.32749,11.86893,105.32749,11.86893",
+    "geom:latitude":11.86893,
+    "geom:longitude":105.32749,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Preaek Pnov",
+    "gn:country_code":"KH",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825985,
+    "gn:latitude":11.86893,
+    "gn:longitude":105.32749,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Preaek Pnov",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Preaek Pnov"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Pr\u00eak Pn\u014fu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673041,
+        1108564701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825985
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"107faba357d547226b346d4c3f7b3c75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564701,
+            "locality_id":1293754627,
+            "region_id":85673041
+        }
+    ],
+    "wof:id":1293754627,
+    "wof:lastmodified":1537653582,
+    "wof:name":"Preaek Pnov",
+    "wof:parent_id":1108564701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.32749,
+    11.86893,
+    105.32749,
+    11.86893
+],
+  "geometry": {"coordinates":[105.32749,11.86893],"type":"Point"}
+}

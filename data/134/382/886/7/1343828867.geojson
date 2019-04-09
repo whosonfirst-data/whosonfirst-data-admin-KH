@@ -1,0 +1,70 @@
+{
+  "id": 1343828867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.56716,11.36699,105.56716,11.36699",
+    "geom:latitude":11.36699,
+    "geom:longitude":105.56716,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Pou Ta Mom",
+    "gn:country_code":"KH",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11482206,
+    "gn:latitude":11.36699,
+    "gn:longitude":105.56716,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Pou Ta Mom",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Pou Ta Mom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673067,
+        1108564729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11482206
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"58c0425160badc299dd4bf587d06409e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564729,
+            "locality_id":1343828867,
+            "region_id":85673067
+        }
+    ],
+    "wof:id":1343828867,
+    "wof:lastmodified":1537654051,
+    "wof:name":"Pou Ta Mom",
+    "wof:parent_id":1108564729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.56716000000002,
+    11.36699,
+    105.56716000000002,
+    11.36699
+],
+  "geometry": {"coordinates":[105.56716000000002,11.36699],"type":"Point"}
+}

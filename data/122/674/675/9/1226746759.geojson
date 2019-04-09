@@ -1,0 +1,78 @@
+{
+  "id": 1226746759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.55771,12.90466,104.55771,12.90466",
+    "geom:latitude":12.90466,
+    "geom:longitude":104.55771,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Doun L'a",
+    "gn:country_code":"KH",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828482,
+    "gn:latitude":12.90466,
+    "gn:longitude":104.55771,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Doun L\u2019a",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Doun L\u2019a"
+    ],
+    "name:und_x_variant":[
+        "Don Loan",
+        "Phum\u012d Don L\u00f4\u00e2",
+        "Don Loen",
+        "Dor Loar",
+        "Dor Loan",
+        "Phum\u012d Don L\u2019\u00e2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673057,
+        1108564849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828482
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"5196e35f01b6c3a57033d2bd7d9bd04f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564849,
+            "locality_id":1226746759,
+            "region_id":85673057
+        }
+    ],
+    "wof:id":1226746759,
+    "wof:lastmodified":1537653809,
+    "wof:name":"Doun L'a",
+    "wof:parent_id":1108564849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.55771,
+    12.90466,
+    104.55771,
+    12.90466
+],
+  "geometry": {"coordinates":[104.55771,12.90466],"type":"Point"}
+}

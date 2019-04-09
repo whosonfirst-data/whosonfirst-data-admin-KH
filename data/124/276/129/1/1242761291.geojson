@@ -1,0 +1,67 @@
+{
+  "id": 1242761291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.3294,11.48477,105.3294,11.48477",
+    "geom:latitude":11.48477,
+    "geom:longitude":105.3294,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Kim Sorya",
+    "gn:country_code":"KH",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8394386,
+    "gn:latitude":11.48477,
+    "gn:longitude":105.3294,
+    "gn:modification_date":"2012-10-01",
+    "gn:name":"Kim Sorya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673067,
+        1108564789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8394386
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"14ad5499acbc1112ee96bd96e60cc806",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564789,
+            "locality_id":1242761291,
+            "region_id":85673067
+        }
+    ],
+    "wof:id":1242761291,
+    "wof:lastmodified":1536799197,
+    "wof:name":"Kim Sorya",
+    "wof:parent_id":1108564789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.3294,
+    11.48477,
+    105.3294,
+    11.48477
+],
+  "geometry": {"coordinates":[105.32940000000001,11.48477],"type":"Point"}
+}

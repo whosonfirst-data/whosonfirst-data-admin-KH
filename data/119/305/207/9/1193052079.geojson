@@ -1,0 +1,73 @@
+{
+  "id": 1193052079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.14531,11.78078,106.14531,11.78078",
+    "geom:latitude":11.78078,
+    "geom:longitude":106.14531,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Romeas Choul",
+    "gn:country_code":"KH",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825316,
+    "gn:latitude":11.78078,
+    "gn:longitude":106.14531,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Romeas Choul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Romeas Choul"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d R\u00f4m\u00e9as Chol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        1108804319,
+        1108564735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825316
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"a2c527826a941ed8718c66e21ede9919",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564735,
+            "locality_id":1193052079,
+            "region_id":1108804319
+        }
+    ],
+    "wof:id":1193052079,
+    "wof:lastmodified":1537653530,
+    "wof:name":"Romeas Choul",
+    "wof:parent_id":1108564735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.14531,
+    11.78078,
+    106.14531,
+    11.78078
+],
+  "geometry": {"coordinates":[106.14530999999999,11.78078],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1276719965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.40327,13.65626,107.40327,13.65626",
+    "geom:latitude":13.65626,
+    "geom:longitude":107.40327,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Peak",
+    "gn:country_code":"KH",
+    "gn:dem":214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11484025,
+    "gn:latitude":13.65626,
+    "gn:longitude":107.40327,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Peak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Peak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673089,
+        1108564747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11484025
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"1dfc81da12cddc4d08bb3d7084ffaefa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564747,
+            "locality_id":1276719965,
+            "region_id":85673089
+        }
+    ],
+    "wof:id":1276719965,
+    "wof:lastmodified":1537654063,
+    "wof:name":"Peak",
+    "wof:parent_id":1108564747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.40327,
+    13.65626,
+    107.40327,
+    13.65626
+],
+  "geometry": {"coordinates":[107.40327000000001,13.65626],"type":"Point"}
+}

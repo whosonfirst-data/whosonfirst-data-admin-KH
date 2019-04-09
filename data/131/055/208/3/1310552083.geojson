@@ -1,0 +1,67 @@
+{
+  "id": 1310552083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.85238,12.99123,102.85238,12.99123",
+    "geom:latitude":12.99123,
+    "geom:longitude":102.85238,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Ou Dai Khla",
+    "gn:country_code":"KH",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11329547,
+    "gn:latitude":12.99123,
+    "gn:longitude":102.85238,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Ou Dai Khla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673015,
+        1108564597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11329547
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"47eaf13c7f170625fe02f4385ec21c82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564597,
+            "locality_id":1310552083,
+            "region_id":85673015
+        }
+    ],
+    "wof:id":1310552083,
+    "wof:lastmodified":1536848789,
+    "wof:name":"Ou Dai Khla",
+    "wof:parent_id":1108564597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.85238,
+    12.99123,
+    102.85238,
+    12.99123
+],
+  "geometry": {"coordinates":[102.85238,12.99123],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1243231501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.83292,13.64264,102.83292,13.64264",
+    "geom:latitude":13.64264,
+    "geom:longitude":102.83292,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Souphi",
+    "gn:country_code":"KH",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1824768,
+    "gn:latitude":13.64264,
+    "gn:longitude":102.83292,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Souphi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Souphi"
+    ],
+    "name:und_x_variant":[
+        "Phum Sophy",
+        "Phum\u012d Sophi (1)"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673011,
+        421198129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1824768
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"c41db2d25e0f059b773ac61006bc5308",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421198129,
+            "locality_id":1243231501,
+            "region_id":85673011
+        }
+    ],
+    "wof:id":1243231501,
+    "wof:lastmodified":1537653484,
+    "wof:name":"Souphi",
+    "wof:parent_id":421198129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.83292,
+    13.64264,
+    102.83292,
+    13.64264
+],
+  "geometry": {"coordinates":[102.83292,13.64264],"type":"Point"}
+}

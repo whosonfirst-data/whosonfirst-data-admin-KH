@@ -1,0 +1,70 @@
+{
+  "id": 1293523729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.01444,11.80528,106.01444,11.80528",
+    "geom:latitude":11.80528,
+    "geom:longitude":106.01444,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Trapeang Sokha",
+    "gn:country_code":"KH",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11482805,
+    "gn:latitude":11.80528,
+    "gn:longitude":106.01444,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Trapeang Sokha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Trapeang Sokha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        1108804319,
+        421183889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11482805
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"ad8993e2a69ed9da4361298074e41b86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421183889,
+            "locality_id":1293523729,
+            "region_id":1108804319
+        }
+    ],
+    "wof:id":1293523729,
+    "wof:lastmodified":1537654058,
+    "wof:name":"Trapeang Sokha",
+    "wof:parent_id":421183889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.01444,
+    11.80528,
+    106.01444,
+    11.80528
+],
+  "geometry": {"coordinates":[106.01443999999999,11.80528],"type":"Point"}
+}

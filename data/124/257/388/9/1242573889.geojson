@@ -1,0 +1,78 @@
+{
+  "id": 1242573889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.07207,12.45633,106.07207,12.45633",
+    "geom:latitude":12.45633,
+    "geom:longitude":106.07207,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Mreum",
+    "gn:country_code":"KH",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1826838,
+    "gn:latitude":12.45633,
+    "gn:longitude":106.07207,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Mreum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum M\u00f4reum"
+    ],
+    "name:khm_x_variant":[
+        "Mreum",
+        "\u1797\u17bc\u1798\u17b7 \u1798\u17d2\u179a\u17be\u1798"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Mreum",
+        "Phum Kompong Mrocum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673081,
+        421188049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1826838
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"66d751d6f954269dcdf96aac3825161f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421188049,
+            "locality_id":1242573889,
+            "region_id":85673081
+        }
+    ],
+    "wof:id":1242573889,
+    "wof:lastmodified":1537653662,
+    "wof:name":"Mreum",
+    "wof:parent_id":421188049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.07207,
+    12.45633,
+    106.07207,
+    12.45633
+],
+  "geometry": {"coordinates":[106.07207,12.45633],"type":"Point"}
+}

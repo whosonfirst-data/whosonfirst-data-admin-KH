@@ -1,0 +1,70 @@
+{
+  "id": 1343937871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.74877,12.36602,103.74877,12.36602",
+    "geom:latitude":12.36602,
+    "geom:longitude":103.74877,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Baoh Puoy",
+    "gn:country_code":"KH",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11446526,
+    "gn:latitude":12.36602,
+    "gn:longitude":103.74877,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Baoh Puoy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Baoh Puoy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673023,
+        1108564759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11446526
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"b5c25820f26dc4e423207c0b6ad7bdc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564759,
+            "locality_id":1343937871,
+            "region_id":85673023
+        }
+    ],
+    "wof:id":1343937871,
+    "wof:lastmodified":1537654007,
+    "wof:name":"Baoh Puoy",
+    "wof:parent_id":1108564759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.74877,
+    12.36602,
+    103.74877,
+    12.36602
+],
+  "geometry": {"coordinates":[103.74876999999999,12.36602],"type":"Point"}
+}

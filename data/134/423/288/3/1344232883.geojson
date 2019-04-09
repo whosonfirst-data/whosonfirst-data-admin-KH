@@ -1,0 +1,74 @@
+{
+  "id": 1344232883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.10187,11.0052,106.10187,11.0052",
+    "geom:latitude":11.0052,
+    "geom:longitude":106.10187,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Trapeang Phlong",
+    "gn:country_code":"KH",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11509636,
+    "gn:latitude":11.0052,
+    "gn:longitude":106.10187,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Trapeang Phlong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Trapeang Phlong"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u178f\u17d2\u179a\u1796\u17b6\u17c6\u1784\u1795\u17d2\u179b\u17bb\u1784",
+        "Phum Tr\u00e2pe\u0103ng Phl\u014fng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673105,
+        1108564617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11509636
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"76f3218e784c98a9fcd45cf13afc87b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564617,
+            "locality_id":1344232883,
+            "region_id":85673105
+        }
+    ],
+    "wof:id":1344232883,
+    "wof:lastmodified":1537654082,
+    "wof:name":"Trapeang Phlong",
+    "wof:parent_id":1108564617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.10187,
+    11.0052,
+    106.10187,
+    11.0052
+],
+  "geometry": {"coordinates":[106.10187000000001,11.0052],"type":"Point"}
+}

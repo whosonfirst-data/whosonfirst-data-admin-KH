@@ -1,0 +1,70 @@
+{
+  "id": 1259391473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.20738,12.1249,105.20738,12.1249",
+    "geom:latitude":12.1249,
+    "geom:longitude":105.20738,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Mrenh",
+    "gn:country_code":"KH",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11478695,
+    "gn:latitude":12.1249,
+    "gn:longitude":105.20738,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Mrenh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Mrenh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673041,
+        1108564783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11478695
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"1b92b21587bcb98b0abb42d3751fa1b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564783,
+            "locality_id":1259391473,
+            "region_id":85673041
+        }
+    ],
+    "wof:id":1259391473,
+    "wof:lastmodified":1537654043,
+    "wof:name":"Mrenh",
+    "wof:parent_id":1108564783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.20738,
+    12.1249,
+    105.20738,
+    12.1249
+],
+  "geometry": {"coordinates":[105.20738,12.1249],"type":"Point"}
+}

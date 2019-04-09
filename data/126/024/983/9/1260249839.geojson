@@ -1,0 +1,79 @@
+{
+  "id": 1260249839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.22748,13.77053,103.22748,13.77053",
+    "geom:latitude":13.77053,
+    "geom:longitude":103.22748,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Ponley",
+    "gn:country_code":"KH",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1823998,
+    "gn:latitude":13.77053,
+    "gn:longitude":103.22748,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Ponley",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Ponley"
+    ],
+    "name:khm_x_variant":[
+        "Phum Ta V\u016dng",
+        "\u1797\u17bc\u1798\u17b7 \u178f\u17b6\u179c\u1784\u17cb"
+    ],
+    "name:und_x_variant":[
+        "Tavon",
+        "Phum\u012d Ta V\u016dng",
+        "Phum\u012d Ta V\u00f3ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673011,
+        1108564763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1823998
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"8e0826e5303f11aa1cf12f33481f0396",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564763,
+            "locality_id":1260249839,
+            "region_id":85673011
+        }
+    ],
+    "wof:id":1260249839,
+    "wof:lastmodified":1537653422,
+    "wof:name":"Ponley",
+    "wof:parent_id":1108564763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.22748,
+    13.77053,
+    103.22748,
+    13.77053
+],
+  "geometry": {"coordinates":[103.22748,13.77053],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1309928739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.67428,12.9358,104.67428,12.9358",
+    "geom:latitude":12.9358,
+    "geom:longitude":104.67428,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Rung Roeang",
+    "gn:country_code":"KH",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11476863,
+    "gn:latitude":12.9358,
+    "gn:longitude":104.67428,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Rung Roeang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Rung Roeang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673057,
+        1108564849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11476863
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"91f7ec8a534cf8d96ea1d9e9af9958df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564849,
+            "locality_id":1309928739,
+            "region_id":85673057
+        }
+    ],
+    "wof:id":1309928739,
+    "wof:lastmodified":1537654034,
+    "wof:name":"Rung Roeang",
+    "wof:parent_id":1108564849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.67428,
+    12.9358,
+    104.67428,
+    12.9358
+],
+  "geometry": {"coordinates":[104.67428,12.9358],"type":"Point"}
+}

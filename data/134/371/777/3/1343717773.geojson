@@ -1,0 +1,78 @@
+{
+  "id": 1343717773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.59175,13.56422,103.59175,13.56422",
+    "geom:latitude":13.56422,
+    "geom:longitude":103.59175,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Soun Sa",
+    "gn:country_code":"KH",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1824777,
+    "gn:latitude":13.56422,
+    "gn:longitude":103.59175,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Soun Sa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Soun Sa"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u179f\u17bc\u1793\u179f\u17b6",
+        "Phum Son Sa"
+    ],
+    "name:und_x_variant":[
+        "Saun Sa",
+        "Phum\u012d Son Sa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673029,
+        421185505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1824777
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"3915611e00c6d510a060ed2bd731cbd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421185505,
+            "locality_id":1343717773,
+            "region_id":85673029
+        }
+    ],
+    "wof:id":1343717773,
+    "wof:lastmodified":1537653485,
+    "wof:name":"Soun Sa",
+    "wof:parent_id":421185505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.59175,
+    13.56422,
+    103.59175,
+    13.56422
+],
+  "geometry": {"coordinates":[103.59175,13.56422],"type":"Point"}
+}

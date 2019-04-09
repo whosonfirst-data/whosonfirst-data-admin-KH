@@ -1,0 +1,74 @@
+{
+  "id": 1292995127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.99141,12.27476,105.99141,12.27476",
+    "geom:latitude":12.27476,
+    "geom:longitude":105.99141,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Chrouy Snaeng Krabei Kraom",
+    "gn:country_code":"KH",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11507505,
+    "gn:latitude":12.27476,
+    "gn:longitude":105.99141,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Chrouy Snaeng Krabei Kraom",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Chrouy Snaeng Krabei Kraom"
+    ],
+    "name:khm_x_variant":[
+        "Phum\u012d Chro\u016dy Sn\u00eang Kr\u00e2bei",
+        "\u1797\u17bc\u1798\u17b7 \u1787\u17d2\u179a\u17c4\u1799\u179f\u17d2\u1793\u17c2\u1784\u1780\u17d2\u179a\u1794\u17b8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673081,
+        1108564781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11507505
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"c31478f8e18f803a5c404bcc28691f11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564781,
+            "locality_id":1292995127,
+            "region_id":85673081
+        }
+    ],
+    "wof:id":1292995127,
+    "wof:lastmodified":1537654077,
+    "wof:name":"Chrouy Snaeng Krabei Kraom",
+    "wof:parent_id":1108564781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.99141000000002,
+    12.27476,
+    105.99141000000002,
+    12.27476
+],
+  "geometry": {"coordinates":[105.99141000000002,12.27476],"type":"Point"}
+}

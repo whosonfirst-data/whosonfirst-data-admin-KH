@@ -1,0 +1,70 @@
+{
+  "id": 1243326093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.86769,10.5724,104.86769,10.5724",
+    "geom:latitude":10.5724,
+    "geom:longitude":104.86769,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Phumi Preal",
+    "gn:country_code":"KH",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1826091,
+    "gn:latitude":10.5724,
+    "gn:longitude":104.86769,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Phum\u012d Pr\u00e9al",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum\u012d Pr\u00e9al"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673107,
+        1108564709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1826091
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"05e3a77f48a76d1551e0fa9ddfdb4cec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564709,
+            "locality_id":1243326093,
+            "region_id":85673107
+        }
+    ],
+    "wof:id":1243326093,
+    "wof:lastmodified":1537653593,
+    "wof:name":"Phumi Preal",
+    "wof:parent_id":1108564709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.86769,
+    10.5724,
+    104.86769,
+    10.5724
+],
+  "geometry": {"coordinates":[104.86769,10.5724],"type":"Point"}
+}

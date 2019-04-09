@@ -1,0 +1,70 @@
+{
+  "id": 1259617677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.84104,11.6746,105.84104,11.6746",
+    "geom:latitude":11.6746,
+    "geom:longitude":105.84104,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Stueng Touch",
+    "gn:country_code":"KH",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11482466,
+    "gn:latitude":11.6746,
+    "gn:longitude":105.84104,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Stueng Touch",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Stueng Touch"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        1108804319,
+        421183889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11482466
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"db97245ffe49d042944f46091df01bca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421183889,
+            "locality_id":1259617677,
+            "region_id":1108804319
+        }
+    ],
+    "wof:id":1259617677,
+    "wof:lastmodified":1537654054,
+    "wof:name":"Stueng Touch",
+    "wof:parent_id":421183889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.84104,
+    11.6746,
+    105.84104,
+    11.6746
+],
+  "geometry": {"coordinates":[105.84104000000001,11.6746],"type":"Point"}
+}

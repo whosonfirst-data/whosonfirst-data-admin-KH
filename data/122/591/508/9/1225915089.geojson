@@ -1,0 +1,71 @@
+{
+  "id": 1225915089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.33241,11.19477,105.33241,11.19477",
+    "geom:latitude":11.19477,
+    "geom:longitude":105.33241,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Phumi Khnao",
+    "gn:country_code":"KH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827673,
+    "gn:latitude":11.19477,
+    "gn:longitude":105.33241,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Khna\u00f4",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum Khno",
+        "Phum\u012d Khna\u00f4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673067,
+        1108564775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827673
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"3e03846a931188d5cf26fee696fb845d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564775,
+            "locality_id":1225915089,
+            "region_id":85673067
+        }
+    ],
+    "wof:id":1225915089,
+    "wof:lastmodified":1537653740,
+    "wof:name":"Phumi Khnao",
+    "wof:parent_id":1108564775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.33241,
+    11.19477,
+    105.33241,
+    11.19477
+],
+  "geometry": {"coordinates":[105.33241,11.19477],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1242735343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.04093,13.77077,103.04093,13.77077",
+    "geom:latitude":13.77077,
+    "geom:longitude":103.04093,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Phum Kouk Thmei",
+    "gn:country_code":"KH",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827316,
+    "gn:latitude":13.77077,
+    "gn:longitude":103.04093,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Phum Ko\u016dk Thmei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Ko\u016dk Thmei"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1782\u17c4\u1780\u1790\u17d2\u1798\u17b8"
+    ],
+    "name:und_x_variant":[
+        "Thme Phum\u012d Ko\u016dk",
+        "Phum\u012d Ko\u016dk Thmei"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673011,
+        421181961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827316
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"bf980e3e6a3fa7cf7cf8448e6e1de78c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421181961,
+            "locality_id":1242735343,
+            "region_id":85673011
+        }
+    ],
+    "wof:id":1242735343,
+    "wof:lastmodified":1537653705,
+    "wof:name":"Phum Kouk Thmei",
+    "wof:parent_id":421181961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.04093,
+    13.77077,
+    103.04093,
+    13.77077
+],
+  "geometry": {"coordinates":[103.04093,13.77077],"type":"Point"}
+}

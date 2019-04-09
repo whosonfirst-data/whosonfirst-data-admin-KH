@@ -1,0 +1,77 @@
+{
+  "id": 1327294957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.31383,12.77435,103.31383,12.77435",
+    "geom:latitude":12.77435,
+    "geom:longitude":103.31383,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Phum Khleng Chuor",
+    "gn:country_code":"KH",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827718,
+    "gn:latitude":12.77435,
+    "gn:longitude":103.31383,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Phum Khl\u00eang Chu\u014fr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Khl\u00eang Chu\u014fr"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1781\u17d2\u179b\u17c2\u1784\u1787\u17bd\u179a"
+    ],
+    "name:und_x_variant":[
+        "Rebol Konkang",
+        "Phum\u012d Khl\u00eang Chu\u014fr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673015,
+        1108564711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827718
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"a45218fae810fdece884685f60ba59fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564711,
+            "locality_id":1327294957,
+            "region_id":85673015
+        }
+    ],
+    "wof:id":1327294957,
+    "wof:lastmodified":1537653743,
+    "wof:name":"Phum Khleng Chuor",
+    "wof:parent_id":1108564711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.31383,
+    12.77435,
+    103.31383,
+    12.77435
+],
+  "geometry": {"coordinates":[103.31383,12.77435],"type":"Point"}
+}

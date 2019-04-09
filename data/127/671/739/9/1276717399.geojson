@@ -1,0 +1,72 @@
+{
+  "id": 1276717399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.73957,13.98616,103.73957,13.98616",
+    "geom:latitude":13.98616,
+    "geom:longitude":103.73957,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Phumi Lieb",
+    "gn:country_code":"KH",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1826977,
+    "gn:latitude":13.98616,
+    "gn:longitude":103.73957,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Li\u0115b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Liep",
+        "Phum\u012d Li\u0115p",
+        "Phum\u012d Li\u0115b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673033,
+        1108564647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1826977
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"846d4da58bc5a1676942c6802e331c44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564647,
+            "locality_id":1276717399,
+            "region_id":85673033
+        }
+    ],
+    "wof:id":1276717399,
+    "wof:lastmodified":1537653676,
+    "wof:name":"Phumi Lieb",
+    "wof:parent_id":1108564647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.73957,
+    13.98616,
+    103.73957,
+    13.98616
+],
+  "geometry": {"coordinates":[103.73957,13.98616],"type":"Point"}
+}

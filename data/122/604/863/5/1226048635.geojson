@@ -1,0 +1,74 @@
+{
+  "id": 1226048635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.49162,11.45925,104.49162,11.45925",
+    "geom:latitude":11.45925,
+    "geom:longitude":104.49162,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Rumleang",
+    "gn:country_code":"KH",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825250,
+    "gn:latitude":11.45925,
+    "gn:longitude":104.49162,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Rumleang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Rumleang"
+    ],
+    "name:und_x_variant":[
+        "Phum Rum L\u00e2ung",
+        "Phum\u012d Rumlo\u016dng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673053,
+        421194855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825250
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"a50d2fe473c42981f5cc6d40ea85773b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421194855,
+            "locality_id":1226048635,
+            "region_id":85673053
+        }
+    ],
+    "wof:id":1226048635,
+    "wof:lastmodified":1537653525,
+    "wof:name":"Rumleang",
+    "wof:parent_id":421194855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.49162,
+    11.45925,
+    104.49162,
+    11.45925
+],
+  "geometry": {"coordinates":[104.49162,11.45925],"type":"Point"}
+}

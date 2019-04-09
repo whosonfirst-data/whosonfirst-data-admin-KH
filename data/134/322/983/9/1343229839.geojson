@@ -1,0 +1,73 @@
+{
+  "id": 1343229839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.01375,13.486,103.01375,13.486",
+    "geom:latitude":13.486,
+    "geom:longitude":103.01375,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Phum Anlong Kay",
+    "gn:country_code":"KH",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11374087,
+    "gn:latitude":13.486,
+    "gn:longitude":103.01375,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Phum Anl\u00f4ng Kay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Anl\u00f4ng Kay"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u17a2\u1793\u1784\u17cb \u1780\u17b6\u1799"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673011,
+        1108564737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11374087
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"cbb16a43be113be702a58dff0f9fb51b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564737,
+            "locality_id":1343229839,
+            "region_id":85673011
+        }
+    ],
+    "wof:id":1343229839,
+    "wof:lastmodified":1537653987,
+    "wof:name":"Phum Anlong Kay",
+    "wof:parent_id":1108564737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.01375,
+    13.486,
+    103.01375,
+    13.486
+],
+  "geometry": {"coordinates":[103.01375,13.486],"type":"Point"}
+}

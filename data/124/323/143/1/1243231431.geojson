@@ -1,0 +1,67 @@
+{
+  "id": 1243231431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.83763,13.72104,102.83763,13.72104",
+    "geom:latitude":13.72104,
+    "geom:longitude":102.83763,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Phumi Kandal",
+    "gn:country_code":"KH",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828116,
+    "gn:latitude":13.72104,
+    "gn:longitude":102.83763,
+    "gn:modification_date":"2009-05-11",
+    "gn:name":"Phum\u012d K\u00e2ndal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673011,
+        421198129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828116
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"2b1e4af23245106546769eaf591fc001",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421198129,
+            "locality_id":1243231431,
+            "region_id":85673011
+        }
+    ],
+    "wof:id":1243231431,
+    "wof:lastmodified":1536616312,
+    "wof:name":"Phumi Kandal",
+    "wof:parent_id":421198129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.83763,
+    13.72104,
+    102.83763,
+    13.72104
+],
+  "geometry": {"coordinates":[102.83763,13.72104],"type":"Point"}
+}

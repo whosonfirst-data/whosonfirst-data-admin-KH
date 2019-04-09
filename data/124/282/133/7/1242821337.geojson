@@ -1,0 +1,67 @@
+{
+  "id": 1242821337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.97177,12.85926,102.97177,12.85926",
+    "geom:latitude":12.85926,
+    "geom:longitude":102.97177,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Andaeuk Haeb",
+    "gn:country_code":"KH",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11329561,
+    "gn:latitude":12.85926,
+    "gn:longitude":102.97177,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Andaeuk Haeb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673015,
+        1108564799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11329561
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"cbf50133902a9bfa1cdc8315f12c08c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564799,
+            "locality_id":1242821337,
+            "region_id":85673015
+        }
+    ],
+    "wof:id":1242821337,
+    "wof:lastmodified":1536712945,
+    "wof:name":"Andaeuk Haeb",
+    "wof:parent_id":1108564799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.97177,
+    12.85926,
+    102.97177,
+    12.85926
+],
+  "geometry": {"coordinates":[102.97177000000001,12.85926],"type":"Point"}
+}

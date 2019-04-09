@@ -1,0 +1,70 @@
+{
+  "id": 1243364003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.47988,11.4425,104.47988,11.4425",
+    "geom:latitude":11.4425,
+    "geom:longitude":104.47988,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Bos Ta Ney",
+    "gn:country_code":"KH",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11450593,
+    "gn:latitude":11.4425,
+    "gn:longitude":104.47988,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Bos Ta Ney",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Bos Ta Ney"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673053,
+        421194855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11450593
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"c5cd7b4b8db634fc1c36eb8b3fef60fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421194855,
+            "locality_id":1243364003,
+            "region_id":85673053
+        }
+    ],
+    "wof:id":1243364003,
+    "wof:lastmodified":1537654013,
+    "wof:name":"Bos Ta Ney",
+    "wof:parent_id":421194855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.47988,
+    11.4425,
+    104.47988,
+    11.4425
+],
+  "geometry": {"coordinates":[104.47987999999999,11.4425],"type":"Point"}
+}

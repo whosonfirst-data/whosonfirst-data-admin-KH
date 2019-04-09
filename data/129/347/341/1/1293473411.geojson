@@ -1,0 +1,70 @@
+{
+  "id": 1293473411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.40241,11.09663,105.40241,11.09663",
+    "geom:latitude":11.09663,
+    "geom:longitude":105.40241,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Angkor Reach",
+    "gn:country_code":"KH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11478032,
+    "gn:latitude":11.09663,
+    "gn:longitude":105.40241,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Angkor Reach",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Angkor Reach"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673067,
+        1108564775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11478032
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"40d9fe0335f6687027cf4aac7535e187",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564775,
+            "locality_id":1293473411,
+            "region_id":85673067
+        }
+    ],
+    "wof:id":1293473411,
+    "wof:lastmodified":1537654039,
+    "wof:name":"Angkor Reach",
+    "wof:parent_id":1108564775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.40241,
+    11.09663,
+    105.40241,
+    11.09663
+],
+  "geometry": {"coordinates":[105.40241,11.09663],"type":"Point"}
+}

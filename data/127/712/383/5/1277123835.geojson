@@ -1,0 +1,74 @@
+{
+  "id": 1277123835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.95386,13.34446,102.95386,13.34446",
+    "geom:latitude":13.34446,
+    "geom:longitude":102.95386,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Ping Pong",
+    "gn:country_code":"KH",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1826413,
+    "gn:latitude":13.34446,
+    "gn:longitude":102.95386,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Ping Pong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Ping Pong"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Ping P\u016dng",
+        "Phum\u012d Ping P\u00f3ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673015,
+        1108564615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1826413
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"0ca971dc907f9185a7a89fbcd65440ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564615,
+            "locality_id":1277123835,
+            "region_id":85673015
+        }
+    ],
+    "wof:id":1277123835,
+    "wof:lastmodified":1537653622,
+    "wof:name":"Ping Pong",
+    "wof:parent_id":1108564615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.95386,
+    13.34446,
+    102.95386,
+    13.34446
+],
+  "geometry": {"coordinates":[102.95386000000001,13.34446],"type":"Point"}
+}

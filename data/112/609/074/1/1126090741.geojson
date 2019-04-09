@@ -1,0 +1,102 @@
+{
+  "id": 1126090741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.90472,11.56717,104.90472,11.56717",
+    "geom:latitude":11.56717,
+    "geom:longitude":104.90472,
+    "gn:gn_country":"KH",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "gn:latitude":11.56717,
+    "gn:longitude":104.90472,
+    "iso:country":"KH",
+    "lbl:latitude":11.56717,
+    "lbl:longitude":104.90472,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Tuk Laak"
+    ],
+    "name:unk_x_variant":[
+        "Tuk Laak",
+        "T\u0153\u0306k L\u00f4\u00e2k"
+    ],
+    "qs_pg:aaroncc":"KH",
+    "qs_pg:gn_country":"KH",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":1821625,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Tuk Laak",
+    "qs_pg:name_adm0":"Cambodia",
+    "qs_pg:name_adm1":"Phnum Penh",
+    "qs_pg:photos":3184,
+    "qs_pg:photos_1k":645,
+    "qs_pg:photos_9k":14,
+    "qs_pg:photos_9r":11,
+    "qs_pg:photos_all":3184,
+    "qs_pg:photos_sr":20,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1083521,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424776,
+    "qs_pg:woe_id":1028387,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424776,
+    "woe:name_adm0":"Cambodia",
+    "woe:name_adm1":"Phnum Penh",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        1108952563,
+        1108564813,
+        85673063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1821625,
+        "gp:id":1028387,
+        "qs:id":1083521,
+        "qs_pg:id":1083521
+    },
+    "wof:country":"KH",
+    "wof:created":1497313707,
+    "wof:geomhash":"344f1b6b7c4790ab49a611fe3a5d5ac2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564813,
+            "locality_id":1108952563,
+            "neighbourhood_id":1126090741,
+            "region_id":85673063
+        }
+    ],
+    "wof:id":1126090741,
+    "wof:lastmodified":1536881822,
+    "wof:name":"Tuk Laak",
+    "wof:parent_id":1108952563,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        85902737
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.90472,
+    11.56717,
+    104.90472,
+    11.56717
+],
+  "geometry": {"coordinates":[104.90472,11.56717],"type":"Point"}
+}

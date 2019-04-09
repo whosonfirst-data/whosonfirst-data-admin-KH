@@ -1,0 +1,72 @@
+{
+  "id": 1226041991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.17494,13.39558,105.17494,13.39558",
+    "geom:latitude":13.39558,
+    "geom:longitude":105.17494,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Phumi Sanlung (1)",
+    "gn:country_code":"KH",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1824999,
+    "gn:latitude":13.39558,
+    "gn:longitude":105.17494,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d S\u00e2nl\u016dng (1)",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum Chan Lang",
+        "Phum\u012d S\u00e2nl\u014fng (1)",
+        "Phum\u012d S\u00e2nl\u016dng (1)"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673071,
+        1108564801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1824999
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"258a936f46cb53ae114cdb4ec6594569",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564801,
+            "locality_id":1226041991,
+            "region_id":85673071
+        }
+    ],
+    "wof:id":1226041991,
+    "wof:lastmodified":1537653503,
+    "wof:name":"Phumi Sanlung (1)",
+    "wof:parent_id":1108564801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.17494,
+    13.39558,
+    105.17494,
+    13.39558
+],
+  "geometry": {"coordinates":[105.17494000000001,13.39558],"type":"Point"}
+}

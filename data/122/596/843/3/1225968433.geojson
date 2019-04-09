@@ -1,0 +1,70 @@
+{
+  "id": 1225968433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.64621,11.71866,104.64621,11.71866",
+    "geom:latitude":11.71866,
+    "geom:longitude":104.64621,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Trach Tong",
+    "gn:country_code":"KH",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11475457,
+    "gn:latitude":11.71866,
+    "gn:longitude":104.64621,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Trach Tong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Trach Tong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673053,
+        421177965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11475457
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"986e2e40f17eb44963ec6cf3c58e7e58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421177965,
+            "locality_id":1225968433,
+            "region_id":85673053
+        }
+    ],
+    "wof:id":1225968433,
+    "wof:lastmodified":1537654032,
+    "wof:name":"Trach Tong",
+    "wof:parent_id":421177965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.64621,
+    11.71866,
+    104.64621,
+    11.71866
+],
+  "geometry": {"coordinates":[104.64621,11.71866],"type":"Point"}
+}

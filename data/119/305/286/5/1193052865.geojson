@@ -1,0 +1,71 @@
+{
+  "id": 1193052865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.58209,11.75353,105.58209,11.75353",
+    "geom:latitude":11.75353,
+    "geom:longitude":105.58209,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Phumi Olaok",
+    "gn:country_code":"KH",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1826732,
+    "gn:latitude":11.75353,
+    "gn:longitude":105.58209,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Phum\u012d \u014ela\u00f4k",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum \u00d4 Talop",
+        "Phum\u012d \u014ela\u00f4k"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        1108804319,
+        421177919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1826732
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"ba63fcbe3304ded9d6446a1c4aeaead7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421177919,
+            "locality_id":1193052865,
+            "region_id":1108804319
+        }
+    ],
+    "wof:id":1193052865,
+    "wof:lastmodified":1537653652,
+    "wof:name":"Phumi Olaok",
+    "wof:parent_id":421177919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.58209,
+    11.75353,
+    105.58209,
+    11.75353
+],
+  "geometry": {"coordinates":[105.58208999999999,11.75353],"type":"Point"}
+}

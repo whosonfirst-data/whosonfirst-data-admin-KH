@@ -1,0 +1,61 @@
+{
+  "id": 1209572911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.82284,13.70032,102.82284,13.70032",
+    "geom:latitude":13.70032,
+    "geom:longitude":102.82284,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Phumi Ta Sam",
+    "gn:country_code":"KH",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1824051,
+    "gn:latitude":13.70032,
+    "gn:longitude":102.82284,
+    "gn:modification_date":"2009-05-11",
+    "gn:name":"Phum\u012d Ta Sam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1824051
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"36dda408aee26a755086f8fd5c6e9265",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209572911
+        }
+    ],
+    "wof:id":1209572911,
+    "wof:lastmodified":1536283027,
+    "wof:name":"Phumi Ta Sam",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.82284,
+    13.70032,
+    102.82284,
+    13.70032
+],
+  "geometry": {"coordinates":[102.82284,13.70032],"type":"Point"}
+}

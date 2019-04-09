@@ -1,0 +1,67 @@
+{
+  "id": 1243534591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.67884,12.5695,103.67884,12.5695",
+    "geom:latitude":12.5695,
+    "geom:longitude":103.67884,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Phumi Asei Kaong",
+    "gn:country_code":"KH",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829731,
+    "gn:latitude":12.5695,
+    "gn:longitude":103.67884,
+    "gn:modification_date":"1993-12-30",
+    "gn:name":"Phum\u012d Asei Ka\u00f4ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673023,
+        1108564595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829731
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"8d868a1e06c13e0a68223ee0c14fac80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564595,
+            "locality_id":1243534591,
+            "region_id":85673023
+        }
+    ],
+    "wof:id":1243534591,
+    "wof:lastmodified":1536678534,
+    "wof:name":"Phumi Asei Kaong",
+    "wof:parent_id":1108564595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.67884,
+    12.5695,
+    103.67884,
+    12.5695
+],
+  "geometry": {"coordinates":[103.67883999999999,12.5695],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242930845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.02176,13.44446,103.02176,13.44446",
+    "geom:latitude":13.44446,
+    "geom:longitude":103.02176,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Phnum Prasat",
+    "gn:country_code":"KH",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11374154,
+    "gn:latitude":13.44446,
+    "gn:longitude":103.02176,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Phnum Prasat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673011,
+        1108564737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11374154
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"987cfb01c74f4189039a8ccd64b9861d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564737,
+            "locality_id":1242930845,
+            "region_id":85673011
+        }
+    ],
+    "wof:id":1242930845,
+    "wof:lastmodified":1537049971,
+    "wof:name":"Phnum Prasat",
+    "wof:parent_id":1108564737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.02176,
+    13.44446,
+    103.02176,
+    13.44446
+],
+  "geometry": {"coordinates":[103.02176,13.44446],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1243219891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.86581,14.07437,106.86581,14.07437",
+    "geom:latitude":14.07437,
+    "geom:longitude":106.86581,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Phum Kamping",
+    "gn:country_code":"KH",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828341,
+    "gn:latitude":14.07437,
+    "gn:longitude":106.86581,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Phum K\u0103mping",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum K\u0103mping"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1780\u17b6\u17c6\u1796\u17b8\u1784"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673089,
+        421194641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828341
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"c6a3e70178f780fcda3bae5749b88ea7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421194641,
+            "locality_id":1243219891,
+            "region_id":85673089
+        }
+    ],
+    "wof:id":1243219891,
+    "wof:lastmodified":1537653798,
+    "wof:name":"Phum Kamping",
+    "wof:parent_id":421194641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.86581,
+    14.07437,
+    106.86581,
+    14.07437
+],
+  "geometry": {"coordinates":[106.86581,14.07437],"type":"Point"}
+}

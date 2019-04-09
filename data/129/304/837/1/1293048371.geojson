@@ -1,0 +1,67 @@
+{
+  "id": 1293048371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.59834,10.50412,103.59834,10.50412",
+    "geom:latitude":10.50412,
+    "geom:longitude":103.59834,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Phumi Kaoh Ta Kiev Leu",
+    "gn:country_code":"KH",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827935,
+    "gn:latitude":10.50412,
+    "gn:longitude":103.59834,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Phum\u012d Ka\u00f4h Ta Ki\u0115v Leu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673101,
+        421188243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827935
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"051bf7f37c017a021643048f162d4f65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421188243,
+            "locality_id":1293048371,
+            "region_id":85673101
+        }
+    ],
+    "wof:id":1293048371,
+    "wof:lastmodified":1536923985,
+    "wof:name":"Phumi Kaoh Ta Kiev Leu",
+    "wof:parent_id":421188243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.59834,
+    10.50412,
+    103.59834,
+    10.50412
+],
+  "geometry": {"coordinates":[103.59833999999999,10.50412],"type":"Point"}
+}

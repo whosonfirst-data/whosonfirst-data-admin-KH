@@ -1,0 +1,67 @@
+{
+  "id": 1243518821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.40249,10.88298,104.40249,10.88298",
+    "geom:latitude":10.88298,
+    "geom:longitude":104.40249,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Phumi Trapeang Pring",
+    "gn:country_code":"KH",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1823334,
+    "gn:latitude":10.88298,
+    "gn:longitude":104.40249,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Phum\u012d Tr\u00e2pe\u0103ng Pring",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673093,
+        1108564651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1823334
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"3335817bbfb71763e51be847bb4353d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564651,
+            "locality_id":1243518821,
+            "region_id":85673093
+        }
+    ],
+    "wof:id":1243518821,
+    "wof:lastmodified":1536701564,
+    "wof:name":"Phumi Trapeang Pring",
+    "wof:parent_id":1108564651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.40249,
+    10.88298,
+    104.40249,
+    10.88298
+],
+  "geometry": {"coordinates":[104.40249,10.88298],"type":"Point"}
+}

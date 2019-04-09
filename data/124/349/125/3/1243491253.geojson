@@ -1,0 +1,71 @@
+{
+  "id": 1243491253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.88395,11.80092,105.88395,11.80092",
+    "geom:latitude":11.80092,
+    "geom:longitude":105.88395,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Phumi Kranhung",
+    "gn:country_code":"KH",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827148,
+    "gn:latitude":11.80092,
+    "gn:longitude":105.88395,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Phum\u012d Kr\u00e2nhung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum Kranhoung",
+        "Phum\u012d Kr\u00e2nhung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        1108804319,
+        421183889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827148
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"c2fca36953c537e93b5734bb347dd7b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421183889,
+            "locality_id":1243491253,
+            "region_id":1108804319
+        }
+    ],
+    "wof:id":1243491253,
+    "wof:lastmodified":1537653690,
+    "wof:name":"Phumi Kranhung",
+    "wof:parent_id":421183889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.88395,
+    11.80092,
+    105.88395,
+    11.80092
+],
+  "geometry": {"coordinates":[105.88395,11.80092],"type":"Point"}
+}

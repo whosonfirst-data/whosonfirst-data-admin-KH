@@ -1,0 +1,61 @@
+{
+  "id": 1209612077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.11678,11.14004,103.11678,11.14004",
+    "geom:latitude":11.14004,
+    "geom:longitude":103.11678,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Bechir",
+    "gn:country_code":"KH",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8443053,
+    "gn:latitude":11.14004,
+    "gn:longitude":103.11678,
+    "gn:modification_date":"2013-01-12",
+    "gn:name":"Bechir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8443053
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"0cdd0e448c58faf78b904a98f551f9c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209612077
+        }
+    ],
+    "wof:id":1209612077,
+    "wof:lastmodified":1536281815,
+    "wof:name":"Bechir",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.11678,
+    11.14004,
+    103.11678,
+    11.14004
+],
+  "geometry": {"coordinates":[103.11678000000001,11.14004],"type":"Point"}
+}

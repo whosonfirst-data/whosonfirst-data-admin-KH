@@ -1,0 +1,75 @@
+{
+  "id": 1276586193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.20488,11.78109,106.20488,11.78109",
+    "geom:latitude":11.78109,
+    "geom:longitude":106.20488,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Choam Tuk",
+    "gn:country_code":"KH",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828900,
+    "gn:latitude":11.78109,
+    "gn:longitude":106.20488,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Choam Tuk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Choam Tuk"
+    ],
+    "name:und_x_variant":[
+        "Phum Cheam Touk",
+        "Phumi Ch\u00f4m Tuk",
+        "Phum\u012d Ch\u014f\u00e2m Tuk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        1108804319,
+        1108564735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828900
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"41416b6ccfa90d95fc56a4baa6fa971b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564735,
+            "locality_id":1276586193,
+            "region_id":1108804319
+        }
+    ],
+    "wof:id":1276586193,
+    "wof:lastmodified":1537653841,
+    "wof:name":"Choam Tuk",
+    "wof:parent_id":1108564735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.20488,
+    11.78109,
+    106.20488,
+    11.78109
+],
+  "geometry": {"coordinates":[106.20488,11.78109],"type":"Point"}
+}

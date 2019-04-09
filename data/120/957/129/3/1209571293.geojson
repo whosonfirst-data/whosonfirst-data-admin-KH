@@ -1,0 +1,64 @@
+{
+  "id": 1209571293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.013,13.51209,104.013,13.51209",
+    "geom:latitude":13.51209,
+    "geom:longitude":104.013,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Voat",
+    "gn:country_code":"KH",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11458531,
+    "gn:latitude":13.51209,
+    "gn:longitude":104.013,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Voat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Voat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11458531
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"56fb4bf5591f9bf4aa14d27f92f29f76",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209571293
+        }
+    ],
+    "wof:id":1209571293,
+    "wof:lastmodified":1537654017,
+    "wof:name":"Voat",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.013,
+    13.51209,
+    104.013,
+    13.51209
+],
+  "geometry": {"coordinates":[104.01300000000001,13.51209],"type":"Point"}
+}

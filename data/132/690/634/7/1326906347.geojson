@@ -1,0 +1,74 @@
+{
+  "id": 1326906347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.90718,10.91928,105.90718,10.91928",
+    "geom:latitude":10.91928,
+    "geom:longitude":105.90718,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Phnum Srov",
+    "gn:country_code":"KH",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1826451,
+    "gn:latitude":10.91928,
+    "gn:longitude":105.90718,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Phnum Srov",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phnum Srov"
+    ],
+    "name:und_x_variant":[
+        "Phnom Srau",
+        "Phum\u012d Phnum Srov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673105,
+        1108564671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1826451
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"02fa0073750291926bf456581752224a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564671,
+            "locality_id":1326906347,
+            "region_id":85673105
+        }
+    ],
+    "wof:id":1326906347,
+    "wof:lastmodified":1537653626,
+    "wof:name":"Phnum Srov",
+    "wof:parent_id":1108564671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.90718,
+    10.91928,
+    105.90718,
+    10.91928
+],
+  "geometry": {"coordinates":[105.90718,10.91928],"type":"Point"}
+}

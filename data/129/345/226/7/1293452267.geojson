@@ -1,0 +1,71 @@
+{
+  "id": 1293452267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.75909,10.79519,104.75909,10.79519",
+    "geom:latitude":10.79519,
+    "geom:longitude":104.75909,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Phumi Krasang",
+    "gn:country_code":"KH",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827125,
+    "gn:latitude":10.79519,
+    "gn:longitude":104.75909,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Kr\u00e2s\u0103ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum Krosang",
+        "Phum\u012d Kr\u00e2s\u0103ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673107,
+        1108564881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827125
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"d97a730ec43bcdb4af32ce718e827592",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564881,
+            "locality_id":1293452267,
+            "region_id":85673107
+        }
+    ],
+    "wof:id":1293452267,
+    "wof:lastmodified":1537653688,
+    "wof:name":"Phumi Krasang",
+    "wof:parent_id":1108564881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.75909,
+    10.79519,
+    104.75909,
+    10.79519
+],
+  "geometry": {"coordinates":[104.75909,10.79519],"type":"Point"}
+}

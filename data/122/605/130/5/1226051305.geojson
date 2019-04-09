@@ -1,0 +1,70 @@
+{
+  "id": 1226051305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.04422,12.18314,105.04422,12.18314",
+    "geom:latitude":12.18314,
+    "geom:longitude":105.04422,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Trapeang Tuem",
+    "gn:country_code":"KH",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11478703,
+    "gn:latitude":12.18314,
+    "gn:longitude":105.04422,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Trapeang Tuem",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Trapeang Tuem"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673041,
+        421195831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11478703
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"969ca5cfc0253a85f77460bd20625ada",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421195831,
+            "locality_id":1226051305,
+            "region_id":85673041
+        }
+    ],
+    "wof:id":1226051305,
+    "wof:lastmodified":1537654043,
+    "wof:name":"Trapeang Tuem",
+    "wof:parent_id":421195831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.04422,
+    12.18314,
+    105.04422,
+    12.18314
+],
+  "geometry": {"coordinates":[105.04422,12.18314],"type":"Point"}
+}

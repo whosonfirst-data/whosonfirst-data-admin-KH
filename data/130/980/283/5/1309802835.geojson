@@ -1,0 +1,70 @@
+{
+  "id": 1309802835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.08836,12.43456,105.08836,12.43456",
+    "geom:latitude":12.43456,
+    "geom:longitude":105.08836,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Doun Paen",
+    "gn:country_code":"KH",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11478731,
+    "gn:latitude":12.43456,
+    "gn:longitude":105.08836,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Doun Paen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Doun Paen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673057,
+        421198921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11478731
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"740f7d9d9e919720233259fba8e1dd12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421198921,
+            "locality_id":1309802835,
+            "region_id":85673057
+        }
+    ],
+    "wof:id":1309802835,
+    "wof:lastmodified":1537654044,
+    "wof:name":"Doun Paen",
+    "wof:parent_id":421198921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.08836,
+    12.43456,
+    105.08836,
+    12.43456
+],
+  "geometry": {"coordinates":[105.08835999999999,12.43456],"type":"Point"}
+}

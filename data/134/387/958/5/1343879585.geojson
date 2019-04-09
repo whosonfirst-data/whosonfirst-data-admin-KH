@@ -1,0 +1,75 @@
+{
+  "id": 1343879585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.00588,11.22339,105.00588,11.22339",
+    "geom:latitude":11.22339,
+    "geom:longitude":105.00588,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Preaek Kruos",
+    "gn:country_code":"KH",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825996,
+    "gn:latitude":11.22339,
+    "gn:longitude":105.00588,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Preaek Kruos",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Preaek Kruos"
+    ],
+    "name:khm_x_variant":[
+        "Phum\u012d Pr\u00eak Kru\u014fs",
+        "Phum Pr\u00eak Kru\u014fs",
+        "\u1797\u17bc\u1798\u17b7 \u1796\u17d2\u179a\u17c2\u1780\u1782\u17d2\u179a\u17bd\u179f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673051,
+        1108564811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825996
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"fffef3f2a09c2808b998cb1a122aa346",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564811,
+            "locality_id":1343879585,
+            "region_id":85673051
+        }
+    ],
+    "wof:id":1343879585,
+    "wof:lastmodified":1537653584,
+    "wof:name":"Preaek Kruos",
+    "wof:parent_id":1108564811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.00588,
+    11.22339,
+    105.00588,
+    11.22339
+],
+  "geometry": {"coordinates":[105.00588,11.22339],"type":"Point"}
+}

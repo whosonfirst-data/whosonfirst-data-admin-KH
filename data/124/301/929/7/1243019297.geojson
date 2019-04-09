@@ -1,0 +1,67 @@
+{
+  "id": 1243019297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.66015,10.60951,103.66015,10.60951",
+    "geom:latitude":10.60951,
+    "geom:longitude":103.66015,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Phumi Prabos",
+    "gn:country_code":"KH",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1826245,
+    "gn:latitude":10.60951,
+    "gn:longitude":103.66015,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Phum\u012d Pr\u00e2b\u014fs",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673101,
+        421188243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1826245
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"b26c90dbaa690842cd2d724d26f53ae9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421188243,
+            "locality_id":1243019297,
+            "region_id":85673101
+        }
+    ],
+    "wof:id":1243019297,
+    "wof:lastmodified":1536925115,
+    "wof:name":"Phumi Prabos",
+    "wof:parent_id":421188243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.66015,
+    10.60951,
+    103.66015,
+    10.60951
+],
+  "geometry": {"coordinates":[103.66015,10.60951],"type":"Point"}
+}

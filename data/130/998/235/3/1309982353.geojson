@@ -1,0 +1,77 @@
+{
+  "id": 1309982353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.52275,13.55496,106.52275,13.55496",
+    "geom:latitude":13.55496,
+    "geom:longitude":106.52275,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Krabei Chrum",
+    "gn:country_code":"KH",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827275,
+    "gn:latitude":13.55496,
+    "gn:longitude":106.52275,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Krabei Chrum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Kr\u00e2bei Chr\u016dm"
+    ],
+    "name:khm_x_variant":[
+        "Krabei Chrum",
+        "\u1797\u17bc\u1798\u17b7 \u1780\u17d2\u179a\u1794\u17b8\u1787\u17d2\u179a\u17bb\u17c6"
+    ],
+    "name:und_x_variant":[
+        "Ban Kabeu Soum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673075,
+        1108564831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827275
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"4a40700a52101bde6fdd5d39df74f219",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564831,
+            "locality_id":1309982353,
+            "region_id":85673075
+        }
+    ],
+    "wof:id":1309982353,
+    "wof:lastmodified":1537653701,
+    "wof:name":"Krabei Chrum",
+    "wof:parent_id":1108564831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.52275,
+    13.55496,
+    106.52275,
+    13.55496
+],
+  "geometry": {"coordinates":[106.52275,13.55496],"type":"Point"}
+}

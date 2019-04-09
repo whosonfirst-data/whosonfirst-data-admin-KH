@@ -1,0 +1,73 @@
+{
+  "id": 1260262931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.72196,12.63521,103.72196,12.63521",
+    "geom:latitude":12.63521,
+    "geom:longitude":103.72196,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Boeng Khnar",
+    "gn:country_code":"KH",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829438,
+    "gn:latitude":12.63521,
+    "gn:longitude":103.72196,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Boeng Khnar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Boeng Khnar"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d B\u0153\u0306ng Khnar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673023,
+        1108564595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829438
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"f03e8b378a245786ae95e84d53c07be9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564595,
+            "locality_id":1260262931,
+            "region_id":85673023
+        }
+    ],
+    "wof:id":1260262931,
+    "wof:lastmodified":1537653883,
+    "wof:name":"Boeng Khnar",
+    "wof:parent_id":1108564595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.72196,
+    12.63521,
+    103.72196,
+    12.63521
+],
+  "geometry": {"coordinates":[103.72196,12.63521],"type":"Point"}
+}

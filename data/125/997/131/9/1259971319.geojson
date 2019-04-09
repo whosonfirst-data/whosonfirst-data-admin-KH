@@ -1,0 +1,74 @@
+{
+  "id": 1259971319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.04891,11.45825,105.04891,11.45825",
+    "geom:latitude":11.45825,
+    "geom:longitude":105.04891,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Chheu Teal",
+    "gn:country_code":"KH",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11506663,
+    "gn:latitude":11.45825,
+    "gn:longitude":105.04891,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Chheu Teal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Chheu Teal"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1788\u17be\u1791\u17b6\u179b",
+        "Phum Chheut\u00e9al"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673051,
+        1108564707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11506663
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"b0e08a2a516bc0c262b8729d2dde776c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564707,
+            "locality_id":1259971319,
+            "region_id":85673051
+        }
+    ],
+    "wof:id":1259971319,
+    "wof:lastmodified":1537654073,
+    "wof:name":"Chheu Teal",
+    "wof:parent_id":1108564707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.04891,
+    11.45825,
+    105.04891,
+    11.45825
+],
+  "geometry": {"coordinates":[105.04891000000001,11.45825],"type":"Point"}
+}

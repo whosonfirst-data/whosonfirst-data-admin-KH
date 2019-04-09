@@ -1,0 +1,70 @@
+{
+  "id": 1225802555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.86565,13.99482,102.86565,13.99482",
+    "geom:latitude":13.99482,
+    "geom:longitude":102.86565,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Boeng Ta Srei",
+    "gn:country_code":"KH",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11423658,
+    "gn:latitude":13.99482,
+    "gn:longitude":102.86565,
+    "gn:modification_date":"2017-01-07",
+    "gn:name":"Boeng Ta Srei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Boeng Ta Srei"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673011,
+        421203293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11423658
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"ef5041fac953977c9c4c5beed9ec6e41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421203293,
+            "locality_id":1225802555,
+            "region_id":85673011
+        }
+    ],
+    "wof:id":1225802555,
+    "wof:lastmodified":1537654000,
+    "wof:name":"Boeng Ta Srei",
+    "wof:parent_id":421203293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.86565,
+    13.99482,
+    102.86565,
+    13.99482
+],
+  "geometry": {"coordinates":[102.86565,13.99482],"type":"Point"}
+}

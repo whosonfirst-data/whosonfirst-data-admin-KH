@@ -1,0 +1,66 @@
+{
+  "id": 1209290341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.88333,11.15,103.88333,11.15",
+    "geom:latitude":11.15,
+    "geom:longitude":103.88333,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Phumi Angkrong",
+    "gn:cc2":"KH",
+    "gn:country_code":"KH",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829906,
+    "gn:latitude":11.15,
+    "gn:longitude":103.88333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d \u00c2ngkr\u00f4ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ang Krong",
+        "Phum\u012d \u00c2ngkr\u00f4ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829906
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"c42136cb74852ad84e4357615b9d58be",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209290341
+        }
+    ],
+    "wof:id":1209290341,
+    "wof:lastmodified":1537653923,
+    "wof:name":"Phumi Angkrong",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.88333,
+    11.15,
+    103.88333,
+    11.15
+],
+  "geometry": {"coordinates":[103.88333,11.15],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293248679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.75,13.93333,106.75,13.93333",
+    "geom:latitude":13.93333,
+    "geom:longitude":106.75,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Phumi Ban Tiem Leu",
+    "gn:country_code":"KH",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829588,
+    "gn:latitude":13.93333,
+    "gn:longitude":106.75,
+    "gn:modification_date":"2009-05-12",
+    "gn:name":"Phum\u012d Ban Ti\u0115m Leu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673089,
+        421194641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829588
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"897fed2125afb013fd3fc61ac678bf89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421194641,
+            "locality_id":1293248679,
+            "region_id":85673089
+        }
+    ],
+    "wof:id":1293248679,
+    "wof:lastmodified":1536632950,
+    "wof:name":"Phumi Ban Tiem Leu",
+    "wof:parent_id":421194641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.75,
+    13.93333,
+    106.75,
+    13.93333
+],
+  "geometry": {"coordinates":[106.75,13.93333],"type":"Point"}
+}

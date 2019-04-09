@@ -1,0 +1,77 @@
+{
+  "id": 1259835459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.06628,13.25112,104.06628,13.25112",
+    "geom:latitude":13.25112,
+    "geom:longitude":104.06628,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Kouk Sangkae",
+    "gn:country_code":"KH",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1826381,
+    "gn:latitude":13.25112,
+    "gn:longitude":104.06628,
+    "gn:modification_date":"2017-07-05",
+    "gn:name":"Kouk Sangkae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Kouk Sangkae"
+    ],
+    "name:khm_x_variant":[
+        "Phum P\u00f4ngr\u00f4r",
+        "\u1797\u17bc\u1798\u17b7 \u1796\u1784\u17d2\u179a\u179a"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d P\u00f4ngr\u00f4r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673029,
+        1108564843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1826381
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"317d5c142046ff9cf33a5bce4311b7ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564843,
+            "locality_id":1259835459,
+            "region_id":85673029
+        }
+    ],
+    "wof:id":1259835459,
+    "wof:lastmodified":1537653619,
+    "wof:name":"Kouk Sangkae",
+    "wof:parent_id":1108564843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.06628,
+    13.25112,
+    104.06628,
+    13.25112
+],
+  "geometry": {"coordinates":[104.06628000000001,13.25112],"type":"Point"}
+}

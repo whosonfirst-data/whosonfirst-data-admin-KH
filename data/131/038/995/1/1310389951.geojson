@@ -1,0 +1,76 @@
+{
+  "id": 1310389951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.00453,12.81533,106.00453,12.81533",
+    "geom:latitude":12.81533,
+    "geom:longitude":106.00453,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Phum Tnaot Chrum",
+    "gn:country_code":"KH",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1823678,
+    "gn:latitude":12.81533,
+    "gn:longitude":106.00453,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Phum Tna\u00f4t Chr\u016dm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Tna\u00f4t Chr\u016dm"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u178f\u17d2\u1793\u17c4\u178f\u1787\u17d2\u179a\u17bb\u17c6"
+    ],
+    "name:und_x_variant":[
+        "Phum Trot Chrum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673081,
+        421188051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1823678
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"5e48792056e228c444119817ffc7a762",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421188051,
+            "locality_id":1310389951,
+            "region_id":85673081
+        }
+    ],
+    "wof:id":1310389951,
+    "wof:lastmodified":1537653397,
+    "wof:name":"Phum Tnaot Chrum",
+    "wof:parent_id":421188051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.00453,
+    12.81533,
+    106.00453,
+    12.81533
+],
+  "geometry": {"coordinates":[106.00453,12.81533],"type":"Point"}
+}

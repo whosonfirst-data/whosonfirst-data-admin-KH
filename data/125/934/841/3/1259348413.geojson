@@ -1,0 +1,72 @@
+{
+  "id": 1259348413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.78393,10.53563,104.78393,10.53563",
+    "geom:latitude":10.53563,
+    "geom:longitude":104.78393,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Phumi Cheav Pdei",
+    "gn:country_code":"KH",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829087,
+    "gn:latitude":10.53563,
+    "gn:longitude":104.78393,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Ch\u00e9av Pdei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum\u012d Ch\u00e9av Phdei",
+        "Phum Chea Pdey",
+        "Phum\u012d Ch\u00e9av Pdei"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673107,
+        1108564709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829087
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"92c8a2d9ad00b593376a04800380d6f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564709,
+            "locality_id":1259348413,
+            "region_id":85673107
+        }
+    ],
+    "wof:id":1259348413,
+    "wof:lastmodified":1537653857,
+    "wof:name":"Phumi Cheav Pdei",
+    "wof:parent_id":1108564709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.78393,
+    10.53563,
+    104.78393,
+    10.53563
+],
+  "geometry": {"coordinates":[104.78393,10.53563],"type":"Point"}
+}

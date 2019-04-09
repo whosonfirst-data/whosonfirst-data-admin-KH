@@ -1,0 +1,72 @@
+{
+  "id": 1293413855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.59024,11.31488,104.59024,11.31488",
+    "geom:latitude":11.31488,
+    "geom:longitude":104.59024,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Phumi O Nimitt",
+    "gn:country_code":"KH",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1826723,
+    "gn:latitude":11.31488,
+    "gn:longitude":104.59024,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d O N\u012dm\u012dtt",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u00d4 Nimit",
+        "Phum\u012d O Nimit",
+        "Phum\u012d O N\u012dm\u012dtt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673053,
+        1108564715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1826723
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"8b9f02c1bb8f076598be239be25b92fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564715,
+            "locality_id":1293413855,
+            "region_id":85673053
+        }
+    ],
+    "wof:id":1293413855,
+    "wof:lastmodified":1537653652,
+    "wof:name":"Phumi O Nimitt",
+    "wof:parent_id":1108564715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.59024,
+    11.31488,
+    104.59024,
+    11.31488
+],
+  "geometry": {"coordinates":[104.59023999999999,11.31488],"type":"Point"}
+}

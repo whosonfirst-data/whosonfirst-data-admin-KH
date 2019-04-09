@@ -1,0 +1,71 @@
+{
+  "id": 1259966913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.0964,12.64928,104.0964,12.64928",
+    "geom:latitude":12.64928,
+    "geom:longitude":104.0964,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Phumi Prek Krabau",
+    "gn:country_code":"KH",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1826004,
+    "gn:latitude":12.64928,
+    "gn:longitude":104.0964,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Pr\u00eak Kr\u00e2bau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "P\u2019um Prek Kr\u00e2bau",
+        "Phum\u012d Pr\u00eak Kr\u00e2bau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673023,
+        1108564687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1826004
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"548b7c0394a2c03bc442bcd377cc28c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564687,
+            "locality_id":1259966913,
+            "region_id":85673023
+        }
+    ],
+    "wof:id":1259966913,
+    "wof:lastmodified":1537653585,
+    "wof:name":"Phumi Prek Krabau",
+    "wof:parent_id":1108564687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.0964,
+    12.64928,
+    104.0964,
+    12.64928
+],
+  "geometry": {"coordinates":[104.0964,12.64928],"type":"Point"}
+}

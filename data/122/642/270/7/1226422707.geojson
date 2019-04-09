@@ -1,0 +1,70 @@
+{
+  "id": 1226422707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.1999,12.528,104.1999,12.528",
+    "geom:latitude":12.528,
+    "geom:longitude":104.1999,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Anlong Thnaot",
+    "gn:country_code":"KH",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11450840,
+    "gn:latitude":12.528,
+    "gn:longitude":104.1999,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Anlong Thnaot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Anlong Thnaot"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673023,
+        421203239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11450840
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"5cba3efce936e2bed0e2d842d925aa18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421203239,
+            "locality_id":1226422707,
+            "region_id":85673023
+        }
+    ],
+    "wof:id":1226422707,
+    "wof:lastmodified":1537654016,
+    "wof:name":"Anlong Thnaot",
+    "wof:parent_id":421203239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.1999,
+    12.528,
+    104.1999,
+    12.528
+],
+  "geometry": {"coordinates":[104.1999,12.528],"type":"Point"}
+}

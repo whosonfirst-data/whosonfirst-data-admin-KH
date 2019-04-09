@@ -1,0 +1,73 @@
+{
+  "id": 1309953373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.48537,14.13138,103.48537,14.13138",
+    "geom:latitude":14.13138,
+    "geom:longitude":103.48537,
+    "gn:admin1_code":"27",
+    "gn:asciiname":"Bos Sbov",
+    "gn:country_code":"KH",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829306,
+    "gn:latitude":14.13138,
+    "gn:longitude":103.48537,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Bos Sbov",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Bos Sbov"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d B\u014fs Sbov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673033,
+        1108564823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829306
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"eb18952b53d1131cc94cb8e9d8ee7567",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564823,
+            "locality_id":1309953373,
+            "region_id":85673033
+        }
+    ],
+    "wof:id":1309953373,
+    "wof:lastmodified":1537653873,
+    "wof:name":"Bos Sbov",
+    "wof:parent_id":1108564823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.48537,
+    14.13138,
+    103.48537,
+    14.13138
+],
+  "geometry": {"coordinates":[103.48537,14.13138],"type":"Point"}
+}

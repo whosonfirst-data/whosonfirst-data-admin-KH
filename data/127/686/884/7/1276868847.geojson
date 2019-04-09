@@ -1,0 +1,72 @@
+{
+  "id": 1276868847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.82143,11.36967,104.82143,11.36967",
+    "geom:latitude":11.36967,
+    "geom:longitude":104.82143,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Phumi Don Vongs",
+    "gn:country_code":"KH",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828436,
+    "gn:latitude":11.36967,
+    "gn:longitude":104.82143,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Don V\u00f4ngs",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dong Vong",
+        "Phum\u012d Don V\u016dng",
+        "Phum\u012d Don V\u00f4ngs"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673051,
+        1108564685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828436
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"5b60af2723cfbfbb0960b53340a318ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564685,
+            "locality_id":1276868847,
+            "region_id":85673051
+        }
+    ],
+    "wof:id":1276868847,
+    "wof:lastmodified":1537653806,
+    "wof:name":"Phumi Don Vongs",
+    "wof:parent_id":1108564685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.82143,
+    11.36967,
+    104.82143,
+    11.36967
+],
+  "geometry": {"coordinates":[104.82143000000001,11.36967],"type":"Point"}
+}

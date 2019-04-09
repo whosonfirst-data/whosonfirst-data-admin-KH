@@ -1,0 +1,74 @@
+{
+  "id": 1310260669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.84433,13.36709,103.84433,13.36709",
+    "geom:latitude":13.36709,
+    "geom:longitude":103.84433,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Phum Ta Phul",
+    "gn:country_code":"KH",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1824090,
+    "gn:latitude":13.36709,
+    "gn:longitude":103.84433,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Phum Ta Ph\u016dl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Ta Ph\u016dl"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u178f\u17b6\u1797\u17bb\u179b",
+        "Phum\u012d Ta Ph\u016dl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673029,
+        421204115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1824090
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"0391647e27c4d8acccbbde422a2b05b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421204115,
+            "locality_id":1310260669,
+            "region_id":85673029
+        }
+    ],
+    "wof:id":1310260669,
+    "wof:lastmodified":1537653430,
+    "wof:name":"Phum Ta Phul",
+    "wof:parent_id":421204115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.84433,
+    13.36709,
+    103.84433,
+    13.36709
+],
+  "geometry": {"coordinates":[103.84433,13.36709],"type":"Point"}
+}

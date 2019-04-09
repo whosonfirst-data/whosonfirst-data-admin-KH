@@ -1,0 +1,74 @@
+{
+  "id": 1293347795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.9909,13.52941,102.9909,13.52941",
+    "geom:latitude":13.52941,
+    "geom:longitude":102.9909,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Bat Trang",
+    "gn:country_code":"KH",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829524,
+    "gn:latitude":13.52941,
+    "gn:longitude":102.9909,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Bat Trang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Bat Trang"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d B\u00e2t Tr\u00e2ng Thom",
+        "Phum\u012d B\u00e1t Tr\u00e1ng Thum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673011,
+        1108564737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829524
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"18bd93e07c142ce0919c17aa5429f85b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564737,
+            "locality_id":1293347795,
+            "region_id":85673011
+        }
+    ],
+    "wof:id":1293347795,
+    "wof:lastmodified":1537653889,
+    "wof:name":"Bat Trang",
+    "wof:parent_id":1108564737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.9909,
+    13.52941,
+    102.9909,
+    13.52941
+],
+  "geometry": {"coordinates":[102.9909,13.52941],"type":"Point"}
+}

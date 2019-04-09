@@ -1,0 +1,70 @@
+{
+  "id": 1343544897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.9156,12.64485,106.9156,12.64485",
+    "geom:latitude":12.64485,
+    "geom:longitude":106.9156,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Phum Rove Kraom",
+    "gn:country_code":"KH",
+    "gn:dem":213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825288,
+    "gn:latitude":12.64485,
+    "gn:longitude":106.9156,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Phum R\u00f4v\u00e9 Kra\u00f4m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum R\u00f4v\u00e9 Kra\u00f4m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673085,
+        1108564757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825288
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"bb0ce643eeae79982fad2ebe52a81ebb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564757,
+            "locality_id":1343544897,
+            "region_id":85673085
+        }
+    ],
+    "wof:id":1343544897,
+    "wof:lastmodified":1537653528,
+    "wof:name":"Phum Rove Kraom",
+    "wof:parent_id":1108564757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.9156,
+    12.64485,
+    106.9156,
+    12.64485
+],
+  "geometry": {"coordinates":[106.9156,12.64485],"type":"Point"}
+}

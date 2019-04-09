@@ -1,0 +1,70 @@
+{
+  "id": 1226575929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.60007,11.32308,104.60007,11.32308",
+    "geom:latitude":11.32308,
+    "geom:longitude":104.60007,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Phum Rum Teong Tuk",
+    "gn:country_code":"KH",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825347,
+    "gn:latitude":11.32308,
+    "gn:longitude":104.60007,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Phum Rum Teong Tuk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum\u012d R\u00f4le\u0103ng T\u0153\u0306k"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673053,
+        1108564715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825347
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"25d2ac57bd7935f4b9e92f3639476718",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564715,
+            "locality_id":1226575929,
+            "region_id":85673053
+        }
+    ],
+    "wof:id":1226575929,
+    "wof:lastmodified":1537653533,
+    "wof:name":"Phum Rum Teong Tuk",
+    "wof:parent_id":1108564715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.60007,
+    11.32308,
+    104.60007,
+    11.32308
+],
+  "geometry": {"coordinates":[104.60007,11.32308],"type":"Point"}
+}

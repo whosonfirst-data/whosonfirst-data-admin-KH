@@ -1,0 +1,74 @@
+{
+  "id": 1242994463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.03067,11.2254,105.03067,11.2254",
+    "geom:latitude":11.2254,
+    "geom:longitude":105.03067,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Sampan Leu",
+    "gn:country_code":"KH",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11504320,
+    "gn:latitude":11.2254,
+    "gn:longitude":105.03067,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Sampan Leu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Sampan Leu"
+    ],
+    "name:khm_x_variant":[
+        "Phum S\u00e2mpan Leu",
+        "\u1797\u17bc\u1798\u17b7 \u179f\u17c6\u1794\u17c9\u17b6\u1793\u179b\u17be"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673051,
+        1108564811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11504320
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"61d59f015710adb0bce387305c6a4a3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564811,
+            "locality_id":1242994463,
+            "region_id":85673051
+        }
+    ],
+    "wof:id":1242994463,
+    "wof:lastmodified":1537654069,
+    "wof:name":"Sampan Leu",
+    "wof:parent_id":1108564811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.03067,
+    11.2254,
+    105.03067,
+    11.2254
+],
+  "geometry": {"coordinates":[105.03067,11.2254],"type":"Point"}
+}

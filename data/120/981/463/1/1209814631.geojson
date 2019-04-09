@@ -1,0 +1,74 @@
+{
+  "id": 1209814631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.39704,12.69848,105.39704,12.69848",
+    "geom:latitude":12.69848,
+    "geom:longitude":105.39704,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Phumi Trapeang Thvea",
+    "gn:country_code":"KH",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1823217,
+    "gn:latitude":12.69848,
+    "gn:longitude":105.39704,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Tr\u00e2pe\u0103ng Thv\u00e9a",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Trapeang Sva",
+        "Phum Trapeang Sra",
+        "Phum Trapeang Sva",
+        "Phum Trapeang Svay",
+        "Phum\u012d Tr\u00e2pe\u0103ng Thv\u00e9a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673057,
+        1108564829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1823217
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"1be769ef169836c92e5a5d1efe7d5f0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564829,
+            "locality_id":1209814631,
+            "region_id":85673057
+        }
+    ],
+    "wof:id":1209814631,
+    "wof:lastmodified":1537653364,
+    "wof:name":"Phumi Trapeang Thvea",
+    "wof:parent_id":1108564829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.39704,
+    12.69848,
+    105.39704,
+    12.69848
+],
+  "geometry": {"coordinates":[105.39704,12.69848],"type":"Point"}
+}

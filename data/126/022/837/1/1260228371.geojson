@@ -1,0 +1,67 @@
+{
+  "id": 1260228371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.26806,14.25472,103.26806,14.25472",
+    "geom:latitude":14.25472,
+    "geom:longitude":103.26806,
+    "gn:admin1_code":"27",
+    "gn:asciiname":"Phumi Yeang Koul",
+    "gn:country_code":"KH",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1822838,
+    "gn:latitude":14.25472,
+    "gn:longitude":103.26806,
+    "gn:modification_date":"2009-05-12",
+    "gn:name":"Phum\u012d Y\u00e9ang Ko\u016dl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673033,
+        1108564599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1822838
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"55220f98dfd030cc7f4ab7484f3223e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564599,
+            "locality_id":1260228371,
+            "region_id":85673033
+        }
+    ],
+    "wof:id":1260228371,
+    "wof:lastmodified":1536787256,
+    "wof:name":"Phumi Yeang Koul",
+    "wof:parent_id":1108564599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.26806,
+    14.25472,
+    103.26806,
+    14.25472
+],
+  "geometry": {"coordinates":[103.26806000000001,14.25472],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1276131747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.3385,12.1261,105.3385,12.1261",
+    "geom:latitude":12.1261,
+    "geom:longitude":105.3385,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Phumi Don Thi",
+    "gn:country_code":"KH",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828445,
+    "gn:latitude":12.1261,
+    "gn:longitude":105.3385,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Don Thi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum de Don Thi",
+        "Phum\u012d Don Thi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673041,
+        1108564621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828445
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"9bf8c7b6a1f9b10dc80aa1081169a217",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564621,
+            "locality_id":1276131747,
+            "region_id":85673041
+        }
+    ],
+    "wof:id":1276131747,
+    "wof:lastmodified":1537653806,
+    "wof:name":"Phumi Don Thi",
+    "wof:parent_id":1108564621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.3385,
+    12.1261,
+    105.3385,
+    12.1261
+],
+  "geometry": {"coordinates":[105.3385,12.1261],"type":"Point"}
+}

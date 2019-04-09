@@ -1,0 +1,64 @@
+{
+  "id": 1209010699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.67112,11.62929,104.67112,11.62929",
+    "geom:latitude":11.62929,
+    "geom:longitude":104.67112,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Trapeang Run",
+    "gn:country_code":"KH",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11475382,
+    "gn:latitude":11.62929,
+    "gn:longitude":104.67112,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Trapeang Run",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Trapeang Run"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11475382
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"e92e90738dab2f6fa61be99c8384970a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209010699
+        }
+    ],
+    "wof:id":1209010699,
+    "wof:lastmodified":1537654029,
+    "wof:name":"Trapeang Run",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.67112,
+    11.62929,
+    104.67112,
+    11.62929
+],
+  "geometry": {"coordinates":[104.67112,11.62929],"type":"Point"}
+}

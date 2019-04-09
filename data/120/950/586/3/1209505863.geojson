@@ -1,0 +1,61 @@
+{
+  "id": 1209505863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.15655,11.08769,103.15655,11.08769",
+    "geom:latitude":11.08769,
+    "geom:longitude":103.15655,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Phumi Veal Poah",
+    "gn:country_code":"KH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1822921,
+    "gn:latitude":11.08769,
+    "gn:longitude":103.15655,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Phum\u012d V\u00e9al P\u014f\u0103h",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1822921
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"57eff51e5f4c1f2e206848d8dbdb6329",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209505863
+        }
+    ],
+    "wof:id":1209505863,
+    "wof:lastmodified":1536285038,
+    "wof:name":"Phumi Veal Poah",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.15655,
+    11.08769,
+    103.15655,
+    11.08769
+],
+  "geometry": {"coordinates":[103.15655,11.08769],"type":"Point"}
+}

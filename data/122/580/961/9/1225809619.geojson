@@ -1,0 +1,70 @@
+{
+  "id": 1225809619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.5177,10.74304,104.5177,10.74304",
+    "geom:latitude":10.74304,
+    "geom:longitude":104.5177,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Voat Angk Khang Cheung",
+    "gn:country_code":"KH",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11459697,
+    "gn:latitude":10.74304,
+    "gn:longitude":104.5177,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Voat Angk Khang Cheung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Voat Angk Khang Cheung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673093,
+        1108564601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11459697
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"4373c00a5ec091cddafca2ba2940a8f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564601,
+            "locality_id":1225809619,
+            "region_id":85673093
+        }
+    ],
+    "wof:id":1225809619,
+    "wof:lastmodified":1537654019,
+    "wof:name":"Voat Angk Khang Cheung",
+    "wof:parent_id":1108564601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.5177,
+    10.74304,
+    104.5177,
+    10.74304
+],
+  "geometry": {"coordinates":[104.5177,10.74304],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1242725573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.11452,14.12732,103.11452,14.12732",
+    "geom:latitude":14.12732,
+    "geom:longitude":103.11452,
+    "gn:admin1_code":"27",
+    "gn:asciiname":"Doun Tea",
+    "gn:country_code":"KH",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828450,
+    "gn:latitude":14.12732,
+    "gn:longitude":103.11452,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Doun Tea",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Doun Tea"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u178a\u17bc\u1793\u1791\u17b6"
+    ],
+    "name:und_x_variant":[
+        "Phum Dont\u00e9a",
+        "Phum\u012d Dont\u00e9a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673033,
+        1108564599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828450
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"a1424a71c76ca653c16a655efd75ae9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564599,
+            "locality_id":1242725573,
+            "region_id":85673033
+        }
+    ],
+    "wof:id":1242725573,
+    "wof:lastmodified":1537653807,
+    "wof:name":"Doun Tea",
+    "wof:parent_id":1108564599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.11452,
+    14.12732,
+    103.11452,
+    14.12732
+],
+  "geometry": {"coordinates":[103.11452,14.12732],"type":"Point"}
+}

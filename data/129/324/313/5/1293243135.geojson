@@ -1,0 +1,76 @@
+{
+  "id": 1293243135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.35885,12.66812,103.35885,12.66812",
+    "geom:latitude":12.66812,
+    "geom:longitude":103.35885,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Phum Ta Mok",
+    "gn:country_code":"KH",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1824203,
+    "gn:latitude":12.66812,
+    "gn:longitude":103.35885,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Phum Ta M\u014fk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Ta M\u014fk"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u178f\u17b6\u1798\u1780 \u1796\u17b8\u179a"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Ta M\u014fk (2)"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673015,
+        1108564805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1824203
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"d649a27e627b877fa215b288433f7d8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564805,
+            "locality_id":1293243135,
+            "region_id":85673015
+        }
+    ],
+    "wof:id":1293243135,
+    "wof:lastmodified":1537653438,
+    "wof:name":"Phum Ta Mok",
+    "wof:parent_id":1108564805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.35885,
+    12.66812,
+    103.35885,
+    12.66812
+],
+  "geometry": {"coordinates":[103.35885,12.66812],"type":"Point"}
+}

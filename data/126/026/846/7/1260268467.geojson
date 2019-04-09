@@ -1,0 +1,81 @@
+{
+  "id": 1260268467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.25107,11.38155,103.25107,11.38155",
+    "geom:latitude":11.38155,
+    "geom:longitude":103.25107,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Trapeang Rung",
+    "gn:country_code":"KH",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1821531,
+    "gn:latitude":11.38155,
+    "gn:longitude":103.25107,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Trapeang Rung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Trapeang Rung"
+    ],
+    "name:khm_x_variant":[
+        "\u178f\u17d2\u179a\u1796\u17b6\u17c6\u1784\u179a\u17bc\u1784"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Tr\u00e2pe\u0103ng Rung",
+        "Phum Trapeang Rung",
+        "Sala Trapeang Roung",
+        "Phum Trapeang Roung",
+        "Tr\u00e2pe\u0103ng Rung",
+        "Phum Tr\u00e2pe\u0103ng Rung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673019,
+        1108564697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1821531
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"fa2bb1e097063f4342baab1ab2a3a26d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564697,
+            "locality_id":1260268467,
+            "region_id":85673019
+        }
+    ],
+    "wof:id":1260268467,
+    "wof:lastmodified":1537653323,
+    "wof:name":"Trapeang Rung",
+    "wof:parent_id":1108564697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.25107,
+    11.38155,
+    103.25107,
+    11.38155
+],
+  "geometry": {"coordinates":[103.25107,11.38155],"type":"Point"}
+}

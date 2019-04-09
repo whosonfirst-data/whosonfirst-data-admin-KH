@@ -1,0 +1,70 @@
+{
+  "id": 1226781595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.66483,12.9391,104.66483,12.9391",
+    "geom:latitude":12.9391,
+    "geom:longitude":104.66483,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Kantong Rong",
+    "gn:country_code":"KH",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11476862,
+    "gn:latitude":12.9391,
+    "gn:longitude":104.66483,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Kantong Rong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Kantong Rong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673057,
+        1108564849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11476862
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"7902da039e43ea6b1103016b2facda62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564849,
+            "locality_id":1226781595,
+            "region_id":85673057
+        }
+    ],
+    "wof:id":1226781595,
+    "wof:lastmodified":1537654034,
+    "wof:name":"Kantong Rong",
+    "wof:parent_id":1108564849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.66483,
+    12.9391,
+    104.66483,
+    12.9391
+],
+  "geometry": {"coordinates":[104.66482999999999,12.9391],"type":"Point"}
+}

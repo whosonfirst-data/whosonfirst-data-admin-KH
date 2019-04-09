@@ -1,0 +1,70 @@
+{
+  "id": 1242956675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.28366,11.30852,105.28366,11.30852",
+    "geom:latitude":11.30852,
+    "geom:longitude":105.28366,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Peam Ro",
+    "gn:country_code":"KH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":11503558,
+    "gn:latitude":11.30852,
+    "gn:longitude":105.28366,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Peam Ro",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Peam Ro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673067,
+        421191397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11503558
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"dd675539aeb03ec9ecad3754ab876c55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421191397,
+            "locality_id":1242956675,
+            "region_id":85673067
+        }
+    ],
+    "wof:id":1242956675,
+    "wof:lastmodified":1537654068,
+    "wof:name":"Peam Ro",
+    "wof:parent_id":421191397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.28366,
+    11.30852,
+    105.28366,
+    11.30852
+],
+  "geometry": {"coordinates":[105.28366,11.30852],"type":"Point"}
+}

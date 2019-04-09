@@ -1,0 +1,73 @@
+{
+  "id": 1276417533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.96344,12.52757,103.96344,12.52757",
+    "geom:latitude":12.52757,
+    "geom:longitude":103.96344,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Phum Tasek Chhor",
+    "gn:country_code":"KH",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11538873,
+    "gn:latitude":12.52757,
+    "gn:longitude":103.96344,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Phum Tas\u00e9k Chh\u00f4r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Tas\u00e9k Chh\u00f4r"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u178f\u17b6\u179f\u17c1\u1780\u1788"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673023,
+        1108564795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11538873
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"4225cf2317f9b01d7a24b804da6b60ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564795,
+            "locality_id":1276417533,
+            "region_id":85673023
+        }
+    ],
+    "wof:id":1276417533,
+    "wof:lastmodified":1537654102,
+    "wof:name":"Phum Tasek Chhor",
+    "wof:parent_id":1108564795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.96344,
+    12.52757,
+    103.96344,
+    12.52757
+],
+  "geometry": {"coordinates":[103.96344000000001,12.52757],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209182981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.9342,11.5182,104.9342,11.5182",
+    "geom:latitude":11.5182,
+    "geom:longitude":104.9342,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Chak Angrae Leu",
+    "gn:country_code":"KH",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11475303,
+    "gn:latitude":11.5182,
+    "gn:longitude":104.9342,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Chak Angrae Leu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Chak Angrae Leu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11475303
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"3b3d329184e2eeeea23d59520d93442f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209182981
+        }
+    ],
+    "wof:id":1209182981,
+    "wof:lastmodified":1537654028,
+    "wof:name":"Chak Angrae Leu",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.9342,
+    11.5182,
+    104.9342,
+    11.5182
+],
+  "geometry": {"coordinates":[104.9342,11.5182],"type":"Point"}
+}

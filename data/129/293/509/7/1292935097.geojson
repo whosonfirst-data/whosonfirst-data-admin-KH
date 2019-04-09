@@ -1,0 +1,80 @@
+{
+  "id": 1292935097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.80269,12.1788,105.80269,12.1788",
+    "geom:latitude":12.1788,
+    "geom:longitude":105.80269,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Baray",
+    "gn:country_code":"KH",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829568,
+    "gn:latitude":12.1788,
+    "gn:longitude":105.80269,
+    "gn:modification_date":"2017-07-05",
+    "gn:name":"Baray",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Baray"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1794\u17b6\u179a\u17b6\u1799",
+        "Phum Baray"
+    ],
+    "name:und_x_variant":[
+        "Barai",
+        "Phum Bara",
+        "Phum Barai",
+        "Phum\u012d Baray"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        1108804319,
+        1108564719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829568
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"d0264ed5d0863dca204fed20d1a3bba9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564719,
+            "locality_id":1292935097,
+            "region_id":1108804319
+        }
+    ],
+    "wof:id":1292935097,
+    "wof:lastmodified":1537653893,
+    "wof:name":"Baray",
+    "wof:parent_id":1108564719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.80268999999998,
+    12.1788,
+    105.80268999999998,
+    12.1788
+],
+  "geometry": {"coordinates":[105.80268999999998,12.1788],"type":"Point"}
+}

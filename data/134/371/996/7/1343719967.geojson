@@ -1,0 +1,70 @@
+{
+  "id": 1343719967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.83773,13.87148,103.83773,13.87148",
+    "geom:latitude":13.87148,
+    "geom:longitude":103.83773,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Nel",
+    "gn:country_code":"KH",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11584520,
+    "gn:latitude":13.87148,
+    "gn:longitude":103.83773,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Nel",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Nel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673029,
+        421200833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11584520
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"35d819889c9e299f776aa2115fdbaa56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421200833,
+            "locality_id":1343719967,
+            "region_id":85673029
+        }
+    ],
+    "wof:id":1343719967,
+    "wof:lastmodified":1537654113,
+    "wof:name":"Nel",
+    "wof:parent_id":421200833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.83773,
+    13.87148,
+    103.83773,
+    13.87148
+],
+  "geometry": {"coordinates":[103.83772999999999,13.87148],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226670229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.6244,11.34021,104.6244,11.34021",
+    "geom:latitude":11.34021,
+    "geom:longitude":104.6244,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Phumi Prey Kantouch",
+    "gn:country_code":"KH",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825829,
+    "gn:latitude":11.34021,
+    "gn:longitude":104.6244,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Phum\u012d Prey K\u00e2nto\u016dch",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673053,
+        1108564715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825829
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"eb60eda4057edfb2c43ed3794de2c565",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564715,
+            "locality_id":1226670229,
+            "region_id":85673053
+        }
+    ],
+    "wof:id":1226670229,
+    "wof:lastmodified":1536823366,
+    "wof:name":"Phumi Prey Kantouch",
+    "wof:parent_id":1108564715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.6244,
+    11.34021,
+    104.6244,
+    11.34021
+],
+  "geometry": {"coordinates":[104.62439999999999,11.34021],"type":"Point"}
+}

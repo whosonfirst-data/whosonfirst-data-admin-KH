@@ -1,0 +1,66 @@
+{
+  "id": 1209082085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.70145,11.03121,105.70145,11.03121",
+    "geom:latitude":11.03121,
+    "geom:longitude":105.70145,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Vott Chrey Kdaong",
+    "gn:country_code":"KH",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1821369,
+    "gn:latitude":11.03121,
+    "gn:longitude":105.70145,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"V\u00f4tt Chrey Kda\u00f4ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum Chrey Kdong",
+        "Vatt Chrey Kda\u00f4ng",
+        "V\u00f4tt Chrey Kda\u00f4ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1821369
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"0c524a63acf7d510d19ba7324d5b192b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209082085
+        }
+    ],
+    "wof:id":1209082085,
+    "wof:lastmodified":1537653319,
+    "wof:name":"Vott Chrey Kdaong",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.70145,
+    11.03121,
+    105.70145,
+    11.03121
+],
+  "geometry": {"coordinates":[105.70144999999999,11.03121],"type":"Point"}
+}

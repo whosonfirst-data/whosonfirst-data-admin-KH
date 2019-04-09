@@ -1,0 +1,73 @@
+{
+  "id": 1209892349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.98803,13.53238,105.98803,13.53238",
+    "geom:latitude":13.53238,
+    "geom:longitude":105.98803,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Phumi Sre Pouthi",
+    "gn:country_code":"KH",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1824596,
+    "gn:latitude":13.53238,
+    "gn:longitude":105.98803,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Sr\u00ea Po\u016dth\u012d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Napho",
+        "Phum\u012d Sr\u00ea Po\u016d",
+        "Ban Naphau",
+        "Phum\u012d Sr\u00ea Po\u016dth\u012d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673075,
+        421200835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1824596
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"e46d035941d9e8d3ce3d98b645e14685",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421200835,
+            "locality_id":1209892349,
+            "region_id":85673075
+        }
+    ],
+    "wof:id":1209892349,
+    "wof:lastmodified":1537653470,
+    "wof:name":"Phumi Sre Pouthi",
+    "wof:parent_id":421200835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.98803,
+    13.53238,
+    105.98803,
+    13.53238
+],
+  "geometry": {"coordinates":[105.98802999999999,13.53238],"type":"Point"}
+}

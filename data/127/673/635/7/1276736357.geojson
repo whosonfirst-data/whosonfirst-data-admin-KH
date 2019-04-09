@@ -1,0 +1,72 @@
+{
+  "id": 1276736357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.51408,11.18204,105.51408,11.18204",
+    "geom:latitude":11.18204,
+    "geom:longitude":105.51408,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Vott Samraong Reach",
+    "gn:country_code":"KH",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1821350,
+    "gn:latitude":11.18204,
+    "gn:longitude":105.51408,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"V\u00f4tt S\u00e2mra\u00f4ng R\u00e9ach",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vat Samrong",
+        "Vatt S\u00e2mra\u00f4ng R\u00e9ach",
+        "V\u00f4tt S\u00e2mra\u00f4ng R\u00e9ach"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673067,
+        421202305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1821350
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"7d1fadbbc4d90aecc6aa155139233c57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421202305,
+            "locality_id":1276736357,
+            "region_id":85673067
+        }
+    ],
+    "wof:id":1276736357,
+    "wof:lastmodified":1537653318,
+    "wof:name":"Vott Samraong Reach",
+    "wof:parent_id":421202305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.51408,
+    11.18204,
+    105.51408,
+    11.18204
+],
+  "geometry": {"coordinates":[105.51408000000001,11.18204],"type":"Point"}
+}

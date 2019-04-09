@@ -1,0 +1,70 @@
+{
+  "id": 1209914689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.12959,11.68778,104.12959,11.68778",
+    "geom:latitude":11.68778,
+    "geom:longitude":104.12959,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Aoral",
+    "gn:country_code":"KH",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":11598833,
+    "gn:latitude":11.68778,
+    "gn:longitude":104.12959,
+    "gn:modification_date":"2017-07-06",
+    "gn:name":"Aoral",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Aoral"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673053,
+        1108564591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11598833
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"fd8bf1bad23072fed7b8062aba4214ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564591,
+            "locality_id":1209914689,
+            "region_id":85673053
+        }
+    ],
+    "wof:id":1209914689,
+    "wof:lastmodified":1537654123,
+    "wof:name":"Aoral",
+    "wof:parent_id":1108564591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.12959,
+    11.68778,
+    104.12959,
+    11.68778
+],
+  "geometry": {"coordinates":[104.12958999999999,11.68778],"type":"Point"}
+}

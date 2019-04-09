@@ -1,0 +1,74 @@
+{
+  "id": 1260365947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.03547,10.96612,106.03547,10.96612",
+    "geom:latitude":10.96612,
+    "geom:longitude":106.03547,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Prey Ph'av",
+    "gn:country_code":"KH",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825755,
+    "gn:latitude":10.96612,
+    "gn:longitude":106.03547,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Prey Ph\u2019av",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Prey Ph\u2019av"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Prey Phaav",
+        "Phum\u012d Prey Ph\u2019av"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673105,
+        1108564671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825755
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"9d8fa776f8e2b1f0ebf4b53ee8aa4c0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564671,
+            "locality_id":1260365947,
+            "region_id":85673105
+        }
+    ],
+    "wof:id":1260365947,
+    "wof:lastmodified":1537653563,
+    "wof:name":"Prey Ph'av",
+    "wof:parent_id":1108564671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.03547,
+    10.96612,
+    106.03547,
+    10.96612
+],
+  "geometry": {"coordinates":[106.03547,10.96612],"type":"Point"}
+}

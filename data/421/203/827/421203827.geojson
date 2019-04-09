@@ -1,0 +1,86 @@
+{
+  "id": 421203827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.97579,12.25304,105.97579,12.25304",
+    "geom:latitude":12.25304,
+    "geom:longitude":105.97579,
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:khm_x_preferred":[
+        "Chhloung"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1786\u17d2\u179b\u17bc\u1784",
+        "Phum Chhlong"
+    ],
+    "name:unk_x_variant":[
+        "Phum\u012d Chhlong"
+    ],
+    "qs:gn_country":"KH",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1828985,
+    "qs:gn_pop":0,
+    "qs:name":"Chhlong",
+    "qs:name_adm0":"Cambodia",
+    "qs:name_adm1":"Krachen",
+    "qs:photos":172,
+    "qs:photos_1k":35,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":172,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":235410,
+    "qs:woe_adm0":23424776,
+    "qs:woe_id":1020768,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673081,
+        1108564635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828985,
+        "gp:id":1020768,
+        "qs:id":235410
+    },
+    "wof:country":"KH",
+    "wof:created":1459010165,
+    "wof:geomhash":"6fd60b119028edcff78d6dadbadd3a1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564635,
+            "locality_id":421203827,
+            "region_id":85673081
+        }
+    ],
+    "wof:id":421203827,
+    "wof:lastmodified":1501222445,
+    "wof:name":"Chhlong",
+    "wof:parent_id":1108564635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.97579,
+    12.25304,
+    105.97579,
+    12.25304
+],
+  "geometry": {"coordinates":[105.97579,12.25304],"type":"Point"}
+}

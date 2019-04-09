@@ -1,0 +1,72 @@
+{
+  "id": 1193136531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.74759,13.16652,104.74759,13.16652",
+    "geom:latitude":13.16652,
+    "geom:longitude":104.74759,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Phumi Kansaom Kreas",
+    "gn:country_code":"KH",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828054,
+    "gn:latitude":13.16652,
+    "gn:longitude":104.74759,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d K\u00e2nsa\u00f4m Kr\u00e9as",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum Kansom Kr\u0153l",
+        "Phum\u012d Kansa\u00f4m Kr\u00e9a",
+        "Phum\u012d K\u00e2nsa\u00f4m Kr\u00e9as"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673057,
+        1108564773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828054
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"635f4e5769890c57c8fe8392c1552cd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564773,
+            "locality_id":1193136531,
+            "region_id":85673057
+        }
+    ],
+    "wof:id":1193136531,
+    "wof:lastmodified":1537653772,
+    "wof:name":"Phumi Kansaom Kreas",
+    "wof:parent_id":1108564773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.74759,
+    13.16652,
+    104.74759,
+    13.16652
+],
+  "geometry": {"coordinates":[104.74759,13.16652],"type":"Point"}
+}

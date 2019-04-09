@@ -1,0 +1,64 @@
+{
+  "id": 1209411041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.0664,12.5496,106.0664,12.5496",
+    "geom:latitude":12.5496,
+    "geom:longitude":106.0664,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kambaor",
+    "gn:country_code":"KH",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11514218,
+    "gn:latitude":12.5496,
+    "gn:longitude":106.0664,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Kambaor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Kambaor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11514218
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"de6af0ce284b3377c75941d699a387ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209411041
+        }
+    ],
+    "wof:id":1209411041,
+    "wof:lastmodified":1537654086,
+    "wof:name":"Kambaor",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.0664,
+    12.5496,
+    106.0664,
+    12.5496
+],
+  "geometry": {"coordinates":[106.0664,12.5496],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243140511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.23128,13.18809,104.23128,13.18809",
+    "geom:latitude":13.18809,
+    "geom:longitude":104.23128,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Phumi Sasar Khmor",
+    "gn:country_code":"KH",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1824973,
+    "gn:latitude":13.18809,
+    "gn:longitude":104.23128,
+    "gn:modification_date":"2009-05-12",
+    "gn:name":"Phum\u012d S\u00e2s\u00e2r Khmor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673029,
+        1108564639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1824973
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"96351e5d0c2e885cf92cab6d2c6bc12b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564639,
+            "locality_id":1243140511,
+            "region_id":85673029
+        }
+    ],
+    "wof:id":1243140511,
+    "wof:lastmodified":1536749651,
+    "wof:name":"Phumi Sasar Khmor",
+    "wof:parent_id":1108564639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.23128,
+    13.18809,
+    104.23128,
+    13.18809
+],
+  "geometry": {"coordinates":[104.23128,13.18809],"type":"Point"}
+}

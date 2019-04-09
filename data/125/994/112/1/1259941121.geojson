@@ -1,0 +1,73 @@
+{
+  "id": 1259941121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.65174,12.65691,102.65174,12.65691",
+    "geom:latitude":12.65691,
+    "geom:longitude":102.65174,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Phum Chumteng Luoch",
+    "gn:country_code":"KH",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828703,
+    "gn:latitude":12.65691,
+    "gn:longitude":102.65174,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Phum Chumt\u00e9ng Lu\u014fch",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum Choum Teng Luoch",
+        "Phum Phoum Teng Luoch",
+        "Phum Chumt\u00e9ng Lu\u014fch",
+        "Phum\u012d Chumt\u00e9ng Lu\u014fch"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673015,
+        421196403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828703
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"674e53d2a913048ced8968a8a941f701",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421196403,
+            "locality_id":1259941121,
+            "region_id":85673015
+        }
+    ],
+    "wof:id":1259941121,
+    "wof:lastmodified":1537653826,
+    "wof:name":"Phum Chumteng Luoch",
+    "wof:parent_id":421196403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.65174,
+    12.65691,
+    102.65174,
+    12.65691
+],
+  "geometry": {"coordinates":[102.65174,12.65691],"type":"Point"}
+}

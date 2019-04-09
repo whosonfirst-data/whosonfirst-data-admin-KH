@@ -1,0 +1,74 @@
+{
+  "id": 1225852545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.80582,12.38659,104.80582,12.38659",
+    "geom:latitude":12.38659,
+    "geom:longitude":104.80582,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Chrolong",
+    "gn:country_code":"KH",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828823,
+    "gn:latitude":12.38659,
+    "gn:longitude":104.80582,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Chrolong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Chrolong"
+    ],
+    "name:und_x_variant":[
+        "Chenlong",
+        "Phum\u012d Chr\u00e2l\u00f4ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673047,
+        421188239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828823
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"772cc251bcc68d9c803dd705dc5f06f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421188239,
+            "locality_id":1225852545,
+            "region_id":85673047
+        }
+    ],
+    "wof:id":1225852545,
+    "wof:lastmodified":1537653835,
+    "wof:name":"Chrolong",
+    "wof:parent_id":421188239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.80582,
+    12.38659,
+    104.80582,
+    12.38659
+],
+  "geometry": {"coordinates":[104.80582,12.38659],"type":"Point"}
+}

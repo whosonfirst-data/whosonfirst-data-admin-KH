@@ -1,0 +1,74 @@
+{
+  "id": 1209807191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.76354,11.45658,104.76354,11.45658",
+    "geom:latitude":11.45658,
+    "geom:longitude":104.76354,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Teaen",
+    "gn:country_code":"KH",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1823961,
+    "gn:latitude":11.45658,
+    "gn:longitude":104.76354,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Teaen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Teaen"
+    ],
+    "name:und_x_variant":[
+        "Ti\u00e9n",
+        "Phum\u012d T\u00ean"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673051,
+        1108564685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1823961
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"dac65721465b71e89b1bec530fdf9966",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564685,
+            "locality_id":1209807191,
+            "region_id":85673051
+        }
+    ],
+    "wof:id":1209807191,
+    "wof:lastmodified":1537653419,
+    "wof:name":"Teaen",
+    "wof:parent_id":1108564685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.76354,
+    11.45658,
+    104.76354,
+    11.45658
+],
+  "geometry": {"coordinates":[104.76354000000001,11.45658],"type":"Point"}
+}

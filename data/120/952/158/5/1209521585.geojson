@@ -1,0 +1,68 @@
+{
+  "id": 1209521585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.49546,11.61284,104.49546,11.61284",
+    "geom:latitude":11.61284,
+    "geom:longitude":104.49546,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Phum Chamkar Tapen",
+    "gn:country_code":"KH",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829206,
+    "gn:latitude":11.61284,
+    "gn:longitude":104.49546,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Phum Ch\u00e2mkar Tap\u00ean",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Ch\u00e2mkar Tap\u00ean"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1785\u17c6\u1780\u17b6\u179a\u178f\u17b6\u1794\u17c9\u17c2\u1793",
+        "Phum\u012d Ch\u00e2mkar Tap\u00ean"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829206
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"ebbc4974c2f019ada8f56bb242fcfd0d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209521585
+        }
+    ],
+    "wof:id":1209521585,
+    "wof:lastmodified":1537653866,
+    "wof:name":"Phum Chamkar Tapen",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.49546,
+    11.61284,
+    104.49546,
+    11.61284
+],
+  "geometry": {"coordinates":[104.49545999999999,11.61284],"type":"Point"}
+}

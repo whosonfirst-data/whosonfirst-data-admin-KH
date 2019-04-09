@@ -1,0 +1,72 @@
+{
+  "id": 1277053109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.79754,12.46083,103.79754,12.46083",
+    "geom:latitude":12.46083,
+    "geom:longitude":103.79754,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Phumi O Anhchong",
+    "gn:country_code":"KH",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1826773,
+    "gn:latitude":12.46083,
+    "gn:longitude":103.79754,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d O \u00c2nhch\u00f4ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bak Anchiem",
+        "Phum\u012d O \u00c2nhch\u016dng",
+        "Phum\u012d O \u00c2nhch\u00f4ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673023,
+        1108564759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1826773
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"66b7c51af11d253c5139b918e363ccd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564759,
+            "locality_id":1277053109,
+            "region_id":85673023
+        }
+    ],
+    "wof:id":1277053109,
+    "wof:lastmodified":1537653656,
+    "wof:name":"Phumi O Anhchong",
+    "wof:parent_id":1108564759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.79754,
+    12.46083,
+    103.79754,
+    12.46083
+],
+  "geometry": {"coordinates":[103.79754,12.46083],"type":"Point"}
+}

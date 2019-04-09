@@ -1,0 +1,68 @@
+{
+  "id": 1209101837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.30214,12.40061,106.30214,12.40061",
+    "geom:latitude":12.40061,
+    "geom:longitude":106.30214,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Srae Non",
+    "gn:country_code":"KH",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1824613,
+    "gn:latitude":12.40061,
+    "gn:longitude":106.30214,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Srae Non",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Srae Non"
+    ],
+    "name:und_x_variant":[
+        "Phum Sremon",
+        "Phum\u012d Sr\u00ea M\u00f4n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1824613
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"ff560caaaee3953eb4123fbe9fc88cdb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209101837
+        }
+    ],
+    "wof:id":1209101837,
+    "wof:lastmodified":1537653472,
+    "wof:name":"Srae Non",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.30214,
+    12.40061,
+    106.30214,
+    12.40061
+],
+  "geometry": {"coordinates":[106.30213999999999,12.40061],"type":"Point"}
+}

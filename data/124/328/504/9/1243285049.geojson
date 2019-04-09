@@ -1,0 +1,67 @@
+{
+  "id": 1243285049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.6905,11.55789,104.6905,11.55789",
+    "geom:latitude":11.55789,
+    "geom:longitude":104.6905,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Phumi Damnak Kakaoh",
+    "gn:country_code":"KH",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828642,
+    "gn:latitude":11.55789,
+    "gn:longitude":104.6905,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Phum\u012d D\u00e2mn\u0103k K\u00e2ka\u00f4h",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673051,
+        1108564577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828642
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"a4cae690d730b32a156061e76a60fc47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564577,
+            "locality_id":1243285049,
+            "region_id":85673051
+        }
+    ],
+    "wof:id":1243285049,
+    "wof:lastmodified":1537036693,
+    "wof:name":"Phumi Damnak Kakaoh",
+    "wof:parent_id":1108564577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.6905,
+    11.55789,
+    104.6905,
+    11.55789
+],
+  "geometry": {"coordinates":[104.6905,11.55789],"type":"Point"}
+}

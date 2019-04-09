@@ -1,0 +1,73 @@
+{
+  "id": 1242735839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.80125,13.87299,103.80125,13.87299",
+    "geom:latitude":13.87299,
+    "geom:longitude":103.80125,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Phum Kombao",
+    "gn:country_code":"KH",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827485,
+    "gn:latitude":13.87299,
+    "gn:longitude":103.80125,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Phum Komba\u00f4",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Komba\u00f4"
+    ],
+    "name:khm_x_variant":[
+        "Phum\u012d Komba\u00f4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673029,
+        421200833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827485
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"e639c0fe3aea78fdc324df527bfb5701",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421200833,
+            "locality_id":1242735839,
+            "region_id":85673029
+        }
+    ],
+    "wof:id":1242735839,
+    "wof:lastmodified":1537653723,
+    "wof:name":"Phum Kombao",
+    "wof:parent_id":421200833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.80125,
+    13.87299,
+    103.80125,
+    13.87299
+],
+  "geometry": {"coordinates":[103.80125,13.87299],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1276229551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.71765,12.11008,104.71765,12.11008",
+    "geom:latitude":12.11008,
+    "geom:longitude":104.71765,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Phumi Trapeang Krapeu",
+    "gn:country_code":"KH",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1823389,
+    "gn:latitude":12.11008,
+    "gn:longitude":104.71765,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Tr\u00e2pe\u0103ng Kr\u00e2peu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tr\u00e2pe\u0103ng Kr\u00e2p\u0153u",
+        "Phum\u012d Tr\u00e2pe\u0103ng Kr\u00e2peu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673047,
+        421198923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1823389
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"80d8f5ba729c96b208df8c10d8ea41f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421198923,
+            "locality_id":1276229551,
+            "region_id":85673047
+        }
+    ],
+    "wof:id":1276229551,
+    "wof:lastmodified":1537653376,
+    "wof:name":"Phumi Trapeang Krapeu",
+    "wof:parent_id":421198923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.71765,
+    12.11008,
+    104.71765,
+    12.11008
+],
+  "geometry": {"coordinates":[104.71765000000001,12.11008],"type":"Point"}
+}

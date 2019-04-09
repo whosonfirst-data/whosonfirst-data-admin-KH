@@ -1,0 +1,70 @@
+{
+  "id": 1242957585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.45469,13.01224,106.45469,13.01224",
+    "geom:latitude":13.01224,
+    "geom:longitude":106.45469,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Koun Va",
+    "gn:country_code":"KH",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11514905,
+    "gn:latitude":13.01224,
+    "gn:longitude":106.45469,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Koun Va",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Koun Va"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673085,
+        1108564699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11514905
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"25d75c778d0a6405140db66f3313e530",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564699,
+            "locality_id":1242957585,
+            "region_id":85673085
+        }
+    ],
+    "wof:id":1242957585,
+    "wof:lastmodified":1537654087,
+    "wof:name":"Koun Va",
+    "wof:parent_id":1108564699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.45469,
+    13.01224,
+    106.45469,
+    13.01224
+],
+  "geometry": {"coordinates":[106.45469,13.01224],"type":"Point"}
+}

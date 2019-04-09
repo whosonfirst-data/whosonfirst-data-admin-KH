@@ -1,0 +1,67 @@
+{
+  "id": 1260373939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.35,10.86667,105.35,10.86667",
+    "geom:latitude":10.86667,
+    "geom:longitude":105.35,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Phumi Kean Les",
+    "gn:country_code":"KH",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827782,
+    "gn:latitude":10.86667,
+    "gn:longitude":105.35,
+    "gn:modification_date":"1993-12-30",
+    "gn:name":"Phum\u012d K\u00e9an L\u00eas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680807,
+        1108782173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827782
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"4a3a1958229c7076f3a615df5b6e9a7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782173,
+            "locality_id":1260373939,
+            "region_id":85680807
+        }
+    ],
+    "wof:id":1260373939,
+    "wof:lastmodified":1537084516,
+    "wof:name":"Phumi Kean Les",
+    "wof:parent_id":1108782173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.35,
+    10.86667,
+    105.35,
+    10.86667
+],
+  "geometry": {"coordinates":[105.34999999999999,10.86667],"type":"Point"}
+}

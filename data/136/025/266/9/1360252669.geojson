@@ -1,0 +1,74 @@
+{
+  "id": 1360252669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.88502,13.64894,102.88502,13.64894",
+    "geom:latitude":13.64894,
+    "geom:longitude":102.88502,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Changha",
+    "gn:country_code":"KH",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829173,
+    "gn:latitude":13.64894,
+    "gn:longitude":102.88502,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Changha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Changha"
+    ],
+    "name:und_x_variant":[
+        "Khum Changha",
+        "Phum\u012d Ch\u00e2ngha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673011,
+        421198129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829173
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"c1f75f8eeefc037ace646068f511546d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421198129,
+            "locality_id":1360252669,
+            "region_id":85673011
+        }
+    ],
+    "wof:id":1360252669,
+    "wof:lastmodified":1537653863,
+    "wof:name":"Changha",
+    "wof:parent_id":421198129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.88502,
+    13.64894,
+    102.88502,
+    13.64894
+],
+  "geometry": {"coordinates":[102.88502,13.64894],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1226817377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.79027,13.40224,103.79027,13.40224",
+    "geom:latitude":13.40224,
+    "geom:longitude":103.79027,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Prei Thmei",
+    "gn:country_code":"KH",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11559269,
+    "gn:latitude":13.40224,
+    "gn:longitude":103.79027,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Prei Thmei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Prei Thmei"
+    ],
+    "name:khm_x_variant":[
+        "Phum Tas\u00e9k",
+        "\u1797\u17bc\u1798\u17b7 \u178f\u17b6\u179f\u17c1\u1780"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673029,
+        421204115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11559269
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"1fe5312d8203ba64aa23bc9263a4dffe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421204115,
+            "locality_id":1226817377,
+            "region_id":85673029
+        }
+    ],
+    "wof:id":1226817377,
+    "wof:lastmodified":1537654104,
+    "wof:name":"Prei Thmei",
+    "wof:parent_id":421204115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.79027,
+    13.40224,
+    103.79027,
+    13.40224
+],
+  "geometry": {"coordinates":[103.79027000000001,13.40224],"type":"Point"}
+}

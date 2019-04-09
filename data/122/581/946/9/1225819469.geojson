@@ -1,0 +1,72 @@
+{
+  "id": 1225819469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.54229,10.53704,104.54229,10.53704",
+    "geom:latitude":10.53704,
+    "geom:longitude":104.54229,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Phumi Kaoh Thum",
+    "gn:country_code":"KH",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827928,
+    "gn:latitude":10.53704,
+    "gn:longitude":104.54229,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Ka\u00f4h Thum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum Kas Thom",
+        "Phum\u012d Ka\u00f4h Thom",
+        "Phum\u012d Ka\u00f4h Thum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673093,
+        1108564675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827928
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"601273fe98d618ddd0fa68a739e2ec07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564675,
+            "locality_id":1225819469,
+            "region_id":85673093
+        }
+    ],
+    "wof:id":1225819469,
+    "wof:lastmodified":1537653761,
+    "wof:name":"Phumi Kaoh Thum",
+    "wof:parent_id":1108564675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.54229,
+    10.53704,
+    104.54229,
+    10.53704
+],
+  "geometry": {"coordinates":[104.54228999999999,10.53704],"type":"Point"}
+}

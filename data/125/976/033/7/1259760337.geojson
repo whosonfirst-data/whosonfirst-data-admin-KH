@@ -1,0 +1,77 @@
+{
+  "id": 1259760337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.03832,12.49662,104.03832,12.49662",
+    "geom:latitude":12.49662,
+    "geom:longitude":104.03832,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Phum Tbeng Chrum",
+    "gn:country_code":"KH",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1823976,
+    "gn:latitude":12.49662,
+    "gn:longitude":104.03832,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Phum Tb\u00eang Chr\u016dm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Tb\u00eang Chr\u016dm"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u178f\u17d2\u1794\u17c2\u1784\u1787\u17d2\u179a\u17bb\u17c6"
+    ],
+    "name:und_x_variant":[
+        "Tb\u00eang Chr\u016dm",
+        "Phum\u012d Tb\u00eang Chr\u016dm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673023,
+        421203239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1823976
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"8d7232eae439fd495a92e2106e6ed40e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421203239,
+            "locality_id":1259760337,
+            "region_id":85673023
+        }
+    ],
+    "wof:id":1259760337,
+    "wof:lastmodified":1537653420,
+    "wof:name":"Phum Tbeng Chrum",
+    "wof:parent_id":421203239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.03832,
+    12.49662,
+    104.03832,
+    12.49662
+],
+  "geometry": {"coordinates":[104.03832,12.49662],"type":"Point"}
+}

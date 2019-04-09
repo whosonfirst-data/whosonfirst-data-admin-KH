@@ -1,0 +1,70 @@
+{
+  "id": 1293077291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.34527,14.02594,106.34527,14.02594",
+    "geom:latitude":14.02594,
+    "geom:longitude":106.34527,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Peam Kheh",
+    "gn:country_code":"KH",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11483128,
+    "gn:latitude":14.02594,
+    "gn:longitude":106.34527,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Peam Kheh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Peam Kheh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673075,
+        1108564835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11483128
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"e44d4f41a9544e7d927091446f240cf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564835,
+            "locality_id":1293077291,
+            "region_id":85673075
+        }
+    ],
+    "wof:id":1293077291,
+    "wof:lastmodified":1537654059,
+    "wof:name":"Peam Kheh",
+    "wof:parent_id":1108564835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.34527,
+    14.02594,
+    106.34527,
+    14.02594
+],
+  "geometry": {"coordinates":[106.34527,14.02594],"type":"Point"}
+}

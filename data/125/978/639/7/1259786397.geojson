@@ -1,0 +1,71 @@
+{
+  "id": 1259786397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.15348,12.08014,105.15348,12.08014",
+    "geom:latitude":12.08014,
+    "geom:longitude":105.15348,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Phumi Chambak",
+    "gn:country_code":"KH",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829236,
+    "gn:latitude":12.08014,
+    "gn:longitude":105.15348,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Phum\u012d Ch\u00e2mb\u00e1k",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chambak",
+        "Phum\u012d Ch\u00e2mb\u00e1k"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673041,
+        1108564783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829236
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"9a681219b15251947945fe382d434eb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564783,
+            "locality_id":1259786397,
+            "region_id":85673041
+        }
+    ],
+    "wof:id":1259786397,
+    "wof:lastmodified":1537653868,
+    "wof:name":"Phumi Chambak",
+    "wof:parent_id":1108564783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.15348,
+    12.08014,
+    105.15348,
+    12.08014
+],
+  "geometry": {"coordinates":[105.15348,12.08014],"type":"Point"}
+}

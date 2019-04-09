@@ -1,0 +1,75 @@
+{
+  "id": 1242690551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.18795,12.07359,105.18795,12.07359",
+    "geom:latitude":12.07359,
+    "geom:longitude":105.18795,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Prey Chnor",
+    "gn:country_code":"KH",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825856,
+    "gn:latitude":12.07359,
+    "gn:longitude":105.18795,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Prey Chnor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Prey Chnor"
+    ],
+    "name:und_x_variant":[
+        "Prey Chhor",
+        "Phum Prei Chho",
+        "Phum\u012d Prey Chh\u00f4r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673041,
+        1108564783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825856
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"2a0b943de2e73038b8ab451bcd9a1439",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564783,
+            "locality_id":1242690551,
+            "region_id":85673041
+        }
+    ],
+    "wof:id":1242690551,
+    "wof:lastmodified":1537653571,
+    "wof:name":"Prey Chnor",
+    "wof:parent_id":1108564783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.18795,
+    12.07359,
+    105.18795,
+    12.07359
+],
+  "geometry": {"coordinates":[105.18795,12.07359],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1276611667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.4542,13.70055,103.4542,13.70055",
+    "geom:latitude":13.70055,
+    "geom:longitude":103.4542,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Phum Kouk Tuol Rovieng",
+    "gn:country_code":"KH",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11376344,
+    "gn:latitude":13.70055,
+    "gn:longitude":103.4542,
+    "gn:modification_date":"2017-01-07",
+    "gn:name":"Phum Ko\u016dk Tu\u014fl R\u00f4vi\u0115ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Ko\u016dk Tu\u014fl R\u00f4vi\u0115ng"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1782\u17c4\u1780\u1791\u17bd\u179b\u179a\u179c\u17c0\u1784"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673029,
+        1108564847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11376344
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"47283acb99b55d506a16503bfa66e4d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564847,
+            "locality_id":1276611667,
+            "region_id":85673029
+        }
+    ],
+    "wof:id":1276611667,
+    "wof:lastmodified":1537653992,
+    "wof:name":"Phum Kouk Tuol Rovieng",
+    "wof:parent_id":1108564847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.4542,
+    13.70055,
+    103.4542,
+    13.70055
+],
+  "geometry": {"coordinates":[103.4542,13.70055],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1310061521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.59081,13.92389,103.59081,13.92389",
+    "geom:latitude":13.92389,
+    "geom:longitude":103.59081,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Phumi Srei Sanung",
+    "gn:country_code":"KH",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1824642,
+    "gn:latitude":13.92389,
+    "gn:longitude":103.59081,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Srei San\u016dng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum\u012d Srei San\u014fng",
+        "Phum\u012d Srei San\u016dng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673029,
+        1108564847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1824642
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"6519d29c9142ef4b2039d81b3a9a391d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564847,
+            "locality_id":1310061521,
+            "region_id":85673029
+        }
+    ],
+    "wof:id":1310061521,
+    "wof:lastmodified":1537653474,
+    "wof:name":"Phumi Srei Sanung",
+    "wof:parent_id":1108564847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.59081,
+    13.92389,
+    103.59081,
+    13.92389
+],
+  "geometry": {"coordinates":[103.59081,13.92389],"type":"Point"}
+}

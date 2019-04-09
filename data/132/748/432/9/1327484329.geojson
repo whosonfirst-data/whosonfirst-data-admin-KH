@@ -1,0 +1,80 @@
+{
+  "id": 1327484329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.25765,12.96823,103.25765,12.96823",
+    "geom:latitude":12.96823,
+    "geom:longitude":103.25765,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Reang Kesei",
+    "gn:country_code":"KH",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1822553,
+    "gn:latitude":12.96823,
+    "gn:longitude":103.25765,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Reang Kesei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Reang Kesei"
+    ],
+    "name:khm_x_variant":[
+        "\u179a\u17b4\u1784\u1780\u17c1\u179f\u17b8"
+    ],
+    "name:und_x_variant":[
+        "Phum Reang Kesey",
+        "Raing Kessey",
+        "Phum\u012d Re\u0103ng Kesei",
+        "Re\u0103ng K\u00e9sei"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673015,
+        421202239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1822553,
+        "wk:page":"Reang_Kesei"
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"8d2b5d7c95fe9a9de1ae02c4f11fd882",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421202239,
+            "locality_id":1327484329,
+            "region_id":85673015
+        }
+    ],
+    "wof:id":1327484329,
+    "wof:lastmodified":1537653333,
+    "wof:name":"Reang Kesei",
+    "wof:parent_id":421202239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.25765,
+    12.96823,
+    103.25765,
+    12.96823
+],
+  "geometry": {"coordinates":[103.25765,12.96823],"type":"Point"}
+}

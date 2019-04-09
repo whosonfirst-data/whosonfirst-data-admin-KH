@@ -1,0 +1,71 @@
+{
+  "id": 1343758677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.84377,12.93036,105.84377,12.93036",
+    "geom:latitude":12.93036,
+    "geom:longitude":105.84377,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Phumi Sev",
+    "gn:country_code":"KH",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1824896,
+    "gn:latitude":12.93036,
+    "gn:longitude":105.84377,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d S\u00eav",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum Seo",
+        "Phum\u012d S\u00eav"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673081,
+        421188051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1824896
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"f1edf6916ba62c851cb836ac23e6d542",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421188051,
+            "locality_id":1343758677,
+            "region_id":85673081
+        }
+    ],
+    "wof:id":1343758677,
+    "wof:lastmodified":1537653493,
+    "wof:name":"Phumi Sev",
+    "wof:parent_id":421188051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.84377,
+    12.93036,
+    105.84377,
+    12.93036
+],
+  "geometry": {"coordinates":[105.84377000000001,12.93036],"type":"Point"}
+}

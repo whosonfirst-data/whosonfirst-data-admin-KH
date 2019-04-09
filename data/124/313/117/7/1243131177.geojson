@@ -1,0 +1,71 @@
+{
+  "id": 1243131177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.38568,10.7328,104.38568,10.7328",
+    "geom:latitude":10.7328,
+    "geom:longitude":104.38568,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Phumi Krang Leav",
+    "gn:country_code":"KH",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827200,
+    "gn:latitude":10.7328,
+    "gn:longitude":104.38568,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Kr\u0103ng L\u00e9av",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khum Krang Leav",
+        "Phum\u012d Kr\u0103ng L\u00e9av"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673093,
+        1108564657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827200
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"0fb4310f9f85cb8e419bb023c7d357a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564657,
+            "locality_id":1243131177,
+            "region_id":85673093
+        }
+    ],
+    "wof:id":1243131177,
+    "wof:lastmodified":1537653695,
+    "wof:name":"Phumi Krang Leav",
+    "wof:parent_id":1108564657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.38568,
+    10.7328,
+    104.38568,
+    10.7328
+],
+  "geometry": {"coordinates":[104.38567999999999,10.7328],"type":"Point"}
+}

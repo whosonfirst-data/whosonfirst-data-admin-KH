@@ -1,0 +1,73 @@
+{
+  "id": 1343319899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.78737,13.3663,103.78737,13.3663",
+    "geom:latitude":13.3663,
+    "geom:longitude":103.78737,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Phum Totea",
+    "gn:country_code":"KH",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11559276,
+    "gn:latitude":13.3663,
+    "gn:longitude":103.78737,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Phum T\u00f4t\u00e9a",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum T\u00f4t\u00e9a"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1791\u1791\u17b6"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673029,
+        421204115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11559276
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"1534d2f191a4c15fae3329c24a6588ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421204115,
+            "locality_id":1343319899,
+            "region_id":85673029
+        }
+    ],
+    "wof:id":1343319899,
+    "wof:lastmodified":1537654105,
+    "wof:name":"Phum Totea",
+    "wof:parent_id":421204115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.78737,
+    13.3663,
+    103.78737,
+    13.3663
+],
+  "geometry": {"coordinates":[103.78737,13.3663],"type":"Point"}
+}

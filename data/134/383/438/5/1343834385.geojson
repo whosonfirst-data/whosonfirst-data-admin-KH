@@ -1,0 +1,72 @@
+{
+  "id": 1343834385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.93954,13.51606,105.93954,13.51606",
+    "geom:latitude":13.51606,
+    "geom:longitude":105.93954,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Phumi Kang Memay",
+    "gn:country_code":"KH",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828079,
+    "gn:latitude":13.51606,
+    "gn:longitude":105.93954,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d K\u0103ng M\u00e9may",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Khan Memay",
+        "Ban Khan Mema",
+        "Phum\u012d K\u0103ng M\u00e9may"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673075,
+        421200835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828079
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"58559761b588eaa7e6268245be156ca2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421200835,
+            "locality_id":1343834385,
+            "region_id":85673075
+        }
+    ],
+    "wof:id":1343834385,
+    "wof:lastmodified":1537653774,
+    "wof:name":"Phumi Kang Memay",
+    "wof:parent_id":421200835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.93954,
+    13.51606,
+    105.93954,
+    13.51606
+],
+  "geometry": {"coordinates":[105.93953999999999,13.51606],"type":"Point"}
+}

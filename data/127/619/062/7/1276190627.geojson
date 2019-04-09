@@ -1,0 +1,71 @@
+{
+  "id": 1276190627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.82126,11.10634,104.82126,11.10634",
+    "geom:latitude":11.10634,
+    "geom:longitude":104.82126,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Phumi Anhchanh",
+    "gn:country_code":"KH",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829869,
+    "gn:latitude":11.10634,
+    "gn:longitude":104.82126,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d \u00c2nhchanh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum Anchanh",
+        "Phum\u012d \u00c2nhchanh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673107,
+        1108564825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829869
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"42b644b9c6d4eab812ce3e83e57fd875",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564825,
+            "locality_id":1276190627,
+            "region_id":85673107
+        }
+    ],
+    "wof:id":1276190627,
+    "wof:lastmodified":1537653920,
+    "wof:name":"Phumi Anhchanh",
+    "wof:parent_id":1108564825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.82126,
+    11.10634,
+    104.82126,
+    11.10634
+],
+  "geometry": {"coordinates":[104.82126,11.10634],"type":"Point"}
+}

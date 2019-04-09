@@ -1,0 +1,71 @@
+{
+  "id": 1209573391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.46943,13.79813,103.46943,13.79813",
+    "geom:latitude":13.79813,
+    "geom:longitude":103.46943,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Phum Khang Lich Vatt",
+    "gn:country_code":"KH",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827763,
+    "gn:latitude":13.79813,
+    "gn:longitude":103.46943,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Phum Khang Lich Vatt",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Khang Lich Vatt"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1781\u17b6\u1784\u179b\u17b7\u1785\u179c\u178f\u17d2\u178f"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Khang Lich Vatt",
+        "Phum\u012d Khang Lich V\u00f4tt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827763
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"48683f799f4ac11a4c2743c2f88cac39",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209573391
+        }
+    ],
+    "wof:id":1209573391,
+    "wof:lastmodified":1537653747,
+    "wof:name":"Phum Khang Lich Vatt",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.46943,
+    13.79813,
+    103.46943,
+    13.79813
+],
+  "geometry": {"coordinates":[103.46943,13.79813],"type":"Point"}
+}

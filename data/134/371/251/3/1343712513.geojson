@@ -1,0 +1,72 @@
+{
+  "id": 1343712513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.1443,12.86569,103.1443,12.86569",
+    "geom:latitude":12.86569,
+    "geom:longitude":103.1443,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Phumi Kong Hak",
+    "gn:country_code":"KH",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827477,
+    "gn:latitude":12.86569,
+    "gn:longitude":103.1443,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d K\u00f3ng H\u00e2k",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum Kang H\u00e2t",
+        "Phum\u012d K\u016dng H\u00e2k",
+        "Phum\u012d K\u00f3ng H\u00e2k"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673015,
+        1108564597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827477
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"94617b4887f1fbd3ddbe0beb7843c7e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564597,
+            "locality_id":1343712513,
+            "region_id":85673015
+        }
+    ],
+    "wof:id":1343712513,
+    "wof:lastmodified":1537653722,
+    "wof:name":"Phumi Kong Hak",
+    "wof:parent_id":1108564597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.1443,
+    12.86569,
+    103.1443,
+    12.86569
+],
+  "geometry": {"coordinates":[103.1443,12.86569],"type":"Point"}
+}

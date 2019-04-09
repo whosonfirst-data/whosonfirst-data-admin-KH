@@ -1,0 +1,65 @@
+{
+  "id": 1209479569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.48458,10.71573,104.48458,10.71573",
+    "geom:latitude":10.71573,
+    "geom:longitude":104.48458,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Phumi O Kandaol",
+    "gn:country_code":"KH",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1826756,
+    "gn:latitude":10.71573,
+    "gn:longitude":104.48458,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d O K\u00e2nda\u00f4l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum Kandol",
+        "Phum\u012d O K\u00e2nda\u00f4l"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1826756
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"f4a2561251a183b2b1f8524386f17c46",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209479569
+        }
+    ],
+    "wof:id":1209479569,
+    "wof:lastmodified":1537653654,
+    "wof:name":"Phumi O Kandaol",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.48458,
+    10.71573,
+    104.48458,
+    10.71573
+],
+  "geometry": {"coordinates":[104.48457999999999,10.71573],"type":"Point"}
+}

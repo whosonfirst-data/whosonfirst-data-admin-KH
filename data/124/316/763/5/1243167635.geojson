@@ -1,0 +1,72 @@
+{
+  "id": 1243167635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.26198,12.06108,103.26198,12.06108",
+    "geom:latitude":12.06108,
+    "geom:longitude":103.26198,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Phumi Tuk Luy",
+    "gn:country_code":"KH",
+    "gn:dem":573,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1823128,
+    "gn:latitude":12.06108,
+    "gn:longitude":103.26198,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d T\u016dk L\u016dy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tuk Luy",
+        "Tuk Kduy",
+        "Phum\u012d T\u016dk L\u016dy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673023,
+        1108564889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1823128
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"d74545e81748da2059fb2963b624ac10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564889,
+            "locality_id":1243167635,
+            "region_id":85673023
+        }
+    ],
+    "wof:id":1243167635,
+    "wof:lastmodified":1537653358,
+    "wof:name":"Phumi Tuk Luy",
+    "wof:parent_id":1108564889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.26198,
+    12.06108,
+    103.26198,
+    12.06108
+],
+  "geometry": {"coordinates":[103.26197999999999,12.06108],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1209905355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.90026,12.6462,106.90026,12.6462",
+    "geom:latitude":12.6462,
+    "geom:longitude":106.90026,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Rove Leu",
+    "gn:country_code":"KH",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11518518,
+    "gn:latitude":12.6462,
+    "gn:longitude":106.90026,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"R\u00f4v\u00e9 Leu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "R\u00f4v\u00e9 Leu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673085,
+        1108564757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11518518
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"277f7b9292e28d59627aaa600b3c78b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564757,
+            "locality_id":1209905355,
+            "region_id":85673085
+        }
+    ],
+    "wof:id":1209905355,
+    "wof:lastmodified":1537654088,
+    "wof:name":"Rove Leu",
+    "wof:parent_id":1108564757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.90026,
+    12.6462,
+    106.90026,
+    12.6462
+],
+  "geometry": {"coordinates":[106.90026,12.6462],"type":"Point"}
+}

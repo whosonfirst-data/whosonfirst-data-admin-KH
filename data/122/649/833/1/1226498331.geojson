@@ -1,0 +1,73 @@
+{
+  "id": 1226498331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.95552,13.31091,103.95552,13.31091",
+    "geom:latitude":13.31091,
+    "geom:longitude":103.95552,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Phum Boeng",
+    "gn:country_code":"KH",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11559376,
+    "gn:latitude":13.31091,
+    "gn:longitude":103.95552,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Phum B\u014feng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum B\u014feng"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1794\u17b9\u1784"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673029,
+        421171409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11559376
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"0c1e249910be95b9808a706b634b374c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421171409,
+            "locality_id":1226498331,
+            "region_id":85673029
+        }
+    ],
+    "wof:id":1226498331,
+    "wof:lastmodified":1537654110,
+    "wof:name":"Phum Boeng",
+    "wof:parent_id":421171409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.95552,
+    13.31091,
+    103.95552,
+    13.31091
+],
+  "geometry": {"coordinates":[103.95552000000001,13.31091],"type":"Point"}
+}

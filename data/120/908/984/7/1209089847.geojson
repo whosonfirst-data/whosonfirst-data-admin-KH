@@ -1,0 +1,65 @@
+{
+  "id": 1209089847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.50652,11.54972,105.50652,11.54972",
+    "geom:latitude":11.54972,
+    "geom:longitude":105.50652,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Phumi Kouk Rovieng",
+    "gn:country_code":"KH",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827345,
+    "gn:latitude":11.54972,
+    "gn:longitude":105.50652,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Phum\u012d Ko\u016dk R\u00f4vi\u0115ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum Kok Povieng",
+        "Phum\u012d Ko\u016dk R\u00f4vi\u0115ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827345
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"64eadd01ddf8722f7270eca8c64bc312",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209089847
+        }
+    ],
+    "wof:id":1209089847,
+    "wof:lastmodified":1537653708,
+    "wof:name":"Phumi Kouk Rovieng",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.50652,
+    11.54972,
+    105.50652,
+    11.54972
+],
+  "geometry": {"coordinates":[105.50651999999999,11.54972],"type":"Point"}
+}

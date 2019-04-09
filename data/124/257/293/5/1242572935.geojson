@@ -1,0 +1,70 @@
+{
+  "id": 1242572935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.88946,12.16238,106.88946,12.16238",
+    "geom:latitude":12.16238,
+    "geom:longitude":106.88946,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Ou Romeas",
+    "gn:country_code":"KH",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11483300,
+    "gn:latitude":12.16238,
+    "gn:longitude":106.88946,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Ou Romeas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Ou Romeas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673085,
+        1108564667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11483300
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"60bd8bd002d2ab8c248aa35e4a8a3794",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564667,
+            "locality_id":1242572935,
+            "region_id":85673085
+        }
+    ],
+    "wof:id":1242572935,
+    "wof:lastmodified":1537654059,
+    "wof:name":"Ou Romeas",
+    "wof:parent_id":1108564667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.88946,
+    12.16238,
+    106.88946,
+    12.16238
+],
+  "geometry": {"coordinates":[106.88946,12.16238],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1360046473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.43749,12.9137,103.43749,12.9137",
+    "geom:latitude":12.9137,
+    "geom:longitude":103.43749,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Phum Basoeng",
+    "gn:country_code":"KH",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1826620,
+    "gn:latitude":12.9137,
+    "gn:longitude":103.43749,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Phum Bas\u0153\u0306ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Bas\u0153\u0306ng"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1794\u17b6\u179f\u17b9\u1784"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Bas\u0153\u0306ng",
+        "Phum\u012d Pas\u0153\u0306ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673015,
+        1108564739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1826620
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"9b31e1d0ec988811bdc809eee69ec15a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564739,
+            "locality_id":1360046473,
+            "region_id":85673015
+        }
+    ],
+    "wof:id":1360046473,
+    "wof:lastmodified":1537653642,
+    "wof:name":"Phum Basoeng",
+    "wof:parent_id":1108564739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.43749,
+    12.9137,
+    103.43749,
+    12.9137
+],
+  "geometry": {"coordinates":[103.43749,12.9137],"type":"Point"}
+}

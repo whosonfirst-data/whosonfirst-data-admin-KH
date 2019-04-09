@@ -1,0 +1,74 @@
+{
+  "id": 1276753705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.42661,12.25517,106.42661,12.25517",
+    "geom:latitude":12.25517,
+    "geom:longitude":106.42661,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Samrang",
+    "gn:country_code":"KH",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825107,
+    "gn:latitude":12.25517,
+    "gn:longitude":106.42661,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Samrang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Samrang"
+    ],
+    "name:und_x_variant":[
+        "Trapeang Kandal",
+        "Phum\u012d S\u00e2mra\u00f4ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673081,
+        1108564841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825107
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"46d66f60dd11c8f275a1bea1e51d8185",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564841,
+            "locality_id":1276753705,
+            "region_id":85673081
+        }
+    ],
+    "wof:id":1276753705,
+    "wof:lastmodified":1537653513,
+    "wof:name":"Samrang",
+    "wof:parent_id":1108564841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.42661,
+    12.25517,
+    106.42661,
+    12.25517
+],
+  "geometry": {"coordinates":[106.42661,12.25517],"type":"Point"}
+}

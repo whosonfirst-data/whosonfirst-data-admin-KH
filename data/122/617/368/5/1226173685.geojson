@@ -1,0 +1,70 @@
+{
+  "id": 1226173685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.22094,11.73604,106.22094,11.73604",
+    "geom:latitude":11.73604,
+    "geom:longitude":106.22094,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Phum Andong Tachou",
+    "gn:country_code":"KH",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11509667,
+    "gn:latitude":11.73604,
+    "gn:longitude":106.22094,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Phum \u00c2ndong Tach\u014fu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum \u00c2ndong Tach\u014fu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        1108804319,
+        1108564735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11509667
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"e14555791cf7b65e9dae668738c9032f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564735,
+            "locality_id":1226173685,
+            "region_id":1108804319
+        }
+    ],
+    "wof:id":1226173685,
+    "wof:lastmodified":1537654083,
+    "wof:name":"Phum Andong Tachou",
+    "wof:parent_id":1108564735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.22093999999998,
+    11.73604,
+    106.22093999999998,
+    11.73604
+],
+  "geometry": {"coordinates":[106.22093999999998,11.73604],"type":"Point"}
+}

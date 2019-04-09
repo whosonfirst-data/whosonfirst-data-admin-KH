@@ -1,0 +1,71 @@
+{
+  "id": 1310663149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.63148,11.01881,104.63148,11.01881",
+    "geom:latitude":11.01881,
+    "geom:longitude":104.63148,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Phumi Champa Leuk",
+    "gn:country_code":"KH",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829190,
+    "gn:latitude":11.01881,
+    "gn:longitude":104.63148,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Ch\u00e2mpa Leuk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vat Champa Leouk",
+        "Phum\u012d Ch\u00e2mpa Leuk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673107,
+        1108564877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829190
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"9a6d546c584dc417a096c0b8b24014f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564877,
+            "locality_id":1310663149,
+            "region_id":85673107
+        }
+    ],
+    "wof:id":1310663149,
+    "wof:lastmodified":1537653865,
+    "wof:name":"Phumi Champa Leuk",
+    "wof:parent_id":1108564877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.63148,
+    11.01881,
+    104.63148,
+    11.01881
+],
+  "geometry": {"coordinates":[104.63148,11.01881],"type":"Point"}
+}

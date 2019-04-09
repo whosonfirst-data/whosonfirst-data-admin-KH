@@ -1,0 +1,79 @@
+{
+  "id": 1360053321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.74733,13.58806,102.74733,13.58806",
+    "geom:latitude":13.58806,
+    "geom:longitude":102.74733,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Koub Touch",
+    "gn:country_code":"KH",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827521,
+    "gn:latitude":13.58806,
+    "gn:longitude":102.74733,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Koub Touch",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Koub Touch"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1780\u17bc\u1794\u178f\u17bc\u1785",
+        "Phum Kob Toch"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Kop Tock",
+        "Phum\u012d Kop Toch",
+        "Phum\u012d Kob Toch"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673011,
+        421198129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827521
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"8713aaac6f00f35976aa6d45dbe18393",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421198129,
+            "locality_id":1360053321,
+            "region_id":85673011
+        }
+    ],
+    "wof:id":1360053321,
+    "wof:lastmodified":1537653726,
+    "wof:name":"Koub Touch",
+    "wof:parent_id":421198129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.74733,
+    13.58806,
+    102.74733,
+    13.58806
+],
+  "geometry": {"coordinates":[102.74733000000001,13.58806],"type":"Point"}
+}

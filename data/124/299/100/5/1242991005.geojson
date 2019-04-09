@@ -1,0 +1,77 @@
+{
+  "id": 1242991005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.27056,12.71659,107.27056,12.71659",
+    "geom:latitude":12.71659,
+    "geom:longitude":107.27056,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Phum Pu Ropet",
+    "gn:country_code":"KH",
+    "gn:dem":350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825506,
+    "gn:latitude":12.71659,
+    "gn:longitude":107.27056,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Phum Pu R\u00f4p\u00eat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Pu R\u00f4p\u00eat"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1796\u17bc\u179a\u1796\u17c2\u178f"
+    ],
+    "name:und_x_variant":[
+        "Ban Bu Rpet",
+        "Phum\u012d Pu R\u00f4p\u00eat (2)"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673085,
+        1108564757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825506
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"d31aa43d8fe53ee19335031c6329346d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564757,
+            "locality_id":1242991005,
+            "region_id":85673085
+        }
+    ],
+    "wof:id":1242991005,
+    "wof:lastmodified":1537653546,
+    "wof:name":"Phum Pu Ropet",
+    "wof:parent_id":1108564757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.27056,
+    12.71659,
+    107.27056,
+    12.71659
+],
+  "geometry": {"coordinates":[107.27056,12.71659],"type":"Point"}
+}

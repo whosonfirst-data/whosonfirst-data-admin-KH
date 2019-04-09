@@ -1,0 +1,74 @@
+{
+  "id": 1309774331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.12379,13.22454,104.12379,13.22454",
+    "geom:latitude":13.22454,
+    "geom:longitude":104.12379,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Dan Run",
+    "gn:country_code":"KH",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825241,
+    "gn:latitude":13.22454,
+    "gn:longitude":104.12379,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Dan Run",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Dan Run"
+    ],
+    "name:und_x_variant":[
+        "Phum Roun",
+        "Phum\u012d R\u016dn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673029,
+        1108564843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825241
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"daf47338de0b4cda3451ff598f512dcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564843,
+            "locality_id":1309774331,
+            "region_id":85673029
+        }
+    ],
+    "wof:id":1309774331,
+    "wof:lastmodified":1537653524,
+    "wof:name":"Dan Run",
+    "wof:parent_id":1108564843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.12379,
+    13.22454,
+    104.12379,
+    13.22454
+],
+  "geometry": {"coordinates":[104.12379,13.22454],"type":"Point"}
+}

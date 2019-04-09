@@ -1,0 +1,72 @@
+{
+  "id": 1209892043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.75,11.15,105.75,11.15",
+    "geom:latitude":11.15,
+    "geom:longitude":105.75,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Vott Svay",
+    "gn:cc2":"KH",
+    "gn:country_code":"KH",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1821348,
+    "gn:latitude":11.15,
+    "gn:longitude":105.75,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"V\u00f4tt Svay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vatt Svay",
+        "V\u00f4tt Svay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673105,
+        1108564861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1821348
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"f16927d7cd82556ff569300df33e9d78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564861,
+            "locality_id":1209892043,
+            "region_id":85673105
+        }
+    ],
+    "wof:id":1209892043,
+    "wof:lastmodified":1537653317,
+    "wof:name":"Vott Svay",
+    "wof:parent_id":1108564861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.75,
+    11.15,
+    105.75,
+    11.15
+],
+  "geometry": {"coordinates":[105.75,11.15],"type":"Point"}
+}

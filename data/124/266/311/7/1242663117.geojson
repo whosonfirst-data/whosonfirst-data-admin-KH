@@ -1,0 +1,79 @@
+{
+  "id": 1242663117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.52446,11.32851,103.52446,11.32851",
+    "geom:latitude":11.32851,
+    "geom:longitude":103.52446,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Tuek L'ak",
+    "gn:country_code":"KH",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1823626,
+    "gn:latitude":11.32851,
+    "gn:longitude":103.52446,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Tuek L\u2019ak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum T\u0153\u0306k L\u00f4\u00e2k"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1791\u17b9\u1780\u179b\u17d2\u17a2\u1780\u17cb",
+        "Tuek L\u2019ak"
+    ],
+    "name:und_x_variant":[
+        "Tuk Laak",
+        "Phum\u012d T\u0153\u0306k L\u00f4\u00e2k",
+        "Phum\u012d T\u0153\u0306k L\u2019\u00e1k"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673019,
+        421194857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1823626
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"f4e8fd9dc53f7ed1300e9b08c1c89266",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421194857,
+            "locality_id":1242663117,
+            "region_id":85673019
+        }
+    ],
+    "wof:id":1242663117,
+    "wof:lastmodified":1537653392,
+    "wof:name":"Tuek L'ak",
+    "wof:parent_id":421194857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.52446,
+    11.32851,
+    103.52446,
+    11.32851
+],
+  "geometry": {"coordinates":[103.52446,11.32851],"type":"Point"}
+}

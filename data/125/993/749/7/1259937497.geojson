@@ -1,0 +1,77 @@
+{
+  "id": 1259937497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.22915,13.61816,103.22915,13.61816",
+    "geom:latitude":13.61816,
+    "geom:longitude":103.22915,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Phum Chamcar",
+    "gn:country_code":"KH",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829233,
+    "gn:latitude":13.61816,
+    "gn:longitude":103.22915,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Phum Ch\u00e2mcar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Ch\u00e2mcar"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1785\u17c6\u1780\u17b6\u179a"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Ch\u00e2mcar",
+        "Phum\u012d Ch\u00e2mkar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673011,
+        421183973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829233
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"d4de7030f15b826c7b8564eb3513c42e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421183973,
+            "locality_id":1259937497,
+            "region_id":85673011
+        }
+    ],
+    "wof:id":1259937497,
+    "wof:lastmodified":1537653868,
+    "wof:name":"Phum Chamcar",
+    "wof:parent_id":421183973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.22915,
+    13.61816,
+    103.22915,
+    13.61816
+],
+  "geometry": {"coordinates":[103.22915,13.61816],"type":"Point"}
+}

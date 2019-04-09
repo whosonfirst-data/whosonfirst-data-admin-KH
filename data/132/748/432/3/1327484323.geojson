@@ -1,0 +1,78 @@
+{
+  "id": 1327484323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.0404,13.23367,103.0404,13.23367",
+    "geom:latitude":13.23367,
+    "geom:longitude":103.0404,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Phum Svaeung Phaeu",
+    "gn:country_code":"KH",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1824483,
+    "gn:latitude":13.23367,
+    "gn:longitude":103.0404,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Phum Svaeung Phaeu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Svaeung Phaeu"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u179f\u17d2\u179c\u17be\u1784\u1797\u17be"
+    ],
+    "name:und_x_variant":[
+        "Phum Tu\u00f4l Svoai",
+        "Phum\u012d Svaeung Phaeu",
+        "Phum\u012d Svaeung Pheu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673015,
+        1108564871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1824483
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"939ec71b13fbc3e5d84ad83efaa812a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564871,
+            "locality_id":1327484323,
+            "region_id":85673015
+        }
+    ],
+    "wof:id":1327484323,
+    "wof:lastmodified":1537653461,
+    "wof:name":"Phum Svaeung Phaeu",
+    "wof:parent_id":1108564871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.0404,
+    13.23367,
+    103.0404,
+    13.23367
+],
+  "geometry": {"coordinates":[103.04040000000001,13.23367],"type":"Point"}
+}

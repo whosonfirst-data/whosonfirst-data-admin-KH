@@ -1,0 +1,74 @@
+{
+  "id": 1343238523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.20967,13.39933,105.20967,13.39933",
+    "geom:latitude":13.39933,
+    "geom:longitude":105.20967,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Khnar",
+    "gn:country_code":"KH",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827692,
+    "gn:latitude":13.39933,
+    "gn:longitude":105.20967,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Khnar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Khnar"
+    ],
+    "name:und_x_variant":[
+        "Phum Kna",
+        "Phum\u012d Khna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673071,
+        1108564801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827692
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"670dc8e7299eca536f60b8f442de7351",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564801,
+            "locality_id":1343238523,
+            "region_id":85673071
+        }
+    ],
+    "wof:id":1343238523,
+    "wof:lastmodified":1537653741,
+    "wof:name":"Khnar",
+    "wof:parent_id":1108564801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.20967,
+    13.39933,
+    105.20967,
+    13.39933
+],
+  "geometry": {"coordinates":[105.20967,13.39933],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1259583677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.67625,11.5499,104.67625,11.5499",
+    "geom:latitude":11.5499,
+    "geom:longitude":104.67625,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Angk Ta Loek",
+    "gn:country_code":"KH",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11475412,
+    "gn:latitude":11.5499,
+    "gn:longitude":104.67625,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Angk Ta Loek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Angk Ta Loek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673053,
+        1108564819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11475412
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"a883e4cd2d25b86998dc8dd9c61e7f37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564819,
+            "locality_id":1259583677,
+            "region_id":85673053
+        }
+    ],
+    "wof:id":1259583677,
+    "wof:lastmodified":1537654030,
+    "wof:name":"Angk Ta Loek",
+    "wof:parent_id":1108564819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.67625,
+    11.5499,
+    104.67625,
+    11.5499
+],
+  "geometry": {"coordinates":[104.67625,11.5499],"type":"Point"}
+}

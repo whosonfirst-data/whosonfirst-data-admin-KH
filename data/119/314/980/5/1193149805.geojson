@@ -1,0 +1,76 @@
+{
+  "id": 1193149805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.88678,11.97782,104.88678,11.97782",
+    "geom:latitude":11.97782,
+    "geom:longitude":104.88678,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Tuol",
+    "gn:country_code":"KH",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1822967,
+    "gn:latitude":11.97782,
+    "gn:longitude":104.88678,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Tuol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Tuol"
+    ],
+    "name:und_x_variant":[
+        "Wat Toul",
+        "Phum Tu\u014fl",
+        "Val Toul",
+        "Phum\u012d Tu\u014fl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673041,
+        1108564611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1822967
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"501a37cda4d15daf607854426bd58a01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564611,
+            "locality_id":1193149805,
+            "region_id":85673041
+        }
+    ],
+    "wof:id":1193149805,
+    "wof:lastmodified":1537653347,
+    "wof:name":"Tuol",
+    "wof:parent_id":1108564611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.88678,
+    11.97782,
+    104.88678,
+    11.97782
+],
+  "geometry": {"coordinates":[104.88678,11.97782],"type":"Point"}
+}

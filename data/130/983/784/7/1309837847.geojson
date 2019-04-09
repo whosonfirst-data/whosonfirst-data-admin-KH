@@ -1,0 +1,75 @@
+{
+  "id": 1309837847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.89426,12.72553,104.89426,12.72553",
+    "geom:latitude":12.72553,
+    "geom:longitude":104.89426,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Aachar Leak",
+    "gn:country_code":"KH",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1830081,
+    "gn:latitude":12.72553,
+    "gn:longitude":104.89426,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Aachar Leak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Aachar Leak"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Achar Lerk",
+        "Phum Achaleak",
+        "Phum\u012d Achary Le\u0103k"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673057,
+        421180491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1830081
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"149d0564ae7a84618bc1ae141ebcdd9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421180491,
+            "locality_id":1309837847,
+            "region_id":85673057
+        }
+    ],
+    "wof:id":1309837847,
+    "wof:lastmodified":1537653936,
+    "wof:name":"Aachar Leak",
+    "wof:parent_id":421180491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.89426,
+    12.72553,
+    104.89426,
+    12.72553
+],
+  "geometry": {"coordinates":[104.89426,12.72553],"type":"Point"}
+}

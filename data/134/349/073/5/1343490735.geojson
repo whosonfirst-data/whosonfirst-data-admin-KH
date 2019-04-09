@@ -1,0 +1,70 @@
+{
+  "id": 1343490735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.51421,12.05418,105.51421,12.05418",
+    "geom:latitude":12.05418,
+    "geom:longitude":105.51421,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Phum Prampir",
+    "gn:country_code":"KH",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11507569,
+    "gn:latitude":12.05418,
+    "gn:longitude":105.51421,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Phum Prampir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Prampir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673041,
+        421205043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11507569
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"2395810ec4b921ae5e481f546a27d6ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421205043,
+            "locality_id":1343490735,
+            "region_id":85673041
+        }
+    ],
+    "wof:id":1343490735,
+    "wof:lastmodified":1537654080,
+    "wof:name":"Phum Prampir",
+    "wof:parent_id":421205043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.51421,
+    12.05418,
+    105.51421,
+    12.05418
+],
+  "geometry": {"coordinates":[105.51421000000001,12.05418],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1343227615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.78498,10.99081,104.78498,10.99081",
+    "geom:latitude":10.99081,
+    "geom:longitude":104.78498,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Takeo",
+    "gn:country_code":"KH",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA",
+    "gn:geonameid":1821940,
+    "gn:latitude":10.99081,
+    "gn:longitude":104.78498,
+    "gn:modification_date":"2013-08-04",
+    "gn:name":"Takeo",
+    "gn:population":843931,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pr\u00e0s\u00e0t",
+        "Takeo",
+        "Tak\u00eav",
+        "Tak\u00e9o"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673107,
+        421187977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1821940
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"a714eb9d96ea82dc41084cb55806209a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421187977,
+            "locality_id":1343227615,
+            "region_id":85673107
+        }
+    ],
+    "wof:id":1343227615,
+    "wof:lastmodified":1537653326,
+    "wof:name":"Takeo",
+    "wof:parent_id":421187977,
+    "wof:placetype":"locality",
+    "wof:population":843931,
+    "wof:population_rank":11,
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.78498,
+    10.99081,
+    104.78498,
+    10.99081
+],
+  "geometry": {"coordinates":[104.78498,10.99081],"type":"Point"}
+}

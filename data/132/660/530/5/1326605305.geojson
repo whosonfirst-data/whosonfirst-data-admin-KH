@@ -1,0 +1,71 @@
+{
+  "id": 1326605305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.77765,11.15948,104.77765,11.15948",
+    "geom:latitude":11.15948,
+    "geom:longitude":104.77765,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Phumi Prey Khla",
+    "gn:country_code":"KH",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825811,
+    "gn:latitude":11.15948,
+    "gn:longitude":104.77765,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Prey Khla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum Prey Khla",
+        "Phum\u012d Prey Khla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673107,
+        1108564825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825811
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"9d290f6f1f101b20976ae12c2aa6e5d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564825,
+            "locality_id":1326605305,
+            "region_id":85673107
+        }
+    ],
+    "wof:id":1326605305,
+    "wof:lastmodified":1537653568,
+    "wof:name":"Phumi Prey Khla",
+    "wof:parent_id":1108564825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.77765,
+    11.15948,
+    104.77765,
+    11.15948
+],
+  "geometry": {"coordinates":[104.77764999999999,11.15948],"type":"Point"}
+}

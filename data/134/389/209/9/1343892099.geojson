@@ -1,0 +1,71 @@
+{
+  "id": 1343892099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.08333,11.91667,106.08333,11.91667",
+    "geom:latitude":11.91667,
+    "geom:longitude":106.08333,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Phumi Chamkar Kausu",
+    "gn:country_code":"KH",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829224,
+    "gn:latitude":11.91667,
+    "gn:longitude":106.08333,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Phum\u012d Ch\u00e2mkar Kausu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum\u012d Ch\u00e2mkar Caoutchouc",
+        "Phum\u012d Ch\u00e2mkar Kausu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        1108804319,
+        1108564735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829224
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"06539593ac053d2e47bf5372e5852bce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564735,
+            "locality_id":1343892099,
+            "region_id":1108804319
+        }
+    ],
+    "wof:id":1343892099,
+    "wof:lastmodified":1537653867,
+    "wof:name":"Phumi Chamkar Kausu",
+    "wof:parent_id":1108564735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.08333,
+    11.91667,
+    106.08333,
+    11.91667
+],
+  "geometry": {"coordinates":[106.08333,11.91667],"type":"Point"}
+}

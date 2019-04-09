@@ -1,0 +1,79 @@
+{
+  "id": 1276450105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.44601,12.31667,104.44601,12.31667",
+    "geom:latitude":12.31667,
+    "geom:longitude":104.44601,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Prasneb",
+    "gn:country_code":"KH",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1826148,
+    "gn:latitude":12.31667,
+    "gn:longitude":104.44601,
+    "gn:modification_date":"2017-07-05",
+    "gn:name":"Prasneb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Prasneb"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1794\u17d2\u179a\u179f\u17d2\u1793\u17b7\u1794",
+        "Phum Pr\u00e2sn\u0115p"
+    ],
+    "name:und_x_variant":[
+        "Phum Prasnep",
+        "Prea Snep",
+        "Phum\u012d Pr\u00e2sn\u0115b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673047,
+        421198923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1826148
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"68440bf151e7915752938372bec1e6d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421198923,
+            "locality_id":1276450105,
+            "region_id":85673047
+        }
+    ],
+    "wof:id":1276450105,
+    "wof:lastmodified":1537653599,
+    "wof:name":"Prasneb",
+    "wof:parent_id":421198923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.44601,
+    12.31667,
+    104.44601,
+    12.31667
+],
+  "geometry": {"coordinates":[104.44601,12.31667],"type":"Point"}
+}

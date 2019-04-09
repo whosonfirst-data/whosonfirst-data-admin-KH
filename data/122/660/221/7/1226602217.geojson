@@ -1,0 +1,78 @@
+{
+  "id": 1226602217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.05612,13.51615,103.05612,13.51615",
+    "geom:latitude":13.51615,
+    "geom:longitude":103.05612,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Ta Lam",
+    "gn:country_code":"KH",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1824247,
+    "gn:latitude":13.51615,
+    "gn:longitude":103.05612,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Ta Lam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Ta Lam"
+    ],
+    "name:khm_x_variant":[
+        "Phum Tal\u00e2m K\u00e2ndal",
+        "\u1797\u17bc\u1798\u17b7 \u178f\u17b6\u17a1\u17c6\u1780\u178e\u17d2\u178a\u17b6\u179b"
+    ],
+    "name:und_x_variant":[
+        "Khum Talam",
+        "Phum\u012d Tal\u00e2m K\u00e2ndal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673011,
+        1108564737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1824247
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"45c88239b2924d6bb64b21e069ac34e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564737,
+            "locality_id":1226602217,
+            "region_id":85673011
+        }
+    ],
+    "wof:id":1226602217,
+    "wof:lastmodified":1537653441,
+    "wof:name":"Ta Lam",
+    "wof:parent_id":1108564737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.05612,
+    13.51615,
+    103.05612,
+    13.51615
+],
+  "geometry": {"coordinates":[103.05612000000001,13.51615],"type":"Point"}
+}

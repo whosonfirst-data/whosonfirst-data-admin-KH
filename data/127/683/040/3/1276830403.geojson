@@ -1,0 +1,74 @@
+{
+  "id": 1276830403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.29408,13.10295,103.29408,13.10295",
+    "geom:latitude":13.10295,
+    "geom:longitude":103.29408,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Pou Batdambang",
+    "gn:country_code":"KH",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1826285,
+    "gn:latitude":13.10295,
+    "gn:longitude":103.29408,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Pou Batdambang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Pou Batdambang"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Po\u016d Batd\u00e2mb\u00e2ng",
+        "Phum\u012d Po\u016dth\u012d B\u0103td\u00e2mb\u00e2ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673015,
+        421202239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1826285
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"caf22bf3260ea70eb2d69c7f93006a8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421202239,
+            "locality_id":1276830403,
+            "region_id":85673015
+        }
+    ],
+    "wof:id":1276830403,
+    "wof:lastmodified":1537653611,
+    "wof:name":"Pou Batdambang",
+    "wof:parent_id":421202239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.29408,
+    13.10295,
+    103.29408,
+    13.10295
+],
+  "geometry": {"coordinates":[103.29407999999999,13.10295],"type":"Point"}
+}

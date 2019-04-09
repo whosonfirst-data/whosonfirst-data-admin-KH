@@ -1,0 +1,81 @@
+{
+  "id": 1343619035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.10314,14.06377,103.10314,14.06377",
+    "geom:latitude":14.06377,
+    "geom:longitude":103.10314,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Banteay Chhmar",
+    "gn:country_code":"KH",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829613,
+    "gn:latitude":14.06377,
+    "gn:longitude":103.10314,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Banteay Chhmar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Banteay Chhmar"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1794\u1793\u17d2\u1791\u17b6\u1799\u1786\u17d2\u1798\u17b6\u179a"
+    ],
+    "name:und_x_variant":[
+        "Banteay-Chmar",
+        "Muong Cau",
+        "Bantea\u00ef Chhmar",
+        "Phum B\u00e2nt\u00e9ay Chhmar",
+        "Banteai Chmar",
+        "Phum\u012d B\u00e2nt\u00e9ay Chhmar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673011,
+        421203293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829613
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"ed4267d21879d3d05c947c4827c0f356",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421203293,
+            "locality_id":1343619035,
+            "region_id":85673011
+        }
+    ],
+    "wof:id":1343619035,
+    "wof:lastmodified":1537653897,
+    "wof:name":"Banteay Chhmar",
+    "wof:parent_id":421203293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.10314,
+    14.06377,
+    103.10314,
+    14.06377
+],
+  "geometry": {"coordinates":[103.10314,14.06377],"type":"Point"}
+}

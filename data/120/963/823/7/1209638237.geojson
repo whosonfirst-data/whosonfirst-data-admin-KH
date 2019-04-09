@@ -1,0 +1,64 @@
+{
+  "id": 1209638237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.77105,13.0529,104.77105,13.0529",
+    "geom:latitude":13.0529,
+    "geom:longitude":104.77105,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Srama",
+    "gn:country_code":"KH",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11477441,
+    "gn:latitude":13.0529,
+    "gn:longitude":104.77105,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Srama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Srama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11477441
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"bbccab84f6725b20482de87e1c29604f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209638237
+        }
+    ],
+    "wof:id":1209638237,
+    "wof:lastmodified":1537654036,
+    "wof:name":"Srama",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.77105,
+    13.0529,
+    104.77105,
+    13.0529
+],
+  "geometry": {"coordinates":[104.77105,13.0529],"type":"Point"}
+}

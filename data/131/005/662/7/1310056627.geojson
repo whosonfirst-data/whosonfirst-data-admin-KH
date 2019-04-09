@@ -1,0 +1,73 @@
+{
+  "id": 1310056627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.65402,10.58394,103.65402,10.58394",
+    "geom:latitude":10.58394,
+    "geom:longitude":103.65402,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Smach Daeng",
+    "gn:country_code":"KH",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1824835,
+    "gn:latitude":10.58394,
+    "gn:longitude":103.65402,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Smach Daeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Smach Daeng"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Sm\u0103ch D\u00eang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673101,
+        421188243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1824835
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"95f7cfb4430def65c97c3786ccb11bbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421188243,
+            "locality_id":1310056627,
+            "region_id":85673101
+        }
+    ],
+    "wof:id":1310056627,
+    "wof:lastmodified":1537653490,
+    "wof:name":"Smach Daeng",
+    "wof:parent_id":421188243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.65402,
+    10.58394,
+    103.65402,
+    10.58394
+],
+  "geometry": {"coordinates":[103.65402,10.58394],"type":"Point"}
+}

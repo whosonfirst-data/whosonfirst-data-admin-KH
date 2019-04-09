@@ -1,0 +1,78 @@
+{
+  "id": 1293272245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.8509,12.91328,103.8509,12.91328",
+    "geom:latitude":12.91328,
+    "geom:longitude":103.8509,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Phum Chuor Kom",
+    "gn:country_code":"KH",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828700,
+    "gn:latitude":12.91328,
+    "gn:longitude":103.8509,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Phum Chuor Kom",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Chuor Kom"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1787\u17bd\u1780\u17bb\u17c6"
+    ],
+    "name:und_x_variant":[
+        "Chuor Kom",
+        "Phum\u012d Chu\u014f Kom",
+        "Phum\u012d Chu\u014fr Kom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673023,
+        1108564595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828700
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"b9f0e27a9900e425c538f48288b095b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564595,
+            "locality_id":1293272245,
+            "region_id":85673023
+        }
+    ],
+    "wof:id":1293272245,
+    "wof:lastmodified":1537653825,
+    "wof:name":"Phum Chuor Kom",
+    "wof:parent_id":1108564595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.8509,
+    12.91328,
+    103.8509,
+    12.91328
+],
+  "geometry": {"coordinates":[103.8509,12.91328],"type":"Point"}
+}

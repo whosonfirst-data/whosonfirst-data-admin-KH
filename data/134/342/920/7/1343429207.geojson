@@ -1,0 +1,76 @@
+{
+  "id": 1343429207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.67185,13.53179,103.67185,13.53179",
+    "geom:latitude":13.53179,
+    "geom:longitude":103.67185,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Phum Changaeur Leav",
+    "gn:country_code":"KH",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829175,
+    "gn:latitude":13.53179,
+    "gn:longitude":103.67185,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Phum Ch\u00e2ngaeur L\u00e9av",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Ch\u00e2ngaeur L\u00e9av"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1785\u1784\u17d2\u17a2\u17be\u179a\u179b\u17b6\u179c"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Ch\u00e2ng\u2019aeur L\u00e9av"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673029,
+        421185505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829175
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"fcb1b7adb22e8ec6cdfceee6c4145430",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421185505,
+            "locality_id":1343429207,
+            "region_id":85673029
+        }
+    ],
+    "wof:id":1343429207,
+    "wof:lastmodified":1537653863,
+    "wof:name":"Phum Changaeur Leav",
+    "wof:parent_id":421185505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.67185,
+    13.53179,
+    103.67185,
+    13.53179
+],
+  "geometry": {"coordinates":[103.67185000000001,13.53179],"type":"Point"}
+}

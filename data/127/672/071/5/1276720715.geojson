@@ -1,0 +1,73 @@
+{
+  "id": 1276720715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.43082,10.82133,104.43082,10.82133",
+    "geom:latitude":10.82133,
+    "geom:longitude":104.43082,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Prech",
+    "gn:country_code":"KH",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1826084,
+    "gn:latitude":10.82133,
+    "gn:longitude":104.43082,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Prech",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Prech"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Pr\u00e9ch"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673093,
+        1108564637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1826084
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"bb12cc6d810a7fc07799e0325fc99745",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564637,
+            "locality_id":1276720715,
+            "region_id":85673093
+        }
+    ],
+    "wof:id":1276720715,
+    "wof:lastmodified":1537653593,
+    "wof:name":"Prech",
+    "wof:parent_id":1108564637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.43082,
+    10.82133,
+    104.43082,
+    10.82133
+],
+  "geometry": {"coordinates":[104.43082,10.82133],"type":"Point"}
+}

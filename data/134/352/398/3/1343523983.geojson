@@ -1,0 +1,71 @@
+{
+  "id": 1343523983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.87184,10.85924,104.87184,10.85924",
+    "geom:latitude":10.85924,
+    "geom:longitude":104.87184,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Phumi Trapeang Tonle",
+    "gn:country_code":"KH",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1823212,
+    "gn:latitude":10.85924,
+    "gn:longitude":104.87184,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Tr\u00e2pe\u0103ng T\u00f4nl\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum Trapeang Tonley",
+        "Phum\u012d Tr\u00e2pe\u0103ng T\u00f4nl\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673107,
+        1108564619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1823212
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"b805e2a844eda80d6c36d964bb9f740f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564619,
+            "locality_id":1343523983,
+            "region_id":85673107
+        }
+    ],
+    "wof:id":1343523983,
+    "wof:lastmodified":1537653364,
+    "wof:name":"Phumi Trapeang Tonle",
+    "wof:parent_id":1108564619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.87184,
+    10.85924,
+    104.87184,
+    10.85924
+],
+  "geometry": {"coordinates":[104.87184000000001,10.85924],"type":"Point"}
+}

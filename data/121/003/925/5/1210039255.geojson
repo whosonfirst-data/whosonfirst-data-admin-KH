@@ -1,0 +1,73 @@
+{
+  "id": 1210039255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.17394,12.42408,105.17394,12.42408",
+    "geom:latitude":12.42408,
+    "geom:longitude":105.17394,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Sralau Toung",
+    "gn:country_code":"KH",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1824713,
+    "gn:latitude":12.42408,
+    "gn:longitude":105.17394,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Sralau Toung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Sralau Toung"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Sr\u00e2lau Tong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673057,
+        421198921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1824713
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"05c790183cf9bfa13fd9e58fa9862369",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421198921,
+            "locality_id":1210039255,
+            "region_id":85673057
+        }
+    ],
+    "wof:id":1210039255,
+    "wof:lastmodified":1537653479,
+    "wof:name":"Sralau Toung",
+    "wof:parent_id":421198921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.17394,
+    12.42408,
+    105.17394,
+    12.42408
+],
+  "geometry": {"coordinates":[105.17394,12.42408],"type":"Point"}
+}

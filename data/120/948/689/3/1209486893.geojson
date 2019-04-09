@@ -1,0 +1,70 @@
+{
+  "id": 1209486893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.30384,13.99172,106.30384,13.99172",
+    "geom:latitude":13.99172,
+    "geom:longitude":106.30384,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Kanhchanh Tuek",
+    "gn:country_code":"KH",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1831099,
+    "gn:latitude":13.99172,
+    "gn:longitude":106.30384,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Kanhchanh Tuek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Kanhchanh Tuek"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Kanchan T\u0153\u0306k",
+        "K\u00e2nt\u00e9an T\u0153\u0306k",
+        "Ban Kanchan",
+        "K\u00e2nch\u0103n T\u0153\u0306k"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1831099
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"9443bf90dbbbc9d974dd1465a4fb3432",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209486893
+        }
+    ],
+    "wof:id":1209486893,
+    "wof:lastmodified":1537653956,
+    "wof:name":"Kanhchanh Tuek",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.30384,
+    13.99172,
+    106.30384,
+    13.99172
+],
+  "geometry": {"coordinates":[106.30383999999999,13.99172],"type":"Point"}
+}

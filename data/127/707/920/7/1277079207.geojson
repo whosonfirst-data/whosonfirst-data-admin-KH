@@ -1,0 +1,71 @@
+{
+  "id": 1277079207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.24768,13.10338,105.24768,13.10338",
+    "geom:latitude":13.10338,
+    "geom:longitude":105.24768,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Toek Mleang",
+    "gn:country_code":"KH",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1821621,
+    "gn:latitude":13.10338,
+    "gn:longitude":105.24768,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"T\u0153\u0306k Mle\u0103ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "T\u0153\u0306k M\u00f4le\u0103ng",
+        "T\u0153\u0306k Mle\u0103ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673057,
+        421188047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1821621
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"6f72bf01e6d2849b903e1ea5625a43e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421188047,
+            "locality_id":1277079207,
+            "region_id":85673057
+        }
+    ],
+    "wof:id":1277079207,
+    "wof:lastmodified":1537653324,
+    "wof:name":"Toek Mleang",
+    "wof:parent_id":421188047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.24768,
+    13.10338,
+    105.24768,
+    13.10338
+],
+  "geometry": {"coordinates":[105.24768,13.10338],"type":"Point"}
+}

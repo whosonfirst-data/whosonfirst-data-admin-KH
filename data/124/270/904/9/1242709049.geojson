@@ -1,0 +1,76 @@
+{
+  "id": 1242709049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.0922,12.0486,106.0922,12.0486",
+    "geom:latitude":12.0486,
+    "geom:longitude":106.0922,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Kampey",
+    "gn:country_code":"KH",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828348,
+    "gn:latitude":12.0486,
+    "gn:longitude":106.0922,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Kampey",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Kampey"
+    ],
+    "name:und_x_variant":[
+        "Phum Kamper",
+        "Phum Kompey",
+        "Phum Rompey",
+        "Phum\u012d K\u00e2mpey"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        1108804319,
+        1108564735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828348
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"1601621d0396a63e9635414b551b583b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564735,
+            "locality_id":1242709049,
+            "region_id":1108804319
+        }
+    ],
+    "wof:id":1242709049,
+    "wof:lastmodified":1537653798,
+    "wof:name":"Kampey",
+    "wof:parent_id":1108564735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.0922,
+    12.0486,
+    106.0922,
+    12.0486
+],
+  "geometry": {"coordinates":[106.09220000000001,12.0486],"type":"Point"}
+}

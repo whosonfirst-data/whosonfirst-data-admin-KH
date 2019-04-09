@@ -1,0 +1,71 @@
+{
+  "id": 1276447153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.05764,12.77817,105.05764,12.77817",
+    "geom:latitude":12.77817,
+    "geom:longitude":105.05764,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Phumi Choam",
+    "gn:country_code":"KH",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828912,
+    "gn:latitude":12.77817,
+    "gn:longitude":105.05764,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Ch\u014f\u00e2m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cheam",
+        "Phum\u012d Ch\u014f\u00e2m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673057,
+        421182521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828912
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"13a568c8b2caa73b98d95f3d446fed60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421182521,
+            "locality_id":1276447153,
+            "region_id":85673057
+        }
+    ],
+    "wof:id":1276447153,
+    "wof:lastmodified":1537653842,
+    "wof:name":"Phumi Choam",
+    "wof:parent_id":421182521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.05764,
+    12.77817,
+    105.05764,
+    12.77817
+],
+  "geometry": {"coordinates":[105.05764000000001,12.77817],"type":"Point"}
+}

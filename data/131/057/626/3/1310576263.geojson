@@ -1,0 +1,67 @@
+{
+  "id": 1310576263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.77357,10.79317,104.77357,10.79317",
+    "geom:latitude":10.79317,
+    "geom:longitude":104.77357,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Phumi Chrey",
+    "gn:country_code":"KH",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828788,
+    "gn:latitude":10.79317,
+    "gn:longitude":104.77357,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Phum\u012d Chrey",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673107,
+        1108564881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828788
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"bc1d36625349b8318887e10af0cd94bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564881,
+            "locality_id":1310576263,
+            "region_id":85673107
+        }
+    ],
+    "wof:id":1310576263,
+    "wof:lastmodified":1536814223,
+    "wof:name":"Phumi Chrey",
+    "wof:parent_id":1108564881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.77357,
+    10.79317,
+    104.77357,
+    10.79317
+],
+  "geometry": {"coordinates":[104.77357000000001,10.79317],"type":"Point"}
+}

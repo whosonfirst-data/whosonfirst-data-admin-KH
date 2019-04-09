@@ -1,0 +1,65 @@
+{
+  "id": 1209573949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.77152,11.56065,104.77152,11.56065",
+    "geom:latitude":11.56065,
+    "geom:longitude":104.77152,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Phumi Tapung",
+    "gn:country_code":"KH",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1824066,
+    "gn:latitude":11.56065,
+    "gn:longitude":104.77152,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Phum\u012d Tapung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tumpung",
+        "Phum\u012d Tapung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1824066
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"29131c192bf0dde9a50f0d9e7368d38d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209573949
+        }
+    ],
+    "wof:id":1209573949,
+    "wof:lastmodified":1537653427,
+    "wof:name":"Phumi Tapung",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.77152,
+    11.56065,
+    104.77152,
+    11.56065
+],
+  "geometry": {"coordinates":[104.77152,11.56065],"type":"Point"}
+}

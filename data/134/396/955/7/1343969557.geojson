@@ -1,0 +1,75 @@
+{
+  "id": 1343969557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.57261,12.31922,104.57261,12.31922",
+    "geom:latitude":12.31922,
+    "geom:longitude":104.57261,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Thma Kaev",
+    "gn:country_code":"KH",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1823898,
+    "gn:latitude":12.31922,
+    "gn:longitude":104.57261,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Thma Kaev",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Thma Kaev"
+    ],
+    "name:und_x_variant":[
+        "Wat Thnna Keo",
+        "Vat Thnna K\u00e9o",
+        "Phum\u012d Thm\u00e2 K\u00eav"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673047,
+        421198923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1823898
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"3663b7842cb181b98e22be12e835ba5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421198923,
+            "locality_id":1343969557,
+            "region_id":85673047
+        }
+    ],
+    "wof:id":1343969557,
+    "wof:lastmodified":1537653414,
+    "wof:name":"Thma Kaev",
+    "wof:parent_id":421198923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.57261,
+    12.31922,
+    104.57261,
+    12.31922
+],
+  "geometry": {"coordinates":[104.57261,12.31922],"type":"Point"}
+}

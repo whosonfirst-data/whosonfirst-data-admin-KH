@@ -1,0 +1,70 @@
+{
+  "id": 1344115103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.97369,14.06627,106.97369,14.06627",
+    "geom:latitude":14.06627,
+    "geom:longitude":106.97369,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Kaoh Pang",
+    "gn:country_code":"KH",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11531215,
+    "gn:latitude":14.06627,
+    "gn:longitude":106.97369,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Kaoh Pang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Kaoh Pang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673089,
+        421194641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11531215
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"f29b1dd7c2fbae7e9f29500989d76a55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421194641,
+            "locality_id":1344115103,
+            "region_id":85673089
+        }
+    ],
+    "wof:id":1344115103,
+    "wof:lastmodified":1537654090,
+    "wof:name":"Kaoh Pang",
+    "wof:parent_id":421194641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.97369,
+    14.06627,
+    106.97369,
+    14.06627
+],
+  "geometry": {"coordinates":[106.97369,14.06627],"type":"Point"}
+}

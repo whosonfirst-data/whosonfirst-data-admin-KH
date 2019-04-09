@@ -1,0 +1,108 @@
+{
+  "id": 85902735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.922176,11.557457,104.922176,11.557457",
+    "geom:latitude":11.557457,
+    "geom:longitude":104.922176,
+    "gn:latitude":11.55118,
+    "gn:longitude":104.90628,
+    "iso:country":"KH",
+    "lbl:latitude":11.557457,
+    "lbl:longitude":104.922176,
+    "mps:latitude":11.547692,
+    "mps:longitude":104.923499,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":3,
+    "name:eng_x_preferred":[
+        "Toul Tapeung"
+    ],
+    "name:unk_x_variant":[
+        "Tu\u014fl Tumpung",
+        "Toul Tapeung"
+    ],
+    "qs:gn_adm0_cc":"KH",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":1821306,
+    "qs:gn_namadm1":"22",
+    "qs:gn_name":"Tu\u014fl Tumpung",
+    "qs:local_max":13947,
+    "qs:local_sum":18162,
+    "qs:localhoods":3,
+    "qs:name":"Toul Tapeung",
+    "qs:name_adm0":"Cambodia",
+    "qs:name_adm1":"Phnum Penh",
+    "qs:name_adm2":"Phnom Penh",
+    "qs:name_local":"Phnom Penh",
+    "qs:photo_max":1319,
+    "qs:photo_sum":13947,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":105,
+    "qs:woe_adm0":23424776,
+    "qs:woe_adm1":20070095,
+    "qs:woe_adm2":56063387,
+    "qs:woe_lau":0,
+    "qs:woe_local":1020985,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        1108952563,
+        1108564813,
+        85673063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1821453,
+        "gp:id":1028375,
+        "qs:id":235409
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"a9c11de5d5f853ae1b3792bfc60f86cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564813,
+            "locality_id":1108952563,
+            "neighbourhood_id":85902735,
+            "region_id":85673063
+        }
+    ],
+    "wof:id":85902735,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1536881822,
+    "wof:name":"Toul Tapeung",
+    "wof:parent_id":1108952563,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.922176,
+    11.557457,
+    104.922176,
+    11.557457
+],
+  "geometry": {"coordinates":[104.92217599999999,11.557457],"type":"Point"}
+}

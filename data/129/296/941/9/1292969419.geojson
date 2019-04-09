@@ -1,0 +1,70 @@
+{
+  "id": 1292969419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.29551,13.52252,107.29551,13.52252",
+    "geom:latitude":13.52252,
+    "geom:longitude":107.29551,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Kok Pnong",
+    "gn:country_code":"KH",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11484010,
+    "gn:latitude":13.52252,
+    "gn:longitude":107.29551,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Kok Pnong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Kok Pnong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673089,
+        1108564723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11484010
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"168afb3337000ca0ccadc4c9c2118c80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564723,
+            "locality_id":1292969419,
+            "region_id":85673089
+        }
+    ],
+    "wof:id":1292969419,
+    "wof:lastmodified":1537654062,
+    "wof:name":"Kok Pnong",
+    "wof:parent_id":1108564723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.29551,
+    13.52252,
+    107.29551,
+    13.52252
+],
+  "geometry": {"coordinates":[107.29550999999999,13.52252],"type":"Point"}
+}

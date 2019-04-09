@@ -1,0 +1,70 @@
+{
+  "id": 1260100177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.31344,10.54986,103.31344,10.54986",
+    "geom:latitude":10.54986,
+    "geom:longitude":103.31344,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Phum Kaoh Rong Samloem Krau",
+    "gn:country_code":"KH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827950,
+    "gn:latitude":10.54986,
+    "gn:longitude":103.31344,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Phum Ka\u00f4h R\u014fng S\u00e2ml\u0153\u0306m Krau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Ka\u00f4h R\u014fng S\u00e2ml\u0153\u0306m Krau"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1780\u17c4\u17c7\u179a\u17bb\u1784\u179f\u17c6\u17a1\u17b9\u1798\u1780\u17d2\u179a\u17c5"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Ka\u00f4h R\u016dng S\u00e2ml\u0153\u0306m Krau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827950
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"5350b4a7f4738015a5549a148f2c04c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1260100177,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1260100177,
+    "wof:lastmodified":1537653763,
+    "wof:name":"Phum Kaoh Rong Samloem Krau",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.31344,
+    10.54986,
+    103.31344,
+    10.54986
+],
+  "geometry": {"coordinates":[103.31344,10.54986],"type":"Point"}
+}

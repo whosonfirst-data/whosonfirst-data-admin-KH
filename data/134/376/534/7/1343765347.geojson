@@ -1,0 +1,71 @@
+{
+  "id": 1343765347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.56178,12.28726,105.56178,12.28726",
+    "geom:latitude":12.28726,
+    "geom:longitude":105.56178,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Phum Thuk Mau",
+    "gn:country_code":"KH",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829449,
+    "gn:latitude":12.28726,
+    "gn:longitude":105.56178,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Phum Thuk Mau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum Thao Mau",
+        "Phum\u012d B\u0153\u0306ng Kachok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673041,
+        1108564853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829449
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"bac0e7c5e739571533d8915c163fa248",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564853,
+            "locality_id":1343765347,
+            "region_id":85673041
+        }
+    ],
+    "wof:id":1343765347,
+    "wof:lastmodified":1537653883,
+    "wof:name":"Phum Thuk Mau",
+    "wof:parent_id":1108564853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.56178,
+    12.28726,
+    105.56178,
+    12.28726
+],
+  "geometry": {"coordinates":[105.56178,12.28726],"type":"Point"}
+}

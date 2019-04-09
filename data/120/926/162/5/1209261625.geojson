@@ -1,0 +1,73 @@
+{
+  "id": 1209261625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.87745,12.75997,102.87745,12.75997",
+    "geom:latitude":12.75997,
+    "geom:longitude":102.87745,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Phum Phlov Meas",
+    "gn:country_code":"KH",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1826506,
+    "gn:latitude":12.75997,
+    "gn:longitude":102.87745,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Phum Phlov M\u00e9as",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Phlov M\u00e9as"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1795\u17d2\u179b\u17bc\u179c\u1798\u17b6\u179f"
+    ],
+    "name:und_x_variant":[
+        "Phum Phlauv Meas",
+        "Phum Phlaux Meas",
+        "Phum\u012d Phlov M\u00e9as",
+        "Phlov Meas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1826506
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"77b92e5e848e613f740dbee9f5b4aa83",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209261625
+        }
+    ],
+    "wof:id":1209261625,
+    "wof:lastmodified":1537653632,
+    "wof:name":"Phum Phlov Meas",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.87745,
+    12.75997,
+    102.87745,
+    12.75997
+],
+  "geometry": {"coordinates":[102.87745,12.75997],"type":"Point"}
+}

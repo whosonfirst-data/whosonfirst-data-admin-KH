@@ -1,0 +1,78 @@
+{
+  "id": 1226203495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.48378,12.64351,103.48378,12.64351",
+    "geom:latitude":12.64351,
+    "geom:longitude":103.48378,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Phum Chang Vay",
+    "gn:country_code":"KH",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829156,
+    "gn:latitude":12.64351,
+    "gn:longitude":103.48378,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Phum Ch\u00e2ng Vay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Ch\u00e2ng Vay"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1785\u1784\u17cb\u179c\u17c9\u17b6\u1799"
+    ],
+    "name:und_x_variant":[
+        "P\u2019um Chay Vay",
+        "Phum Chay Vay",
+        "Phum\u012d Ch\u00e1ng Vay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673015,
+        1108564805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829156
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"a18f8d9342f8d206afe5cf7a7d02f3b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564805,
+            "locality_id":1226203495,
+            "region_id":85673015
+        }
+    ],
+    "wof:id":1226203495,
+    "wof:lastmodified":1537653862,
+    "wof:name":"Phum Chang Vay",
+    "wof:parent_id":1108564805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.48378,
+    12.64351,
+    103.48378,
+    12.64351
+],
+  "geometry": {"coordinates":[103.48378,12.64351],"type":"Point"}
+}

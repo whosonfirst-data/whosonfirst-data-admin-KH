@@ -1,0 +1,74 @@
+{
+  "id": 1226434135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.74658,11.52255,104.74658,11.52255",
+    "geom:latitude":11.52255,
+    "geom:longitude":104.74658,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Trapeang Trea",
+    "gn:country_code":"KH",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1823191,
+    "gn:latitude":11.52255,
+    "gn:longitude":104.74658,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Trapeang Trea",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Trapeang Trea"
+    ],
+    "name:und_x_variant":[
+        "Tr\u00e2peang Trea",
+        "Phum\u012d Tr\u00e2pe\u0103ng Tr\u00e9al"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673051,
+        1108564577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1823191
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"05e0ae9c84342c9b6f3b3cb053aa9e2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564577,
+            "locality_id":1226434135,
+            "region_id":85673051
+        }
+    ],
+    "wof:id":1226434135,
+    "wof:lastmodified":1537653362,
+    "wof:name":"Trapeang Trea",
+    "wof:parent_id":1108564577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.74658,
+    11.52255,
+    104.74658,
+    11.52255
+],
+  "geometry": {"coordinates":[104.74657999999999,11.52255],"type":"Point"}
+}

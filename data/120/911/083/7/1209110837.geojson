@@ -1,0 +1,64 @@
+{
+  "id": 1209110837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.80167,13.26959,104.80167,13.26959",
+    "geom:latitude":13.26959,
+    "geom:longitude":104.80167,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Veal Chas",
+    "gn:country_code":"KH",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11477407,
+    "gn:latitude":13.26959,
+    "gn:longitude":104.80167,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Veal Chas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Veal Chas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11477407
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"5f8e70bd7a9ccd59fe3a7eaa2d95dcf5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209110837
+        }
+    ],
+    "wof:id":1209110837,
+    "wof:lastmodified":1537654036,
+    "wof:name":"Veal Chas",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.80167,
+    13.26959,
+    104.80167,
+    13.26959
+],
+  "geometry": {"coordinates":[104.80167,13.26959],"type":"Point"}
+}

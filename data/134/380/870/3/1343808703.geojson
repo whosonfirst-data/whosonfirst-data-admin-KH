@@ -1,0 +1,73 @@
+{
+  "id": 1343808703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.17773,13.03333,103.17773,13.03333",
+    "geom:latitude":13.03333,
+    "geom:longitude":103.17773,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Phum Rum Chek",
+    "gn:country_code":"KH",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11369402,
+    "gn:latitude":13.03333,
+    "gn:longitude":103.17773,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Phum R\u016dm Ch\u00e9k",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum R\u016dm Ch\u00e9k"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u179a\u17c6\u1785\u17c1\u1780"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673015,
+        421171545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11369402
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"a211afcfffb1ecd50715c209957a6084",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421171545,
+            "locality_id":1343808703,
+            "region_id":85673015
+        }
+    ],
+    "wof:id":1343808703,
+    "wof:lastmodified":1537653985,
+    "wof:name":"Phum Rum Chek",
+    "wof:parent_id":421171545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.17773,
+    13.03333,
+    103.17773,
+    13.03333
+],
+  "geometry": {"coordinates":[103.17773,13.03333],"type":"Point"}
+}

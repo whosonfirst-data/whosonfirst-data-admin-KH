@@ -1,0 +1,70 @@
+{
+  "id": 1276877463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.2487,12.43503,105.2487,12.43503",
+    "geom:latitude":12.43503,
+    "geom:longitude":105.2487,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Anlong Thma",
+    "gn:country_code":"KH",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11478753,
+    "gn:latitude":12.43503,
+    "gn:longitude":105.2487,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Anlong Thma",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Anlong Thma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673057,
+        421198921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11478753
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"1771f36c449103ff1f7d98031307bb4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421198921,
+            "locality_id":1276877463,
+            "region_id":85673057
+        }
+    ],
+    "wof:id":1276877463,
+    "wof:lastmodified":1537654045,
+    "wof:name":"Anlong Thma",
+    "wof:parent_id":421198921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.2487,
+    12.43503,
+    105.2487,
+    12.43503
+],
+  "geometry": {"coordinates":[105.2487,12.43503],"type":"Point"}
+}

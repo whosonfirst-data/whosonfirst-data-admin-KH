@@ -1,0 +1,72 @@
+{
+  "id": 1242641775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.17113,10.56407,104.17113,10.56407",
+    "geom:latitude":10.56407,
+    "geom:longitude":104.17113,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Phumi Khlong Noam",
+    "gn:country_code":"KH",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827705,
+    "gn:latitude":10.56407,
+    "gn:longitude":104.17113,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Khl\u00f3ng N\u014f\u00e2m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum Khl\u00f4ng Ne\u0103m",
+        "Phum\u012d Khl\u016dng N\u014f\u00e2m",
+        "Phum\u012d Khl\u00f3ng N\u014f\u00e2m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673093,
+        1108564681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827705
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"ff22af01614e657aa5872e1ebc8ee1cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564681,
+            "locality_id":1242641775,
+            "region_id":85673093
+        }
+    ],
+    "wof:id":1242641775,
+    "wof:lastmodified":1537653742,
+    "wof:name":"Phumi Khlong Noam",
+    "wof:parent_id":1108564681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.17113,
+    10.56407,
+    104.17113,
+    10.56407
+],
+  "geometry": {"coordinates":[104.17113000000001,10.56407],"type":"Point"}
+}

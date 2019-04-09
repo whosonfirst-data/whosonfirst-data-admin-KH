@@ -1,0 +1,72 @@
+{
+  "id": 1292934761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.5056,11.92017,105.5056,11.92017",
+    "geom:latitude":11.92017,
+    "geom:longitude":105.5056,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Phumi Anlong Poung",
+    "gn:country_code":"KH",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829822,
+    "gn:latitude":11.92017,
+    "gn:longitude":105.5056,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Phum\u012d \u00c2nl\u00f3ng Po\u016dng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum Anlong Pong",
+        "Phum\u012d \u00c2nl\u016dng Po\u016dng",
+        "Phum\u012d \u00c2nl\u00f3ng Po\u016dng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        1108804319,
+        421183891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829822
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"36c2a37928a3c1112e2a57725d92532d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421183891,
+            "locality_id":1292934761,
+            "region_id":1108804319
+        }
+    ],
+    "wof:id":1292934761,
+    "wof:lastmodified":1537653915,
+    "wof:name":"Phumi Anlong Poung",
+    "wof:parent_id":421183891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.5056,
+    11.92017,
+    105.5056,
+    11.92017
+],
+  "geometry": {"coordinates":[105.5056,11.92017],"type":"Point"}
+}

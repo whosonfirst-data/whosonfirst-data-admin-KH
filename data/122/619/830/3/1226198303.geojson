@@ -1,0 +1,78 @@
+{
+  "id": 1226198303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.74799,13.41107,103.74799,13.41107",
+    "geom:latitude":13.41107,
+    "geom:longitude":103.74799,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Phum Krasang Phaem",
+    "gn:country_code":"KH",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827104,
+    "gn:latitude":13.41107,
+    "gn:longitude":103.74799,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Phum Kr\u00e2s\u0103ng Ph\u00e2\u00eam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Kr\u00e2s\u0103ng Ph\u00e2\u00eam"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1780\u17d2\u179a\u179f\u17b6\u17c6\u1784\u1795\u17d2\u17a2\u17c2\u1798"
+    ],
+    "name:und_x_variant":[
+        "Phum Krassang Paem",
+        "Phum\u012d Kr\u00e2s\u0103ng Ph\u00e2\u00eam",
+        "Phum\u012d Kr\u00e2s\u0103ng Ph\u2019\u00eam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673029,
+        421185505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827104
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"13ebaf97c6c298fc40c716bd71d51bd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421185505,
+            "locality_id":1226198303,
+            "region_id":85673029
+        }
+    ],
+    "wof:id":1226198303,
+    "wof:lastmodified":1537653686,
+    "wof:name":"Phum Krasang Phaem",
+    "wof:parent_id":421185505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.74799,
+    13.41107,
+    103.74799,
+    13.41107
+],
+  "geometry": {"coordinates":[103.74799,13.41107],"type":"Point"}
+}

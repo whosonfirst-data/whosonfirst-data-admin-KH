@@ -1,0 +1,76 @@
+{
+  "id": 1310360827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.41433,13.59372,103.41433,13.59372",
+    "geom:latitude":13.59372,
+    "geom:longitude":103.41433,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Phum Khsach",
+    "gn:country_code":"KH",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827630,
+    "gn:latitude":13.59372,
+    "gn:longitude":103.41433,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Phum Khsach",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Khsach"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1781\u17d2\u179f\u17b6\u1785\u17cb"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Khs\u0103ch"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673029,
+        421194643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827630
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"04af5355c41c641adddf7ae81bb1aa41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421194643,
+            "locality_id":1310360827,
+            "region_id":85673029
+        }
+    ],
+    "wof:id":1310360827,
+    "wof:lastmodified":1537653736,
+    "wof:name":"Phum Khsach",
+    "wof:parent_id":421194643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.41433,
+    13.59372,
+    103.41433,
+    13.59372
+],
+  "geometry": {"coordinates":[103.41433000000001,13.59372],"type":"Point"}
+}

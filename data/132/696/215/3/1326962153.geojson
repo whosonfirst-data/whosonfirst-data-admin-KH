@@ -1,0 +1,70 @@
+{
+  "id": 1326962153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.60323,12.88911,104.60323,12.88911",
+    "geom:latitude":12.88911,
+    "geom:longitude":104.60323,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Chamnar Kraom",
+    "gn:country_code":"KH",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11476879,
+    "gn:latitude":12.88911,
+    "gn:longitude":104.60323,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Chamnar Kraom",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Chamnar Kraom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673057,
+        1108564849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11476879
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"b669650029b3b27a7c5a2ec9dffec725",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564849,
+            "locality_id":1326962153,
+            "region_id":85673057
+        }
+    ],
+    "wof:id":1326962153,
+    "wof:lastmodified":1537654035,
+    "wof:name":"Chamnar Kraom",
+    "wof:parent_id":1108564849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.60323,
+    12.88911,
+    104.60323,
+    12.88911
+],
+  "geometry": {"coordinates":[104.60323,12.88911],"type":"Point"}
+}

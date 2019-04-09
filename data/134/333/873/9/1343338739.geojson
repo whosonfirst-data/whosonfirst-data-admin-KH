@@ -1,0 +1,76 @@
+{
+  "id": 1343338739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.19728,12.41745,103.19728,12.41745",
+    "geom:latitude":12.41745,
+    "geom:longitude":103.19728,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Phum Tuol Kravanh",
+    "gn:country_code":"KH",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1823051,
+    "gn:latitude":12.41745,
+    "gn:longitude":103.19728,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Phum Tu\u014fl Kr\u00e2vanh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Tu\u014fl Kr\u00e2vanh"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1791\u17bd\u179b\u1780\u17d2\u179a\u179c\u17c9\u17b6\u1789"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Tu\u014fl Kr\u00e2vanh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673023,
+        1108564889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1823051
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"6350c81e67c4a9ba11e8852f665659a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564889,
+            "locality_id":1343338739,
+            "region_id":85673023
+        }
+    ],
+    "wof:id":1343338739,
+    "wof:lastmodified":1537653353,
+    "wof:name":"Phum Tuol Kravanh",
+    "wof:parent_id":1108564889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.19728,
+    12.41745,
+    103.19728,
+    12.41745
+],
+  "geometry": {"coordinates":[103.19728000000001,12.41745],"type":"Point"}
+}

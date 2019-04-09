@@ -1,0 +1,74 @@
+{
+  "id": 1209920015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.41803,11.38476,104.41803,11.38476",
+    "geom:latitude":11.38476,
+    "geom:longitude":104.41803,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Bantoab",
+    "gn:country_code":"KH",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829586,
+    "gn:latitude":11.38476,
+    "gn:longitude":104.41803,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Bantoab",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Bantoab"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d B\u00e2nt\u014f\u00e2p",
+        "Phum\u012d B\u00e2nto\u0103b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673053,
+        1108564765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829586
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"3e02c4fb32a7418eb54c509d2b9ad48b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564765,
+            "locality_id":1209920015,
+            "region_id":85673053
+        }
+    ],
+    "wof:id":1209920015,
+    "wof:lastmodified":1537653894,
+    "wof:name":"Bantoab",
+    "wof:parent_id":1108564765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.41803,
+    11.38476,
+    104.41803,
+    11.38476
+],
+  "geometry": {"coordinates":[104.41803,11.38476],"type":"Point"}
+}

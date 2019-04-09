@@ -1,0 +1,74 @@
+{
+  "id": 1293904761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.83169,11.37573,104.83169,11.37573",
+    "geom:latitude":11.37573,
+    "geom:longitude":104.83169,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Trea",
+    "gn:country_code":"KH",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1824545,
+    "gn:latitude":11.37573,
+    "gn:longitude":104.83169,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Trea",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Trea"
+    ],
+    "name:und_x_variant":[
+        "Trach",
+        "Phum\u012d Sr\u00ea Tr\u00e9a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673051,
+        1108564685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1824545
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"322df5d339e5949d480a6f49f0ea40a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564685,
+            "locality_id":1293904761,
+            "region_id":85673051
+        }
+    ],
+    "wof:id":1293904761,
+    "wof:lastmodified":1537653466,
+    "wof:name":"Trea",
+    "wof:parent_id":1108564685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.83169,
+    11.37573,
+    104.83169,
+    11.37573
+],
+  "geometry": {"coordinates":[104.83168999999999,11.37573],"type":"Point"}
+}

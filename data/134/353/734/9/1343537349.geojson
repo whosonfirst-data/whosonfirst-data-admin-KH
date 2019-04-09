@@ -1,0 +1,74 @@
+{
+  "id": 1343537349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.07356,11.00826,106.07356,11.00826",
+    "geom:latitude":11.00826,
+    "geom:longitude":106.07356,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Angk Kduoch",
+    "gn:country_code":"KH",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11509633,
+    "gn:latitude":11.00826,
+    "gn:longitude":106.07356,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Angk Kduoch",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Angk Kduoch"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u17a2\u1784\u17d2\u1782\u1780\u17d2\u178f\u17bd\u1785",
+        "Phum\u012d \u00c2ng Kdu\u014fch"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673105,
+        1108564627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11509633
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"281328af8612c73239fc92726b0fddfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564627,
+            "locality_id":1343537349,
+            "region_id":85673105
+        }
+    ],
+    "wof:id":1343537349,
+    "wof:lastmodified":1537654082,
+    "wof:name":"Angk Kduoch",
+    "wof:parent_id":1108564627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.07356,
+    11.00826,
+    106.07356,
+    11.00826
+],
+  "geometry": {"coordinates":[106.07356,11.00826],"type":"Point"}
+}

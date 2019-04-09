@@ -1,0 +1,79 @@
+{
+  "id": 1327401763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.2078,13.62209,103.2078,13.62209",
+    "geom:latitude":13.62209,
+    "geom:longitude":103.2078,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Tep Kaosa",
+    "gn:country_code":"KH",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1823711,
+    "gn:latitude":13.62209,
+    "gn:longitude":103.2078,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Tep Kaosa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Tep Kaosa"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1791\u17c0\u1794\u1780\u17c4\u179f\u17b6",
+        "Phum Tr\u0115p Ka\u00f4sa"
+    ],
+    "name:und_x_variant":[
+        "Tep Tosa",
+        "Phum\u012d Ti\u0115p Kaosa",
+        "Phum\u012d Ti\u0115b Ka\u00f4sa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673011,
+        421183973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1823711
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"2dedc1aba9080f9d75d9ad83cee6ec6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421183973,
+            "locality_id":1327401763,
+            "region_id":85673011
+        }
+    ],
+    "wof:id":1327401763,
+    "wof:lastmodified":1537653400,
+    "wof:name":"Tep Kaosa",
+    "wof:parent_id":421183973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.2078,
+    13.62209,
+    103.2078,
+    13.62209
+],
+  "geometry": {"coordinates":[103.20780000000001,13.62209],"type":"Point"}
+}

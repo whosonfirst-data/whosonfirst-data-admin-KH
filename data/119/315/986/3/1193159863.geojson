@@ -1,0 +1,74 @@
+{
+  "id": 1193159863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.51871,12.99061,104.51871,12.99061",
+    "geom:latitude":12.99061,
+    "geom:longitude":104.51871,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Neang Sa Lngeach",
+    "gn:country_code":"KH",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1826812,
+    "gn:latitude":12.99061,
+    "gn:longitude":104.51871,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Neang Sa Lngeach",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Neang Sa Lngeach"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d N\u00e9ang S\u00e2 Sngach (1)",
+        "Phum\u012d N\u00e9ang S\u00e2r Sngach (1)"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673057,
+        1108564849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1826812
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"bad63e2efb95cd87961464ca5dde9385",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564849,
+            "locality_id":1193159863,
+            "region_id":85673057
+        }
+    ],
+    "wof:id":1193159863,
+    "wof:lastmodified":1537653659,
+    "wof:name":"Neang Sa Lngeach",
+    "wof:parent_id":1108564849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.51871,
+    12.99061,
+    104.51871,
+    12.99061
+],
+  "geometry": {"coordinates":[104.51871,12.99061],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1277032555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.7011,13.79063,103.7011,13.79063",
+    "geom:latitude":13.79063,
+    "geom:longitude":103.7011,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Rundas",
+    "gn:country_code":"KH",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1830003,
+    "gn:latitude":13.79063,
+    "gn:longitude":103.7011,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Rundas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Rundas"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d \u00c2nd\u0103s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673029,
+        1108564583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1830003
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"f83fd440db96a29f24d809d100374ce2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564583,
+            "locality_id":1277032555,
+            "region_id":85673029
+        }
+    ],
+    "wof:id":1277032555,
+    "wof:lastmodified":1537653931,
+    "wof:name":"Rundas",
+    "wof:parent_id":1108564583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.7011,
+    13.79063,
+    103.7011,
+    13.79063
+],
+  "geometry": {"coordinates":[103.7011,13.79063],"type":"Point"}
+}

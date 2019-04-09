@@ -1,0 +1,65 @@
+{
+  "id": 1209589357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.55474,11.70412,105.55474,11.70412",
+    "geom:latitude":11.70412,
+    "geom:longitude":105.55474,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Phumi Chh'oeng Chumni",
+    "gn:country_code":"KH",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828975,
+    "gn:latitude":11.70412,
+    "gn:longitude":105.55474,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Chh\u2019\u0153\u0306ng Chumni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phumi Chh\u00e2\u0153\u0306ng Chumni",
+        "Phum\u012d Chh\u2019\u0153\u0306ng Chumni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828975
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"dd2d1c607477b571ef93710de916a945",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209589357
+        }
+    ],
+    "wof:id":1209589357,
+    "wof:lastmodified":1537653847,
+    "wof:name":"Phumi Chh'oeng Chumni",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.55474,
+    11.70412,
+    105.55474,
+    11.70412
+],
+  "geometry": {"coordinates":[105.55474,11.70412],"type":"Point"}
+}

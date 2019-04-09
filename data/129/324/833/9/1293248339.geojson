@@ -1,0 +1,70 @@
+{
+  "id": 1293248339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.12699,13.26075,104.12699,13.26075",
+    "geom:latitude":13.26075,
+    "geom:longitude":104.12699,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Srae Thnong",
+    "gn:country_code":"KH",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11604947,
+    "gn:latitude":13.26075,
+    "gn:longitude":104.12699,
+    "gn:modification_date":"2017-07-06",
+    "gn:name":"Srae Thnong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Srae Thnong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673029,
+        1108564843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11604947
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"8ba0b922544f072398f45a1c54ca923a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564843,
+            "locality_id":1293248339,
+            "region_id":85673029
+        }
+    ],
+    "wof:id":1293248339,
+    "wof:lastmodified":1537654138,
+    "wof:name":"Srae Thnong",
+    "wof:parent_id":1108564843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.12699,
+    13.26075,
+    104.12699,
+    13.26075
+],
+  "geometry": {"coordinates":[104.12699000000001,13.26075],"type":"Point"}
+}

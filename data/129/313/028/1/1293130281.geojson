@@ -1,0 +1,74 @@
+{
+  "id": 1293130281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.28182,11.72631,106.28182,11.72631",
+    "geom:latitude":11.72631,
+    "geom:longitude":106.28182,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Leach Leu",
+    "gn:country_code":"KH",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1826996,
+    "gn:latitude":11.72631,
+    "gn:longitude":106.28182,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Leach Leu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Leach Leu"
+    ],
+    "name:und_x_variant":[
+        "Phum Leach L\u0153u",
+        "Phum\u012d L\u00e9ach Leu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        1108804319,
+        1108564735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1826996
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"964b25c38d31d2df22036e441d16a25f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564735,
+            "locality_id":1293130281,
+            "region_id":1108804319
+        }
+    ],
+    "wof:id":1293130281,
+    "wof:lastmodified":1537653677,
+    "wof:name":"Leach Leu",
+    "wof:parent_id":1108564735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.28182,
+    11.72631,
+    106.28182,
+    11.72631
+],
+  "geometry": {"coordinates":[106.28182,11.72631],"type":"Point"}
+}

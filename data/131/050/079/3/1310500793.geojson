@@ -1,0 +1,67 @@
+{
+  "id": 1310500793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.2084,13.01327,105.2084,13.01327",
+    "geom:latitude":13.01327,
+    "geom:longitude":105.2084,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Phumi Rumpuh",
+    "gn:country_code":"KH",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825245,
+    "gn:latitude":13.01327,
+    "gn:longitude":105.2084,
+    "gn:modification_date":"1993-12-30",
+    "gn:name":"Phum\u012d Rump\u016dh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673057,
+        421188047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825245
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"de01b8ade288149b21d78568a7e53c65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421188047,
+            "locality_id":1310500793,
+            "region_id":85673057
+        }
+    ],
+    "wof:id":1310500793,
+    "wof:lastmodified":1536924417,
+    "wof:name":"Phumi Rumpuh",
+    "wof:parent_id":421188047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.2084,
+    13.01327,
+    105.2084,
+    13.01327
+],
+  "geometry": {"coordinates":[105.2084,13.01327],"type":"Point"}
+}

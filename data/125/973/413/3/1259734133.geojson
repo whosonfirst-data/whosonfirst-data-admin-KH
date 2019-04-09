@@ -1,0 +1,70 @@
+{
+  "id": 1259734133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.35426,13.36648,102.35426,13.36648",
+    "geom:latitude":13.36648,
+    "geom:longitude":102.35426,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Khvav",
+    "gn:country_code":"KH",
+    "gn:dem":194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11411826,
+    "gn:latitude":13.36648,
+    "gn:longitude":102.35426,
+    "gn:modification_date":"2017-01-07",
+    "gn:name":"Khvav",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Khvav"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673015,
+        1108564761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11411826
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"e7cee06b6892cfc84cdb4e8ac1a6e79b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564761,
+            "locality_id":1259734133,
+            "region_id":85673015
+        }
+    ],
+    "wof:id":1259734133,
+    "wof:lastmodified":1537653997,
+    "wof:name":"Khvav",
+    "wof:parent_id":1108564761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.35426,
+    13.36648,
+    102.35426,
+    13.36648
+],
+  "geometry": {"coordinates":[102.35426,13.36648],"type":"Point"}
+}

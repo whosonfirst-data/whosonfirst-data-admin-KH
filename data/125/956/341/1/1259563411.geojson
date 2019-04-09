@@ -1,0 +1,74 @@
+{
+  "id": 1259563411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.84743,12.56501,103.84743,12.56501",
+    "geom:latitude":12.56501,
+    "geom:longitude":103.84743,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Phum Sdok Thlok",
+    "gn:country_code":"KH",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1824921,
+    "gn:latitude":12.56501,
+    "gn:longitude":103.84743,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Phum Sd\u014fk Thl\u014fk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Sd\u014fk Thl\u014fk"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u179f\u17d2\u178a\u17bb\u1780\u1790\u17d2\u179b\u17bb\u1780",
+        "Phum\u012d Sd\u014fk Thl\u014fk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673023,
+        1108564595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1824921
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"1d0f5132668aa1325e8a90852980e1a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564595,
+            "locality_id":1259563411,
+            "region_id":85673023
+        }
+    ],
+    "wof:id":1259563411,
+    "wof:lastmodified":1537653496,
+    "wof:name":"Phum Sdok Thlok",
+    "wof:parent_id":1108564595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.84743,
+    12.56501,
+    103.84743,
+    12.56501
+],
+  "geometry": {"coordinates":[103.84743,12.56501],"type":"Point"}
+}

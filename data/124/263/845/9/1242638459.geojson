@@ -1,0 +1,73 @@
+{
+  "id": 1242638459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.18636,13.0072,103.18636,13.0072",
+    "geom:latitude":13.0072,
+    "geom:longitude":103.18636,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Phum Tuol O Sralau",
+    "gn:country_code":"KH",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11369411,
+    "gn:latitude":13.0072,
+    "gn:longitude":103.18636,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Phum Tu\u014fl O Sr\u00e2lau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Tu\u014fl O Sr\u00e2lau"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1791\u17bd\u179b\u17a2\u17bc\u179f\u17d2\u179a\u17a1\u17c5"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673015,
+        421202239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11369411
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"832e1e5f957325bb3e24235258d54577",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421202239,
+            "locality_id":1242638459,
+            "region_id":85673015
+        }
+    ],
+    "wof:id":1242638459,
+    "wof:lastmodified":1537653986,
+    "wof:name":"Phum Tuol O Sralau",
+    "wof:parent_id":421202239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.18636,
+    13.0072,
+    103.18636,
+    13.0072
+],
+  "geometry": {"coordinates":[103.18635999999999,13.0072],"type":"Point"}
+}

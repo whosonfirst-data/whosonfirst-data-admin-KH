@@ -1,0 +1,78 @@
+{
+  "id": 1310427039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.2446,11.19685,105.2446,11.19685",
+    "geom:latitude":11.19685,
+    "geom:longitude":105.2446,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Preaek Touch",
+    "gn:country_code":"KH",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825913,
+    "gn:latitude":11.19685,
+    "gn:longitude":105.2446,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Preaek Touch",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Preaek Touch"
+    ],
+    "name:khm_x_variant":[
+        "Phum Pr\u00eak Toch",
+        "\u1797\u17bc\u1798\u17b7 \u1796\u17d2\u179a\u17c2\u1780\u178f\u17bc\u1785"
+    ],
+    "name:und_x_variant":[
+        "Phum Prak Toch Leu",
+        "Phum\u012d Pr\u00eak Toch"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673051,
+        1108564721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825913
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"fe2b416872339f3b96021dd07c50c6af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564721,
+            "locality_id":1310427039,
+            "region_id":85673051
+        }
+    ],
+    "wof:id":1310427039,
+    "wof:lastmodified":1537653576,
+    "wof:name":"Preaek Touch",
+    "wof:parent_id":1108564721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.2446,
+    11.19685,
+    105.2446,
+    11.19685
+],
+  "geometry": {"coordinates":[105.24460000000001,11.19685],"type":"Point"}
+}

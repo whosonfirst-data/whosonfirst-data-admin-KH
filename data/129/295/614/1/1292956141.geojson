@@ -1,0 +1,67 @@
+{
+  "id": 1292956141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.85256,13.47933,102.85256,13.47933",
+    "geom:latitude":13.47933,
+    "geom:longitude":102.85256,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Phumi Samnang Bak",
+    "gn:country_code":"KH",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825146,
+    "gn:latitude":13.47933,
+    "gn:longitude":102.85256,
+    "gn:modification_date":"2009-05-11",
+    "gn:name":"Phum\u012d S\u00e2mnang B\u0103k",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673011,
+        1108564737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825146
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"083307f4bfdd0207f6a1e8b728509176",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564737,
+            "locality_id":1292956141,
+            "region_id":85673011
+        }
+    ],
+    "wof:id":1292956141,
+    "wof:lastmodified":1537053786,
+    "wof:name":"Phumi Samnang Bak",
+    "wof:parent_id":1108564737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.85256,
+    13.47933,
+    102.85256,
+    13.47933
+],
+  "geometry": {"coordinates":[102.85256,13.47933],"type":"Point"}
+}

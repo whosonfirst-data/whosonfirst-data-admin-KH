@@ -1,0 +1,74 @@
+{
+  "id": 1327003661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.28893,11.80951,105.28893,11.80951",
+    "geom:latitude":11.80951,
+    "geom:longitude":105.28893,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Ta Ngak Srae",
+    "gn:country_code":"KH",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1824188,
+    "gn:latitude":11.80951,
+    "gn:longitude":105.28893,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Ta Ngak Srae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Ta Ngak Srae"
+    ],
+    "name:und_x_variant":[
+        "Phum Tang Ha",
+        "Phum\u012d Ta Ng\u00e2k Sr\u00ea"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673067,
+        1108564837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1824188
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"557601a00f40da9555ae34653337fc7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564837,
+            "locality_id":1327003661,
+            "region_id":85673067
+        }
+    ],
+    "wof:id":1327003661,
+    "wof:lastmodified":1537653437,
+    "wof:name":"Ta Ngak Srae",
+    "wof:parent_id":1108564837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.28893,
+    11.80951,
+    105.28893,
+    11.80951
+],
+  "geometry": {"coordinates":[105.28892999999999,11.80951],"type":"Point"}
+}

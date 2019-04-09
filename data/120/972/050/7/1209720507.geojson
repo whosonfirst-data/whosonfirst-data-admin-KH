@@ -1,0 +1,67 @@
+{
+  "id": 1209720507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.1781,12.47507,105.1781,12.47507",
+    "geom:latitude":12.47507,
+    "geom:longitude":105.1781,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Phumi Prey Dom",
+    "gn:country_code":"KH",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825837,
+    "gn:latitude":12.47507,
+    "gn:longitude":105.1781,
+    "gn:modification_date":"1993-12-30",
+    "gn:name":"Phum\u012d Prey Dom",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673057,
+        421198921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825837
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"9f2d04e3abc91ba80b726d07a841c421",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421198921,
+            "locality_id":1209720507,
+            "region_id":85673057
+        }
+    ],
+    "wof:id":1209720507,
+    "wof:lastmodified":1536386592,
+    "wof:name":"Phumi Prey Dom",
+    "wof:parent_id":421198921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.1781,
+    12.47507,
+    105.1781,
+    12.47507
+],
+  "geometry": {"coordinates":[105.1781,12.47507],"type":"Point"}
+}

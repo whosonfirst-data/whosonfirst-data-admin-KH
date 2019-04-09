@@ -1,0 +1,70 @@
+{
+  "id": 1226210923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.33795,13.69208,107.33795,13.69208",
+    "geom:latitude":13.69208,
+    "geom:longitude":107.33795,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Trang",
+    "gn:country_code":"KH",
+    "gn:dem":233,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11484017,
+    "gn:latitude":13.69208,
+    "gn:longitude":107.33795,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Trang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Trang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673089,
+        1108564747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11484017
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"7a3be185b4fc2fb2b61041cb20974f6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564747,
+            "locality_id":1226210923,
+            "region_id":85673089
+        }
+    ],
+    "wof:id":1226210923,
+    "wof:lastmodified":1537654063,
+    "wof:name":"Trang",
+    "wof:parent_id":1108564747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.33795,
+    13.69208,
+    107.33795,
+    13.69208
+],
+  "geometry": {"coordinates":[107.33795000000001,13.69208],"type":"Point"}
+}

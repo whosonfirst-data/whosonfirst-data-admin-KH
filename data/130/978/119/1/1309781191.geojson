@@ -1,0 +1,70 @@
+{
+  "id": 1309781191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.93803,10.73086,104.93803,10.73086",
+    "geom:latitude":10.73086,
+    "geom:longitude":104.93803,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Chrouy Poun",
+    "gn:country_code":"KH",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11459749,
+    "gn:latitude":10.73086,
+    "gn:longitude":104.93803,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Chrouy Poun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Chrouy Poun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673107,
+        1108564693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11459749
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"57efecf0a3b532f7b39e9da754d0118b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564693,
+            "locality_id":1309781191,
+            "region_id":85673107
+        }
+    ],
+    "wof:id":1309781191,
+    "wof:lastmodified":1537654019,
+    "wof:name":"Chrouy Poun",
+    "wof:parent_id":1108564693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.93803,
+    10.73086,
+    104.93803,
+    10.73086
+],
+  "geometry": {"coordinates":[104.93803,10.73086],"type":"Point"}
+}

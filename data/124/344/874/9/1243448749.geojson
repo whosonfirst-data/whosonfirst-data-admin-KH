@@ -1,0 +1,74 @@
+{
+  "id": 1243448749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.78198,12.28212,105.78198,12.28212",
+    "geom:latitude":12.28212,
+    "geom:longitude":105.78198,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ruessei Kaev",
+    "gn:country_code":"KH",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11507486,
+    "gn:latitude":12.28212,
+    "gn:longitude":105.78198,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Ruessei Kaev",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Ruessei Kaev"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u17ab\u179f\u17d2\u179f\u17b8\u1780\u17c2\u179c",
+        "Phum\u012d R\u016dssei K\u00eav"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673081,
+        1108564781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11507486
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"e3318c9d143aa5769b2b4c11db5c3bff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564781,
+            "locality_id":1243448749,
+            "region_id":85673081
+        }
+    ],
+    "wof:id":1243448749,
+    "wof:lastmodified":1537654077,
+    "wof:name":"Ruessei Kaev",
+    "wof:parent_id":1108564781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.78198,
+    12.28212,
+    105.78198,
+    12.28212
+],
+  "geometry": {"coordinates":[105.78198,12.28212],"type":"Point"}
+}

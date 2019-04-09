@@ -1,0 +1,70 @@
+{
+  "id": 1243059605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.7784,11.7843,104.7784,11.7843",
+    "geom:latitude":11.7843,
+    "geom:longitude":104.7784,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Pou Ral",
+    "gn:country_code":"KH",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11475127,
+    "gn:latitude":11.7843,
+    "gn:longitude":104.7784,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Pou Ral",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Pou Ral"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673051,
+        421188235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11475127
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"f6b5eb6175aa9c13b0c084bbfafd291f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421188235,
+            "locality_id":1243059605,
+            "region_id":85673051
+        }
+    ],
+    "wof:id":1243059605,
+    "wof:lastmodified":1537654024,
+    "wof:name":"Pou Ral",
+    "wof:parent_id":421188235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.7784,
+    11.7843,
+    104.7784,
+    11.7843
+],
+  "geometry": {"coordinates":[104.7784,11.7843],"type":"Point"}
+}

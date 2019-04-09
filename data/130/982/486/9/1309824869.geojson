@@ -1,0 +1,76 @@
+{
+  "id": 1309824869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.06802,12.30117,106.06802,12.30117",
+    "geom:latitude":12.30117,
+    "geom:longitude":106.06802,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Phum Tuol Poun",
+    "gn:country_code":"KH",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1823032,
+    "gn:latitude":12.30117,
+    "gn:longitude":106.06802,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Phum Tu\u014fl Po\u016dn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Tu\u014fl Po\u016dn"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1791\u17bd\u179b\u1796\u17c4\u1793"
+    ],
+    "name:und_x_variant":[
+        "Phum Tuol Pon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673081,
+        1108564635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1823032
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"2973c90ff2b19e633d91a62f2afa059a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564635,
+            "locality_id":1309824869,
+            "region_id":85673081
+        }
+    ],
+    "wof:id":1309824869,
+    "wof:lastmodified":1537653352,
+    "wof:name":"Phum Tuol Poun",
+    "wof:parent_id":1108564635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.06802,
+    12.30117,
+    106.06802,
+    12.30117
+],
+  "geometry": {"coordinates":[106.06802,12.30117],"type":"Point"}
+}

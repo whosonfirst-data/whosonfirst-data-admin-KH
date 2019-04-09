@@ -1,0 +1,67 @@
+{
+  "id": 1209400467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.52252,11.32755,103.52252,11.32755",
+    "geom:latitude":11.32755,
+    "geom:longitude":103.52252,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Chi Pat",
+    "gn:country_code":"KH",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10227272,
+    "gn:latitude":11.32755,
+    "gn:longitude":103.52252,
+    "gn:modification_date":"2015-04-16",
+    "gn:name":"Chi Pat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Chiphat Village"
+    ],
+    "name:eng_x_variant":[
+        "Chiphat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10227272
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"68d3ee2bfda4ef7502afbc9e63777cbf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209400467
+        }
+    ],
+    "wof:id":1209400467,
+    "wof:lastmodified":1537653967,
+    "wof:name":"Chi Pat",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.52252,
+    11.32755,
+    103.52252,
+    11.32755
+],
+  "geometry": {"coordinates":[103.52252,11.32755],"type":"Point"}
+}

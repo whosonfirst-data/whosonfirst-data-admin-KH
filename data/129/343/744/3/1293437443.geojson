@@ -1,0 +1,70 @@
+{
+  "id": 1293437443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.43642,14.24178,103.43642,14.24178",
+    "geom:latitude":14.24178,
+    "geom:longitude":103.43642,
+    "gn:admin1_code":"27",
+    "gn:asciiname":"Rumduol Veasna",
+    "gn:country_code":"KH",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11424700,
+    "gn:latitude":14.24178,
+    "gn:longitude":103.43642,
+    "gn:modification_date":"2017-01-07",
+    "gn:name":"Rumduol Veasna",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Rumduol Veasna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673033,
+        1108564823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11424700
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"0eae79bbb535ae8e01cecfc731292a38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564823,
+            "locality_id":1293437443,
+            "region_id":85673033
+        }
+    ],
+    "wof:id":1293437443,
+    "wof:lastmodified":1537654004,
+    "wof:name":"Rumduol Veasna",
+    "wof:parent_id":1108564823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.43642,
+    14.24178,
+    103.43642,
+    14.24178
+],
+  "geometry": {"coordinates":[103.43642,14.24178],"type":"Point"}
+}

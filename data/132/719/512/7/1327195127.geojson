@@ -1,0 +1,70 @@
+{
+  "id": 1327195127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.09037,13.26298,103.09037,13.26298",
+    "geom:latitude":13.26298,
+    "geom:longitude":103.09037,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Bat Dambang",
+    "gn:country_code":"KH",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":11374152,
+    "gn:latitude":13.26298,
+    "gn:longitude":103.09037,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Bat Dambang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Bat Dambang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673015,
+        1108564871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11374152
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"cf6f6069dff6bbc8b9e4189929def256",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564871,
+            "locality_id":1327195127,
+            "region_id":85673015
+        }
+    ],
+    "wof:id":1327195127,
+    "wof:lastmodified":1537653990,
+    "wof:name":"Bat Dambang",
+    "wof:parent_id":1108564871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.09037,
+    13.26298,
+    103.09037,
+    13.26298
+],
+  "geometry": {"coordinates":[103.09036999999999,13.26298],"type":"Point"}
+}

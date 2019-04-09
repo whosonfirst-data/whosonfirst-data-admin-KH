@@ -1,0 +1,71 @@
+{
+  "id": 1259767655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.88071,12.54022,105.88071,12.54022",
+    "geom:latitude":12.54022,
+    "geom:longitude":105.88071,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Phumi Srok Roteh",
+    "gn:country_code":"KH",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1824532,
+    "gn:latitude":12.54022,
+    "gn:longitude":105.88071,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Sr\u014fk R\u00f4t\u00e9h",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum Srok Rotes",
+        "Phum\u012d Sr\u014fk R\u00f4t\u00e9h"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673081,
+        1108564781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1824532
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"7309db9291c8c49e6d6db8f873669981",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564781,
+            "locality_id":1259767655,
+            "region_id":85673081
+        }
+    ],
+    "wof:id":1259767655,
+    "wof:lastmodified":1537653465,
+    "wof:name":"Phumi Srok Roteh",
+    "wof:parent_id":1108564781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.88071,
+    12.54022,
+    105.88071,
+    12.54022
+],
+  "geometry": {"coordinates":[105.88070999999999,12.54022],"type":"Point"}
+}

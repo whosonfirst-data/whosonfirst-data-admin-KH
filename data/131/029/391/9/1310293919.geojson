@@ -1,0 +1,73 @@
+{
+  "id": 1310293919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.06812,13.08978,107.06812,13.08978",
+    "geom:latitude":13.08978,
+    "geom:longitude":107.06812,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Kaoh Nhek",
+    "gn:country_code":"KH",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1831030,
+    "gn:latitude":13.08978,
+    "gn:longitude":107.06812,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ka\u00f4h Nh\u00eak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum\u012d Ka\u00f4h Nh\u00eak",
+        "Kohnieh",
+        "Kohnich",
+        "Ka\u00f4h Nh\u00eak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673085,
+        1108564699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1831030
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"27cd649a70c02c58222b5f33935bce6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564699,
+            "locality_id":1310293919,
+            "region_id":85673085
+        }
+    ],
+    "wof:id":1310293919,
+    "wof:lastmodified":1537653955,
+    "wof:name":"Kaoh Nhek",
+    "wof:parent_id":1108564699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.06812,
+    13.08978,
+    107.06812,
+    13.08978
+],
+  "geometry": {"coordinates":[107.06811999999999,13.08978],"type":"Point"}
+}

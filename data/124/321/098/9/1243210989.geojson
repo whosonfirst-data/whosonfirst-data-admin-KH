@@ -1,0 +1,71 @@
+{
+  "id": 1243210989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.86147,13.26594,102.86147,13.26594",
+    "geom:latitude":13.26594,
+    "geom:longitude":102.86147,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Phumi Sang Khou",
+    "gn:country_code":"KH",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825019,
+    "gn:latitude":13.26594,
+    "gn:longitude":102.86147,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d S\u00e2ng Kho\u016d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum Sang Kho",
+        "Phum\u012d S\u00e2ng Kho\u016d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673015,
+        1108564615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825019
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"066521fdfe3df25c80f4cb70870876cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564615,
+            "locality_id":1243210989,
+            "region_id":85673015
+        }
+    ],
+    "wof:id":1243210989,
+    "wof:lastmodified":1537653504,
+    "wof:name":"Phumi Sang Khou",
+    "wof:parent_id":1108564615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.86147,
+    13.26594,
+    102.86147,
+    13.26594
+],
+  "geometry": {"coordinates":[102.86147,13.26594],"type":"Point"}
+}

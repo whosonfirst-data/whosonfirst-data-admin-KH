@@ -1,0 +1,79 @@
+{
+  "id": 1310100007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.00417,12.59178,106.00417,12.59178",
+    "geom:latitude":12.59178,
+    "geom:longitude":106.00417,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"L'iet",
+    "gn:country_code":"KH",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1826976,
+    "gn:latitude":12.59178,
+    "gn:longitude":106.00417,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"L\u2019iet",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "L\u2019iet"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u179b\u17d2\u17a2\u17c0\u178f",
+        "Phum L\u00f4i\u0115t"
+    ],
+    "name:und_x_variant":[
+        "Loiet",
+        "Phum\u012d L\u00f4i\u0115t",
+        "Phum\u012d L\u2019i\u0115t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673081,
+        1108564781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1826976
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"6fd4c6e878cb6cb36376cb550f3b69f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564781,
+            "locality_id":1310100007,
+            "region_id":85673081
+        }
+    ],
+    "wof:id":1310100007,
+    "wof:lastmodified":1537653676,
+    "wof:name":"L'iet",
+    "wof:parent_id":1108564781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.00417,
+    12.59178,
+    106.00417,
+    12.59178
+],
+  "geometry": {"coordinates":[106.00417,12.59178],"type":"Point"}
+}

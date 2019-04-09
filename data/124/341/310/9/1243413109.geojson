@@ -1,0 +1,73 @@
+{
+  "id": 1243413109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.4408,10.48007,104.4408,10.48007",
+    "geom:latitude":10.48007,
+    "geom:longitude":104.4408,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Svay Tong",
+    "gn:country_code":"KH",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1824353,
+    "gn:latitude":10.48007,
+    "gn:longitude":104.4408,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Svay Tong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Svay Tong"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Svay T\u00f4ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673093,
+        1108564675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1824353
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"79b48c821fa92d9e2cbf97cbdd30326a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564675,
+            "locality_id":1243413109,
+            "region_id":85673093
+        }
+    ],
+    "wof:id":1243413109,
+    "wof:lastmodified":1537653450,
+    "wof:name":"Svay Tong",
+    "wof:parent_id":1108564675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.4408,
+    10.48007,
+    104.4408,
+    10.48007
+],
+  "geometry": {"coordinates":[104.4408,10.48007],"type":"Point"}
+}

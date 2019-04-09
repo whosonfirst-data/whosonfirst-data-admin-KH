@@ -1,0 +1,75 @@
+{
+  "id": 1259940589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.5725,12.86366,102.5725,12.86366",
+    "geom:latitude":12.86366,
+    "geom:longitude":102.5725,
+    "gn:admin1_code":"30",
+    "gn:asciiname":"Ou Peut",
+    "gn:country_code":"KH",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1941978,
+    "gn:latitude":12.86366,
+    "gn:longitude":102.5725,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Ou Peut",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "\u1797\u17bc\u1798\u17b7 \u17a2\u17bc\u1796\u17b9\u1784"
+    ],
+    "name:und_x_variant":[
+        "Phum O Poet",
+        "Phum\u012d O Poet",
+        "Ou Peut"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673037,
+        421170109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1941978
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"f9c544ce0e7fa7952bfd315231aed45e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421170109,
+            "locality_id":1259940589,
+            "region_id":85673037
+        }
+    ],
+    "wof:id":1259940589,
+    "wof:lastmodified":1537653966,
+    "wof:name":"Ou Peut",
+    "wof:parent_id":421170109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.5725,
+    12.86366,
+    102.5725,
+    12.86366
+],
+  "geometry": {"coordinates":[102.57250000000001,12.86366],"type":"Point"}
+}

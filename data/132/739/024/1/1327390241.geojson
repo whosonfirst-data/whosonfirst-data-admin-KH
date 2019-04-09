@@ -1,0 +1,74 @@
+{
+  "id": 1327390241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.92604,13.74761,106.92604,13.74761",
+    "geom:latitude":13.74761,
+    "geom:longitude":106.92604,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Char Ung Kao",
+    "gn:country_code":"KH",
+    "gn:dem":239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11518567,
+    "gn:latitude":13.74761,
+    "gn:longitude":106.92604,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Char Ung Kao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Char Ung Kao"
+    ],
+    "name:khm_x_variant":[
+        "Phum Cha \u016cng Kra\u00f4m",
+        "\u1797\u17bc\u1798\u17b7 \u1785\u17b6\u17a2\u17ca\u17bb\u1784\u1780\u17d2\u179a\u17c4\u1798"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673089,
+        1108564743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11518567
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"50937b9db43428d2983147f710823cd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564743,
+            "locality_id":1327390241,
+            "region_id":85673089
+        }
+    ],
+    "wof:id":1327390241,
+    "wof:lastmodified":1537654089,
+    "wof:name":"Char Ung Kao",
+    "wof:parent_id":1108564743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.92604,
+    13.74761,
+    106.92604,
+    13.74761
+],
+  "geometry": {"coordinates":[106.92604,13.74761],"type":"Point"}
+}

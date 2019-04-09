@@ -1,0 +1,71 @@
+{
+  "id": 1259690177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.43032,11.44502,104.43032,11.44502",
+    "geom:latitude":11.44502,
+    "geom:longitude":104.43032,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Phumi Tang Rognieng",
+    "gn:country_code":"KH",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1824153,
+    "gn:latitude":11.44502,
+    "gn:longitude":104.43032,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d T\u0103ng R\u00f4gni\u0115ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Roungeang",
+        "Phum\u012d T\u0103ng R\u00f4gni\u0115ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673053,
+        1108564819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1824153
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"4de5907a330fc489413613d39636c3c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564819,
+            "locality_id":1259690177,
+            "region_id":85673053
+        }
+    ],
+    "wof:id":1259690177,
+    "wof:lastmodified":1537653435,
+    "wof:name":"Phumi Tang Rognieng",
+    "wof:parent_id":1108564819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.43032,
+    11.44502,
+    104.43032,
+    11.44502
+],
+  "geometry": {"coordinates":[104.43031999999999,11.44502],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209518479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.16528,11.93776,105.16528,11.93776",
+    "geom:latitude":11.93776,
+    "geom:longitude":105.16528,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Phumi Thlok Chrou",
+    "gn:country_code":"KH",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1823920,
+    "gn:latitude":11.93776,
+    "gn:longitude":105.16528,
+    "gn:modification_date":"1993-12-30",
+    "gn:name":"Phum\u012d Thl\u014fk Chr\u014fu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1823920
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"cb610afa484de57348d095e376318458",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209518479
+        }
+    ],
+    "wof:id":1209518479,
+    "wof:lastmodified":1536284655,
+    "wof:name":"Phumi Thlok Chrou",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.16528,
+    11.93776,
+    105.16528,
+    11.93776
+],
+  "geometry": {"coordinates":[105.16528,11.93776],"type":"Point"}
+}

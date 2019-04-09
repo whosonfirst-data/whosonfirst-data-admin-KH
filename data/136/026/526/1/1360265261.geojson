@@ -1,0 +1,78 @@
+{
+  "id": 1360265261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.30177,12.5032,104.30177,12.5032",
+    "geom:latitude":12.5032,
+    "geom:longitude":104.30177,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"San Sar",
+    "gn:country_code":"KH",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1824997,
+    "gn:latitude":12.5032,
+    "gn:longitude":104.30177,
+    "gn:modification_date":"2017-07-05",
+    "gn:name":"San Sar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "San Sar"
+    ],
+    "name:khm_x_variant":[
+        "Phum S\u00e2ns\u00e2"
+    ],
+    "name:und_x_variant":[
+        "Pteas Non",
+        "Phum\u012d S\u00e2ns\u00e2",
+        "Phum\u012d S\u00e2ns\u00e2r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673023,
+        421203239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1824997
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"0b2e85a4a4f27d6fd700e4f9d1fb22a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421203239,
+            "locality_id":1360265261,
+            "region_id":85673023
+        }
+    ],
+    "wof:id":1360265261,
+    "wof:lastmodified":1537653502,
+    "wof:name":"San Sar",
+    "wof:parent_id":421203239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.30177,
+    12.5032,
+    104.30177,
+    12.5032
+],
+  "geometry": {"coordinates":[104.30177,12.5032],"type":"Point"}
+}

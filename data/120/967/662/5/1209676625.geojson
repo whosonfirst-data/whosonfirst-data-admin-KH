@@ -1,0 +1,64 @@
+{
+  "id": 1209676625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.83513,12.98709,102.83513,12.98709",
+    "geom:latitude":12.98709,
+    "geom:longitude":102.83513,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Ou Khmum",
+    "gn:country_code":"KH",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11329546,
+    "gn:latitude":12.98709,
+    "gn:longitude":102.83513,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Ou Khmum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Ou Khmum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11329546
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"7657218fa5f77abcdf60f94cd79b8ac2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209676625
+        }
+    ],
+    "wof:id":1209676625,
+    "wof:lastmodified":1537653969,
+    "wof:name":"Ou Khmum",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.83513,
+    12.98709,
+    102.83513,
+    12.98709
+],
+  "geometry": {"coordinates":[102.83513000000001,12.98709],"type":"Point"}
+}

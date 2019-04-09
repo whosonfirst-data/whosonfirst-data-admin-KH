@@ -1,0 +1,71 @@
+{
+  "id": 1226808083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.71543,10.78153,104.71543,10.78153",
+    "geom:latitude":10.78153,
+    "geom:longitude":104.71543,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Phumi Sangker Bangver",
+    "gn:country_code":"KH",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825028,
+    "gn:latitude":10.78153,
+    "gn:longitude":104.71543,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d S\u00e2ngk\u00ear B\u00e2ngv\u00ear",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum\u012d S\u00e2ngk\u00ea B\u00e2ngv\u00ea",
+        "Phum\u012d S\u00e2ngk\u00ear B\u00e2ngv\u00ear"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673093,
+        1108564581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825028
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"fb10d6f58bde37a3cfc84561ef4a2f4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564581,
+            "locality_id":1226808083,
+            "region_id":85673093
+        }
+    ],
+    "wof:id":1226808083,
+    "wof:lastmodified":1537653505,
+    "wof:name":"Phumi Sangker Bangver",
+    "wof:parent_id":1108564581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.71543,
+    10.78153,
+    104.71543,
+    10.78153
+],
+  "geometry": {"coordinates":[104.71543,10.78153],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1327401741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.27794,13.54548,103.27794,13.54548",
+    "geom:latitude":13.54548,
+    "geom:longitude":103.27794,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Phum Kouk Khtum",
+    "gn:country_code":"KH",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827398,
+    "gn:latitude":13.54548,
+    "gn:longitude":103.27794,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Phum Ko\u016dk Kht\u016dm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Ko\u016dk Kht\u016dm"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1782\u17c4\u1780\u1781\u17d2\u1791\u17c6"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Ko\u016dk Kht\u016dm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673011,
+        421183973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827398
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"fb88949afa99f2af6ffadca4980a8d68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421183973,
+            "locality_id":1327401741,
+            "region_id":85673011
+        }
+    ],
+    "wof:id":1327401741,
+    "wof:lastmodified":1537653714,
+    "wof:name":"Phum Kouk Khtum",
+    "wof:parent_id":421183973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.27794,
+    13.54548,
+    103.27794,
+    13.54548
+],
+  "geometry": {"coordinates":[103.27794,13.54548],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1326680943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.82438,10.82011,103.82438,10.82011",
+    "geom:latitude":10.82011,
+    "geom:longitude":103.82438,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Phum Taney",
+    "gn:country_code":"KH",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11532495,
+    "gn:latitude":10.82011,
+    "gn:longitude":103.82438,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Phum Taney",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Taney"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u178f\u17b6\u1793\u17c2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673101,
+        421188243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11532495
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"a0bc0ab630da4669103bf88706cc5968",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421188243,
+            "locality_id":1326680943,
+            "region_id":85673101
+        }
+    ],
+    "wof:id":1326680943,
+    "wof:lastmodified":1537654092,
+    "wof:name":"Phum Taney",
+    "wof:parent_id":421188243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.82438,
+    10.82011,
+    103.82438,
+    10.82011
+],
+  "geometry": {"coordinates":[103.82438,10.82011],"type":"Point"}
+}

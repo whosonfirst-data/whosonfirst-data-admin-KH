@@ -1,0 +1,72 @@
+{
+  "id": 1327233549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.85957,12.12369,104.85957,12.12369",
+    "geom:latitude":12.12369,
+    "geom:longitude":104.85957,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Phumi Prek Trab",
+    "gn:country_code":"KH",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825909,
+    "gn:latitude":12.12369,
+    "gn:longitude":104.85957,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Pr\u00eak Tr\u00e1b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kompong Trop",
+        "Phum\u012d Pr\u00eak Tr\u00e2p",
+        "Phum\u012d Pr\u00eak Tr\u00e1b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673047,
+        1108564645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825909
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"33d9be0294914ebf1be3f38ee2afa46d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564645,
+            "locality_id":1327233549,
+            "region_id":85673047
+        }
+    ],
+    "wof:id":1327233549,
+    "wof:lastmodified":1537653575,
+    "wof:name":"Phumi Prek Trab",
+    "wof:parent_id":1108564645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.85957,
+    12.12369,
+    104.85957,
+    12.12369
+],
+  "geometry": {"coordinates":[104.85957000000001,12.12369],"type":"Point"}
+}

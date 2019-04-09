@@ -1,0 +1,65 @@
+{
+  "id": 1209141635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.38672,11.74606,106.38672,11.74606",
+    "geom:latitude":11.74606,
+    "geom:longitude":106.38672,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Phumi Lvea",
+    "gn:country_code":"KH",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1826946,
+    "gn:latitude":11.74606,
+    "gn:longitude":106.38672,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Phum\u012d Lv\u00e9a",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum\u012d L\u00f4v\u00e9a",
+        "Phum\u012d Lv\u00e9a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1826946
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"1aed73c15fa53c2c116a7008ed6e8402",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209141635
+        }
+    ],
+    "wof:id":1209141635,
+    "wof:lastmodified":1537653673,
+    "wof:name":"Phumi Lvea",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.38672,
+    11.74606,
+    106.38672,
+    11.74606
+],
+  "geometry": {"coordinates":[106.38672,11.74606],"type":"Point"}
+}

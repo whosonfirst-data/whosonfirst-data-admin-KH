@@ -1,0 +1,73 @@
+{
+  "id": 1327410971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.73082,12.59035,103.73082,12.59035",
+    "geom:latitude":12.59035,
+    "geom:longitude":103.73082,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Khnar Totueng",
+    "gn:country_code":"KH",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827663,
+    "gn:latitude":12.59035,
+    "gn:longitude":103.73082,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Khnar Totueng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Khnar Totueng"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Khnar T\u00f4t\u0153\u0306ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673023,
+        1108564595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827663
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"b1205d35120ba54cbd296f33d26286b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564595,
+            "locality_id":1327410971,
+            "region_id":85673023
+        }
+    ],
+    "wof:id":1327410971,
+    "wof:lastmodified":1537653739,
+    "wof:name":"Khnar Totueng",
+    "wof:parent_id":1108564595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.73082,
+    12.59035,
+    103.73082,
+    12.59035
+],
+  "geometry": {"coordinates":[103.73081999999999,12.59035],"type":"Point"}
+}

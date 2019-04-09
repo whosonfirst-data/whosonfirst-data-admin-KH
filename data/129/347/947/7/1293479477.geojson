@@ -1,0 +1,77 @@
+{
+  "id": 1293479477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.46952,12.94065,106.46952,12.94065",
+    "geom:latitude":12.94065,
+    "geom:longitude":106.46952,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Srae Tnaot",
+    "gn:country_code":"KH",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1824552,
+    "gn:latitude":12.94065,
+    "gn:longitude":106.46952,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Srae Tnaot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Sr\u00ea Tna\u00f4t"
+    ],
+    "name:khm_x_variant":[
+        "Srae Tnaot",
+        "\u1797\u17bc\u1798\u17b7 \u179f\u17d2\u179a\u17c2\u178f\u17d2\u1793\u17c4\u178f"
+    ],
+    "name:und_x_variant":[
+        "Thmot"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673081,
+        421188051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1824552
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"6f841447ec6efd38c66ee15293442144",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421188051,
+            "locality_id":1293479477,
+            "region_id":85673081
+        }
+    ],
+    "wof:id":1293479477,
+    "wof:lastmodified":1537653466,
+    "wof:name":"Srae Tnaot",
+    "wof:parent_id":421188051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.46952,
+    12.94065,
+    106.46952,
+    12.94065
+],
+  "geometry": {"coordinates":[106.46952,12.94065],"type":"Point"}
+}

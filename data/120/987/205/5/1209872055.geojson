@@ -1,0 +1,73 @@
+{
+  "id": 1209872055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.71066,13.3495,103.71066,13.3495",
+    "geom:latitude":13.3495,
+    "geom:longitude":103.71066,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Phum Kouk Ta Sok",
+    "gn:country_code":"KH",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11565867,
+    "gn:latitude":13.3495,
+    "gn:longitude":103.71066,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Phum Ko\u016dk Ta S\u014fk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Ko\u016dk Ta S\u014fk"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1782\u17c4\u1780\u178f\u17b6\u179f\u17bb\u1780"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673029,
+        421185505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11565867
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"078a94ae83774380d100455edc55e08c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421185505,
+            "locality_id":1209872055,
+            "region_id":85673029
+        }
+    ],
+    "wof:id":1209872055,
+    "wof:lastmodified":1537654112,
+    "wof:name":"Phum Kouk Ta Sok",
+    "wof:parent_id":421185505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.71066,
+    13.3495,
+    103.71066,
+    13.3495
+],
+  "geometry": {"coordinates":[103.71066,13.3495],"type":"Point"}
+}

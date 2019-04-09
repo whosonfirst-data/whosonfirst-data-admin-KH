@@ -1,0 +1,71 @@
+{
+  "id": 1309786093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.63858,12.55271,103.63858,12.55271",
+    "geom:latitude":12.55271,
+    "geom:longitude":103.63858,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Phumi Dangkao Meas",
+    "gn:country_code":"KH",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828584,
+    "gn:latitude":12.55271,
+    "gn:longitude":103.63858,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d D\u00e2ngka\u00f4 M\u00e9as",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dang Ko Meas",
+        "Phum\u012d D\u00e2ngka\u00f4 M\u00e9as"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673023,
+        1108564595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828584
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"cec6fd458280186c8f3fad2c1c2ea17c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564595,
+            "locality_id":1309786093,
+            "region_id":85673023
+        }
+    ],
+    "wof:id":1309786093,
+    "wof:lastmodified":1537653817,
+    "wof:name":"Phumi Dangkao Meas",
+    "wof:parent_id":1108564595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.63858,
+    12.55271,
+    103.63858,
+    12.55271
+],
+  "geometry": {"coordinates":[103.63858,12.55271],"type":"Point"}
+}

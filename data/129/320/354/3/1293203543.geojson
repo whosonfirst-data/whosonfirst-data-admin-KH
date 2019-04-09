@@ -1,0 +1,71 @@
+{
+  "id": 1293203543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.18947,12.07822,105.18947,12.07822",
+    "geom:latitude":12.07822,
+    "geom:longitude":105.18947,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Phumi Sangker",
+    "gn:country_code":"KH",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825022,
+    "gn:latitude":12.07822,
+    "gn:longitude":105.18947,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Phum\u012d S\u00e2ngk\u00ear",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum Sang Ke",
+        "Phum\u012d S\u00e2ngk\u00ear"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673041,
+        1108564783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825022
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"40acda068e8a7227d98b7a3f87db7c5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564783,
+            "locality_id":1293203543,
+            "region_id":85673041
+        }
+    ],
+    "wof:id":1293203543,
+    "wof:lastmodified":1537653505,
+    "wof:name":"Phumi Sangker",
+    "wof:parent_id":1108564783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.18947,
+    12.07822,
+    105.18947,
+    12.07822
+],
+  "geometry": {"coordinates":[105.18947,12.07822],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1327455379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.70989,11.56667,104.70989,11.56667",
+    "geom:latitude":11.56667,
+    "geom:longitude":104.70989,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Samraong Leu",
+    "gn:country_code":"KH",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11475410,
+    "gn:latitude":11.56667,
+    "gn:longitude":104.70989,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Samraong Leu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Samraong Leu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673051,
+        1108564577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11475410
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"31577f40246635ac0159a56338c40cc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564577,
+            "locality_id":1327455379,
+            "region_id":85673051
+        }
+    ],
+    "wof:id":1327455379,
+    "wof:lastmodified":1537654030,
+    "wof:name":"Samraong Leu",
+    "wof:parent_id":1108564577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.70989,
+    11.56667,
+    104.70989,
+    11.56667
+],
+  "geometry": {"coordinates":[104.70989,11.56667],"type":"Point"}
+}

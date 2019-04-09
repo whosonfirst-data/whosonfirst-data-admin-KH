@@ -1,0 +1,78 @@
+{
+  "id": 1293547363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.48789,13.8182,103.48789,13.8182",
+    "geom:latitude":13.8182,
+    "geom:longitude":103.48789,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Tram Sasar",
+    "gn:country_code":"KH",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1823501,
+    "gn:latitude":13.8182,
+    "gn:longitude":103.48789,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Tram Sasar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Tram Sasar"
+    ],
+    "name:khm_x_variant":[
+        "Phum Tr\u0103m Ta Sa",
+        "\u1797\u17bc\u1798\u17b7 \u178f\u17d2\u179a\u17b6\u17c6\u178f\u17b6\u179f\u17b6"
+    ],
+    "name:und_x_variant":[
+        "Tram Tasa",
+        "Phum\u012d Tr\u00e2m Ta Sa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673029,
+        1108564847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1823501
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"ca97b538c16320e437dc945b72681fa6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564847,
+            "locality_id":1293547363,
+            "region_id":85673029
+        }
+    ],
+    "wof:id":1293547363,
+    "wof:lastmodified":1537653382,
+    "wof:name":"Tram Sasar",
+    "wof:parent_id":1108564847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.48789,
+    13.8182,
+    103.48789,
+    13.8182
+],
+  "geometry": {"coordinates":[103.48788999999999,13.8182],"type":"Point"}
+}

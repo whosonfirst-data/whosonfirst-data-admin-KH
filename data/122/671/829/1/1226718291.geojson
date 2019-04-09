@@ -1,0 +1,81 @@
+{
+  "id": 1226718291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.76597,13.66505,103.76597,13.66505",
+    "geom:latitude":13.66505,
+    "geom:longitude":103.76597,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Antit Sokh",
+    "gn:country_code":"KH",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829746,
+    "gn:latitude":13.66505,
+    "gn:longitude":103.76597,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Antit Sokh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Antit Sokh"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u17a2\u178e\u17d2\u1791\u17b9\u178f\u179f\u17bb\u1781",
+        "Phum Ant\u0153\u0306t S\u014fk"
+    ],
+    "name:und_x_variant":[
+        "Autit Sok",
+        "Phum\u012d Ant\u0153\u0306t Sok",
+        "Anti Sok",
+        "Antit Sok",
+        "Phum\u012d \u00c2nt\u0153\u0306t S\u014fkh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673029,
+        1108564583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829746
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"2a524eb0cd1f374cd5d4d1e4d2e0eea7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564583,
+            "locality_id":1226718291,
+            "region_id":85673029
+        }
+    ],
+    "wof:id":1226718291,
+    "wof:lastmodified":1537653908,
+    "wof:name":"Antit Sokh",
+    "wof:parent_id":1108564583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.76597,
+    13.66505,
+    103.76597,
+    13.66505
+],
+  "geometry": {"coordinates":[103.76597,13.66505],"type":"Point"}
+}

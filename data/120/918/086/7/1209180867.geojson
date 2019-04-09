@@ -1,0 +1,64 @@
+{
+  "id": 1209180867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.46067,14.26183,103.46067,14.26183",
+    "geom:latitude":14.26183,
+    "geom:longitude":103.46067,
+    "gn:admin1_code":"27",
+    "gn:asciiname":"Sambuor Meas",
+    "gn:country_code":"KH",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11424672,
+    "gn:latitude":14.26183,
+    "gn:longitude":103.46067,
+    "gn:modification_date":"2017-01-07",
+    "gn:name":"Sambuor Meas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Sambuor Meas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11424672
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"02292d37d16c69bf3ec6785d91b6ffd9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209180867
+        }
+    ],
+    "wof:id":1209180867,
+    "wof:lastmodified":1537654003,
+    "wof:name":"Sambuor Meas",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.46067,
+    14.26183,
+    103.46067,
+    14.26183
+],
+  "geometry": {"coordinates":[103.46066999999999,14.26183],"type":"Point"}
+}

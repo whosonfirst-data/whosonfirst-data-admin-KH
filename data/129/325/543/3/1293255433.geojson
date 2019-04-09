@@ -1,0 +1,67 @@
+{
+  "id": 1293255433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.81848,11.08186,105.81848,11.08186",
+    "geom:latitude":11.08186,
+    "geom:longitude":105.81848,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Phumi Talean",
+    "gn:country_code":"KH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1824241,
+    "gn:latitude":11.08186,
+    "gn:longitude":105.81848,
+    "gn:modification_date":"1993-12-30",
+    "gn:name":"Phum\u012d Tal\u00e9an",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673105,
+        1108564863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1824241
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"38218ef9320b81862d57779c20e66a20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564863,
+            "locality_id":1293255433,
+            "region_id":85673105
+        }
+    ],
+    "wof:id":1293255433,
+    "wof:lastmodified":1536622625,
+    "wof:name":"Phumi Talean",
+    "wof:parent_id":1108564863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.81848,
+    11.08186,
+    105.81848,
+    11.08186
+],
+  "geometry": {"coordinates":[105.81847999999999,11.08186],"type":"Point"}
+}

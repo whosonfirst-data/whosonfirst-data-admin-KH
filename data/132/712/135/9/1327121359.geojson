@@ -1,0 +1,78 @@
+{
+  "id": 1327121359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.9458,12.60172,103.9458,12.60172",
+    "geom:latitude":12.60172,
+    "geom:longitude":103.9458,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Phum Ta Snak",
+    "gn:country_code":"KH",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1824032,
+    "gn:latitude":12.60172,
+    "gn:longitude":103.9458,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Phum Ta Snak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Ta Snak"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u178f\u17b6\u179f\u17d2\u1793\u1780"
+    ],
+    "name:und_x_variant":[
+        "Tasnauk",
+        "Phum\u012d Ta Snak",
+        "Phum\u012d Ta Sn\u00f4k"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673023,
+        1108564687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1824032
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"d46b748eb810b196f921b0585aac6411",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564687,
+            "locality_id":1327121359,
+            "region_id":85673023
+        }
+    ],
+    "wof:id":1327121359,
+    "wof:lastmodified":1537653425,
+    "wof:name":"Phum Ta Snak",
+    "wof:parent_id":1108564687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.9458,
+    12.60172,
+    103.9458,
+    12.60172
+],
+  "geometry": {"coordinates":[103.94580000000001,12.60172],"type":"Point"}
+}

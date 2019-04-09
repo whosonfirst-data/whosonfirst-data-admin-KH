@@ -1,0 +1,72 @@
+{
+  "id": 1276368839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.78346,13.11411,104.78346,13.11411",
+    "geom:latitude":13.11411,
+    "geom:longitude":104.78346,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Phumi Skor Kdei",
+    "gn:country_code":"KH",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1824876,
+    "gn:latitude":13.11411,
+    "gn:longitude":104.78346,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Sk\u00f4r Kdei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum Skorkdey",
+        "Phum Skordey",
+        "Phum\u012d Sk\u00f4r Kdei"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673057,
+        1108564773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1824876
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"57ab2ca998619b4f75b4cefb883a5f99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564773,
+            "locality_id":1276368839,
+            "region_id":85673057
+        }
+    ],
+    "wof:id":1276368839,
+    "wof:lastmodified":1537653492,
+    "wof:name":"Phumi Skor Kdei",
+    "wof:parent_id":1108564773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.78346,
+    13.11411,
+    104.78346,
+    13.11411
+],
+  "geometry": {"coordinates":[104.78346000000001,13.11411],"type":"Point"}
+}

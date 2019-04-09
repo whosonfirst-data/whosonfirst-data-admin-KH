@@ -1,0 +1,78 @@
+{
+  "id": 1243025597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.0944,13.4991,103.0944,13.4991",
+    "geom:latitude":13.4991,
+    "geom:longitude":103.0944,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Kouk Chrab",
+    "gn:country_code":"KH",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827420,
+    "gn:latitude":13.4991,
+    "gn:longitude":103.0944,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Kouk Chrab",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Kouk Chrab"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1782\u17c4\u1780\u1785\u17d2\u179a\u17b6\u1794",
+        "Phum Ko\u016dk Chrap"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Ko\u016dk Chrap",
+        "Phum\u012d Ko\u016dk Chr\u0103b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673011,
+        1108564737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827420
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"95cd35cbdc642902cc5e6a6e94bda060",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564737,
+            "locality_id":1243025597,
+            "region_id":85673011
+        }
+    ],
+    "wof:id":1243025597,
+    "wof:lastmodified":1537653717,
+    "wof:name":"Kouk Chrab",
+    "wof:parent_id":1108564737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.0944,
+    13.4991,
+    103.0944,
+    13.4991
+],
+  "geometry": {"coordinates":[103.09439999999999,13.4991],"type":"Point"}
+}

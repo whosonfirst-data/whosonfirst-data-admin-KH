@@ -1,0 +1,70 @@
+{
+  "id": 1276927023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.79753,13.05223,102.79753,13.05223",
+    "geom:latitude":13.05223,
+    "geom:longitude":102.79753,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Trapeang Kbalsvar",
+    "gn:country_code":"KH",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11417140,
+    "gn:latitude":13.05223,
+    "gn:longitude":102.79753,
+    "gn:modification_date":"2017-01-07",
+    "gn:name":"Trapeang Kbalsvar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Trapeang Kbalsvar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673015,
+        1108564615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11417140
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"23f32d6e2d1e4803a9985b3b593e36f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564615,
+            "locality_id":1276927023,
+            "region_id":85673015
+        }
+    ],
+    "wof:id":1276927023,
+    "wof:lastmodified":1537653999,
+    "wof:name":"Trapeang Kbalsvar",
+    "wof:parent_id":1108564615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.79753,
+    13.05223,
+    102.79753,
+    13.05223
+],
+  "geometry": {"coordinates":[102.79752999999999,13.05223],"type":"Point"}
+}

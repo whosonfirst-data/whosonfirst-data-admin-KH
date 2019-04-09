@@ -1,0 +1,77 @@
+{
+  "id": 1209884433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.53082,13.57864,103.53082,13.57864",
+    "geom:latitude":13.57864,
+    "geom:longitude":103.53082,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Phum Prey Keap",
+    "gn:country_code":"KH",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825817,
+    "gn:latitude":13.57864,
+    "gn:longitude":103.53082,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Phum Prey K\u00e9ap",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Prey K\u00e9ap"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1796\u17d2\u179a\u17c3\u1782\u17b6\u1794"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Prey K\u00e9ap",
+        "Phum\u012d Prey K\u00e9ab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673029,
+        421194643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825817
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"6ec4d3691a7d9be9a6f6f426aa856b0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421194643,
+            "locality_id":1209884433,
+            "region_id":85673029
+        }
+    ],
+    "wof:id":1209884433,
+    "wof:lastmodified":1537653568,
+    "wof:name":"Phum Prey Keap",
+    "wof:parent_id":421194643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.53082,
+    13.57864,
+    103.53082,
+    13.57864
+],
+  "geometry": {"coordinates":[103.53082000000001,13.57864],"type":"Point"}
+}

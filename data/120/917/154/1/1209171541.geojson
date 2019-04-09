@@ -1,0 +1,72 @@
+{
+  "id": 1209171541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.06613,13.50412,103.06613,13.50412",
+    "geom:latitude":13.50412,
+    "geom:longitude":103.06613,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Srah Reang",
+    "gn:country_code":"KH",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1824725,
+    "gn:latitude":13.50412,
+    "gn:longitude":103.06613,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Srah Reang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Srah Reang"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u179f\u17d2\u179a\u17c7\u179a\u17b6\u1784"
+    ],
+    "name:und_x_variant":[
+        "Phum Sras R\u00e9ang",
+        "Phum\u012d Sras R\u00e9ang",
+        "Phum\u012d Sr\u0103h R\u00e9ang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1824725
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"1c97e3da4de54e4b881390fc2d6fda6c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209171541
+        }
+    ],
+    "wof:id":1209171541,
+    "wof:lastmodified":1537653480,
+    "wof:name":"Srah Reang",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.06613,
+    13.50412,
+    103.06613,
+    13.50412
+],
+  "geometry": {"coordinates":[103.06613,13.50412],"type":"Point"}
+}

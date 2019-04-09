@@ -1,0 +1,71 @@
+{
+  "id": 1327357797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.68097,11.25591,104.68097,11.25591",
+    "geom:latitude":11.25591,
+    "geom:longitude":104.68097,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Phumi Krang Sbov",
+    "gn:country_code":"KH",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827180,
+    "gn:latitude":11.25591,
+    "gn:longitude":104.68097,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Kr\u0103ng Sbov",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum Krang Sbou",
+        "Phum\u012d Kr\u0103ng Sbov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673053,
+        1108564715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827180
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"7ed8683e7b6e93f48e34c0b015b46e07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564715,
+            "locality_id":1327357797,
+            "region_id":85673053
+        }
+    ],
+    "wof:id":1327357797,
+    "wof:lastmodified":1537653693,
+    "wof:name":"Phumi Krang Sbov",
+    "wof:parent_id":1108564715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.68097,
+    11.25591,
+    104.68097,
+    11.25591
+],
+  "geometry": {"coordinates":[104.68097,11.25591],"type":"Point"}
+}

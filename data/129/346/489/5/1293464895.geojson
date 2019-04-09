@@ -1,0 +1,72 @@
+{
+  "id": 1293464895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.73888,11.28703,104.73888,11.28703",
+    "geom:latitude":11.28703,
+    "geom:longitude":104.73888,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Vott Phnum Toch",
+    "gn:country_code":"KH",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1821361,
+    "gn:latitude":11.28703,
+    "gn:longitude":104.73888,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"V\u00f4tt Phnum Toch",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vat Phom Toch",
+        "Vatt Phn\u016dm Toch",
+        "V\u00f4tt Phnum Toch"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673107,
+        1108564613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1821361
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"acbfe77e79322ba98719ff11d60fdf92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564613,
+            "locality_id":1293464895,
+            "region_id":85673107
+        }
+    ],
+    "wof:id":1293464895,
+    "wof:lastmodified":1537653319,
+    "wof:name":"Vott Phnum Toch",
+    "wof:parent_id":1108564613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.73888,
+    11.28703,
+    104.73888,
+    11.28703
+],
+  "geometry": {"coordinates":[104.73887999999999,11.28703],"type":"Point"}
+}

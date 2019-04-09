@@ -1,0 +1,71 @@
+{
+  "id": 1193149785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.27406,11.84143,105.27406,11.84143",
+    "geom:latitude":11.84143,
+    "geom:longitude":105.27406,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Phumi Kampong Pnou",
+    "gn:country_code":"KH",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828253,
+    "gn:latitude":11.84143,
+    "gn:longitude":105.27406,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d K\u00e2mp\u00f3ng Pn\u014fu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kompong Phnou",
+        "Phum\u012d K\u00e2mp\u00f3ng Pn\u014fu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673067,
+        1108564837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828253
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"98b04ae1f06dfdc0c2b384c42c754c0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564837,
+            "locality_id":1193149785,
+            "region_id":85673067
+        }
+    ],
+    "wof:id":1193149785,
+    "wof:lastmodified":1537653789,
+    "wof:name":"Phumi Kampong Pnou",
+    "wof:parent_id":1108564837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.27406,
+    11.84143,
+    105.27406,
+    11.84143
+],
+  "geometry": {"coordinates":[105.27406000000001,11.84143],"type":"Point"}
+}

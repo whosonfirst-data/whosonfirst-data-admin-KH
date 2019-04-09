@@ -1,0 +1,67 @@
+{
+  "id": 1293373689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.33536,12.34144,107.33536,12.34144",
+    "geom:latitude":12.34144,
+    "geom:longitude":107.33536,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Phumi Pu Rach Leu",
+    "gn:country_code":"KH",
+    "gn:dem":865,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825514,
+    "gn:latitude":12.34144,
+    "gn:longitude":107.33536,
+    "gn:modification_date":"1993-12-30",
+    "gn:name":"Phum\u012d Pu R\u0103ch Leu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673085,
+        1108564745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825514
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"c482e5c48b810cdfaa63efded8ebf9bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564745,
+            "locality_id":1293373689,
+            "region_id":85673085
+        }
+    ],
+    "wof:id":1293373689,
+    "wof:lastmodified":1536951327,
+    "wof:name":"Phumi Pu Rach Leu",
+    "wof:parent_id":1108564745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.33536,
+    12.34144,
+    107.33536,
+    12.34144
+],
+  "geometry": {"coordinates":[107.33535999999999,12.34144],"type":"Point"}
+}

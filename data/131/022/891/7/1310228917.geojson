@@ -1,0 +1,67 @@
+{
+  "id": 1310228917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.35641,11.36501,104.35641,11.36501",
+    "geom:latitude":11.36501,
+    "geom:longitude":104.35641,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Phumi Prey Preah Srok",
+    "gn:country_code":"KH",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825719,
+    "gn:latitude":11.36501,
+    "gn:longitude":104.35641,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Phum\u012d Prey Pre\u0103h Sr\u014fk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673053,
+        1108564765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825719
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"1dad6e64276327d78f82f486def0376a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564765,
+            "locality_id":1310228917,
+            "region_id":85673053
+        }
+    ],
+    "wof:id":1310228917,
+    "wof:lastmodified":1536817661,
+    "wof:name":"Phumi Prey Preah Srok",
+    "wof:parent_id":1108564765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.35641,
+    11.36501,
+    104.35641,
+    11.36501
+],
+  "geometry": {"coordinates":[104.35641,11.36501],"type":"Point"}
+}

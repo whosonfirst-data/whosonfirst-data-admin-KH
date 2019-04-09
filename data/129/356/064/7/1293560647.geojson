@@ -1,0 +1,73 @@
+{
+  "id": 1293560647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.56698,14.07259,106.56698,14.07259",
+    "geom:latitude":14.07259,
+    "geom:longitude":106.56698,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Sramar",
+    "gn:country_code":"KH",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1822112,
+    "gn:latitude":14.07259,
+    "gn:longitude":106.56698,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Sr\u00e2m\u00e2r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Sr\u00e2m\u00e2r"
+    ],
+    "name:khm_x_variant":[
+        "\u179f\u17d2\u179a\u1798\u17c9\u179a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673075,
+        1108564835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1822112
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"e77ecdea12fe9d14cb9e47d36dec3693",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564835,
+            "locality_id":1293560647,
+            "region_id":85673075
+        }
+    ],
+    "wof:id":1293560647,
+    "wof:lastmodified":1537653329,
+    "wof:name":"Sramar",
+    "wof:parent_id":1108564835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.56698,
+    14.07259,
+    106.56698,
+    14.07259
+],
+  "geometry": {"coordinates":[106.56698,14.07259],"type":"Point"}
+}

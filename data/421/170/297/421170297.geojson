@@ -1,0 +1,75 @@
+{
+  "id": 421170297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.1794655,10.610969,104.1794655,10.610969",
+    "geom:latitude":10.610969,
+    "geom:longitude":104.179466,
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Compong Bai",
+    "qs:name_adm0":"Cambodia",
+    "qs:name_adm1":"Kampot",
+    "qs:photos":1990,
+    "qs:photos_1k":403,
+    "qs:photos_9k":9,
+    "qs:photos_9r":9,
+    "qs:photos_all":1990,
+    "qs:photos_sr":15,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":236184,
+    "qs:woe_adm0":23424776,
+    "qs:woe_id":1028474,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673093,
+        1108564681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1028474,
+        "qs:id":236184
+    },
+    "wof:country":"KH",
+    "wof:created":1459008847,
+    "wof:geomhash":"2073851f2dc9e4aadf47cc0e0e09f217",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564681,
+            "locality_id":421170297,
+            "region_id":85673093
+        }
+    ],
+    "wof:id":421170297,
+    "wof:lastmodified":1499930130,
+    "wof:name":"Compong Bai",
+    "wof:parent_id":1108564681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.1794655,
+    10.610969,
+    104.1794655,
+    10.610969
+],
+  "geometry": {"coordinates":[104.17946550000001,10.610969],"type":"Point"}
+}

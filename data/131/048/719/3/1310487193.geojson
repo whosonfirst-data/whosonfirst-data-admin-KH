@@ -1,0 +1,71 @@
+{
+  "id": 1310487193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.03569,11.54665,103.03569,11.54665",
+    "geom:latitude":11.54665,
+    "geom:longitude":103.03569,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Smach Mean Chey",
+    "gn:country_code":"KH",
+    "gn:dem":5,
+    "gn:elevation":"5.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":8740221,
+    "gn:latitude":11.54665,
+    "gn:longitude":103.03569,
+    "gn:modification_date":"2014-04-08",
+    "gn:name":"Smach Mean Chey",
+    "gn:population":29329,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673019,
+        1108564705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8740221
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"028be4cc718d69af570f30fdb229a5be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564705,
+            "locality_id":1310487193,
+            "region_id":85673019
+        }
+    ],
+    "wof:id":1310487193,
+    "wof:lastmodified":1536943878,
+    "wof:name":"Smach Mean Chey",
+    "wof:parent_id":1108564705,
+    "wof:placetype":"locality",
+    "wof:population":29329,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.03569,
+    11.54665,
+    103.03569,
+    11.54665
+],
+  "geometry": {"coordinates":[103.03569,11.54665],"type":"Point"}
+}

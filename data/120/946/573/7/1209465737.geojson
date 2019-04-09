@@ -1,0 +1,73 @@
+{
+  "id": 1209465737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.30727,12.65689,103.30727,12.65689",
+    "geom:latitude":12.65689,
+    "geom:longitude":103.30727,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Phum Anlung Trach",
+    "gn:country_code":"KH",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829777,
+    "gn:latitude":12.65689,
+    "gn:longitude":103.30727,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Phum \u00c2nl\u016dng Trach",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum \u00c2nl\u016dng Trach"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u17a2\u1793\u17d2\u179b\u1784\u17cb\u178f\u17d2\u179a\u17b6\u1785"
+    ],
+    "name:und_x_variant":[
+        "Anlung Trach",
+        "Phum\u012d \u00c2nl\u016dng Trach",
+        "Anlong Trach",
+        "Phum\u012d \u00c2nl\u00f3ng Trach"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829777
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"7abc561291f5d75c634d0a1f103d1fb2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209465737
+        }
+    ],
+    "wof:id":1209465737,
+    "wof:lastmodified":1537653911,
+    "wof:name":"Phum Anlung Trach",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.30727,
+    12.65689,
+    103.30727,
+    12.65689
+],
+  "geometry": {"coordinates":[103.30727,12.65689],"type":"Point"}
+}

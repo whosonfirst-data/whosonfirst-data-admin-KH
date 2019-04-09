@@ -1,0 +1,75 @@
+{
+  "id": 1309963823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.51935,13.85972,103.51935,13.85972",
+    "geom:latitude":13.85972,
+    "geom:longitude":103.51935,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Chrouy Neang Nguon",
+    "gn:country_code":"KH",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828745,
+    "gn:latitude":13.85972,
+    "gn:longitude":103.51935,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Chrouy Neang Nguon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Chrouy Neang Nguon"
+    ],
+    "name:und_x_variant":[
+        "Cheruy Neang Ngoun",
+        "Cherey Nean Ngoun",
+        "Phum\u012d Chro\u016dy N\u00e9ang Nu\u014fn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673029,
+        1108564847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828745
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"955abf473dd3d437b6cd22faf215947c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564847,
+            "locality_id":1309963823,
+            "region_id":85673029
+        }
+    ],
+    "wof:id":1309963823,
+    "wof:lastmodified":1537653830,
+    "wof:name":"Chrouy Neang Nguon",
+    "wof:parent_id":1108564847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.51935,
+    13.85972,
+    103.51935,
+    13.85972
+],
+  "geometry": {"coordinates":[103.51935,13.85972],"type":"Point"}
+}

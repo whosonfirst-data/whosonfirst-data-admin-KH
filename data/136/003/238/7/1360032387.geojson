@@ -1,0 +1,77 @@
+{
+  "id": 1360032387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.23705,13.16486,103.23705,13.16486",
+    "geom:latitude":13.16486,
+    "geom:longitude":103.23705,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Preaek Norin",
+    "gn:country_code":"KH",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825992,
+    "gn:latitude":13.16486,
+    "gn:longitude":103.23705,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Preaek Norin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Preaek Norin"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1796\u17d2\u179a\u17c2\u1780\u1793\u179a\u17b7\u1793",
+        "Phum Pr\u00eak N\u00f4r\u012dn"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Pr\u00eak N\u00f4r\u012dn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673015,
+        421172391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825992
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"9c0007285dc9496a2f8c51d635ad0670",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421172391,
+            "locality_id":1360032387,
+            "region_id":85673015
+        }
+    ],
+    "wof:id":1360032387,
+    "wof:lastmodified":1537653583,
+    "wof:name":"Preaek Norin",
+    "wof:parent_id":421172391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.23705,
+    13.16486,
+    103.23705,
+    13.16486
+],
+  "geometry": {"coordinates":[103.23705,13.16486],"type":"Point"}
+}

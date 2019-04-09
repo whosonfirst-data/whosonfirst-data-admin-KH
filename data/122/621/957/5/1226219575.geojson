@@ -1,0 +1,77 @@
+{
+  "id": 1226219575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.88634,12.57568,103.88634,12.57568",
+    "geom:latitude":12.57568,
+    "geom:longitude":103.88634,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Phum Dang Lang",
+    "gn:country_code":"KH",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828571,
+    "gn:latitude":12.57568,
+    "gn:longitude":103.88634,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Phum D\u00e2ng L\u00e2ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum D\u00e2ng L\u00e2ng"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u178a\u1784\u17a1\u1784"
+    ],
+    "name:und_x_variant":[
+        "D\u00e2ng L\u00e2ng",
+        "Phum\u012d D\u00e2ng L\u00e2ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673023,
+        1108564687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828571
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"752d648a9ccf7a28fff722bf8407c612",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564687,
+            "locality_id":1226219575,
+            "region_id":85673023
+        }
+    ],
+    "wof:id":1226219575,
+    "wof:lastmodified":1537653816,
+    "wof:name":"Phum Dang Lang",
+    "wof:parent_id":1108564687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.88634,
+    12.57568,
+    103.88634,
+    12.57568
+],
+  "geometry": {"coordinates":[103.88634,12.57568],"type":"Point"}
+}

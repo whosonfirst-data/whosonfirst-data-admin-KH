@@ -1,0 +1,64 @@
+{
+  "id": 1209381505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.19339,14.28415,104.19339,14.28415",
+    "geom:latitude":14.28415,
+    "geom:longitude":104.19339,
+    "gn:admin1_code":"27",
+    "gn:asciiname":"Ou Beng",
+    "gn:country_code":"KH",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11459442,
+    "gn:latitude":14.28415,
+    "gn:longitude":104.19339,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Ou Beng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Ou Beng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11459442
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"d9df0871e6d60ad47aa336e1c57672c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209381505
+        }
+    ],
+    "wof:id":1209381505,
+    "wof:lastmodified":1537654019,
+    "wof:name":"Ou Beng",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.19339,
+    14.28415,
+    104.19339,
+    14.28415
+],
+  "geometry": {"coordinates":[104.19338999999999,14.28415],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209566039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.24264,13.06625,103.24264,13.06625",
+    "geom:latitude":13.06625,
+    "geom:longitude":103.24264,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Phum Sdang Tong",
+    "gn:country_code":"KH",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11369382,
+    "gn:latitude":13.06625,
+    "gn:longitude":103.24264,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Phum Sd\u0103ng T\u00f4ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Sd\u0103ng T\u00f4ng"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u179f\u17d2\u1780\u17b6\u17c6\u1784\u1791\u1784"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11369382
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"70048ddb08e6b60e0256f356a646aaac",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209566039
+        }
+    ],
+    "wof:id":1209566039,
+    "wof:lastmodified":1537653984,
+    "wof:name":"Phum Sdang Tong",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.24264,
+    13.06625,
+    103.24264,
+    13.06625
+],
+  "geometry": {"coordinates":[103.24263999999999,13.06625],"type":"Point"}
+}

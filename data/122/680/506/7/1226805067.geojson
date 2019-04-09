@@ -1,0 +1,77 @@
+{
+  "id": 1226805067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.73062,13.43089,103.73062,13.43089",
+    "geom:latitude":13.43089,
+    "geom:longitude":103.73062,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Phum Ta Tok Krau",
+    "gn:country_code":"KH",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1824015,
+    "gn:latitude":13.43089,
+    "gn:longitude":103.73062,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Phum Ta T\u00f4k Krau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Ta T\u00f4k Krau"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u178f\u17b6\u1791\u1780\u1780\u17d2\u179a\u17c5"
+    ],
+    "name:und_x_variant":[
+        "Phum Tatok",
+        "Phum\u012d Ta T\u00f4k Krau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673029,
+        421185505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1824015
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"06c9028f67ad264f9f3539810d779196",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421185505,
+            "locality_id":1226805067,
+            "region_id":85673029
+        }
+    ],
+    "wof:id":1226805067,
+    "wof:lastmodified":1537653423,
+    "wof:name":"Phum Ta Tok Krau",
+    "wof:parent_id":421185505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.73062,
+    13.43089,
+    103.73062,
+    13.43089
+],
+  "geometry": {"coordinates":[103.73062,13.43089],"type":"Point"}
+}

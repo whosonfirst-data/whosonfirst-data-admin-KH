@@ -1,0 +1,73 @@
+{
+  "id": 1259795553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.66018,12.26112,104.66018,12.26112",
+    "geom:latitude":12.26112,
+    "geom:longitude":104.66018,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Khsam",
+    "gn:country_code":"KH",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827615,
+    "gn:latitude":12.26112,
+    "gn:longitude":104.66018,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Khsam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Khsam"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Khsam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673047,
+        421202559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827615
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"db0bfff9274c5819d7a7bb84c99c405c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421202559,
+            "locality_id":1259795553,
+            "region_id":85673047
+        }
+    ],
+    "wof:id":1259795553,
+    "wof:lastmodified":1537653735,
+    "wof:name":"Khsam",
+    "wof:parent_id":421202559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.66018,
+    12.26112,
+    104.66018,
+    12.26112
+],
+  "geometry": {"coordinates":[104.66018,12.26112],"type":"Point"}
+}

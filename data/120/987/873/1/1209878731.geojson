@@ -1,0 +1,72 @@
+{
+  "id": 1209878731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.81827,10.79426,104.81827,10.79426",
+    "geom:latitude":10.79426,
+    "geom:longitude":104.81827,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Phumi Kampong Chrey",
+    "gn:country_code":"KH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828307,
+    "gn:latitude":10.79426,
+    "gn:longitude":104.81827,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d K\u00e2mp\u00f3ng Chrey",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum Kompong Chrey",
+        "Kompong Chrey",
+        "Phum\u012d K\u00e2mp\u00f3ng Chrey"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673107,
+        1108564881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828307
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"5053c4bda9b5683523fc39131c57d76c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564881,
+            "locality_id":1209878731,
+            "region_id":85673107
+        }
+    ],
+    "wof:id":1209878731,
+    "wof:lastmodified":1537653795,
+    "wof:name":"Phumi Kampong Chrey",
+    "wof:parent_id":1108564881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.81827,
+    10.79426,
+    104.81827,
+    10.79426
+],
+  "geometry": {"coordinates":[104.81827,10.79426],"type":"Point"}
+}

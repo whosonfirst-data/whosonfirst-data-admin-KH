@@ -1,0 +1,73 @@
+{
+  "id": 1344068699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.76915,12.25124,104.76915,12.25124",
+    "geom:latitude":12.25124,
+    "geom:longitude":104.76915,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Phumi Kaoh K'ek",
+    "gn:country_code":"KH",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828001,
+    "gn:latitude":12.25124,
+    "gn:longitude":104.76915,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Ka\u00f4h K\u2019\u00eak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kas Kaek",
+        "Phum\u012d Ka\u00f4h K\u00e2\u00eak",
+        "Kas Kack",
+        "Phum\u012d Ka\u00f4h K\u2019\u00eak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673047,
+        421188239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828001
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"a9840576e58c090e92a8242ff9abf788",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421188239,
+            "locality_id":1344068699,
+            "region_id":85673047
+        }
+    ],
+    "wof:id":1344068699,
+    "wof:lastmodified":1537653767,
+    "wof:name":"Phumi Kaoh K'ek",
+    "wof:parent_id":421188239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.76915,
+    12.25124,
+    104.76915,
+    12.25124
+],
+  "geometry": {"coordinates":[104.76915,12.25124],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1243029187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.39508,12.90464,103.39508,12.90464",
+    "geom:latitude":12.90464,
+    "geom:longitude":103.39508,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Phum Tuol Chaeus",
+    "gn:country_code":"KH",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1823083,
+    "gn:latitude":12.90464,
+    "gn:longitude":103.39508,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Phum Tu\u014fl Chaeus",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Tu\u014fl Chaeus"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1791\u17bd\u179b\u1785\u17be\u179f"
+    ],
+    "name:und_x_variant":[
+        "Phum Tuol Chau",
+        "Phum\u012d Tu\u014fl Chaeus"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673015,
+        1108564739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1823083
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"176a7a81e28eeae3b86bb8b2069cf705",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564739,
+            "locality_id":1243029187,
+            "region_id":85673015
+        }
+    ],
+    "wof:id":1243029187,
+    "wof:lastmodified":1537653355,
+    "wof:name":"Phum Tuol Chaeus",
+    "wof:parent_id":1108564739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.39508,
+    12.90464,
+    103.39508,
+    12.90464
+],
+  "geometry": {"coordinates":[103.39507999999999,12.90464],"type":"Point"}
+}

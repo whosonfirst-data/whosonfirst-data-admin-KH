@@ -1,0 +1,77 @@
+{
+  "id": 1360043291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.07314,13.40776,104.07314,13.40776",
+    "geom:latitude":13.40776,
+    "geom:longitude":104.07314,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Sambat",
+    "gn:country_code":"KH",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825183,
+    "gn:latitude":13.40776,
+    "gn:longitude":104.07314,
+    "gn:modification_date":"2017-07-05",
+    "gn:name":"Sambat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Sambat"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u179f\u17c6\u1794\u17b6\u178f\u17cb",
+        "Phum S\u00e2mb\u0103t"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d S\u00e2mb\u0103t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673029,
+        1108564843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825183
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"4fe9418993d4c9ff07670d04e1656662",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564843,
+            "locality_id":1360043291,
+            "region_id":85673029
+        }
+    ],
+    "wof:id":1360043291,
+    "wof:lastmodified":1537653519,
+    "wof:name":"Sambat",
+    "wof:parent_id":1108564843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.07314,
+    13.40776,
+    104.07314,
+    13.40776
+],
+  "geometry": {"coordinates":[104.07314,13.40776],"type":"Point"}
+}

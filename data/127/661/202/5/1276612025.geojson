@@ -1,0 +1,73 @@
+{
+  "id": 1276612025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.93601,13.69818,106.93601,13.69818",
+    "geom:latitude":13.69818,
+    "geom:longitude":106.93601,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Phum Ta Aong Pok",
+    "gn:country_code":"KH",
+    "gn:dem":239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11518564,
+    "gn:latitude":13.69818,
+    "gn:longitude":106.93601,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Phum Ta A\u00f4ng P\u014fk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Ta A\u00f4ng P\u014fk"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u178f\u17b6\u17a2\u17c4\u1784\u1794\u17c9\u17bb\u1780"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673089,
+        1108564717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11518564
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"6ae6f4ca2d27075e06b7b1195b8499d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564717,
+            "locality_id":1276612025,
+            "region_id":85673089
+        }
+    ],
+    "wof:id":1276612025,
+    "wof:lastmodified":1537654088,
+    "wof:name":"Phum Ta Aong Pok",
+    "wof:parent_id":1108564717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.93601,
+    13.69818,
+    106.93601,
+    13.69818
+],
+  "geometry": {"coordinates":[106.93601,13.69818],"type":"Point"}
+}

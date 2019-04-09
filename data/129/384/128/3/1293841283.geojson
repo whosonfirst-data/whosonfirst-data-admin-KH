@@ -1,0 +1,77 @@
+{
+  "id": 1293841283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.09911,13.40601,103.09911,13.40601",
+    "geom:latitude":13.40601,
+    "geom:longitude":103.09911,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Phum Anlung Ta Uor",
+    "gn:country_code":"KH",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829787,
+    "gn:latitude":13.40601,
+    "gn:longitude":103.09911,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Phum Anlung Ta U\u014fr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Anlung Ta U\u014fr"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u17a2\u1793\u17d2\u179b\u1784\u17cb\u178f\u17b6\u17a2\u17ca\u17bd\u179a"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Anl\u016dng Ta U\u014fr",
+        "Phum\u012d \u00c2nl\u00f3ng Ta U\u014fr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673011,
+        1108564737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829787
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"26dee3f9d73823325288255d0bd8f6b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564737,
+            "locality_id":1293841283,
+            "region_id":85673011
+        }
+    ],
+    "wof:id":1293841283,
+    "wof:lastmodified":1537653912,
+    "wof:name":"Phum Anlung Ta Uor",
+    "wof:parent_id":1108564737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.09911,
+    13.40601,
+    103.09911,
+    13.40601
+],
+  "geometry": {"coordinates":[103.09911,13.40601],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293452233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.6603,10.96771,104.6603,10.96771",
+    "geom:latitude":10.96771,
+    "geom:longitude":104.6603,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Phumi Trapeang Trabek",
+    "gn:country_code":"KH",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1823208,
+    "gn:latitude":10.96771,
+    "gn:longitude":104.6603,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Phum\u012d Tr\u00e2pe\u0103ng Tr\u00e2b\u00eak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673107,
+        1108564877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1823208
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"37877bcf96dd8875cbcf2365cf503364",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564877,
+            "locality_id":1293452233,
+            "region_id":85673107
+        }
+    ],
+    "wof:id":1293452233,
+    "wof:lastmodified":1536836999,
+    "wof:name":"Phumi Trapeang Trabek",
+    "wof:parent_id":1108564877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.6603,
+    10.96771,
+    104.6603,
+    10.96771
+],
+  "geometry": {"coordinates":[104.66030000000001,10.96771],"type":"Point"}
+}

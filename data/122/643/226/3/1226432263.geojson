@@ -1,0 +1,73 @@
+{
+  "id": 1226432263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.113,12.23809,106.113,12.23809",
+    "geom:latitude":12.23809,
+    "geom:longitude":106.113,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Krouch",
+    "gn:country_code":"KH",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827068,
+    "gn:latitude":12.23809,
+    "gn:longitude":106.113,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Krouch",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Krouch"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Kroch"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673081,
+        1108564635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827068
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"52e2dadebec14d20c0d3ae5ebcc0f628",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564635,
+            "locality_id":1226432263,
+            "region_id":85673081
+        }
+    ],
+    "wof:id":1226432263,
+    "wof:lastmodified":1537653683,
+    "wof:name":"Krouch",
+    "wof:parent_id":1108564635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.113,
+    12.23809,
+    106.113,
+    12.23809
+],
+  "geometry": {"coordinates":[106.113,12.23809],"type":"Point"}
+}

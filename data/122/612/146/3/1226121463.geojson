@@ -1,0 +1,71 @@
+{
+  "id": 1226121463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.24469,10.9528,105.24469,10.9528",
+    "geom:latitude":10.9528,
+    "geom:longitude":105.24469,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Phumi Kampong Kaoh Kok",
+    "gn:country_code":"KH",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828298,
+    "gn:latitude":10.9528,
+    "gn:longitude":105.24469,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d K\u00e2mp\u00f3ng Ka\u00f4h K\u014fk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "C\u00e1i B\u00faa",
+        "Phum\u012d K\u00e2mp\u00f3ng Ka\u00f4h K\u014fk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673067,
+        1108564755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828298
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"9799236066d91890c51df64c185f57ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564755,
+            "locality_id":1226121463,
+            "region_id":85673067
+        }
+    ],
+    "wof:id":1226121463,
+    "wof:lastmodified":1537653794,
+    "wof:name":"Phumi Kampong Kaoh Kok",
+    "wof:parent_id":1108564755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.24469,
+    10.9528,
+    105.24469,
+    10.9528
+],
+  "geometry": {"coordinates":[105.24469000000001,10.9528],"type":"Point"}
+}

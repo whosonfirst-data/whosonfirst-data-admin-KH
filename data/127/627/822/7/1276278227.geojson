@@ -1,0 +1,70 @@
+{
+  "id": 1276278227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.26478,14.08801,103.26478,14.08801",
+    "geom:latitude":14.08801,
+    "geom:longitude":103.26478,
+    "gn:admin1_code":"27",
+    "gn:asciiname":"Prasat Bei",
+    "gn:country_code":"KH",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11424702,
+    "gn:latitude":14.08801,
+    "gn:longitude":103.26478,
+    "gn:modification_date":"2017-01-07",
+    "gn:name":"Prasat Bei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Prasat Bei"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673033,
+        1108564599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11424702
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"595231b4ef962d03587935a8ee16744c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564599,
+            "locality_id":1276278227,
+            "region_id":85673033
+        }
+    ],
+    "wof:id":1276278227,
+    "wof:lastmodified":1537654004,
+    "wof:name":"Prasat Bei",
+    "wof:parent_id":1108564599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.26478,
+    14.08801,
+    103.26478,
+    14.08801
+],
+  "geometry": {"coordinates":[103.26478,14.08801],"type":"Point"}
+}

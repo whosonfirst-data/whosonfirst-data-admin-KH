@@ -1,0 +1,78 @@
+{
+  "id": 1226000623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.08486,13.37046,104.08486,13.37046",
+    "geom:latitude":13.37046,
+    "geom:longitude":104.08486,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Phum Chansar Khang Cheung",
+    "gn:country_code":"KH",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829137,
+    "gn:latitude":13.37046,
+    "gn:longitude":104.08486,
+    "gn:modification_date":"2017-07-05",
+    "gn:name":"Phum Chans\u00e2r Khang Cheung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Chans\u00e2r Khang Cheung"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1785\u1793\u17d2\u1791\u179f\u179a\u1781\u17b6\u1784\u1787\u17be\u1784"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Chans\u00e2r Khang Cheung",
+        "Phum Chan Sar",
+        "Phum\u012d Ch\u0103nt S\u00e2r Khang Cheung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673029,
+        1108564843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829137
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"7c5df4f045a2bf29643734d7603f0cb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564843,
+            "locality_id":1226000623,
+            "region_id":85673029
+        }
+    ],
+    "wof:id":1226000623,
+    "wof:lastmodified":1537653861,
+    "wof:name":"Phum Chansar Khang Cheung",
+    "wof:parent_id":1108564843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.08486,
+    13.37046,
+    104.08486,
+    13.37046
+],
+  "geometry": {"coordinates":[104.08486000000001,13.37046],"type":"Point"}
+}

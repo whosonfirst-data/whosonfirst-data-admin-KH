@@ -1,0 +1,75 @@
+{
+  "id": 421188887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.421333,12.07035,106.421333,12.07035",
+    "geom:latitude":12.07035,
+    "geom:longitude":106.421333,
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Phumi Snuol",
+    "qs:name_adm0":"Cambodia",
+    "qs:name_adm1":"Krachen",
+    "qs:photos":7,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":7,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1104897,
+    "qs:woe_adm0":23424776,
+    "qs:woe_id":1028611,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673081,
+        1108564841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1028611,
+        "qs:id":1104897
+    },
+    "wof:country":"KH",
+    "wof:created":1459009587,
+    "wof:geomhash":"bb11366dbad61f22532ce9a62baa4337",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564841,
+            "locality_id":421188887,
+            "region_id":85673081
+        }
+    ],
+    "wof:id":421188887,
+    "wof:lastmodified":1499930110,
+    "wof:name":"Phumi Snuol",
+    "wof:parent_id":1108564841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.421333,
+    12.07035,
+    106.421333,
+    12.07035
+],
+  "geometry": {"coordinates":[106.421333,12.07035],"type":"Point"}
+}

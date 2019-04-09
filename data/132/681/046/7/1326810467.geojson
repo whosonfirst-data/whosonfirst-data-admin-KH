@@ -1,0 +1,79 @@
+{
+  "id": 1326810467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.76582,12.61462,103.76582,12.61462",
+    "geom:latitude":12.61462,
+    "geom:longitude":103.76582,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Snay Toul",
+    "gn:country_code":"KH",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1824807,
+    "gn:latitude":12.61462,
+    "gn:longitude":103.76582,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Snay Toul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Snay Toul"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u179f\u17d2\u1793\u17b6\u1799\u1791\u17bd\u179b",
+        "Phum Snay To\u016dl"
+    ],
+    "name:und_x_variant":[
+        "P\u2019um Snay Tol",
+        "Phum\u012d Snay To\u016dl",
+        "Phum\u012d Snay Tu\u014fl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673023,
+        1108564595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1824807
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"4e866096298e0ab7075dfdaa9f70703b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564595,
+            "locality_id":1326810467,
+            "region_id":85673023
+        }
+    ],
+    "wof:id":1326810467,
+    "wof:lastmodified":1537653487,
+    "wof:name":"Snay Toul",
+    "wof:parent_id":1108564595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.76582,
+    12.61462,
+    103.76582,
+    12.61462
+],
+  "geometry": {"coordinates":[103.76582000000001,12.61462],"type":"Point"}
+}

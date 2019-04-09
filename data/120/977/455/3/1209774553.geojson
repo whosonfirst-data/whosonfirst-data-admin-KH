@@ -1,0 +1,73 @@
+{
+  "id": 1209774553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.53497,10.62231,104.53497,10.62231",
+    "geom:latitude":10.62231,
+    "geom:longitude":104.53497,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Phumi Rumpeun",
+    "gn:country_code":"KH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825247,
+    "gn:latitude":10.62231,
+    "gn:longitude":104.53497,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Rumpeun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum Rompoeu",
+        "Phum\u012d R\u016dmpean",
+        "Phum Romp\u0153un",
+        "Phum\u012d Rumpeun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673093,
+        1108564601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825247
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"4076e8d65f91b633dbdd43287e837f5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564601,
+            "locality_id":1209774553,
+            "region_id":85673093
+        }
+    ],
+    "wof:id":1209774553,
+    "wof:lastmodified":1537653524,
+    "wof:name":"Phumi Rumpeun",
+    "wof:parent_id":1108564601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.53497,
+    10.62231,
+    104.53497,
+    10.62231
+],
+  "geometry": {"coordinates":[104.53497,10.62231],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1209676623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.20698,12.70798,103.20698,12.70798",
+    "geom:latitude":12.70798,
+    "geom:longitude":103.20698,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Phum Krang Svat",
+    "gn:country_code":"KH",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827173,
+    "gn:latitude":12.70798,
+    "gn:longitude":103.20698,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Phum Kr\u0103ng Svat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Kr\u0103ng Svat"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1780\u17d2\u179a\u17b6\u17c6\u1784\u179f\u17d2\u179c\u17b6\u178f"
+    ],
+    "name:und_x_variant":[
+        "Krang Swat",
+        "Phum\u012d Kr\u0103ng Svat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827173
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"c09a71269d739626233b8f2871f312b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209676623
+        }
+    ],
+    "wof:id":1209676623,
+    "wof:lastmodified":1537653692,
+    "wof:name":"Phum Krang Svat",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.20698,
+    12.70798,
+    103.20698,
+    12.70798
+],
+  "geometry": {"coordinates":[103.20698,12.70798],"type":"Point"}
+}

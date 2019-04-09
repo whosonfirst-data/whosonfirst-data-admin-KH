@@ -1,0 +1,75 @@
+{
+  "id": 1344026285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.68988,13.59585,103.68988,13.59585",
+    "geom:latitude":13.59585,
+    "geom:longitude":103.68988,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Chuo Chakkrei",
+    "gn:country_code":"KH",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828729,
+    "gn:latitude":13.59585,
+    "gn:longitude":103.68988,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Chuo Chakkrei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Chuo Chakkrei"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1787\u17d2\u179a\u17bd\u1799\u1785\u1780\u17d2\u179a\u17b8",
+        "Phum\u012d Chru\u014fy Ch\u00e2krey",
+        "Phum Chru\u014fy Ch\u00e2krey"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673029,
+        421185505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828729
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"0155739624d5b10ea3687dc68624666d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421185505,
+            "locality_id":1344026285,
+            "region_id":85673029
+        }
+    ],
+    "wof:id":1344026285,
+    "wof:lastmodified":1537653828,
+    "wof:name":"Chuo Chakkrei",
+    "wof:parent_id":421185505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.68988,
+    13.59585,
+    103.68988,
+    13.59585
+],
+  "geometry": {"coordinates":[103.68988,13.59585],"type":"Point"}
+}

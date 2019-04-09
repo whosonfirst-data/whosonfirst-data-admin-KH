@@ -1,0 +1,72 @@
+{
+  "id": 1344169785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.00185,11.92091,105.00185,11.92091",
+    "geom:latitude":11.92091,
+    "geom:longitude":105.00185,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Stungchhveng",
+    "gn:country_code":"KH",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1824512,
+    "gn:latitude":11.92091,
+    "gn:longitude":105.00185,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Stungchhveng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Stungchhreng",
+        "Stungchhveng",
+        "Phum\u012d St\u0153\u0306ng Chhv\u00e9ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673041,
+        1108564611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1824512
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"4924953968641d7dcc403eed66b830e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564611,
+            "locality_id":1344169785,
+            "region_id":85673041
+        }
+    ],
+    "wof:id":1344169785,
+    "wof:lastmodified":1537653463,
+    "wof:name":"Stungchhveng",
+    "wof:parent_id":1108564611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.00185,
+    11.92091,
+    105.00185,
+    11.92091
+],
+  "geometry": {"coordinates":[105.00185,11.92091],"type":"Point"}
+}

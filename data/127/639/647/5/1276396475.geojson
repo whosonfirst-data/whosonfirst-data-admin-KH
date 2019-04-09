@@ -1,0 +1,76 @@
+{
+  "id": 1276396475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.04265,13.64484,103.04265,13.64484",
+    "geom:latitude":13.64484,
+    "geom:longitude":103.04265,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Phum Trabek",
+    "gn:country_code":"KH",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1823544,
+    "gn:latitude":13.64484,
+    "gn:longitude":103.04265,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Phum Tr\u00e2b\u00eak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Tr\u00e2b\u00eak"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u178f\u17d2\u179a\u1794\u17c2\u1780"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Tr\u00e2b\u00eak (2)"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673011,
+        421183973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1823544
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"0f0a4e792b23e7caa43f4290a41191ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421183973,
+            "locality_id":1276396475,
+            "region_id":85673011
+        }
+    ],
+    "wof:id":1276396475,
+    "wof:lastmodified":1537653386,
+    "wof:name":"Phum Trabek",
+    "wof:parent_id":421183973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.04265,
+    13.64484,
+    103.04265,
+    13.64484
+],
+  "geometry": {"coordinates":[103.04264999999999,13.64484],"type":"Point"}
+}

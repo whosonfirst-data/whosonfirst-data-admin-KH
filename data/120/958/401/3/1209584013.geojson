@@ -1,0 +1,65 @@
+{
+  "id": 1209584013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.14078,13.74343,104.14078,13.74343",
+    "geom:latitude":13.74343,
+    "geom:longitude":104.14078,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Phumi Khna Krau Phnum",
+    "gn:country_code":"KH",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827679,
+    "gn:latitude":13.74343,
+    "gn:longitude":104.14078,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Khna Krau Phnum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khna",
+        "Phum\u012d Khna Krau Phnum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827679
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"f324e5b838ef77014577dd2d23a8414b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209584013
+        }
+    ],
+    "wof:id":1209584013,
+    "wof:lastmodified":1537653741,
+    "wof:name":"Phumi Khna Krau Phnum",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.14078,
+    13.74343,
+    104.14078,
+    13.74343
+],
+  "geometry": {"coordinates":[104.14078000000001,13.74343],"type":"Point"}
+}

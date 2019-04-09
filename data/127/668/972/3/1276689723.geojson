@@ -1,0 +1,72 @@
+{
+  "id": 1276689723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.93748,11.92457,105.93748,11.92457",
+    "geom:latitude":11.92457,
+    "geom:longitude":105.93748,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Phumi Kouk Sralau",
+    "gn:country_code":"KH",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827333,
+    "gn:latitude":11.92457,
+    "gn:longitude":105.93748,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Phum\u012d Ko\u016dk Sr\u00e2lau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum Kourk Selao",
+        "Phum Kourk Salao",
+        "Phum\u012d Ko\u016dk Sr\u00e2lau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        1108804319,
+        1108564653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827333
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"2ac6497c3b6c9f6bf888025ab3e03c03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564653,
+            "locality_id":1276689723,
+            "region_id":1108804319
+        }
+    ],
+    "wof:id":1276689723,
+    "wof:lastmodified":1537653707,
+    "wof:name":"Phumi Kouk Sralau",
+    "wof:parent_id":1108564653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.93748,
+    11.92457,
+    105.93748,
+    11.92457
+],
+  "geometry": {"coordinates":[105.93747999999999,11.92457],"type":"Point"}
+}

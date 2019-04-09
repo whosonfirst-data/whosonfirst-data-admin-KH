@@ -1,0 +1,64 @@
+{
+  "id": 1209372711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.4032,13.27497,104.4032,13.27497",
+    "geom:latitude":13.27497,
+    "geom:longitude":104.4032,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Pongro Leu",
+    "gn:country_code":"KH",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11456524,
+    "gn:latitude":13.27497,
+    "gn:longitude":104.4032,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Pongro Leu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Pongro Leu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11456524
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"4904afea3cb7ceb0566514c0caa13272",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209372711
+        }
+    ],
+    "wof:id":1209372711,
+    "wof:lastmodified":1537654016,
+    "wof:name":"Pongro Leu",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.4032,
+    13.27497,
+    104.4032,
+    13.27497
+],
+  "geometry": {"coordinates":[104.4032,13.27497],"type":"Point"}
+}

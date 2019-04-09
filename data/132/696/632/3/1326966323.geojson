@@ -1,0 +1,73 @@
+{
+  "id": 1326966323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.03255,12.04551,106.03255,12.04551",
+    "geom:latitude":12.04551,
+    "geom:longitude":106.03255,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Kantuot",
+    "gn:country_code":"KH",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828035,
+    "gn:latitude":12.04551,
+    "gn:longitude":106.03255,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Kantuot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Kantuot"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d K\u00e2ntu\u014ft"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        1108804319,
+        1108564735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828035
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"8190645c929d15232aaf7fe83fd8f794",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564735,
+            "locality_id":1326966323,
+            "region_id":1108804319
+        }
+    ],
+    "wof:id":1326966323,
+    "wof:lastmodified":1537653770,
+    "wof:name":"Kantuot",
+    "wof:parent_id":1108564735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.03255,
+    12.04551,
+    106.03255,
+    12.04551
+],
+  "geometry": {"coordinates":[106.03255,12.04551],"type":"Point"}
+}

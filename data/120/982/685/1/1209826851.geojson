@@ -1,0 +1,72 @@
+{
+  "id": 1209826851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.50731,12.39478,104.50731,12.39478",
+    "geom:latitude":12.39478,
+    "geom:longitude":104.50731,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Phumi Banteay Phaeum",
+    "gn:country_code":"KH",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829605,
+    "gn:latitude":12.39478,
+    "gn:longitude":104.50731,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d B\u00e2nt\u00e9ay Phaeum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Banteay D\u0153um",
+        "Phum\u012d B\u00e2nt\u00e9ay Cheum",
+        "Phum\u012d B\u00e2nt\u00e9ay Phaeum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673047,
+        421202235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829605
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"f4eda3d317b4c602ed532640fbc105bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421202235,
+            "locality_id":1209826851,
+            "region_id":85673047
+        }
+    ],
+    "wof:id":1209826851,
+    "wof:lastmodified":1537653896,
+    "wof:name":"Phumi Banteay Phaeum",
+    "wof:parent_id":421202235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.50731,
+    12.39478,
+    104.50731,
+    12.39478
+],
+  "geometry": {"coordinates":[104.50731,12.39478],"type":"Point"}
+}

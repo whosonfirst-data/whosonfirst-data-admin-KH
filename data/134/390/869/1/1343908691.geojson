@@ -1,0 +1,74 @@
+{
+  "id": 1343908691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.21098,13.12819,103.21098,13.12819",
+    "geom:latitude":13.12819,
+    "geom:longitude":103.21098,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Sla Kaet",
+    "gn:country_code":"KH",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11369348,
+    "gn:latitude":13.12819,
+    "gn:longitude":103.21098,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Sla Kaet",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Sla Kaet"
+    ],
+    "name:khm_x_variant":[
+        "Phum V\u00f4at Sla K\u00eat",
+        "\u1797\u17bc\u1798\u17b7 \u179c\u178f\u17d2\u178f\u179f\u17d2\u179b\u17b6\u1780\u17c2\u178f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673015,
+        421171545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11369348
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"854b6f5e6667f1a754777a1b6d13dbaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421171545,
+            "locality_id":1343908691,
+            "region_id":85673015
+        }
+    ],
+    "wof:id":1343908691,
+    "wof:lastmodified":1537653983,
+    "wof:name":"Sla Kaet",
+    "wof:parent_id":421171545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.21098,
+    13.12819,
+    103.21098,
+    13.12819
+],
+  "geometry": {"coordinates":[103.21098000000001,13.12819],"type":"Point"}
+}

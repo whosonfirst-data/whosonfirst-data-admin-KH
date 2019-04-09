@@ -1,0 +1,70 @@
+{
+  "id": 1343345009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.31717,10.99616,105.31717,10.99616",
+    "geom:latitude":10.99616,
+    "geom:longitude":105.31717,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Prey Moan",
+    "gn:country_code":"KH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11477938,
+    "gn:latitude":10.99616,
+    "gn:longitude":105.31717,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Prey Moan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Prey Moan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673067,
+        1108564755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11477938
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"1d508b493f3a9d1b3d5524b58520f700",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564755,
+            "locality_id":1343345009,
+            "region_id":85673067
+        }
+    ],
+    "wof:id":1343345009,
+    "wof:lastmodified":1537654038,
+    "wof:name":"Prey Moan",
+    "wof:parent_id":1108564755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.31717,
+    10.99616,
+    105.31717,
+    10.99616
+],
+  "geometry": {"coordinates":[105.31717,10.99616],"type":"Point"}
+}

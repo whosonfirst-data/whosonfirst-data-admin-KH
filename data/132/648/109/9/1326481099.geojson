@@ -1,0 +1,77 @@
+{
+  "id": 1326481099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.79606,12.59875,102.79606,12.59875",
+    "geom:latitude":12.59875,
+    "geom:longitude":102.79606,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Kamhchang",
+    "gn:country_code":"KH",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828369,
+    "gn:latitude":12.59875,
+    "gn:longitude":102.79606,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kamhchang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Kamhchang"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1780\u17c6\u1785\u17b6\u17c6\u1784"
+    ],
+    "name:und_x_variant":[
+        "Phum Kanchang",
+        "Phum\u012d K\u00e2mch\u0103ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673015,
+        421196403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828369
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"46250302f08d0609d7389efa599c125a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421196403,
+            "locality_id":1326481099,
+            "region_id":85673015
+        }
+    ],
+    "wof:id":1326481099,
+    "wof:lastmodified":1537653800,
+    "wof:name":"Kamhchang",
+    "wof:parent_id":421196403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.79606,
+    12.59875,
+    102.79606,
+    12.59875
+],
+  "geometry": {"coordinates":[102.79606,12.59875],"type":"Point"}
+}

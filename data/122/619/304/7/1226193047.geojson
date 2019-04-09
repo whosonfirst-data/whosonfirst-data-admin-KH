@@ -1,0 +1,73 @@
+{
+  "id": 1226193047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.45372,12.77334,103.45372,12.77334",
+    "geom:latitude":12.77334,
+    "geom:longitude":103.45372,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Phum Ream Kun",
+    "gn:country_code":"KH",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11349834,
+    "gn:latitude":12.77334,
+    "gn:longitude":103.45372,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Phum R\u00e9am K\u016dn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum R\u00e9am K\u016dn"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u179a\u17b6\u1798\u1782\u1793"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673015,
+        1108564739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11349834
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"d6e398d4ecd2d727ead56e563cd68a29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564739,
+            "locality_id":1226193047,
+            "region_id":85673015
+        }
+    ],
+    "wof:id":1226193047,
+    "wof:lastmodified":1537653977,
+    "wof:name":"Phum Ream Kun",
+    "wof:parent_id":1108564739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.45372,
+    12.77334,
+    103.45372,
+    12.77334
+],
+  "geometry": {"coordinates":[103.45372,12.77334],"type":"Point"}
+}

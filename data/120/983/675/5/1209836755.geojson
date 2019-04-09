@@ -1,0 +1,78 @@
+{
+  "id": 1209836755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.06164,11.30727,105.06164,11.30727",
+    "geom:latitude":11.30727,
+    "geom:longitude":105.06164,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Phum Kaoh Toch",
+    "gn:country_code":"KH",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827922,
+    "gn:latitude":11.30727,
+    "gn:longitude":105.06164,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Phum Ka\u00f4h Toch",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Ka\u00f4h Toch"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1780\u17c4\u17c7\u178f\u17bc\u1785"
+    ],
+    "name:und_x_variant":[
+        "Vat Kos Toch",
+        "Wat Kos Toch",
+        "Phum\u012d Ka\u00f4h Toch"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673051,
+        1108564811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827922
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"6187b82b590eb3fb3f761495a94b639e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564811,
+            "locality_id":1209836755,
+            "region_id":85673051
+        }
+    ],
+    "wof:id":1209836755,
+    "wof:lastmodified":1537653761,
+    "wof:name":"Phum Kaoh Toch",
+    "wof:parent_id":1108564811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.06164,
+    11.30727,
+    105.06164,
+    11.30727
+],
+  "geometry": {"coordinates":[105.06164,11.30727],"type":"Point"}
+}

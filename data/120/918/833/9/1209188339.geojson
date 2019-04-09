@@ -1,0 +1,61 @@
+{
+  "id": 1209188339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.51201,10.86975,104.51201,10.86975",
+    "geom:latitude":10.86975,
+    "geom:longitude":104.51201,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Phumi Khnach Romeas",
+    "gn:country_code":"KH",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827682,
+    "gn:latitude":10.86975,
+    "gn:longitude":104.51201,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Phum\u012d Khnach R\u00f4m\u00e9as",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827682
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"4843da18b8a526c3c7dbbf52583ed57a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209188339
+        }
+    ],
+    "wof:id":1209188339,
+    "wof:lastmodified":1536295022,
+    "wof:name":"Phumi Khnach Romeas",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.51201,
+    10.86975,
+    104.51201,
+    10.86975
+],
+  "geometry": {"coordinates":[104.51201,10.86975],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1327007145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.08649,12.55469,104.08649,12.55469",
+    "geom:latitude":12.55469,
+    "geom:longitude":104.08649,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Pou Angkrang",
+    "gn:country_code":"KH",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11450848,
+    "gn:latitude":12.55469,
+    "gn:longitude":104.08649,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Pou Angkrang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Pou Angkrang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673023,
+        421203239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11450848
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"44f08a62204090107c4a15c6ca535841",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421203239,
+            "locality_id":1327007145,
+            "region_id":85673023
+        }
+    ],
+    "wof:id":1327007145,
+    "wof:lastmodified":1537654016,
+    "wof:name":"Pou Angkrang",
+    "wof:parent_id":421203239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.08649,
+    12.55469,
+    104.08649,
+    12.55469
+],
+  "geometry": {"coordinates":[104.08649,12.55469],"type":"Point"}
+}

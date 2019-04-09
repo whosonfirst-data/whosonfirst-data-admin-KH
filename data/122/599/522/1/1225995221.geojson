@@ -1,0 +1,77 @@
+{
+  "id": 1225995221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.77136,12.71402,102.77136,12.71402",
+    "geom:latitude":12.71402,
+    "geom:longitude":102.77136,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Srae Chipav",
+    "gn:country_code":"KH",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1824657,
+    "gn:latitude":12.71402,
+    "gn:longitude":102.77136,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Srae Chipav",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Srae Chipav"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u179f\u17d2\u179a\u17c2\u1787\u17b8\u1796\u17c5",
+        "Phum\u012d Sr\u00ea Chipo\u016d"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Sr\u00ea Chip\u014fu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673015,
+        421196403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1824657
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"7cd8561e292e70deda7ec0af44995ad2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421196403,
+            "locality_id":1225995221,
+            "region_id":85673015
+        }
+    ],
+    "wof:id":1225995221,
+    "wof:lastmodified":1537653475,
+    "wof:name":"Srae Chipav",
+    "wof:parent_id":421196403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.77136,
+    12.71402,
+    102.77136,
+    12.71402
+],
+  "geometry": {"coordinates":[102.77136,12.71402],"type":"Point"}
+}

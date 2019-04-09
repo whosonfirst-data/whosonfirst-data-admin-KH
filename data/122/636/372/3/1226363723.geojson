@@ -1,0 +1,67 @@
+{
+  "id": 1226363723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.73312,11.53127,104.73312,11.53127",
+    "geom:latitude":11.53127,
+    "geom:longitude":104.73312,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Phumi Trapeang Khla",
+    "gn:country_code":"KH",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1823411,
+    "gn:latitude":11.53127,
+    "gn:longitude":104.73312,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Phum\u012d Tr\u00e2pe\u0103ng Khla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673051,
+        1108564577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1823411
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"f097b0dab3970ad7e6a80957c8d91ec9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564577,
+            "locality_id":1226363723,
+            "region_id":85673051
+        }
+    ],
+    "wof:id":1226363723,
+    "wof:lastmodified":1536764027,
+    "wof:name":"Phumi Trapeang Khla",
+    "wof:parent_id":1108564577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.73312,
+    11.53127,
+    104.73312,
+    11.53127
+],
+  "geometry": {"coordinates":[104.73312,11.53127],"type":"Point"}
+}

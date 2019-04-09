@@ -1,0 +1,79 @@
+{
+  "id": 1327239197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.45913,12.46298,104.45913,12.46298",
+    "geom:latitude":12.46298,
+    "geom:longitude":104.45913,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Pou Mreah",
+    "gn:country_code":"KH",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1826308,
+    "gn:latitude":12.46298,
+    "gn:longitude":104.45913,
+    "gn:modification_date":"2017-07-05",
+    "gn:name":"Pou Mreah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Pou Mreah"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1796\u17c4\u1798\u17d2\u179a\u17c7",
+        "Phum Po\u016d M\u00f4re\u0103h"
+    ],
+    "name:und_x_variant":[
+        "Phum Lovea",
+        "Phum\u012d Po\u016d M\u00f4re\u0103h",
+        "Phum\u012d Po\u016d Mre\u0103h"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673047,
+        421202235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1826308
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"5a5c81c7d5e844cb17032fe01a2a00b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421202235,
+            "locality_id":1327239197,
+            "region_id":85673047
+        }
+    ],
+    "wof:id":1327239197,
+    "wof:lastmodified":1537653614,
+    "wof:name":"Pou Mreah",
+    "wof:parent_id":421202235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.45913,
+    12.46298,
+    104.45913,
+    12.46298
+],
+  "geometry": {"coordinates":[104.45913,12.46298],"type":"Point"}
+}

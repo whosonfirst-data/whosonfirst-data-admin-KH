@@ -1,0 +1,67 @@
+{
+  "id": 1277109781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.46094,11.47785,104.46094,11.47785",
+    "geom:latitude":11.47785,
+    "geom:longitude":104.46094,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Phumi Rokar Thum",
+    "gn:country_code":"KH",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825368,
+    "gn:latitude":11.47785,
+    "gn:longitude":104.46094,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Phum\u012d R\u00f4kar Thum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673053,
+        421194855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825368
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"72bdc9b3b4951553e183413b1788fd56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421194855,
+            "locality_id":1277109781,
+            "region_id":85673053
+        }
+    ],
+    "wof:id":1277109781,
+    "wof:lastmodified":1536729090,
+    "wof:name":"Phumi Rokar Thum",
+    "wof:parent_id":421194855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.46094,
+    11.47785,
+    104.46094,
+    11.47785
+],
+  "geometry": {"coordinates":[104.46093999999999,11.47785],"type":"Point"}
+}

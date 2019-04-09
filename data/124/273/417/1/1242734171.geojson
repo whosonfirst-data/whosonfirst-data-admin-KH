@@ -1,0 +1,70 @@
+{
+  "id": 1242734171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.08989,13.73717,107.08989,13.73717",
+    "geom:latitude":13.73717,
+    "geom:longitude":107.08989,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Pa Nal",
+    "gn:country_code":"KH",
+    "gn:dem":356,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11484200,
+    "gn:latitude":13.73717,
+    "gn:longitude":107.08989,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Pa Nal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Pa Nal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673089,
+        1108564607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11484200
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"e435a75bf16b7b2678e263982ee98cb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564607,
+            "locality_id":1242734171,
+            "region_id":85673089
+        }
+    ],
+    "wof:id":1242734171,
+    "wof:lastmodified":1537654063,
+    "wof:name":"Pa Nal",
+    "wof:parent_id":1108564607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.08989,
+    13.73717,
+    107.08989,
+    13.73717
+],
+  "geometry": {"coordinates":[107.08989,13.73717],"type":"Point"}
+}

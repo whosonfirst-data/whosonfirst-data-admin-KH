@@ -1,0 +1,71 @@
+{
+  "id": 1293159281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.87332,11.43776,104.87332,11.43776",
+    "geom:latitude":11.43776,
+    "geom:longitude":104.87332,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Phumi Pratheat",
+    "gn:country_code":"KH",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1826136,
+    "gn:latitude":11.43776,
+    "gn:longitude":104.87332,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Phum\u012d Pr\u00e2th\u00e9at",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pr\u00e9as Theat",
+        "Phum\u012d Pr\u00e2th\u00e9at"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673063,
+        1108564661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1826136
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"8c3222b8337144bd850fb08054a56466",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564661,
+            "locality_id":1293159281,
+            "region_id":85673063
+        }
+    ],
+    "wof:id":1293159281,
+    "wof:lastmodified":1537653598,
+    "wof:name":"Phumi Pratheat",
+    "wof:parent_id":1108564661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.87332,
+    11.43776,
+    104.87332,
+    11.43776
+],
+  "geometry": {"coordinates":[104.87332000000001,11.43776],"type":"Point"}
+}

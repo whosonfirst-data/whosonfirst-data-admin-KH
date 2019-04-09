@@ -1,0 +1,61 @@
+{
+  "id": 1209179719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.92673,11.19144,104.92673,11.19144",
+    "geom:latitude":11.19144,
+    "geom:longitude":104.92673,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Phumi Sla",
+    "gn:country_code":"KH",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1824850,
+    "gn:latitude":11.19144,
+    "gn:longitude":104.92673,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Phum\u012d Sla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1824850
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"e9eb8414adfa3ba574f05c987fac8832",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209179719
+        }
+    ],
+    "wof:id":1209179719,
+    "wof:lastmodified":1536295300,
+    "wof:name":"Phumi Sla",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.92673,
+    11.19144,
+    104.92673,
+    11.19144
+],
+  "geometry": {"coordinates":[104.92673000000001,11.19144],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1276441009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.64357,12.92995,104.64357,12.92995",
+    "geom:latitude":12.92995,
+    "geom:longitude":104.64357,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Banteay Stoung",
+    "gn:country_code":"KH",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1822026,
+    "gn:latitude":12.92995,
+    "gn:longitude":104.64357,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Banteay Stoung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Banteay Stoung"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Sto\u016dng",
+        "Staung",
+        "Banteay Stong",
+        "Banteay-Staung",
+        "Bant\u00e9ay Steung",
+        "Sto\u016dng",
+        "Phum\u012d B\u00e2nt\u00e9ay Sto\u016dng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673057,
+        1108564849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1822026
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"0dd9938e3ea7b6749a29c2eb6cbcc1c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564849,
+            "locality_id":1276441009,
+            "region_id":85673057
+        }
+    ],
+    "wof:id":1276441009,
+    "wof:lastmodified":1537653326,
+    "wof:name":"Banteay Stoung",
+    "wof:parent_id":1108564849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.64357,
+    12.92995,
+    104.64357,
+    12.92995
+],
+  "geometry": {"coordinates":[104.64357,12.92995],"type":"Point"}
+}

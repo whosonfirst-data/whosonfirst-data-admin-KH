@@ -1,0 +1,79 @@
+{
+  "id": 1259751405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.56154,13.54963,103.56154,13.54963",
+    "geom:latitude":13.54963,
+    "geom:longitude":103.56154,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Prab Mai",
+    "gn:country_code":"KH",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1826246,
+    "gn:latitude":13.54963,
+    "gn:longitude":103.56154,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Prab Mai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Prab Mai"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1794\u17d2\u179a\u1794\u1798\u17c9\u17c3",
+        "Phum Pr\u00e2p Mai"
+    ],
+    "name:und_x_variant":[
+        "Prap May",
+        "Phum\u012d Pr\u00e2p Mai",
+        "Phum\u012d Pr\u00e2b Mai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673029,
+        421185505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1826246
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"ff7f6526b8612a6e304afafa2a57dd06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421185505,
+            "locality_id":1259751405,
+            "region_id":85673029
+        }
+    ],
+    "wof:id":1259751405,
+    "wof:lastmodified":1537653607,
+    "wof:name":"Prab Mai",
+    "wof:parent_id":421185505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.56154,
+    13.54963,
+    103.56154,
+    13.54963
+],
+  "geometry": {"coordinates":[103.56153999999999,13.54963],"type":"Point"}
+}

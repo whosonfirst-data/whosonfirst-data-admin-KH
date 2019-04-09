@@ -1,0 +1,72 @@
+{
+  "id": 1327114615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.07158,12.67842,104.07158,12.67842",
+    "geom:latitude":12.67842,
+    "geom:longitude":104.07158,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Phumi Banhnha Khel",
+    "gn:country_code":"KH",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829647,
+    "gn:latitude":12.67842,
+    "gn:longitude":104.07158,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d B\u00e2nhnha Kh\u00eal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum\u012d Panha Kh\u00eal",
+        "P\u2019um Ph\u0115i Kel",
+        "Phum\u012d B\u00e2nhnha Kh\u00eal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673023,
+        1108564687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829647
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"1697b10a5e24bf2beaef7c62d40edcd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564687,
+            "locality_id":1327114615,
+            "region_id":85673023
+        }
+    ],
+    "wof:id":1327114615,
+    "wof:lastmodified":1537653899,
+    "wof:name":"Phumi Banhnha Khel",
+    "wof:parent_id":1108564687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.07158,
+    12.67842,
+    104.07158,
+    12.67842
+],
+  "geometry": {"coordinates":[104.07158,12.67842],"type":"Point"}
+}

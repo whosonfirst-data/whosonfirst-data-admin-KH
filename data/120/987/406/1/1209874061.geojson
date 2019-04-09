@@ -1,0 +1,70 @@
+{
+  "id": 1209874061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.23992,12.96367,104.23992,12.96367",
+    "geom:latitude":12.96367,
+    "geom:longitude":104.23992,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Stung Kombot",
+    "gn:country_code":"KH",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1824503,
+    "gn:latitude":12.96367,
+    "gn:longitude":104.23992,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Stung Kombot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum\u012d St\u0153\u0306ng K\u00e2mb\u014ft"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673029,
+        1108564639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1824503
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"0f195f63eddeccecf3c564a909b3b4ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564639,
+            "locality_id":1209874061,
+            "region_id":85673029
+        }
+    ],
+    "wof:id":1209874061,
+    "wof:lastmodified":1537653463,
+    "wof:name":"Stung Kombot",
+    "wof:parent_id":1108564639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.23992,
+    12.96367,
+    104.23992,
+    12.96367
+],
+  "geometry": {"coordinates":[104.23992,12.96367],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1243258465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.32361,12.76768,106.32361,12.76768",
+    "geom:latitude":12.76768,
+    "geom:longitude":106.32361,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Khlek Khlak",
+    "gn:country_code":"KH",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1830878,
+    "gn:latitude":12.76768,
+    "gn:longitude":106.32361,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Khl\u0115k Khl\u00e1k",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "\u1781\u17d2\u179b\u17b7\u1780\u1781\u17d2\u179b\u1780\u17cb"
+    ],
+    "name:und_x_variant":[
+        "Phum Khl\u0115k Khl\u00e1k",
+        "Khl\u0115k Khl\u00e1k"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673081,
+        421188051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1830878
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"f044dd6ef711f25e408d6429cb21c3a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421188051,
+            "locality_id":1243258465,
+            "region_id":85673081
+        }
+    ],
+    "wof:id":1243258465,
+    "wof:lastmodified":1537653953,
+    "wof:name":"Khlek Khlak",
+    "wof:parent_id":421188051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.32361000000002,
+    12.76768,
+    106.32361000000002,
+    12.76768
+],
+  "geometry": {"coordinates":[106.32361000000002,12.76768],"type":"Point"}
+}

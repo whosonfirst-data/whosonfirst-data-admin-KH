@@ -1,0 +1,71 @@
+{
+  "id": 1293654835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.78168,10.59227,104.78168,10.59227",
+    "geom:latitude":10.59227,
+    "geom:longitude":104.78168,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Phumi Prey Leab",
+    "gn:country_code":"KH",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825778,
+    "gn:latitude":10.59227,
+    "gn:longitude":104.78168,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Prey L\u00e9ab",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum\u012d Prey L\u00e9ap",
+        "Phum\u012d Prey L\u00e9ab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673107,
+        1108564709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825778
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"2643d761b154a2e3f248e4b49d56faa2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564709,
+            "locality_id":1293654835,
+            "region_id":85673107
+        }
+    ],
+    "wof:id":1293654835,
+    "wof:lastmodified":1537653565,
+    "wof:name":"Phumi Prey Leab",
+    "wof:parent_id":1108564709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.78168,
+    10.59227,
+    104.78168,
+    10.59227
+],
+  "geometry": {"coordinates":[104.78167999999999,10.59227],"type":"Point"}
+}

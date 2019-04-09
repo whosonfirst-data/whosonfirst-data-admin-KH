@@ -1,0 +1,70 @@
+{
+  "id": 1293757707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.47374,10.95673,104.47374,10.95673",
+    "geom:latitude":10.95673,
+    "geom:longitude":104.47374,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Prey Khmau",
+    "gn:country_code":"KH",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11449298,
+    "gn:latitude":10.95673,
+    "gn:longitude":104.47374,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Prey Khmau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Prey Khmau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673093,
+        1108564651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11449298
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"6a8a6d5663d310de333ab36d1e1494f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564651,
+            "locality_id":1293757707,
+            "region_id":85673093
+        }
+    ],
+    "wof:id":1293757707,
+    "wof:lastmodified":1537654009,
+    "wof:name":"Prey Khmau",
+    "wof:parent_id":1108564651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.47374,
+    10.95673,
+    104.47374,
+    10.95673
+],
+  "geometry": {"coordinates":[104.47374000000001,10.95673],"type":"Point"}
+}

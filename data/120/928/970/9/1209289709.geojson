@@ -1,0 +1,65 @@
+{
+  "id": 1209289709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.96321,10.83401,104.96321,10.83401",
+    "geom:latitude":10.83401,
+    "geom:longitude":104.96321,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Phumi Khnach Duoch",
+    "gn:country_code":"KH",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827687,
+    "gn:latitude":10.83401,
+    "gn:longitude":104.96321,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Khn\u0103ch Du\u014fch",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum\u012d Knach Du\u014fch",
+        "Phum\u012d Khn\u0103ch Du\u014fch"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827687
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"f864a29d5315e6817ef8da9fc5fce3d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209289709
+        }
+    ],
+    "wof:id":1209289709,
+    "wof:lastmodified":1537653741,
+    "wof:name":"Phumi Khnach Duoch",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.96321,
+    10.83401,
+    104.96321,
+    10.83401
+],
+  "geometry": {"coordinates":[104.96321,10.83401],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1210000953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.03656,12.35069,106.03656,12.35069",
+    "geom:latitude":12.35069,
+    "geom:longitude":106.03656,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Phum Prek Prasap Kraom",
+    "gn:country_code":"KH",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825977,
+    "gn:latitude":12.35069,
+    "gn:longitude":106.03656,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Phum Pr\u00eak Pr\u00e2s\u00e2p Kra\u00f4m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Pr\u00eak Pr\u00e2s\u00e2p Kra\u00f4m"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1796\u17d2\u179a\u17c2\u1780\u1794\u17d2\u179a\u179f\u1794\u17cb\u1780\u17d2\u179a\u17c4\u1798"
+    ],
+    "name:und_x_variant":[
+        "Prek Prasap",
+        "Phum\u012d Pr\u00eak Pr\u00e2s\u00e1b Kra\u00f4m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673081,
+        1108564781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825977
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"b6a769bd2beec27af28db4cc9348913c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564781,
+            "locality_id":1210000953,
+            "region_id":85673081
+        }
+    ],
+    "wof:id":1210000953,
+    "wof:lastmodified":1537653582,
+    "wof:name":"Phum Prek Prasap Kraom",
+    "wof:parent_id":1108564781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.03656,
+    12.35069,
+    106.03656,
+    12.35069
+],
+  "geometry": {"coordinates":[106.03655999999999,12.35069],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1310690273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.2584,12.66837,107.2584,12.66837",
+    "geom:latitude":12.66837,
+    "geom:longitude":107.2584,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Phum Pu Lok",
+    "gn:country_code":"KH",
+    "gn:dem":372,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11531536,
+    "gn:latitude":12.66837,
+    "gn:longitude":107.2584,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Phum Pu L\u00f4k",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Pu L\u00f4k"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1796\u17bc\u179b\u1780"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673085,
+        1108564757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11531536
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"5cc2cf8325f35825b30bb9c39e9a4466",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564757,
+            "locality_id":1310690273,
+            "region_id":85673085
+        }
+    ],
+    "wof:id":1310690273,
+    "wof:lastmodified":1537654090,
+    "wof:name":"Phum Pu Lok",
+    "wof:parent_id":1108564757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.2584,
+    12.66837,
+    107.2584,
+    12.66837
+],
+  "geometry": {"coordinates":[107.25839999999999,12.66837],"type":"Point"}
+}

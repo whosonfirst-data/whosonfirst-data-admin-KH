@@ -1,0 +1,76 @@
+{
+  "id": 1343915929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.96376,13.34811,103.96376,13.34811",
+    "geom:latitude":13.34811,
+    "geom:longitude":103.96376,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Phum Lolum",
+    "gn:country_code":"KH",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1826969,
+    "gn:latitude":13.34811,
+    "gn:longitude":103.96376,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Phum L\u00f4l\u016dm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum L\u00f4l\u016dm"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u179b\u179b\u17c6"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d L\u00f4lum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673029,
+        421171409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1826969
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"4fc92c4f8a77ceb30770b6589c0830fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421171409,
+            "locality_id":1343915929,
+            "region_id":85673029
+        }
+    ],
+    "wof:id":1343915929,
+    "wof:lastmodified":1537653675,
+    "wof:name":"Phum Lolum",
+    "wof:parent_id":421171409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.96376,
+    13.34811,
+    103.96376,
+    13.34811
+],
+  "geometry": {"coordinates":[103.96375999999999,13.34811],"type":"Point"}
+}

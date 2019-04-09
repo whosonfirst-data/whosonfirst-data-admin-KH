@@ -1,0 +1,67 @@
+{
+  "id": 1360046517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.9,13.08333,102.9,13.08333",
+    "geom:latitude":13.08333,
+    "geom:longitude":102.9,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Phumi Slapang",
+    "gn:country_code":"KH",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1824856,
+    "gn:latitude":13.08333,
+    "gn:longitude":102.9,
+    "gn:modification_date":"2009-05-11",
+    "gn:name":"Phum\u012d Slapang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673015,
+        1108564615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1824856
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"2ff322da70db7eb998b17d8cb6c5efef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564615,
+            "locality_id":1360046517,
+            "region_id":85673015
+        }
+    ],
+    "wof:id":1360046517,
+    "wof:lastmodified":1537000722,
+    "wof:name":"Phumi Slapang",
+    "wof:parent_id":1108564615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.9,
+    13.08333,
+    102.9,
+    13.08333
+],
+  "geometry": {"coordinates":[102.90000000000001,13.08333],"type":"Point"}
+}

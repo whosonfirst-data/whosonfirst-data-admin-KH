@@ -1,0 +1,78 @@
+{
+  "id": 1276716797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.0691,13.89479,103.0691,13.89479",
+    "geom:latitude":13.89479,
+    "geom:longitude":103.0691,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Rumlum Chrey",
+    "gn:country_code":"KH",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825342,
+    "gn:latitude":13.89479,
+    "gn:longitude":103.0691,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Rumlum Chrey",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Rumlum Chrey"
+    ],
+    "name:khm_x_variant":[
+        "Phum R\u00f4lum Chrey",
+        "\u1797\u17bc\u1798\u17b7 \u179a\u179b\u17c6\u1787\u17d2\u179a\u17c3"
+    ],
+    "name:und_x_variant":[
+        "Phum Rolum Chrei",
+        "Phum\u012d R\u00f4lum Chrey"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673011,
+        421203293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825342
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"c6b87bae4b1d6e04625419237b5d5904",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421203293,
+            "locality_id":1276716797,
+            "region_id":85673011
+        }
+    ],
+    "wof:id":1276716797,
+    "wof:lastmodified":1537653532,
+    "wof:name":"Rumlum Chrey",
+    "wof:parent_id":421203293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.0691,
+    13.89479,
+    103.0691,
+    13.89479
+],
+  "geometry": {"coordinates":[103.06910000000001,13.89479],"type":"Point"}
+}

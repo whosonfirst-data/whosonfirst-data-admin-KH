@@ -1,0 +1,75 @@
+{
+  "id": 1360252677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.96041,13.74724,102.96041,13.74724",
+    "geom:latitude":13.74724,
+    "geom:longitude":102.96041,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Kakaoh",
+    "gn:country_code":"KH",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827259,
+    "gn:latitude":13.74724,
+    "gn:longitude":102.96041,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Kakaoh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Kakaoh"
+    ],
+    "name:und_x_variant":[
+        "Ka Kos",
+        "Phum Krakoh",
+        "Phum\u012d Kr\u00e2ka\u00f4h"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673011,
+        421181961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827259
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"392e6c2da28a3a64770d66ae037165a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421181961,
+            "locality_id":1360252677,
+            "region_id":85673011
+        }
+    ],
+    "wof:id":1360252677,
+    "wof:lastmodified":1537653699,
+    "wof:name":"Kakaoh",
+    "wof:parent_id":421181961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.96041,
+    13.74724,
+    102.96041,
+    13.74724
+],
+  "geometry": {"coordinates":[102.96041,13.74724],"type":"Point"}
+}

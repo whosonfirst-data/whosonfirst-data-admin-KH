@@ -1,0 +1,70 @@
+{
+  "id": 1309678643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.30804,14.22212,104.30804,14.22212",
+    "geom:latitude":14.22212,
+    "geom:longitude":104.30804,
+    "gn:admin1_code":"27",
+    "gn:asciiname":"Tumnob Thmei",
+    "gn:country_code":"KH",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11458555,
+    "gn:latitude":14.22212,
+    "gn:longitude":104.30804,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Tumnob Thmei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Tumnob Thmei"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673033,
+        1108564879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11458555
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"46ffb689b7ce439943f02ee2319f4bd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564879,
+            "locality_id":1309678643,
+            "region_id":85673033
+        }
+    ],
+    "wof:id":1309678643,
+    "wof:lastmodified":1537654017,
+    "wof:name":"Tumnob Thmei",
+    "wof:parent_id":1108564879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.30804,
+    14.22212,
+    104.30804,
+    14.22212
+],
+  "geometry": {"coordinates":[104.30804000000001,14.22212],"type":"Point"}
+}

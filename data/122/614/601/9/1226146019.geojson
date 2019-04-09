@@ -1,0 +1,74 @@
+{
+  "id": 1226146019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.28397,11.91197,105.28397,11.91197",
+    "geom:latitude":11.91197,
+    "geom:longitude":105.28397,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Preaek Ta Nong",
+    "gn:country_code":"KH",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825933,
+    "gn:latitude":11.91197,
+    "gn:longitude":105.28397,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Preaek Ta Nong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Preaek Ta Nong"
+    ],
+    "name:und_x_variant":[
+        "Phum Prek Tanong",
+        "Phum\u012d Pr\u00eak Ta N\u00f3ng Kaeut"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673041,
+        1108564701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825933
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"3574386d50aed3c050d86b8db1b102ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564701,
+            "locality_id":1226146019,
+            "region_id":85673041
+        }
+    ],
+    "wof:id":1226146019,
+    "wof:lastmodified":1537653578,
+    "wof:name":"Preaek Ta Nong",
+    "wof:parent_id":1108564701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.28397,
+    11.91197,
+    105.28397,
+    11.91197
+],
+  "geometry": {"coordinates":[105.28397,11.91197],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343508261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.54215,12.69973,103.54215,12.69973",
+    "geom:latitude":12.69973,
+    "geom:longitude":103.54215,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Srama Meas",
+    "gn:country_code":"KH",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1824708,
+    "gn:latitude":12.69973,
+    "gn:longitude":103.54215,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Srama Meas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Srama Meas"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Sr\u00e2m\u00e2 M\u00e9as"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673015,
+        1108564739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1824708
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"16e504bcfb4ca13691be7afb4af841c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564739,
+            "locality_id":1343508261,
+            "region_id":85673015
+        }
+    ],
+    "wof:id":1343508261,
+    "wof:lastmodified":1537653479,
+    "wof:name":"Srama Meas",
+    "wof:parent_id":1108564739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.54215,
+    12.69973,
+    103.54215,
+    12.69973
+],
+  "geometry": {"coordinates":[103.54215000000001,12.69973],"type":"Point"}
+}

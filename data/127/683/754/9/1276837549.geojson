@@ -1,0 +1,79 @@
+{
+  "id": 1276837549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.99875,13.46816,102.99875,13.46816",
+    "geom:latitude":13.46816,
+    "geom:longitude":102.99875,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Ou Prasat",
+    "gn:country_code":"KH",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1826708,
+    "gn:latitude":13.46816,
+    "gn:longitude":102.99875,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Ou Prasat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Ou Prasat"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u17a2 \u1794\u17d2\u179a\u17b6\u179f\u17b6\u1791",
+        "Phum O Prasat"
+    ],
+    "name:und_x_variant":[
+        "Khum O Prasath",
+        "Khum Au Prasath",
+        "Phum\u012d O Prasat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673011,
+        1108564737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1826708
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"74b0c846d0bbf246ba13f1121b2497c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564737,
+            "locality_id":1276837549,
+            "region_id":85673011
+        }
+    ],
+    "wof:id":1276837549,
+    "wof:lastmodified":1537653651,
+    "wof:name":"Ou Prasat",
+    "wof:parent_id":1108564737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.99875,
+    13.46816,
+    102.99875,
+    13.46816
+],
+  "geometry": {"coordinates":[102.99875,13.46816],"type":"Point"}
+}

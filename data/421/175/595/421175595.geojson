@@ -1,0 +1,303 @@
+{
+  "id": 421175595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.320434,11.496173,105.320434,11.496173",
+    "geom:latitude":11.496173,
+    "geom:longitude":105.320434,
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:min_zoom":7.0,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0628\u0631\u064a \u0641\u064a\u0646\u062c"
+    ],
+    "name:ben_x_preferred":[
+        "\u09aa\u09cd\u09b0\u09c7 \u09ad\u09c7\u0982"
+    ],
+    "name:chi_x_preferred":[
+        "\u6ce2\u863f\u52c9"
+    ],
+    "name:dan_x_preferred":[
+        "Prey Veng"
+    ],
+    "name:dut_x_preferred":[
+        "Prey Veng"
+    ],
+    "name:eng_x_preferred":[
+        "Prey Veng"
+    ],
+    "name:est_x_preferred":[
+        "Prey V\u00eang"
+    ],
+    "name:fin_x_preferred":[
+        "Prey V\u00eang"
+    ],
+    "name:fre_x_preferred":[
+        "Prey Veng"
+    ],
+    "name:ger_x_preferred":[
+        "Prey Veng"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a0\u03c1\u03ad\u03b9 \u0392\u03b5\u03bd\u03b3\u03ba"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aaa\u0acd\u0ab0\u0ac7\u0aaf \u0ab5\u0ac7\u0a82\u0a97"
+    ],
+    "name:hin_x_preferred":[
+        "\u092a\u094d\u0930\u0940\u0908 \u0935\u0947\u0902\u0917"
+    ],
+    "name:hun_x_preferred":[
+        "Prejveng"
+    ],
+    "name:ind_x_preferred":[
+        "Prey Veng"
+    ],
+    "name:ita_x_preferred":[
+        "Prey Veng"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d7\u30ec\u30a4\u30d9\u30f3"
+    ],
+    "name:kan_x_preferred":[
+        "\u0caa\u0ccd\u0cb0\u0cc7 \u0cb5\u0cc6\u0c82\u0c97\u0ccd"
+    ],
+    "name:khm_x_preferred":[
+        "\u1796\u17d2\u179a\u17c3\u179c\u17c2\u1784"
+    ],
+    "name:kor_x_preferred":[
+        "\ud504\ub808\uc774\ubcb5"
+    ],
+    "name:lav_x_preferred":[
+        "Preivenga"
+    ],
+    "name:lit_x_preferred":[
+        "Preivengas"
+    ],
+    "name:mar_x_preferred":[
+        "\u092a\u094d\u0930\u0940\u0908 \u0935\u0947\u0902\u0917"
+    ],
+    "name:may_x_preferred":[
+        "Prey Veng"
+    ],
+    "name:nob_x_preferred":[
+        "Prey Veng"
+    ],
+    "name:pam_x_preferred":[
+        "Prey Veng Lalawigan"
+    ],
+    "name:per_x_preferred":[
+        "\u067e\u0631\u06cc \u0648\u0646\u06af"
+    ],
+    "name:pnb_x_preferred":[
+        "\u067e\u0631\u06d2 \u0648\u06cc\u0646\u06af \u0634\u06c1\u0631"
+    ],
+    "name:pol_x_preferred":[
+        "Prey Veng"
+    ],
+    "name:por_x_preferred":[
+        "Prey Veng"
+    ],
+    "name:rum_x_preferred":[
+        "Prey Veng"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0440\u0435\u0439\u0432\u044d\u043d\u0433"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db4\u0dca\u200d\u0dbb\u0dda \u0dc0\u0dd9\u0db1\u0dca"
+    ],
+    "name:swe_x_preferred":[
+        "Prey Veng"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bbf\u0bb0\u0bc7 \u0bb5\u0bc6\u0b99\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2a\u0c4d\u0c30\u0c47 \u0c35\u0c3f\u0c02\u0c17\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e01\u0e33\u0e1b\u0e07 \u0e40\u0e25\u0e35\u0e22\u0e1f"
+    ],
+    "name:tur_x_preferred":[
+        "Prey Veng"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0440\u0435\u0439\u0432\u0435\u043d\u0433"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u0631\u06d2 \u0648\u06cc\u0646\u062c"
+    ],
+    "name:vie_x_preferred":[
+        "Prey Veng"
+    ],
+    "name:war_x_preferred":[
+        "Prey Veng"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Cambodia",
+    "ne:ADM0_A3":"KHM",
+    "ne:ADM1NAME":"Prey Ving",
+    "ne:ADMIN1_COD":0,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":4,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":"Added missing admin-1 capital.",
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Admin-1 capital",
+    "ne:FEATURE_CL":null,
+    "ne:FEATURE_CO":null,
+    "ne:GEONAMEID":-1,
+    "ne:GEONAMESNO":"No GeoNames match due to small population, not in GeoNames, or poor NEV placement.",
+    "ne:GN_ASCII":null,
+    "ne:GN_POP":0,
+    "ne:GTOPO30":0.0,
+    "ne:ISO_A2":"KH",
+    "ne:LABELRANK":8,
+    "ne:LATITUDE":11.484,
+    "ne:LONGITUDE":105.324004,
+    "ne:LS_MATCH":0,
+    "ne:LS_NAME":null,
+    "ne:MAX_AREAKM":0.0,
+    "ne:MAX_AREAMI":0.0,
+    "ne:MAX_BBXMAX":0.0,
+    "ne:MAX_BBXMIN":0.0,
+    "ne:MAX_BBYMAX":0.0,
+    "ne:MAX_BBYMIN":0.0,
+    "ne:MAX_NATSCA":0.0,
+    "ne:MAX_PERKM":0.0,
+    "ne:MAX_PERMI":0.0,
+    "ne:MAX_POP10":0,
+    "ne:MAX_POP20":0,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":0.0,
+    "ne:MEAN_BBYC":0.0,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":0.0,
+    "ne:MIN_AREAMI":0.0,
+    "ne:MIN_BBXMAX":0.0,
+    "ne:MIN_BBXMIN":0.0,
+    "ne:MIN_BBYMAX":0.0,
+    "ne:MIN_BBYMIN":0.0,
+    "ne:MIN_PERKM":0.0,
+    "ne:MIN_PERMI":0.0,
+    "ne:NAME":"Prey Veng",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"Prey Veng",
+    "ne:NAMEDIFF":1,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":1,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":74000,
+    "ne:POP_MIN":74000,
+    "ne:POP_OTHER":0,
+    "ne:RANK_MAX":8,
+    "ne:RANK_MIN":8,
+    "ne:SCALERANK":10,
+    "ne:SOV0NAME":"Cambodia",
+    "ne:SOV_A3":"KHM",
+    "ne:TIMEZONE":null,
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Prey Veng",
+    "qs:name_adm0":"Cambodia",
+    "qs:name_adm1":"Prey Veng",
+    "qs:photos":53,
+    "qs:photos_1k":11,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":53,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":56741,
+    "qs:woe_adm0":23424776,
+    "qs:woe_id":1028601,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "naturalearth"
+    ],
+    "wd:wordcount":17,
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673067,
+        1108564789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1028601,
+        "qs:id":56741,
+        "wd:id":"Q934619"
+    },
+    "wof:country":"KH",
+    "wof:created":1459009073,
+    "wof:geomhash":"506c962d9415ed1a4d299d3ceb09769a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564789,
+            "locality_id":421175595,
+            "region_id":85673067
+        }
+    ],
+    "wof:id":421175595,
+    "wof:lastmodified":1553816365,
+    "wof:name":"Prey Veng",
+    "wof:parent_id":1108564789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[
+        1141906175
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.320434,
+    11.496173,
+    105.320434,
+    11.496173
+],
+  "geometry": {"coordinates":[105.32043400000001,11.496173],"type":"Point"}
+}

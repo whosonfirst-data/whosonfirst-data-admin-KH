@@ -1,0 +1,73 @@
+{
+  "id": 1344090707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.84923,12.01229,105.84923,12.01229",
+    "geom:latitude":12.01229,
+    "geom:longitude":105.84923,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Phum Trapeang Chhuk",
+    "gn:country_code":"KH",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11605198,
+    "gn:latitude":12.01229,
+    "gn:longitude":105.84923,
+    "gn:modification_date":"2017-07-06",
+    "gn:name":"Phum Tr\u00e2pe\u0103ng Chhuk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Tr\u00e2pe\u0103ng Chhuk"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u178f\u17d2\u179a\u1796\u17b6\u17c6\u1784\u1788\u17bc\u1780"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        1108804319,
+        1108564653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11605198
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"af84219ec2f415ce1046d4679ae3173d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564653,
+            "locality_id":1344090707,
+            "region_id":1108804319
+        }
+    ],
+    "wof:id":1344090707,
+    "wof:lastmodified":1537654140,
+    "wof:name":"Phum Trapeang Chhuk",
+    "wof:parent_id":1108564653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.84923,
+    12.01229,
+    105.84923,
+    12.01229
+],
+  "geometry": {"coordinates":[105.84923000000001,12.01229],"type":"Point"}
+}

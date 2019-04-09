@@ -1,0 +1,74 @@
+{
+  "id": 1326804483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.19142,11.10306,104.19142,11.10306",
+    "geom:latitude":11.10306,
+    "geom:longitude":104.19142,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Phum Sre Chouk",
+    "gn:country_code":"KH",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1824655,
+    "gn:latitude":11.10306,
+    "gn:longitude":104.19142,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Phum Sr\u00ea Cho\u016dk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Sr\u00ea Cho\u016dk"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u179f\u17d2\u179a\u17c2\u1787\u17c4\u1780",
+        "Phum\u012d Sr\u00ea Cho\u016dk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673093,
+        1108564637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1824655
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"531cc1c8d6846df40ae9638dc83ffb50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564637,
+            "locality_id":1326804483,
+            "region_id":85673093
+        }
+    ],
+    "wof:id":1326804483,
+    "wof:lastmodified":1537653475,
+    "wof:name":"Phum Sre Chouk",
+    "wof:parent_id":1108564637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.19142,
+    11.10306,
+    104.19142,
+    11.10306
+],
+  "geometry": {"coordinates":[104.19141999999999,11.10306],"type":"Point"}
+}

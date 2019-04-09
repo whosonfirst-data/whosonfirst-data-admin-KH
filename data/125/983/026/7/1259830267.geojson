@@ -1,0 +1,77 @@
+{
+  "id": 1259830267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.01264,13.28524,103.01264,13.28524",
+    "geom:latitude":13.28524,
+    "geom:longitude":103.01264,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Phum Bat Bangkov",
+    "gn:country_code":"KH",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829547,
+    "gn:latitude":13.28524,
+    "gn:longitude":103.01264,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Phum B\u0103t B\u00e2ngkov",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum B\u0103t B\u00e2ngkov"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1794\u17b6\u178f\u17cb\u1794\u1784\u17cb\u1780\u17bc\u179c"
+    ],
+    "name:und_x_variant":[
+        "Phum Bat Bang Keou",
+        "Phum\u012d B\u0103t B\u00e2ngkov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673015,
+        1108564871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829547
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"6cecaf2e2eeadaa3dacf4c417ac1af8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564871,
+            "locality_id":1259830267,
+            "region_id":85673015
+        }
+    ],
+    "wof:id":1259830267,
+    "wof:lastmodified":1537653890,
+    "wof:name":"Phum Bat Bangkov",
+    "wof:parent_id":1108564871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.01264,
+    13.28524,
+    103.01264,
+    13.28524
+],
+  "geometry": {"coordinates":[103.01264,13.28524],"type":"Point"}
+}

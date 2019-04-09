@@ -1,0 +1,73 @@
+{
+  "id": 1260130565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.44413,12.75436,103.44413,12.75436",
+    "geom:latitude":12.75436,
+    "geom:longitude":103.44413,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Phum Ke",
+    "gn:country_code":"KH",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11349846,
+    "gn:latitude":12.75436,
+    "gn:longitude":103.44413,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Phum K\u00ea",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum K\u00ea"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1780\u17c1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673015,
+        1108564739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11349846
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"42a96360adfe715a2b88c18b47bc895b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564739,
+            "locality_id":1260130565,
+            "region_id":85673015
+        }
+    ],
+    "wof:id":1260130565,
+    "wof:lastmodified":1537653977,
+    "wof:name":"Phum Ke",
+    "wof:parent_id":1108564739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.44413,
+    12.75436,
+    103.44413,
+    12.75436
+],
+  "geometry": {"coordinates":[103.44413,12.75436],"type":"Point"}
+}

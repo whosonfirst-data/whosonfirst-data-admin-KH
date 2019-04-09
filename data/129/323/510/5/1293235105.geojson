@@ -1,0 +1,71 @@
+{
+  "id": 1293235105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.63506,11.87045,105.63506,11.87045",
+    "geom:latitude":11.87045,
+    "geom:longitude":105.63506,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Phumi Rokar Khnuoch",
+    "gn:country_code":"KH",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825373,
+    "gn:latitude":11.87045,
+    "gn:longitude":105.63506,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Phum\u012d R\u00f4kar Khnu\u014fch",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum\u012d R\u00f4kar Knu\u014fch",
+        "Phum\u012d R\u00f4kar Khnu\u014fch"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        1108804319,
+        421183891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825373
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"dfc073213cab392e6eafd5e86827baa0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421183891,
+            "locality_id":1293235105,
+            "region_id":1108804319
+        }
+    ],
+    "wof:id":1293235105,
+    "wof:lastmodified":1537653535,
+    "wof:name":"Phumi Rokar Khnuoch",
+    "wof:parent_id":421183891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.63506,
+    11.87045,
+    105.63506,
+    11.87045
+],
+  "geometry": {"coordinates":[105.63506,11.87045],"type":"Point"}
+}

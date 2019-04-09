@@ -1,0 +1,66 @@
+{
+  "id": 1209576587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.11983,12.77679,103.11983,12.77679",
+    "geom:latitude":12.77679,
+    "geom:longitude":103.11983,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Phumi Anlong Mien",
+    "gn:country_code":"KH",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829826,
+    "gn:latitude":12.77679,
+    "gn:longitude":103.11983,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d \u00c2nl\u00f3ng Mi\u0115n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Long Mienne",
+        "Phum\u012d \u00c2nl\u016dng Mi\u0115n",
+        "Phum\u012d \u00c2nl\u00f3ng Mi\u0115n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829826
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"e596f3f399d71b3d0cb8dfa2c362a67d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209576587
+        }
+    ],
+    "wof:id":1209576587,
+    "wof:lastmodified":1537653915,
+    "wof:name":"Phumi Anlong Mien",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.11983,
+    12.77679,
+    103.11983,
+    12.77679
+],
+  "geometry": {"coordinates":[103.11982999999999,12.77679],"type":"Point"}
+}

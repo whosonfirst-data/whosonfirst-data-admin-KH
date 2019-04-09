@@ -1,0 +1,70 @@
+{
+  "id": 1209372161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.01843,13.87438,103.01843,13.87438",
+    "geom:latitude":13.87438,
+    "geom:longitude":103.01843,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Phum Kouk Svay",
+    "gn:country_code":"KH",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827327,
+    "gn:latitude":13.87438,
+    "gn:longitude":103.01843,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Phum Ko\u016dk Svay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Ko\u016dk Svay"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1782\u17c4\u1780\u179f\u17d2\u179c\u17b6\u1799"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Ko\u016dk Svay (2)"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827327
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"5fce1fd0fd559a7d8b380973e81a85bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209372161
+        }
+    ],
+    "wof:id":1209372161,
+    "wof:lastmodified":1537653707,
+    "wof:name":"Phum Kouk Svay",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.01843,
+    13.87438,
+    103.01843,
+    13.87438
+],
+  "geometry": {"coordinates":[103.01843,13.87438],"type":"Point"}
+}

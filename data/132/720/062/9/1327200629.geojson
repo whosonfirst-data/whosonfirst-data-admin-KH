@@ -1,0 +1,70 @@
+{
+  "id": 1327200629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.45823,14.28616,104.45823,14.28616",
+    "geom:latitude":14.28616,
+    "geom:longitude":104.45823,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Tumnob Dach",
+    "gn:country_code":"KH",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11605188,
+    "gn:latitude":14.28616,
+    "gn:longitude":104.45823,
+    "gn:modification_date":"2017-07-06",
+    "gn:name":"Tumnob Dach",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Tumnob Dach"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673071,
+        1108564643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11605188
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"6f6b001dc77518512724ae52f492c382",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564643,
+            "locality_id":1327200629,
+            "region_id":85673071
+        }
+    ],
+    "wof:id":1327200629,
+    "wof:lastmodified":1537654139,
+    "wof:name":"Tumnob Dach",
+    "wof:parent_id":1108564643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.45823,
+    14.28616,
+    104.45823,
+    14.28616
+],
+  "geometry": {"coordinates":[104.45823,14.28616],"type":"Point"}
+}

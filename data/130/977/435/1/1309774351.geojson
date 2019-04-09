@@ -1,0 +1,78 @@
+{
+  "id": 1309774351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.51504,13.54707,103.51504,13.54707",
+    "geom:latitude":13.54707,
+    "geom:longitude":103.51504,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Phum Kok Lohong",
+    "gn:country_code":"KH",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827385,
+    "gn:latitude":13.54707,
+    "gn:longitude":103.51504,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Phum Kok L\u00f4hong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Kok L\u00f4hong"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1782\u17c4\u1780\u179b\u17d2\u179b\u17bb\u1784"
+    ],
+    "name:und_x_variant":[
+        "Lo Hong",
+        "Phum\u012d Kok L\u00f4hong",
+        "Phum\u012d Ko\u016dk Lh\u014fng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673029,
+        421194643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827385
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"3e60f83ce86f5483ad6d3b6c7a2c0f8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421194643,
+            "locality_id":1309774351,
+            "region_id":85673029
+        }
+    ],
+    "wof:id":1309774351,
+    "wof:lastmodified":1537653713,
+    "wof:name":"Phum Kok Lohong",
+    "wof:parent_id":421194643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.51504,
+    13.54707,
+    103.51504,
+    13.54707
+],
+  "geometry": {"coordinates":[103.51504,13.54707],"type":"Point"}
+}

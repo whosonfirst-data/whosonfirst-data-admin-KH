@@ -1,0 +1,74 @@
+{
+  "id": 1310117435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.54453,11.74446,104.54453,11.74446",
+    "geom:latitude":11.74446,
+    "geom:longitude":104.54453,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Tang Poun",
+    "gn:country_code":"KH",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1824158,
+    "gn:latitude":11.74446,
+    "gn:longitude":104.54453,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Tang Poun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Tang Poun"
+    ],
+    "name:und_x_variant":[
+        "Tang P\u00f4n",
+        "Phum\u012d T\u0103ng Po\u016dn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673047,
+        890440787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1824158
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"60631e76c0c143f21d95e4d8470ddcc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":890440787,
+            "locality_id":1310117435,
+            "region_id":85673047
+        }
+    ],
+    "wof:id":1310117435,
+    "wof:lastmodified":1537653435,
+    "wof:name":"Tang Poun",
+    "wof:parent_id":890440787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.54453,
+    11.74446,
+    104.54453,
+    11.74446
+],
+  "geometry": {"coordinates":[104.54452999999999,11.74446],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1209602263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.96009,12.51505,103.96009,12.51505",
+    "geom:latitude":12.51505,
+    "geom:longitude":103.96009,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Phum Tuol Mokak",
+    "gn:country_code":"KH",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1823042,
+    "gn:latitude":12.51505,
+    "gn:longitude":103.96009,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Phum Tu\u014fl M\u00f4kak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Tu\u014fl M\u00f4kak"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1791\u17bd\u179b\u1798\u17d2\u1780\u17b6\u1780\u17cb"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Tu\u014fl M\u00f4kak (2)",
+        "Phum\u012d To\u016dl M\u00f4kak",
+        "Phum\u012d Tu\u014fl Mk\u0103k (2)"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1823042
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"01d04593950586fa733d577b5bf3830f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209602263
+        }
+    ],
+    "wof:id":1209602263,
+    "wof:lastmodified":1537653352,
+    "wof:name":"Phum Tuol Mokak",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.96009,
+    12.51505,
+    103.96009,
+    12.51505
+],
+  "geometry": {"coordinates":[103.96008999999999,12.51505],"type":"Point"}
+}

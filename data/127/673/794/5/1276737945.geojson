@@ -1,0 +1,72 @@
+{
+  "id": 1276737945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.76842,10.81689,104.76842,10.81689",
+    "geom:latitude":10.81689,
+    "geom:longitude":104.76842,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Phumi Damnak Praphleak",
+    "gn:country_code":"KH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828635,
+    "gn:latitude":10.81689,
+    "gn:longitude":104.76842,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d D\u00e2mn\u0103k Pr\u00e2phle\u0103k",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum\u012d D\u00e2mnat Pr\u00e2phlerk",
+        "Phum\u012d D\u00e2mnak Pr\u00e2phlerk",
+        "Phum\u012d D\u00e2mn\u0103k Pr\u00e2phle\u0103k"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673107,
+        1108564881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828635
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"4cd9dc2b6a8b4329f51841a95ea77e0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564881,
+            "locality_id":1276737945,
+            "region_id":85673107
+        }
+    ],
+    "wof:id":1276737945,
+    "wof:lastmodified":1537653821,
+    "wof:name":"Phumi Damnak Praphleak",
+    "wof:parent_id":1108564881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.76842,
+    10.81689,
+    104.76842,
+    10.81689
+],
+  "geometry": {"coordinates":[104.76842000000001,10.81689],"type":"Point"}
+}

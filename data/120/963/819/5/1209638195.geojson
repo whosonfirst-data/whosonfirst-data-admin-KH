@@ -1,0 +1,61 @@
+{
+  "id": 1209638195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.6149,12.87672,104.6149,12.87672",
+    "geom:latitude":12.87672,
+    "geom:longitude":104.6149,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Phumi Thnal Bek",
+    "gn:country_code":"KH",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1823762,
+    "gn:latitude":12.87672,
+    "gn:longitude":104.6149,
+    "gn:modification_date":"1993-12-30",
+    "gn:name":"Phum\u012d Thn\u00e1l B\u00eak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1823762
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"640a3fc75ff12970bb1c8f2ed7776a3c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209638195
+        }
+    ],
+    "wof:id":1209638195,
+    "wof:lastmodified":1536280972,
+    "wof:name":"Phumi Thnal Bek",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.6149,
+    12.87672,
+    104.6149,
+    12.87672
+],
+  "geometry": {"coordinates":[104.61490000000001,12.87672],"type":"Point"}
+}

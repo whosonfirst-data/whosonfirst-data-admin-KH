@@ -1,0 +1,70 @@
+{
+  "id": 1343908693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.27103,13.19877,103.27103,13.19877",
+    "geom:latitude":13.19877,
+    "geom:longitude":103.27103,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Ansang Sak",
+    "gn:country_code":"KH",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11424650,
+    "gn:latitude":13.19877,
+    "gn:longitude":103.27103,
+    "gn:modification_date":"2017-01-07",
+    "gn:name":"Ansang Sak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Ansang Sak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673015,
+        421172391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11424650
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"b549c360d9286b5c8d0cf6453929f9aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421172391,
+            "locality_id":1343908693,
+            "region_id":85673015
+        }
+    ],
+    "wof:id":1343908693,
+    "wof:lastmodified":1537654003,
+    "wof:name":"Ansang Sak",
+    "wof:parent_id":421172391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.27103,
+    13.19877,
+    103.27103,
+    13.19877
+],
+  "geometry": {"coordinates":[103.27103,13.19877],"type":"Point"}
+}

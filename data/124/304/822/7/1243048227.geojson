@@ -1,0 +1,70 @@
+{
+  "id": 1243048227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.73006,12.64209,103.73006,12.64209",
+    "geom:latitude":12.64209,
+    "geom:longitude":103.73006,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Chamkar Leu",
+    "gn:country_code":"KH",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11446555,
+    "gn:latitude":12.64209,
+    "gn:longitude":103.73006,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Chamkar Leu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Chamkar Leu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673023,
+        1108564595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11446555
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"4536c5eb09ac4a1eddcad47f4ff693c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564595,
+            "locality_id":1243048227,
+            "region_id":85673023
+        }
+    ],
+    "wof:id":1243048227,
+    "wof:lastmodified":1537654007,
+    "wof:name":"Chamkar Leu",
+    "wof:parent_id":1108564595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.73006,
+    12.64209,
+    103.73006,
+    12.64209
+],
+  "geometry": {"coordinates":[103.73005999999999,12.64209],"type":"Point"}
+}

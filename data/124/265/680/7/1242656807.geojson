@@ -1,0 +1,76 @@
+{
+  "id": 1242656807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.726,13.76566,104.726,13.76566",
+    "geom:latitude":13.76566,
+    "geom:longitude":104.726,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Srabal",
+    "gn:country_code":"KH",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1824736,
+    "gn:latitude":13.76566,
+    "gn:longitude":104.726,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Srabal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Sr\u00e2bal"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u179f\u17d2\u179a\u1794\u17b6\u179f"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Sr\u00e2bal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673071,
+        421194859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1824736
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"115fd8d485e4697aba12cd5575e9a6d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421194859,
+            "locality_id":1242656807,
+            "region_id":85673071
+        }
+    ],
+    "wof:id":1242656807,
+    "wof:lastmodified":1537653481,
+    "wof:name":"Srabal",
+    "wof:parent_id":421194859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.726,
+    13.76566,
+    104.726,
+    13.76566
+],
+  "geometry": {"coordinates":[104.726,13.76566],"type":"Point"}
+}

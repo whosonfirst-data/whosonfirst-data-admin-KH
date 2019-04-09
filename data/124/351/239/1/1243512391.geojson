@@ -1,0 +1,77 @@
+{
+  "id": 1243512391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.82987,13.86886,103.82987,13.86886",
+    "geom:latitude":13.86886,
+    "geom:longitude":103.82987,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Varin",
+    "gn:country_code":"KH",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1821445,
+    "gn:latitude":13.86886,
+    "gn:longitude":103.82987,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Varin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Varin"
+    ],
+    "name:und_x_variant":[
+        "Ihre",
+        "Watt Ihr",
+        "Ihr",
+        "Thre",
+        "Var\u012dn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673029,
+        421200833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1821445
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"727d513084bd83423a64c3c5c09d21c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421200833,
+            "locality_id":1243512391,
+            "region_id":85673029
+        }
+    ],
+    "wof:id":1243512391,
+    "wof:lastmodified":1537653322,
+    "wof:name":"Varin",
+    "wof:parent_id":421200833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.82987,
+    13.86886,
+    103.82987,
+    13.86886
+],
+  "geometry": {"coordinates":[103.82987,13.86886],"type":"Point"}
+}

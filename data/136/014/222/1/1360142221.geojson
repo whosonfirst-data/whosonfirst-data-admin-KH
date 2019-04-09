@@ -1,0 +1,74 @@
+{
+  "id": 1360142221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.96163,13.68691,102.96163,13.68691",
+    "geom:latitude":13.68691,
+    "geom:longitude":102.96163,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Ta Ma",
+    "gn:country_code":"KH",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1823909,
+    "gn:latitude":13.68691,
+    "gn:longitude":102.96163,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Ta Ma",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Ta Ma"
+    ],
+    "name:und_x_variant":[
+        "Phum Tama",
+        "Phum\u012d Thm\u00e2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673011,
+        421170329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1823909
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"e8ceaacc1d85551d35bf8e9af46a5320",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421170329,
+            "locality_id":1360142221,
+            "region_id":85673011
+        }
+    ],
+    "wof:id":1360142221,
+    "wof:lastmodified":1537653415,
+    "wof:name":"Ta Ma",
+    "wof:parent_id":421170329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.96163,
+    13.68691,
+    102.96163,
+    13.68691
+],
+  "geometry": {"coordinates":[102.96163,13.68691],"type":"Point"}
+}

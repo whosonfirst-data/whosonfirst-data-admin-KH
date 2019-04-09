@@ -1,0 +1,79 @@
+{
+  "id": 1226807373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.87059,13.44098,106.87059,13.44098",
+    "geom:latitude":13.44098,
+    "geom:longitude":106.87059,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Srae Pok Thum",
+    "gn:country_code":"KH",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1824602,
+    "gn:latitude":13.44098,
+    "gn:longitude":106.87059,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Srae Pok Thum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Sr\u00eap\u00f4k Thom"
+    ],
+    "name:khm_x_variant":[
+        "Srae Pok Thum",
+        "\u1797\u17bc\u1798\u17b7 \u179f\u17d2\u179a\u17c2\u1796\u1780\u1792\u17c6"
+    ],
+    "name:und_x_variant":[
+        "Ban Sepok Nhay",
+        "Phum Sr\u00e9pok Thomx",
+        "Phum\u012d Sr\u00eap\u00f4k Thum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673089,
+        1108564717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1824602
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"28d404234b856c8dd0e5dee1286c9ab8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564717,
+            "locality_id":1226807373,
+            "region_id":85673089
+        }
+    ],
+    "wof:id":1226807373,
+    "wof:lastmodified":1537653471,
+    "wof:name":"Srae Pok Thum",
+    "wof:parent_id":1108564717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.87059,
+    13.44098,
+    106.87059,
+    13.44098
+],
+  "geometry": {"coordinates":[106.87059000000001,13.44098],"type":"Point"}
+}

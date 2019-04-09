@@ -1,0 +1,67 @@
+{
+  "id": 1360251133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.81916,11.43306,105.81916,11.43306",
+    "geom:latitude":11.43306,
+    "geom:longitude":105.81916,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Phumi Tbeng",
+    "gn:country_code":"KH",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1823984,
+    "gn:latitude":11.43306,
+    "gn:longitude":105.81916,
+    "gn:modification_date":"1993-12-30",
+    "gn:name":"Phum\u012d Tb\u00eang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673105,
+        1108564797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1823984
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"b547524c3f5a5e1a75f14e14684b0dc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564797,
+            "locality_id":1360251133,
+            "region_id":85673105
+        }
+    ],
+    "wof:id":1360251133,
+    "wof:lastmodified":1536706464,
+    "wof:name":"Phumi Tbeng",
+    "wof:parent_id":1108564797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.81916,
+    11.43306,
+    105.81916,
+    11.43306
+],
+  "geometry": {"coordinates":[105.81916,11.43306],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1259558725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.42168,11.09536,104.42168,11.09536",
+    "geom:latitude":11.09536,
+    "geom:longitude":104.42168,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Prey Kduoch",
+    "gn:country_code":"KH",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11450666,
+    "gn:latitude":11.09536,
+    "gn:longitude":104.42168,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Prey Kduoch",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Prey Kduoch"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673107,
+        1108564877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11450666
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"96647d4dc08d49bdcb8355922e6aeaff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564877,
+            "locality_id":1259558725,
+            "region_id":85673107
+        }
+    ],
+    "wof:id":1259558725,
+    "wof:lastmodified":1537654014,
+    "wof:name":"Prey Kduoch",
+    "wof:parent_id":1108564877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.42168,
+    11.09536,
+    104.42168,
+    11.09536
+],
+  "geometry": {"coordinates":[104.42167999999999,11.09536],"type":"Point"}
+}

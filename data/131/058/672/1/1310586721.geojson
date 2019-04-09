@@ -1,0 +1,75 @@
+{
+  "id": 1310586721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.05126,11.58008,103.05126,11.58008",
+    "geom:latitude":11.58008,
+    "geom:longitude":103.05126,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Tuol Kokir Leu",
+    "gn:country_code":"KH",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1823059,
+    "gn:latitude":11.58008,
+    "gn:longitude":103.05126,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Tuol Kokir Leu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Tuol Kokir Leu"
+    ],
+    "name:und_x_variant":[
+        "Tuol Koky",
+        "Nung Takhieng",
+        "Phum\u012d Tu\u014fl K\u00f4ki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673019,
+        421201861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1823059
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"6fd1e04be715d74a19ae00f237e1e0da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421201861,
+            "locality_id":1310586721,
+            "region_id":85673019
+        }
+    ],
+    "wof:id":1310586721,
+    "wof:lastmodified":1537653353,
+    "wof:name":"Tuol Kokir Leu",
+    "wof:parent_id":421201861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.05126,
+    11.58008,
+    103.05126,
+    11.58008
+],
+  "geometry": {"coordinates":[103.05126,11.58008],"type":"Point"}
+}

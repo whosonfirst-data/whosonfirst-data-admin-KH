@@ -1,0 +1,70 @@
+{
+  "id": 1259394063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.56274,12.28616,104.56274,12.28616",
+    "geom:latitude":12.28616,
+    "geom:longitude":104.56274,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Preal",
+    "gn:country_code":"KH",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11476643,
+    "gn:latitude":12.28616,
+    "gn:longitude":104.56274,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Preal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Preal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673047,
+        421198923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11476643
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"fe02854655003d45aee8025e269852f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421198923,
+            "locality_id":1259394063,
+            "region_id":85673047
+        }
+    ],
+    "wof:id":1259394063,
+    "wof:lastmodified":1537654032,
+    "wof:name":"Preal",
+    "wof:parent_id":421198923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.56274,
+    12.28616,
+    104.56274,
+    12.28616
+],
+  "geometry": {"coordinates":[104.56274000000001,12.28616],"type":"Point"}
+}

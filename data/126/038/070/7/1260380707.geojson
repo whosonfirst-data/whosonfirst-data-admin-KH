@@ -1,0 +1,78 @@
+{
+  "id": 1260380707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.82165,12.35515,105.82165,12.35515",
+    "geom:latitude":12.35515,
+    "geom:longitude":105.82165,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Stueng Thum",
+    "gn:country_code":"KH",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1824493,
+    "gn:latitude":12.35515,
+    "gn:longitude":105.82165,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Stueng Thum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum St\u0153\u0306ng Thom"
+    ],
+    "name:khm_x_variant":[
+        "Stueng Thum",
+        "\u1797\u17bc\u1798\u17b7 \u179f\u17d2\u1791\u17b9\u1784\u1792\u17c6"
+    ],
+    "name:und_x_variant":[
+        "Phum Stung Thom",
+        "Phum\u012d St\u0153\u0306ng Thum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673081,
+        1108564781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1824493
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"2e07de85d61b0ae94f00d53d0291c9d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564781,
+            "locality_id":1260380707,
+            "region_id":85673081
+        }
+    ],
+    "wof:id":1260380707,
+    "wof:lastmodified":1537653462,
+    "wof:name":"Stueng Thum",
+    "wof:parent_id":1108564781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.82165,
+    12.35515,
+    105.82165,
+    12.35515
+],
+  "geometry": {"coordinates":[105.82165000000001,12.35515],"type":"Point"}
+}

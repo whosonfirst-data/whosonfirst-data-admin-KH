@@ -1,0 +1,78 @@
+{
+  "id": 1310607087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.13774,11.83728,104.13774,11.83728",
+    "geom:latitude":11.83728,
+    "geom:longitude":104.13774,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Phum Chaen",
+    "gn:country_code":"KH",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829027,
+    "gn:latitude":11.83728,
+    "gn:longitude":104.13774,
+    "gn:modification_date":"2017-07-05",
+    "gn:name":"Phum Chaen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Chh\u00e2\u0153\u0306n"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1786\u17d2\u17a2\u17b7\u1793"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Chh\u00e2\u0153\u0306n (1)",
+        "Phum Chaen",
+        "Phum\u012d Chh\u2019\u0115n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673053,
+        1108564591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829027
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"a71d2913ff9fd6115ff4ea6d328e8d80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564591,
+            "locality_id":1310607087,
+            "region_id":85673053
+        }
+    ],
+    "wof:id":1310607087,
+    "wof:lastmodified":1537653852,
+    "wof:name":"Phum Chaen",
+    "wof:parent_id":1108564591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.13774,
+    11.83728,
+    104.13774,
+    11.83728
+],
+  "geometry": {"coordinates":[104.13773999999999,11.83728],"type":"Point"}
+}

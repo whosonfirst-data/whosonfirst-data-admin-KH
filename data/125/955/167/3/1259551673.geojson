@@ -1,0 +1,78 @@
+{
+  "id": 1259551673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.7665,13.48184,103.7665,13.48184",
+    "geom:latitude":13.48184,
+    "geom:longitude":103.7665,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Phum Kouk Rumduol",
+    "gn:country_code":"KH",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827342,
+    "gn:latitude":13.48184,
+    "gn:longitude":103.7665,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Phum Ko\u016dk R\u016dmdu\u014fl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Ko\u016dk R\u016dmdu\u014fl"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1782\u17c4\u1780\u179a\u17c6\u178a\u17bd\u179b"
+    ],
+    "name:und_x_variant":[
+        "Phum Romdoul",
+        "Phum Romdou",
+        "Phum\u012d Ko\u016dk Rumdu\u014fl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673029,
+        421185505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827342
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"b34a85a65e85301e3fa77f988cbdd889",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421185505,
+            "locality_id":1259551673,
+            "region_id":85673029
+        }
+    ],
+    "wof:id":1259551673,
+    "wof:lastmodified":1537653708,
+    "wof:name":"Phum Kouk Rumduol",
+    "wof:parent_id":421185505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.7665,
+    13.48184,
+    103.7665,
+    13.48184
+],
+  "geometry": {"coordinates":[103.76649999999999,13.48184],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1326664409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.88292,12.10566,105.88292,12.10566",
+    "geom:latitude":12.10566,
+    "geom:longitude":105.88292,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Krasang",
+    "gn:country_code":"KH",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827118,
+    "gn:latitude":12.10566,
+    "gn:longitude":105.88292,
+    "gn:modification_date":"2017-07-05",
+    "gn:name":"Krasang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Krasang"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1780\u17d2\u179a\u179f\u17b6\u17c6\u1784",
+        "Phum Kr\u00e2s\u0103ng"
+    ],
+    "name:und_x_variant":[
+        "Phum Kra Sang",
+        "Phum Kra Sank",
+        "Phum\u012d Kr\u00e2s\u0103ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        1108804319,
+        1108564653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827118
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"35655b7d305b4a43361907836716d809",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564653,
+            "locality_id":1326664409,
+            "region_id":1108804319
+        }
+    ],
+    "wof:id":1326664409,
+    "wof:lastmodified":1537653687,
+    "wof:name":"Krasang",
+    "wof:parent_id":1108564653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.88292,
+    12.10566,
+    105.88292,
+    12.10566
+],
+  "geometry": {"coordinates":[105.88292,12.10566],"type":"Point"}
+}

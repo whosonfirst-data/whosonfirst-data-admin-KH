@@ -1,0 +1,77 @@
+{
+  "id": 1343545735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.14779,12.43146,106.14779,12.43146",
+    "geom:latitude":12.43146,
+    "geom:longitude":106.14779,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Chuor Krouch",
+    "gn:country_code":"KH",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828699,
+    "gn:latitude":12.43146,
+    "gn:longitude":106.14779,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Chuor Krouch",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Chu\u014fr Kroch"
+    ],
+    "name:khm_x_variant":[
+        "Chuor Krouch",
+        "\u1797\u17bc\u1798\u17b7 \u1787\u17bd\u179a\u1780\u17d2\u179a\u17bc\u1785"
+    ],
+    "name:und_x_variant":[
+        "Phum Chuor Krauch"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673081,
+        1108564631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828699
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"0b52e7195f0719bc6ddea7b9a57346bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564631,
+            "locality_id":1343545735,
+            "region_id":85673081
+        }
+    ],
+    "wof:id":1343545735,
+    "wof:lastmodified":1537653825,
+    "wof:name":"Chuor Krouch",
+    "wof:parent_id":1108564631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.14779,
+    12.43146,
+    106.14779,
+    12.43146
+],
+  "geometry": {"coordinates":[106.14779,12.43146],"type":"Point"}
+}

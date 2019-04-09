@@ -1,0 +1,72 @@
+{
+  "id": 1276767735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.13864,12.91005,105.13864,12.91005",
+    "geom:latitude":12.91005,
+    "geom:longitude":105.13864,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Phumi S'ie",
+    "gn:country_code":"KH",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1824895,
+    "gn:latitude":12.91005,
+    "gn:longitude":105.13864,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d S\u2019i\u0115",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum Saea",
+        "Phum\u012d S\u00e2i\u0115r",
+        "Phum\u012d S\u2019i\u0115"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673057,
+        421182521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1824895
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"698efc282ca30b92f91d2b464cb7fc23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421182521,
+            "locality_id":1276767735,
+            "region_id":85673057
+        }
+    ],
+    "wof:id":1276767735,
+    "wof:lastmodified":1537653493,
+    "wof:name":"Phumi S'ie",
+    "wof:parent_id":421182521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.13864,
+    12.91005,
+    105.13864,
+    12.91005
+],
+  "geometry": {"coordinates":[105.13864,12.91005],"type":"Point"}
+}

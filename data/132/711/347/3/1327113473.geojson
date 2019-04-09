@@ -1,0 +1,73 @@
+{
+  "id": 1327113473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.32451,11.47878,105.32451,11.47878",
+    "geom:latitude":11.47878,
+    "geom:longitude":105.32451,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Phum O Leay",
+    "gn:country_code":"KH",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11503528,
+    "gn:latitude":11.47878,
+    "gn:longitude":105.32451,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Phum O L\u00e9ay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum O L\u00e9ay"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u17a2\u17bc\u179b\u17b6\u179c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673067,
+        1108564789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11503528
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"eb99fa4f645292344f20f3855d307f59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564789,
+            "locality_id":1327113473,
+            "region_id":85673067
+        }
+    ],
+    "wof:id":1327113473,
+    "wof:lastmodified":1537654066,
+    "wof:name":"Phum O Leay",
+    "wof:parent_id":1108564789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.32451,
+    11.47878,
+    105.32451,
+    11.47878
+],
+  "geometry": {"coordinates":[105.32451,11.47878],"type":"Point"}
+}

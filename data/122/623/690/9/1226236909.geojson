@@ -1,0 +1,72 @@
+{
+  "id": 1226236909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.11348,11.65657,105.11348,11.65657",
+    "geom:latitude":11.65657,
+    "geom:longitude":105.11348,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Khum Kampong Chamlang",
+    "gn:country_code":"KH",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1830777,
+    "gn:latitude":11.65657,
+    "gn:longitude":105.11348,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kh\u016dm K\u00e2mp\u00f3ng Ch\u00e2ml\u00e2ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum\u012d K\u00e2mp\u00f4ng Ch\u00e2ml\u00e2ng",
+        "Kompong Chamlong",
+        "Kh\u016dm K\u00e2mp\u00f3ng Ch\u00e2ml\u00e2ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673051,
+        421188351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1830777
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"3ec28e63ebc35ff3769b7c122424d55f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421188351,
+            "locality_id":1226236909,
+            "region_id":85673051
+        }
+    ],
+    "wof:id":1226236909,
+    "wof:lastmodified":1537653951,
+    "wof:name":"Khum Kampong Chamlang",
+    "wof:parent_id":421188351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.11348,
+    11.65657,
+    105.11348,
+    11.65657
+],
+  "geometry": {"coordinates":[105.11348,11.65657],"type":"Point"}
+}

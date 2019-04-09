@@ -1,0 +1,65 @@
+{
+  "id": 1209676649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.90619,13.16792,102.90619,13.16792",
+    "geom:latitude":13.16792,
+    "geom:longitude":102.90619,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Phumi Rung Dek Ka",
+    "gn:country_code":"KH",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825228,
+    "gn:latitude":13.16792,
+    "gn:longitude":102.90619,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Rung D\u00eak Ka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum\u012d Ro\u016dng D\u00eak Ka",
+        "Phum\u012d Rung D\u00eak Ka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825228
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"be8f8db4fb821851763887e4f9618763",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209676649
+        }
+    ],
+    "wof:id":1209676649,
+    "wof:lastmodified":1537653523,
+    "wof:name":"Phumi Rung Dek Ka",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.90619,
+    13.16792,
+    102.90619,
+    13.16792
+],
+  "geometry": {"coordinates":[102.90619,13.16792],"type":"Point"}
+}

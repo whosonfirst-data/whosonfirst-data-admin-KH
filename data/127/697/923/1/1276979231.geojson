@@ -1,0 +1,74 @@
+{
+  "id": 1276979231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.97808,12.6913,104.97808,12.6913",
+    "geom:latitude":12.6913,
+    "geom:longitude":104.97808,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Chong Da",
+    "gn:country_code":"KH",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828887,
+    "gn:latitude":12.6913,
+    "gn:longitude":104.97808,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Chong Da",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Chong Da"
+    ],
+    "name:und_x_variant":[
+        "Phum Chonda",
+        "Phum\u012d Ch\u014fngda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673057,
+        1108564829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828887
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"fc4d62111d39e45d50f5f3b6356e3ec0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564829,
+            "locality_id":1276979231,
+            "region_id":85673057
+        }
+    ],
+    "wof:id":1276979231,
+    "wof:lastmodified":1537653840,
+    "wof:name":"Chong Da",
+    "wof:parent_id":1108564829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.97808,
+    12.6913,
+    104.97808,
+    12.6913
+],
+  "geometry": {"coordinates":[104.97808000000001,12.6913],"type":"Point"}
+}

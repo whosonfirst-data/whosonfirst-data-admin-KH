@@ -1,0 +1,75 @@
+{
+  "id": 421188871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.52005,10.612693,103.52005,10.612693",
+    "geom:latitude":10.612693,
+    "geom:longitude":103.52005,
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Krong Preah Seihanu",
+    "qs:name_adm0":"Cambodia",
+    "qs:name_adm1":"Preah Seihanu",
+    "qs:photos":2820,
+    "qs:photos_1k":571,
+    "qs:photos_9k":12,
+    "qs:photos_9r":11,
+    "qs:photos_all":2820,
+    "qs:photos_sr":19,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1104850,
+    "qs:woe_adm0":23424776,
+    "qs:woe_id":1028469,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673101,
+        1108564777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1028469,
+        "qs:id":1104850
+    },
+    "wof:country":"KH",
+    "wof:created":1459009586,
+    "wof:geomhash":"bc742272b545c9e8632ed1080e9e20af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564777,
+            "locality_id":421188871,
+            "region_id":85673101
+        }
+    ],
+    "wof:id":421188871,
+    "wof:lastmodified":1499930134,
+    "wof:name":"Krong Preah Seihanu",
+    "wof:parent_id":1108564777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.52005,
+    10.612693,
+    103.52005,
+    10.612693
+],
+  "geometry": {"coordinates":[103.52005,10.612693],"type":"Point"}
+}

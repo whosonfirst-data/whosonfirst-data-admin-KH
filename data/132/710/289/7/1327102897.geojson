@@ -1,0 +1,74 @@
+{
+  "id": 1327102897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.8978,13.84347,103.8978,13.84347",
+    "geom:latitude":13.84347,
+    "geom:longitude":103.8978,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Kouk Kandal",
+    "gn:country_code":"KH",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827413,
+    "gn:latitude":13.84347,
+    "gn:longitude":103.8978,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Kouk Kandal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Kouk Kandal"
+    ],
+    "name:khm_x_variant":[
+        "Phum\u012d Ko\u016dk K\u00e2ndal",
+        "Phum Ko\u016dk K\u00e2ndal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673029,
+        421200833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827413
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"337a25ede0bb2c41d4d794df313f7209",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421200833,
+            "locality_id":1327102897,
+            "region_id":85673029
+        }
+    ],
+    "wof:id":1327102897,
+    "wof:lastmodified":1537653716,
+    "wof:name":"Kouk Kandal",
+    "wof:parent_id":421200833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.8978,
+    13.84347,
+    103.8978,
+    13.84347
+],
+  "geometry": {"coordinates":[103.8978,13.84347],"type":"Point"}
+}

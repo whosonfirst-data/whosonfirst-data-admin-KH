@@ -1,0 +1,77 @@
+{
+  "id": 1327370063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.87736,12.0333,105.87736,12.0333",
+    "geom:latitude":12.0333,
+    "geom:longitude":105.87736,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Phum Svay Popeas",
+    "gn:country_code":"KH",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1824397,
+    "gn:latitude":12.0333,
+    "gn:longitude":105.87736,
+    "gn:modification_date":"2017-07-05",
+    "gn:name":"Phum Svay P\u00f4p\u00e9as",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Svay P\u00f4p\u00e9as"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u179f\u17d2\u179c\u17b6\u1799\u1796\u1796\u17b6\u179f"
+    ],
+    "name:und_x_variant":[
+        "Phum Svay Popeay",
+        "Phum\u012d Svay P\u00f4p\u00e9as"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        1108804319,
+        1108564653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1824397
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"128bf8f3485932e188191ecf7d0ec3eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564653,
+            "locality_id":1327370063,
+            "region_id":1108804319
+        }
+    ],
+    "wof:id":1327370063,
+    "wof:lastmodified":1537653454,
+    "wof:name":"Phum Svay Popeas",
+    "wof:parent_id":1108564653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.87736,
+    12.0333,
+    105.87736,
+    12.0333
+],
+  "geometry": {"coordinates":[105.87736,12.0333],"type":"Point"}
+}

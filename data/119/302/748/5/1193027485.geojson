@@ -1,0 +1,71 @@
+{
+  "id": 1193027485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.5271,12.09718,104.5271,12.09718",
+    "geom:latitude":12.09718,
+    "geom:longitude":104.5271,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Phumi Svay Pis",
+    "gn:country_code":"KH",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1824403,
+    "gn:latitude":12.09718,
+    "gn:longitude":104.5271,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Svay P\u012ds",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum Svay Pies",
+        "Phum\u012d Svay P\u012ds"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673047,
+        1108564885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1824403
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"9b91eb960ab50a175b9c0daac3b6cb77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564885,
+            "locality_id":1193027485,
+            "region_id":85673047
+        }
+    ],
+    "wof:id":1193027485,
+    "wof:lastmodified":1537653455,
+    "wof:name":"Phumi Svay Pis",
+    "wof:parent_id":1108564885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.5271,
+    12.09718,
+    104.5271,
+    12.09718
+],
+  "geometry": {"coordinates":[104.5271,12.09718],"type":"Point"}
+}

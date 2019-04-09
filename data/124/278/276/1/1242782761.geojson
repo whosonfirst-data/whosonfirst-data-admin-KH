@@ -1,0 +1,71 @@
+{
+  "id": 1242782761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.18582,12.93437,105.18582,12.93437",
+    "geom:latitude":12.93437,
+    "geom:longitude":105.18582,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Phumi Bak Srei",
+    "gn:country_code":"KH",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829694,
+    "gn:latitude":12.93437,
+    "gn:longitude":105.18582,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d B\u0103k Srei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bakchrey",
+        "Phum\u012d B\u0103k Srei"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673057,
+        421182521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829694
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"26c85c4a4a01b6ec64edf591f4dca0ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421182521,
+            "locality_id":1242782761,
+            "region_id":85673057
+        }
+    ],
+    "wof:id":1242782761,
+    "wof:lastmodified":1537653903,
+    "wof:name":"Phumi Bak Srei",
+    "wof:parent_id":421182521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.18582,
+    12.93437,
+    105.18582,
+    12.93437
+],
+  "geometry": {"coordinates":[105.18582000000001,12.93437],"type":"Point"}
+}

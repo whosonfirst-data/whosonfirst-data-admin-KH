@@ -1,0 +1,74 @@
+{
+  "id": 1242746313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.26028,13.16927,104.26028,13.16927",
+    "geom:latitude":13.16927,
+    "geom:longitude":104.26028,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Damrei Chhlang",
+    "gn:country_code":"KH",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11602748,
+    "gn:latitude":13.16927,
+    "gn:longitude":104.26028,
+    "gn:modification_date":"2017-07-06",
+    "gn:name":"Damrei Chhlang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Damrei Chhlang"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u178a\u17c6\u179a\u17b8\u1786\u17d2\u179b\u1784",
+        "Phum\u012d D\u00e2mrei Chhl\u00e2ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673029,
+        1108564639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11602748
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"afdd2630606f20d5b9aac953cbef0980",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564639,
+            "locality_id":1242746313,
+            "region_id":85673029
+        }
+    ],
+    "wof:id":1242746313,
+    "wof:lastmodified":1537654129,
+    "wof:name":"Damrei Chhlang",
+    "wof:parent_id":1108564639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.26028,
+    13.16927,
+    104.26028,
+    13.16927
+],
+  "geometry": {"coordinates":[104.26027999999999,13.16927],"type":"Point"}
+}

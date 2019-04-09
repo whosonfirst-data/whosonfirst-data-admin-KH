@@ -1,0 +1,71 @@
+{
+  "id": 1343327307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.82643,11.22183,104.82643,11.22183",
+    "geom:latitude":11.22183,
+    "geom:longitude":104.82643,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Phumi Kanleng Khla",
+    "gn:country_code":"KH",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828059,
+    "gn:latitude":11.22183,
+    "gn:longitude":104.82643,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d K\u00e2nl\u00eang Khla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Trap\u00e9ang Reach\u00e9a Tey",
+        "Phum\u012d K\u00e2nl\u00eang Khla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673107,
+        1108564613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828059
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"8b6efa74b0d08e85f688a39f2e4cf70e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564613,
+            "locality_id":1343327307,
+            "region_id":85673107
+        }
+    ],
+    "wof:id":1343327307,
+    "wof:lastmodified":1537653772,
+    "wof:name":"Phumi Kanleng Khla",
+    "wof:parent_id":1108564613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.82643,
+    11.22183,
+    104.82643,
+    11.22183
+],
+  "geometry": {"coordinates":[104.82643,11.22183],"type":"Point"}
+}

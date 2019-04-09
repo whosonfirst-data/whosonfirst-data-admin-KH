@@ -1,0 +1,73 @@
+{
+  "id": 1327381143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.11035,13.21748,103.11035,13.21748",
+    "geom:latitude":13.21748,
+    "geom:longitude":103.11035,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Phum O Sangke",
+    "gn:country_code":"KH",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11369300,
+    "gn:latitude":13.21748,
+    "gn:longitude":103.11035,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Phum O S\u00e2ngk\u00ea",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum O S\u00e2ngk\u00ea"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u17a2\u17bc\u179f\u1784\u17d2\u1780\u17c2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673015,
+        1108564871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11369300
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"859f1d20ba3d5a0c609fabf50f499d96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564871,
+            "locality_id":1327381143,
+            "region_id":85673015
+        }
+    ],
+    "wof:id":1327381143,
+    "wof:lastmodified":1537653980,
+    "wof:name":"Phum O Sangke",
+    "wof:parent_id":1108564871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.11035,
+    13.21748,
+    103.11035,
+    13.21748
+],
+  "geometry": {"coordinates":[103.11035,13.21748],"type":"Point"}
+}

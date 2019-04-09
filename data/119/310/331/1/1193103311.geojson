@@ -1,0 +1,75 @@
+{
+  "id": 1193103311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.02224,10.92903,106.02224,10.92903",
+    "geom:latitude":10.92903,
+    "geom:longitude":106.02224,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Prey Mnoas",
+    "gn:country_code":"KH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825770,
+    "gn:latitude":10.92903,
+    "gn:longitude":106.02224,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Prey Mnoas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Prey Mnoas"
+    ],
+    "name:und_x_variant":[
+        "Phum Prey Mano",
+        "Phum\u012d Prey M\u00f4no\u0103s",
+        "Phum\u012d Prey Mno\u0103s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673105,
+        1108564671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825770
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"9dc9a7704713d99840bec5f2ae1e4881",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564671,
+            "locality_id":1193103311,
+            "region_id":85673105
+        }
+    ],
+    "wof:id":1193103311,
+    "wof:lastmodified":1537653564,
+    "wof:name":"Prey Mnoas",
+    "wof:parent_id":1108564671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.02224,
+    10.92903,
+    106.02224,
+    10.92903
+],
+  "geometry": {"coordinates":[106.02224,10.92903],"type":"Point"}
+}

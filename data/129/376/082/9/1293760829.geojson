@@ -1,0 +1,78 @@
+{
+  "id": 1293760829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.83745,12.62336,103.83745,12.62336",
+    "geom:latitude":12.62336,
+    "geom:longitude":103.83745,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Phum Yon",
+    "gn:country_code":"KH",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1822824,
+    "gn:latitude":12.62336,
+    "gn:longitude":103.83745,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Phum Y\u014fn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Y\u014fn"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1799\u17bb\u1793"
+    ],
+    "name:und_x_variant":[
+        "P\u2019um T\u2019n\u014ft",
+        "Phum\u012d Y\u014fn",
+        "Phum\u012d Y\u016dn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673023,
+        1108564595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1822824
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"8d65f588a1b9595ecfbdb5ab4776a9d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564595,
+            "locality_id":1293760829,
+            "region_id":85673023
+        }
+    ],
+    "wof:id":1293760829,
+    "wof:lastmodified":1537653337,
+    "wof:name":"Phum Yon",
+    "wof:parent_id":1108564595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.83745,
+    12.62336,
+    103.83745,
+    12.62336
+],
+  "geometry": {"coordinates":[103.83745,12.62336],"type":"Point"}
+}

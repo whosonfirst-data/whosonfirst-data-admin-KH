@@ -1,0 +1,73 @@
+{
+  "id": 1210003845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.93235,12.58086,103.93235,12.58086",
+    "geom:latitude":12.58086,
+    "geom:longitude":103.93235,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Phum Toul Char",
+    "gn:country_code":"KH",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11538846,
+    "gn:latitude":12.58086,
+    "gn:longitude":103.93235,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Phum To\u016dl Char",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum To\u016dl Char"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1791\u17bd\u179b\u1785\u17b6\u179a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673023,
+        1108564687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11538846
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"ad6416bfca2f892628aee2a797da206d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564687,
+            "locality_id":1210003845,
+            "region_id":85673023
+        }
+    ],
+    "wof:id":1210003845,
+    "wof:lastmodified":1537654100,
+    "wof:name":"Phum Toul Char",
+    "wof:parent_id":1108564687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.93235,
+    12.58086,
+    103.93235,
+    12.58086
+],
+  "geometry": {"coordinates":[103.93235,12.58086],"type":"Point"}
+}

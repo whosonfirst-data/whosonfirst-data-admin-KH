@@ -1,0 +1,70 @@
+{
+  "id": 1226708213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.90297,13.99705,106.90297,13.99705",
+    "geom:latitude":13.99705,
+    "geom:longitude":106.90297,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Kaoh Peak",
+    "gn:country_code":"KH",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11483421,
+    "gn:latitude":13.99705,
+    "gn:longitude":106.90297,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Kaoh Peak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Kaoh Peak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673089,
+        421194641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11483421
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"166406ff2390687601393aff3c0b2986",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421194641,
+            "locality_id":1226708213,
+            "region_id":85673089
+        }
+    ],
+    "wof:id":1226708213,
+    "wof:lastmodified":1537654060,
+    "wof:name":"Kaoh Peak",
+    "wof:parent_id":421194641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.90297,
+    13.99705,
+    106.90297,
+    13.99705
+],
+  "geometry": {"coordinates":[106.90297,13.99705],"type":"Point"}
+}

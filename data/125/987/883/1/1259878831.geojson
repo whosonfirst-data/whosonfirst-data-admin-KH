@@ -1,0 +1,67 @@
+{
+  "id": 1259878831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.87106,12.7736,104.87106,12.7736",
+    "geom:latitude":12.7736,
+    "geom:longitude":104.87106,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Phumi Khnar",
+    "gn:country_code":"KH",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827669,
+    "gn:latitude":12.7736,
+    "gn:longitude":104.87106,
+    "gn:modification_date":"1993-12-30",
+    "gn:name":"Phum\u012d Khnar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673057,
+        421169333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827669
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"afa28afc75d3e317608dfff802c04125",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421169333,
+            "locality_id":1259878831,
+            "region_id":85673057
+        }
+    ],
+    "wof:id":1259878831,
+    "wof:lastmodified":1536786397,
+    "wof:name":"Phumi Khnar",
+    "wof:parent_id":421169333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.87106,
+    12.7736,
+    104.87106,
+    12.7736
+],
+  "geometry": {"coordinates":[104.87106,12.7736],"type":"Point"}
+}

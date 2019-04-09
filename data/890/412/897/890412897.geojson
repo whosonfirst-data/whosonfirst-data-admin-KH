@@ -1,0 +1,68 @@
+{
+  "id": 890412897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.58333,12.33333,105.58333,12.33333",
+    "geom:latitude":12.33333,
+    "geom:longitude":105.58333,
+    "gn:country":"KH",
+    "gn:fcode":"ADMD",
+    "gn:pop":111987,
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Srok Stung Trang"
+    ],
+    "qs:name":"Sr\u014fk St\u0153\u0306ng Tr\u00e1ng",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"9",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673041,
+        1108564853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1822030,
+        "qs:id":564258
+    },
+    "wof:country":"KH",
+    "wof:created":1469050980,
+    "wof:geomhash":"a33d46686af8253784d942c0739dcd68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564853,
+            "localadmin_id":890412897,
+            "region_id":85673041
+        }
+    ],
+    "wof:id":890412897,
+    "wof:lastmodified":1505343411,
+    "wof:name":"Sr\u014fk St\u0153\u0306ng Tr\u00e1ng",
+    "wof:parent_id":1108564853,
+    "wof:placetype":"localadmin",
+    "wof:population":111987,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.58333,
+    12.33333,
+    105.58333,
+    12.33333
+],
+  "geometry": {"coordinates":[105.58333,12.33333],"type":"Point"}
+}

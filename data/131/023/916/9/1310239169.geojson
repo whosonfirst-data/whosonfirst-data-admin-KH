@@ -1,0 +1,72 @@
+{
+  "id": 1310239169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.54059,11.93617,105.54059,11.93617",
+    "geom:latitude":11.93617,
+    "geom:longitude":105.54059,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Phumi Mream Teak",
+    "gn:country_code":"KH",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1826843,
+    "gn:latitude":11.93617,
+    "gn:longitude":105.54059,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Phum\u012d Mr\u00e9am T\u00e9ak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum Maream Teak",
+        "Moream Teak",
+        "Phum\u012d Mr\u00e9am T\u00e9ak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        1108804319,
+        421183891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1826843
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"bd5523be144b8cfa8daaaab07d709eba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421183891,
+            "locality_id":1310239169,
+            "region_id":1108804319
+        }
+    ],
+    "wof:id":1310239169,
+    "wof:lastmodified":1537653662,
+    "wof:name":"Phumi Mream Teak",
+    "wof:parent_id":421183891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.54059,
+    11.93617,
+    105.54059,
+    11.93617
+],
+  "geometry": {"coordinates":[105.54058999999999,11.93617],"type":"Point"}
+}

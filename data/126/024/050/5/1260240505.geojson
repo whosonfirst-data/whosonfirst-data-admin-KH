@@ -1,0 +1,73 @@
+{
+  "id": 1260240505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.48628,10.59889,104.48628,10.59889",
+    "geom:latitude":10.59889,
+    "geom:longitude":104.48628,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Damn",
+    "gn:country_code":"KH",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1826478,
+    "gn:latitude":10.59889,
+    "gn:longitude":104.48628,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Damn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Damn"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Phnum D\u00e2mrei"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673093,
+        1108564675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1826478
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"a12c9f86bb703eee061777bddfe25244",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564675,
+            "locality_id":1260240505,
+            "region_id":85673093
+        }
+    ],
+    "wof:id":1260240505,
+    "wof:lastmodified":1537653629,
+    "wof:name":"Damn",
+    "wof:parent_id":1108564675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.48628,
+    10.59889,
+    104.48628,
+    10.59889
+],
+  "geometry": {"coordinates":[104.48627999999999,10.59889],"type":"Point"}
+}

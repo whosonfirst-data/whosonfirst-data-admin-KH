@@ -1,0 +1,74 @@
+{
+  "id": 1260080611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.54952,11.50816,104.54952,11.50816",
+    "geom:latitude":11.50816,
+    "geom:longitude":104.54952,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Kandal",
+    "gn:country_code":"KH",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828129,
+    "gn:latitude":11.50816,
+    "gn:longitude":104.54952,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Kandal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Kandal"
+    ],
+    "name:und_x_variant":[
+        "Phum Kandol",
+        "Phum\u012d K\u00e2ndal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673053,
+        1108564819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828129
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"046e66798f951d9f8ef640bc9863f359",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564819,
+            "locality_id":1260080611,
+            "region_id":85673053
+        }
+    ],
+    "wof:id":1260080611,
+    "wof:lastmodified":1537653778,
+    "wof:name":"Kandal",
+    "wof:parent_id":1108564819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.54952,
+    11.50816,
+    104.54952,
+    11.50816
+],
+  "geometry": {"coordinates":[104.54952,11.50816],"type":"Point"}
+}

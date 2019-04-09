@@ -1,0 +1,77 @@
+{
+  "id": 1327090199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.99132,13.47105,103.99132,13.47105",
+    "geom:latitude":13.47105,
+    "geom:longitude":103.99132,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Phum Run",
+    "gn:country_code":"KH",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825240,
+    "gn:latitude":13.47105,
+    "gn:longitude":103.99132,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Phum R\u016dn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum R\u016dn"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u179a\u17bb\u1793"
+    ],
+    "name:und_x_variant":[
+        "Phum Roun",
+        "Phum\u012d R\u016dn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673029,
+        1108564603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825240
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"d2d0f96f7e876d0beee7593057df463f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564603,
+            "locality_id":1327090199,
+            "region_id":85673029
+        }
+    ],
+    "wof:id":1327090199,
+    "wof:lastmodified":1537653524,
+    "wof:name":"Phum Run",
+    "wof:parent_id":1108564603,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.99132,
+    13.47105,
+    103.99132,
+    13.47105
+],
+  "geometry": {"coordinates":[103.99132,13.47105],"type":"Point"}
+}

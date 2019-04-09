@@ -1,0 +1,70 @@
+{
+  "id": 1276193791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.77985,13.84097,103.77985,13.84097",
+    "geom:latitude":13.84097,
+    "geom:longitude":103.77985,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Phum Kap Dai",
+    "gn:country_code":"KH",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11584506,
+    "gn:latitude":13.84097,
+    "gn:longitude":103.77985,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Phum Kap Dai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Kap Dai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673029,
+        421200833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11584506
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"3a8f167481010fbc015323a2b075588f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421200833,
+            "locality_id":1276193791,
+            "region_id":85673029
+        }
+    ],
+    "wof:id":1276193791,
+    "wof:lastmodified":1537654113,
+    "wof:name":"Phum Kap Dai",
+    "wof:parent_id":421200833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.77985,
+    13.84097,
+    103.77985,
+    13.84097
+],
+  "geometry": {"coordinates":[103.77985,13.84097],"type":"Point"}
+}

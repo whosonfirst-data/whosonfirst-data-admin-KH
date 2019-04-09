@@ -1,0 +1,78 @@
+{
+  "id": 1326887807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.06696,13.68226,103.06696,13.68226",
+    "geom:latitude":13.68226,
+    "geom:longitude":103.06696,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Phum Ta Bau",
+    "gn:country_code":"KH",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1824320,
+    "gn:latitude":13.68226,
+    "gn:longitude":103.06696,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Phum Ta Bau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Ta Bau"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u178f\u17b6\u1794\u17c5"
+    ],
+    "name:und_x_variant":[
+        "Ta Bao",
+        "Phum Tabao",
+        "Phum\u012d Ta Bau (2)"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673011,
+        421183973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1824320
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"46aa396207af6acf0ef1d0bbb14f579c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421183973,
+            "locality_id":1326887807,
+            "region_id":85673011
+        }
+    ],
+    "wof:id":1326887807,
+    "wof:lastmodified":1537653447,
+    "wof:name":"Phum Ta Bau",
+    "wof:parent_id":421183973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.06696,
+    13.68226,
+    103.06696,
+    13.68226
+],
+  "geometry": {"coordinates":[103.06695999999999,13.68226],"type":"Point"}
+}

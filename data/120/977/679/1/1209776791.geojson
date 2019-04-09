@@ -1,0 +1,78 @@
+{
+  "id": 1209776791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.34705,13.33525,103.34705,13.33525",
+    "geom:latitude":13.33525,
+    "geom:longitude":103.34705,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Phumi Prey Chas",
+    "gn:country_code":"KH",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825872,
+    "gn:latitude":13.33525,
+    "gn:longitude":103.34705,
+    "gn:modification_date":"2016-04-10",
+    "gn:name":"Phum\u012d Prey Chas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum\u012d Prey Chas"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7\u1796\u17d2\u179a\u17c2\u1785\u17b6\u179b",
+        "\u1797\u17bc\u1798\u17b7\u1796\u17d2\u179a\u17c3\u1785\u17b6\u179f\u17cb"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Prey Ch\u0103s",
+        "Prey Chas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673015,
+        421172391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825872
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"a11d8160da7bc30b3bf68e9d96be1c87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421172391,
+            "locality_id":1209776791,
+            "region_id":85673015
+        }
+    ],
+    "wof:id":1209776791,
+    "wof:lastmodified":1537653572,
+    "wof:name":"Phumi Prey Chas",
+    "wof:parent_id":421172391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.34705,
+    13.33525,
+    103.34705,
+    13.33525
+],
+  "geometry": {"coordinates":[103.34705,13.33525],"type":"Point"}
+}

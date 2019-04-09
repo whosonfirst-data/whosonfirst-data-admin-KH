@@ -1,0 +1,78 @@
+{
+  "id": 1242632701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.40076,13.48785,103.40076,13.48785",
+    "geom:latitude":13.48785,
+    "geom:longitude":103.40076,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Kampream",
+    "gn:country_code":"KH",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828413,
+    "gn:latitude":13.48785,
+    "gn:longitude":103.40076,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Kampream",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "\u1797\u17bc\u1798\u17b7\u17a0\u17c5\u1791\u17bc\u179b"
+    ],
+    "name:khm_x_variant":[
+        "Phum Hau Tul"
+    ],
+    "name:und_x_variant":[
+        "Phum Hauotoul",
+        "Phum\u012d Hau Tul",
+        "Kampream"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673011,
+        421183973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828413
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"7ac4162764f26d574bf975876c77d8dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421183973,
+            "locality_id":1242632701,
+            "region_id":85673011
+        }
+    ],
+    "wof:id":1242632701,
+    "wof:lastmodified":1537653804,
+    "wof:name":"Kampream",
+    "wof:parent_id":421183973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.40076,
+    13.48785,
+    103.40076,
+    13.48785
+],
+  "geometry": {"coordinates":[103.40076000000001,13.48785],"type":"Point"}
+}

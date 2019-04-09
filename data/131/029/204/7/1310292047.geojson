@@ -1,0 +1,70 @@
+{
+  "id": 1310292047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.05598,12.51748,104.05598,12.51748",
+    "geom:latitude":12.51748,
+    "geom:longitude":104.05598,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Bangkong Khmum",
+    "gn:country_code":"KH",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11450853,
+    "gn:latitude":12.51748,
+    "gn:longitude":104.05598,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Bangkong Khmum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Bangkong Khmum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673023,
+        421203239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11450853
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"2acffdfb92774db55b34312d2f9c5bff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421203239,
+            "locality_id":1310292047,
+            "region_id":85673023
+        }
+    ],
+    "wof:id":1310292047,
+    "wof:lastmodified":1537654016,
+    "wof:name":"Bangkong Khmum",
+    "wof:parent_id":421203239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.05598,
+    12.51748,
+    104.05598,
+    12.51748
+],
+  "geometry": {"coordinates":[104.05598000000001,12.51748],"type":"Point"}
+}

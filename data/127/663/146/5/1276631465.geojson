@@ -1,0 +1,72 @@
+{
+  "id": 1276631465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.93713,13.53557,105.93713,13.53557",
+    "geom:latitude":13.53557,
+    "geom:longitude":105.93713,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Phumi Cheung Preah Bat",
+    "gn:country_code":"KH",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829051,
+    "gn:latitude":13.53557,
+    "gn:longitude":105.93713,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Cheung Pre\u0103h Bat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Bachang",
+        "Ban Bachong",
+        "Phum\u012d Cheung Pre\u0103h Bat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673075,
+        1108564869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829051
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"3bb439864540ab97c2f4c2c4ca298301",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564869,
+            "locality_id":1276631465,
+            "region_id":85673075
+        }
+    ],
+    "wof:id":1276631465,
+    "wof:lastmodified":1537653854,
+    "wof:name":"Phumi Cheung Preah Bat",
+    "wof:parent_id":1108564869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.93713,
+    13.53557,
+    105.93713,
+    13.53557
+],
+  "geometry": {"coordinates":[105.93713,13.53557],"type":"Point"}
+}

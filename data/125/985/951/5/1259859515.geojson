@@ -1,0 +1,73 @@
+{
+  "id": 1259859515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.89338,12.57788,103.89338,12.57788",
+    "geom:latitude":12.57788,
+    "geom:longitude":103.89338,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Phum Tmat Pong",
+    "gn:country_code":"KH",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11538849,
+    "gn:latitude":12.57788,
+    "gn:longitude":103.89338,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Phum Tmat P\u00f4ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Tmat P\u00f4ng"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u178f\u17d2\u1798\u17b6\u178f\u1796\u1784"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673023,
+        1108564687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11538849
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"4764291b8974356a50218cf2b2046f1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564687,
+            "locality_id":1259859515,
+            "region_id":85673023
+        }
+    ],
+    "wof:id":1259859515,
+    "wof:lastmodified":1537654100,
+    "wof:name":"Phum Tmat Pong",
+    "wof:parent_id":1108564687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.89338,
+    12.57788,
+    103.89338,
+    12.57788
+],
+  "geometry": {"coordinates":[103.89337999999999,12.57788],"type":"Point"}
+}

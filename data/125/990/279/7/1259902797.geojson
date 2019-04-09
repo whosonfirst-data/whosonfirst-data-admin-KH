@@ -1,0 +1,67 @@
+{
+  "id": 1259902797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.2458,12.47197,105.2458,12.47197",
+    "geom:latitude":12.47197,
+    "geom:longitude":105.2458,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Phumi Slaket",
+    "gn:country_code":"KH",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1824861,
+    "gn:latitude":12.47197,
+    "gn:longitude":105.2458,
+    "gn:modification_date":"1993-12-30",
+    "gn:name":"Phum\u012d Slak\u00eat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673057,
+        421198921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1824861
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"e1db1b8069d8bb2db4fa7c759e5f582f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421198921,
+            "locality_id":1259902797,
+            "region_id":85673057
+        }
+    ],
+    "wof:id":1259902797,
+    "wof:lastmodified":1536751235,
+    "wof:name":"Phumi Slaket",
+    "wof:parent_id":421198921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.2458,
+    12.47197,
+    105.2458,
+    12.47197
+],
+  "geometry": {"coordinates":[105.2458,12.47197],"type":"Point"}
+}

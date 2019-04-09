@@ -1,0 +1,74 @@
+{
+  "id": 1360169279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.35042,12.97624,106.35042,12.97624",
+    "geom:latitude":12.97624,
+    "geom:longitude":106.35042,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Paklae",
+    "gn:country_code":"KH",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11512895,
+    "gn:latitude":12.97624,
+    "gn:longitude":106.35042,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Paklae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Paklae"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1794\u17c9\u17b6\u1781\u17d2\u179b\u17c1",
+        "Phum Pakhl\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673081,
+        421188051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11512895
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"4e2e0b39b36e5f75222b34e25bc4e898",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421188051,
+            "locality_id":1360169279,
+            "region_id":85673081
+        }
+    ],
+    "wof:id":1360169279,
+    "wof:lastmodified":1537654085,
+    "wof:name":"Paklae",
+    "wof:parent_id":421188051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.35042,
+    12.97624,
+    106.35042,
+    12.97624
+],
+  "geometry": {"coordinates":[106.35042,12.97624],"type":"Point"}
+}

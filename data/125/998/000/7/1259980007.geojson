@@ -1,0 +1,77 @@
+{
+  "id": 1259980007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.10775,11.94735,104.10775,11.94735",
+    "geom:latitude":11.94735,
+    "geom:longitude":104.10775,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Phum Aoral",
+    "gn:country_code":"KH",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829738,
+    "gn:latitude":11.94735,
+    "gn:longitude":104.10775,
+    "gn:modification_date":"2017-07-05",
+    "gn:name":"Phum A\u00f4ral",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum A\u00f4ral"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u17aa\u179a\u17b6\u179b"
+    ],
+    "name:und_x_variant":[
+        "Phum Aural",
+        "Phum\u012d A\u00f4ral"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673053,
+        1108564591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829738
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"c464b83b3ccfd757ccb3178c3734e6fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564591,
+            "locality_id":1259980007,
+            "region_id":85673053
+        }
+    ],
+    "wof:id":1259980007,
+    "wof:lastmodified":1537653907,
+    "wof:name":"Phum Aoral",
+    "wof:parent_id":1108564591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.10775,
+    11.94735,
+    104.10775,
+    11.94735
+],
+  "geometry": {"coordinates":[104.10775,11.94735],"type":"Point"}
+}

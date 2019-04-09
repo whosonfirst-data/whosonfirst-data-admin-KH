@@ -1,0 +1,78 @@
+{
+  "id": 1360142215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.1058,14.00641,103.1058,14.00641",
+    "geom:latitude":14.00641,
+    "geom:longitude":103.1058,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Thnal Dach",
+    "gn:country_code":"KH",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1823755,
+    "gn:latitude":14.00641,
+    "gn:longitude":103.1058,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Thnal Dach",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Thnal Dach"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1790\u17d2\u1793\u179b\u17cb\u178a\u17b6\u1785\u17cb",
+        "Phum Thn\u00e2l Dach"
+    ],
+    "name:und_x_variant":[
+        "Phum Thn\u00e1l D\u0103ch",
+        "Phum\u012d Thn\u00e1l D\u0103ch"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673011,
+        421203293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1823755
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"59f8f5b43ab9d8d90f7e2ce1785d2ee4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421203293,
+            "locality_id":1360142215,
+            "region_id":85673011
+        }
+    ],
+    "wof:id":1360142215,
+    "wof:lastmodified":1537653403,
+    "wof:name":"Thnal Dach",
+    "wof:parent_id":421203293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.1058,
+    14.00641,
+    103.1058,
+    14.00641
+],
+  "geometry": {"coordinates":[103.1058,14.00641],"type":"Point"}
+}

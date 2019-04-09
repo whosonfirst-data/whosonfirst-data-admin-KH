@@ -1,0 +1,72 @@
+{
+  "id": 1293784379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.77637,11.40503,104.77637,11.40503",
+    "geom:latitude":11.40503,
+    "geom:longitude":104.77637,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Prey Totung",
+    "gn:country_code":"KH",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825612,
+    "gn:latitude":11.40503,
+    "gn:longitude":104.77637,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Prey Totung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Prei Totung",
+        "Prey To Lung",
+        "Phum\u012d Prey T\u00f4t\u0153\u0306ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673053,
+        1108564715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825612
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"4349a58a7c99062cb3450af3ec989616",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564715,
+            "locality_id":1293784379,
+            "region_id":85673053
+        }
+    ],
+    "wof:id":1293784379,
+    "wof:lastmodified":1537653553,
+    "wof:name":"Prey Totung",
+    "wof:parent_id":1108564715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.77637,
+    11.40503,
+    104.77637,
+    11.40503
+],
+  "geometry": {"coordinates":[104.77637,11.40503],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1276846871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.45645,13.90309,105.45645,13.90309",
+    "geom:latitude":13.90309,
+    "geom:longitude":105.45645,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Dang Phlet",
+    "gn:country_code":"KH",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828611,
+    "gn:latitude":13.90309,
+    "gn:longitude":105.45645,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Dang Phlet",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Dang Phlet"
+    ],
+    "name:und_x_variant":[
+        "Damphlet",
+        "Phum\u012d D\u00e2mphi\u0115t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673071,
+        421187975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828611
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"b0adc0054524923eb4d5807533a69065",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421187975,
+            "locality_id":1276846871,
+            "region_id":85673071
+        }
+    ],
+    "wof:id":1276846871,
+    "wof:lastmodified":1537653819,
+    "wof:name":"Dang Phlet",
+    "wof:parent_id":421187975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.45645,
+    13.90309,
+    105.45645,
+    13.90309
+],
+  "geometry": {"coordinates":[105.45645,13.90309],"type":"Point"}
+}

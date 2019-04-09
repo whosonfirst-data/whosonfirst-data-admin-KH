@@ -1,0 +1,70 @@
+{
+  "id": 1309868223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.67786,11.03012,104.67786,11.03012",
+    "geom:latitude":11.03012,
+    "geom:longitude":104.67786,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Ta Loea",
+    "gn:country_code":"KH",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11460009,
+    "gn:latitude":11.03012,
+    "gn:longitude":104.67786,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Ta Loea",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Ta Loea"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673107,
+        1108564877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11460009
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"60e58a464717a2f64c15c59b2dc3dccf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564877,
+            "locality_id":1309868223,
+            "region_id":85673107
+        }
+    ],
+    "wof:id":1309868223,
+    "wof:lastmodified":1537654022,
+    "wof:name":"Ta Loea",
+    "wof:parent_id":1108564877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.67786,
+    11.03012,
+    104.67786,
+    11.03012
+],
+  "geometry": {"coordinates":[104.67786,11.03012],"type":"Point"}
+}

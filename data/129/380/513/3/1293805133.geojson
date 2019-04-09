@@ -1,0 +1,67 @@
+{
+  "id": 1293805133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.08928,11.6861,105.08928,11.6861",
+    "geom:latitude":11.6861,
+    "geom:longitude":105.08928,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Phumi Dol",
+    "gn:country_code":"KH",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828534,
+    "gn:latitude":11.6861,
+    "gn:longitude":105.08928,
+    "gn:modification_date":"2009-05-14",
+    "gn:name":"Phum\u012d D\u014fl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673051,
+        421188351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828534
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"d339834e897eace6a1b27ffc96b1fc3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421188351,
+            "locality_id":1293805133,
+            "region_id":85673051
+        }
+    ],
+    "wof:id":1293805133,
+    "wof:lastmodified":1536825352,
+    "wof:name":"Phumi Dol",
+    "wof:parent_id":421188351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.08928,
+    11.6861,
+    105.08928,
+    11.6861
+],
+  "geometry": {"coordinates":[105.08928,11.6861],"type":"Point"}
+}

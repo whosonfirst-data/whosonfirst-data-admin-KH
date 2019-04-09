@@ -1,0 +1,67 @@
+{
+  "id": 1193017915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.72732,12.05846,104.72732,12.05846",
+    "geom:latitude":12.05846,
+    "geom:longitude":104.72732,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Phumi Kbal Thnal",
+    "gn:country_code":"KH",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827824,
+    "gn:latitude":12.05846,
+    "gn:longitude":104.72732,
+    "gn:modification_date":"1993-12-30",
+    "gn:name":"Phum\u012d Kbal Thn\u00e1l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673047,
+        1108564679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827824
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"b2c4dda198ae9d3c65deb7abf58e57cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564679,
+            "locality_id":1193017915,
+            "region_id":85673047
+        }
+    ],
+    "wof:id":1193017915,
+    "wof:lastmodified":1536376455,
+    "wof:name":"Phumi Kbal Thnal",
+    "wof:parent_id":1108564679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.72732,
+    12.05846,
+    104.72732,
+    12.05846
+],
+  "geometry": {"coordinates":[104.72732000000001,12.05846],"type":"Point"}
+}

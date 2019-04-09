@@ -1,0 +1,78 @@
+{
+  "id": 1327335339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.40923,12.02007,104.40923,12.02007",
+    "geom:latitude":12.02007,
+    "geom:longitude":104.40923,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Phum Chiep Chas",
+    "gn:country_code":"KH",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828943,
+    "gn:latitude":12.02007,
+    "gn:longitude":104.40923,
+    "gn:modification_date":"2017-07-05",
+    "gn:name":"Phum Chi\u0115p Chas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Chi\u0115p Chas"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1787\u17c0\u1794\u1785\u17b6\u179f\u17cb"
+    ],
+    "name:und_x_variant":[
+        "Cheop",
+        "Phum\u012d Chi\u0115p Chas",
+        "Phum\u012d Chi\u0115b Ch\u0103s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673047,
+        1108564885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828943
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"3d101fd925591e1b558b14315a5c9342",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564885,
+            "locality_id":1327335339,
+            "region_id":85673047
+        }
+    ],
+    "wof:id":1327335339,
+    "wof:lastmodified":1537653844,
+    "wof:name":"Phum Chiep Chas",
+    "wof:parent_id":1108564885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.40923,
+    12.02007,
+    104.40923,
+    12.02007
+],
+  "geometry": {"coordinates":[104.40922999999999,12.02007],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209606797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.10947,11.72573,105.10947,11.72573",
+    "geom:latitude":11.72573,
+    "geom:longitude":105.10947,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Phumi Chey Toch",
+    "gn:country_code":"KH",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829038,
+    "gn:latitude":11.72573,
+    "gn:longitude":105.10947,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Chey Toch",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chrey Toch",
+        "Phum\u012d Chey Toch"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829038
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"c07b4e096c26f7bf2de78f6d779cebe9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209606797
+        }
+    ],
+    "wof:id":1209606797,
+    "wof:lastmodified":1537653853,
+    "wof:name":"Phumi Chey Toch",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.10947,
+    11.72573,
+    105.10947,
+    11.72573
+],
+  "geometry": {"coordinates":[105.10947,11.72573],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259646135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.77918,11.17151,104.77918,11.17151",
+    "geom:latitude":11.17151,
+    "geom:longitude":104.77918,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Phumi Chumreah Pen",
+    "gn:country_code":"KH",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828712,
+    "gn:latitude":11.17151,
+    "gn:longitude":104.77918,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Phum\u012d Chumre\u0103h P\u00e9n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673107,
+        1108564825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828712
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"b20d2fb7b65d48dfdfedf31e60d2dffb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564825,
+            "locality_id":1259646135,
+            "region_id":85673107
+        }
+    ],
+    "wof:id":1259646135,
+    "wof:lastmodified":1536622530,
+    "wof:name":"Phumi Chumreah Pen",
+    "wof:parent_id":1108564825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.77918,
+    11.17151,
+    104.77918,
+    11.17151
+],
+  "geometry": {"coordinates":[104.77918,11.17151],"type":"Point"}
+}

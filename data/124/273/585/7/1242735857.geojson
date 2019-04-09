@@ -1,0 +1,74 @@
+{
+  "id": 1242735857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.08614,13.36353,104.08614,13.36353",
+    "geom:latitude":13.36353,
+    "geom:longitude":104.08614,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Chan Sar Tboung",
+    "gn:country_code":"KH",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11604908,
+    "gn:latitude":13.36353,
+    "gn:longitude":104.08614,
+    "gn:modification_date":"2017-07-06",
+    "gn:name":"Chan Sar Tboung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Chan Sar Tboung"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1785\u1793\u17d2\u1791\u179f\u179a\u1781\u17b6\u1784\u178f\u17d2\u1794\u17bc\u1784",
+        "Phum Chans\u00e2r Khang Tbong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673029,
+        1108564843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11604908
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"c23327dedfca1d9ae7973171b457faa5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564843,
+            "locality_id":1242735857,
+            "region_id":85673029
+        }
+    ],
+    "wof:id":1242735857,
+    "wof:lastmodified":1537654138,
+    "wof:name":"Chan Sar Tboung",
+    "wof:parent_id":1108564843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.08614,
+    13.36353,
+    104.08614,
+    13.36353
+],
+  "geometry": {"coordinates":[104.08614,13.36353],"type":"Point"}
+}

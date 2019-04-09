@@ -1,0 +1,73 @@
+{
+  "id": 1310000371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.07451,11.06255,105.07451,11.06255",
+    "geom:latitude":11.06255,
+    "geom:longitude":105.07451,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Phum Daeum Pou Kraom",
+    "gn:country_code":"KH",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11504370,
+    "gn:latitude":11.06255,
+    "gn:longitude":105.07451,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Phum Daeum Po\u016d Kra\u00f4m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Daeum Po\u016d Kra\u00f4m"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u178a\u17be\u1798\u1796\u17c4\u1792\u17b7\u1780\u17d2\u179a\u17c4\u1798"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673051,
+        1108564703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11504370
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"5737c64e723ed64ddaf708c6d420a81e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564703,
+            "locality_id":1310000371,
+            "region_id":85673051
+        }
+    ],
+    "wof:id":1310000371,
+    "wof:lastmodified":1537654070,
+    "wof:name":"Phum Daeum Pou Kraom",
+    "wof:parent_id":1108564703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.07451,
+    11.06255,
+    105.07451,
+    11.06255
+],
+  "geometry": {"coordinates":[105.07451,11.06255],"type":"Point"}
+}

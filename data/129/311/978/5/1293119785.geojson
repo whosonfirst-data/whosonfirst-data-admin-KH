@@ -1,0 +1,72 @@
+{
+  "id": 1293119785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.98435,12.62986,105.98435,12.62986",
+    "geom:latitude":12.62986,
+    "geom:longitude":105.98435,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Phumi Krieng",
+    "gn:country_code":"KH",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827076,
+    "gn:latitude":12.62986,
+    "gn:longitude":105.98435,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Kri\u0115ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Krreng",
+        "Krieng",
+        "Phum\u012d Kri\u0115ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673081,
+        1108564781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827076
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"73fb3ce5fd6b797c2f9f922ec6a1fb83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564781,
+            "locality_id":1293119785,
+            "region_id":85673081
+        }
+    ],
+    "wof:id":1293119785,
+    "wof:lastmodified":1537653684,
+    "wof:name":"Phumi Krieng",
+    "wof:parent_id":1108564781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.98435,
+    12.62986,
+    105.98435,
+    12.62986
+],
+  "geometry": {"coordinates":[105.98435000000001,12.62986],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1259540939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.40602,13.58485,103.40602,13.58485",
+    "geom:latitude":13.58485,
+    "geom:longitude":103.40602,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Ta Pon",
+    "gn:country_code":"KH",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1824808,
+    "gn:latitude":13.58485,
+    "gn:longitude":103.40602,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Ta Pon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Ta Pon"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u179f\u17d2\u1793\u17b6\u1799\u179b\u17d2\u17a2",
+        "Phum Snay L\u00f4\u00e2"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Snay L\u00f4\u00e2",
+        "Phum\u012d Snay L\u2019\u00e2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673011,
+        421183973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1824808
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"a4d71c43083a06c6e37bfb112fbe6c3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421183973,
+            "locality_id":1259540939,
+            "region_id":85673011
+        }
+    ],
+    "wof:id":1259540939,
+    "wof:lastmodified":1537653488,
+    "wof:name":"Ta Pon",
+    "wof:parent_id":421183973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.40602,
+    13.58485,
+    103.40602,
+    13.58485
+],
+  "geometry": {"coordinates":[103.40602,13.58485],"type":"Point"}
+}

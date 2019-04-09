@@ -1,0 +1,76 @@
+{
+  "id": 1344246789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.92221,12.2714,105.92221,12.2714",
+    "geom:latitude":12.2714,
+    "geom:longitude":105.92221,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Phum Kbal Kaoh Tasuy",
+    "gn:country_code":"KH",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827854,
+    "gn:latitude":12.2714,
+    "gn:longitude":105.92221,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Phum Kbal Ka\u00f4h Tas\u016dy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Kbal Ka\u00f4h Tas\u016dy"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1780\u17d2\u1794\u17b6\u179b\u1780\u17c4\u17c7\u178f\u17b6\u179f\u17ca\u17bb\u1799"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Kbal Ka\u00f4h Tas\u016dy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673081,
+        1108564781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827854
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"aeaf9c7d56123cbe6c749aadda91712e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564781,
+            "locality_id":1344246789,
+            "region_id":85673081
+        }
+    ],
+    "wof:id":1344246789,
+    "wof:lastmodified":1537653755,
+    "wof:name":"Phum Kbal Kaoh Tasuy",
+    "wof:parent_id":1108564781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.92221,
+    12.2714,
+    105.92221,
+    12.2714
+],
+  "geometry": {"coordinates":[105.92221000000001,12.2714],"type":"Point"}
+}

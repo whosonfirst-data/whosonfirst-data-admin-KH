@@ -1,0 +1,71 @@
+{
+  "id": 1327299477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.88043,10.61506,104.88043,10.61506",
+    "geom:latitude":10.61506,
+    "geom:longitude":104.88043,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Phumi Daeum Beng",
+    "gn:country_code":"KH",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828692,
+    "gn:latitude":10.61506,
+    "gn:longitude":104.88043,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Daeum B\u00e9ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum Dom Pet",
+        "Phum\u012d Daeum B\u00e9ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673107,
+        1108564709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828692
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"f6181ff476f001892da50e334a1d49bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564709,
+            "locality_id":1327299477,
+            "region_id":85673107
+        }
+    ],
+    "wof:id":1327299477,
+    "wof:lastmodified":1537653825,
+    "wof:name":"Phumi Daeum Beng",
+    "wof:parent_id":1108564709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.88043,
+    10.61506,
+    104.88043,
+    10.61506
+],
+  "geometry": {"coordinates":[104.88043,10.61506],"type":"Point"}
+}

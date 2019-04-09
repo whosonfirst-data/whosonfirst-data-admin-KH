@@ -1,0 +1,71 @@
+{
+  "id": 1276994207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.48134,12.04304,105.48134,12.04304",
+    "geom:latitude":12.04304,
+    "geom:longitude":105.48134,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Phumi Ro'ang Leu",
+    "gn:country_code":"KH",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825457,
+    "gn:latitude":12.04304,
+    "gn:longitude":105.48134,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d R\u00f4\u2019ang Leu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum Ro Ang",
+        "Phum\u012d R\u00f4\u2019ang Leu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673041,
+        421205043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825457
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"10616b7a68d4affe3001f69a5af9fd52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421205043,
+            "locality_id":1276994207,
+            "region_id":85673041
+        }
+    ],
+    "wof:id":1276994207,
+    "wof:lastmodified":1537653543,
+    "wof:name":"Phumi Ro'ang Leu",
+    "wof:parent_id":421205043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.48134,
+    12.04304,
+    105.48134,
+    12.04304
+],
+  "geometry": {"coordinates":[105.48134,12.04304],"type":"Point"}
+}

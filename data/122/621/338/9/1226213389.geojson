@@ -1,0 +1,71 @@
+{
+  "id": 1226213389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.33653,11.07605,105.33653,11.07605",
+    "geom:latitude":11.07605,
+    "geom:longitude":105.33653,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Phumi Reakong Sat",
+    "gn:country_code":"KH",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825476,
+    "gn:latitude":11.07605,
+    "gn:longitude":105.33653,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d R\u00e9ak\u00f3ng Sat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum Rakansat",
+        "Phum\u012d R\u00e9ak\u00f3ng Sat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673067,
+        1108564775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825476
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"76b2da3bb5d08a955c30eab4c586d625",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564775,
+            "locality_id":1226213389,
+            "region_id":85673067
+        }
+    ],
+    "wof:id":1226213389,
+    "wof:lastmodified":1537653544,
+    "wof:name":"Phumi Reakong Sat",
+    "wof:parent_id":1108564775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.33653,
+    11.07605,
+    105.33653,
+    11.07605
+],
+  "geometry": {"coordinates":[105.33653,11.07605],"type":"Point"}
+}

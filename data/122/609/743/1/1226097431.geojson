@@ -1,0 +1,73 @@
+{
+  "id": 1226097431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.96625,13.77005,102.96625,13.77005",
+    "geom:latitude":13.77005,
+    "geom:longitude":102.96625,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Ou Veaeng",
+    "gn:country_code":"KH",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1826654,
+    "gn:latitude":13.77005,
+    "gn:longitude":102.96625,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Ou Veaeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Ou Veaeng"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d O V\u00e9ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673011,
+        421181961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1826654
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"0d1e4cef85265bc9171722a2541ba101",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421181961,
+            "locality_id":1226097431,
+            "region_id":85673011
+        }
+    ],
+    "wof:id":1226097431,
+    "wof:lastmodified":1537653646,
+    "wof:name":"Ou Veaeng",
+    "wof:parent_id":421181961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.96625,
+    13.77005,
+    102.96625,
+    13.77005
+],
+  "geometry": {"coordinates":[102.96625,13.77005],"type":"Point"}
+}

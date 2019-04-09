@@ -1,0 +1,68 @@
+{
+  "id": 1209217877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.26769,11.94474,105.26769,11.94474",
+    "geom:latitude":11.94474,
+    "geom:longitude":105.26769,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Peam Chi Kang",
+    "gn:country_code":"KH",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1826611,
+    "gn:latitude":11.94474,
+    "gn:longitude":105.26769,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Peam Chi Kang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Peam Chi Kang"
+    ],
+    "name:und_x_variant":[
+        "Peam Chikang",
+        "Phum\u012d P\u00e9am Chik\u00e2ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1826611
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"72c9a4eb1b4bb775205f462c7485285a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209217877
+        }
+    ],
+    "wof:id":1209217877,
+    "wof:lastmodified":1537653641,
+    "wof:name":"Peam Chi Kang",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.26769,
+    11.94474,
+    105.26769,
+    11.94474
+],
+  "geometry": {"coordinates":[105.26769,11.94474],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209179723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.69294,10.94793,104.69294,10.94793",
+    "geom:latitude":10.94793,
+    "geom:longitude":104.69294,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Phumi Takheng",
+    "gn:country_code":"KH",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1824263,
+    "gn:latitude":10.94793,
+    "gn:longitude":104.69294,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Phum\u012d Takh\u00e9ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1824263
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"35d443a66a0e97b942743b90c6c59113",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209179723
+        }
+    ],
+    "wof:id":1209179723,
+    "wof:lastmodified":1536295300,
+    "wof:name":"Phumi Takheng",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.69294,
+    10.94793,
+    104.69294,
+    10.94793
+],
+  "geometry": {"coordinates":[104.69293999999999,10.94793],"type":"Point"}
+}

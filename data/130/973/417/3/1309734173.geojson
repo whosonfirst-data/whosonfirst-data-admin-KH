@@ -1,0 +1,73 @@
+{
+  "id": 1309734173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.72301,11.32297,103.72301,11.32297",
+    "geom:latitude":11.32297,
+    "geom:longitude":103.72301,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Phumi Kong Chha",
+    "gn:country_code":"KH",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827478,
+    "gn:latitude":11.32297,
+    "gn:longitude":103.72301,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Phum\u012d K\u00f4ng Chha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kong Tcha",
+        "Phum\u012d Kung Chha",
+        "Phum Kong Tcha",
+        "Phum\u012d K\u00f4ng Chha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673019,
+        421183117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827478
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"214db5db860b4840130d8af9dda56fbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421183117,
+            "locality_id":1309734173,
+            "region_id":85673019
+        }
+    ],
+    "wof:id":1309734173,
+    "wof:lastmodified":1537653722,
+    "wof:name":"Phumi Kong Chha",
+    "wof:parent_id":421183117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.72301,
+    11.32297,
+    103.72301,
+    11.32297
+],
+  "geometry": {"coordinates":[103.72301,11.32297],"type":"Point"}
+}

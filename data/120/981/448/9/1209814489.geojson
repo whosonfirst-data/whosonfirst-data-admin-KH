@@ -1,0 +1,72 @@
+{
+  "id": 1209814489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.11377,12.38127,105.11377,12.38127",
+    "geom:latitude":12.38127,
+    "geom:longitude":105.11377,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Phumi Kdam Ha",
+    "gn:country_code":"KH",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827812,
+    "gn:latitude":12.38127,
+    "gn:longitude":105.11377,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Kdam Ha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum Kadamha",
+        "Phum Kadamba",
+        "Phum\u012d Kdam Ha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673057,
+        421198921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827812
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"a5b29be217a536de9eb731153aaf571b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421198921,
+            "locality_id":1209814489,
+            "region_id":85673057
+        }
+    ],
+    "wof:id":1209814489,
+    "wof:lastmodified":1537653751,
+    "wof:name":"Phumi Kdam Ha",
+    "wof:parent_id":421198921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.11377,
+    12.38127,
+    105.11377,
+    12.38127
+],
+  "geometry": {"coordinates":[105.11377,12.38127],"type":"Point"}
+}

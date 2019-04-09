@@ -1,0 +1,70 @@
+{
+  "id": 1343933653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.02595,11.02892,106.02595,11.02892",
+    "geom:latitude":11.02892,
+    "geom:longitude":106.02595,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Kampout Leaph",
+    "gn:country_code":"KH",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11509620,
+    "gn:latitude":11.02892,
+    "gn:longitude":106.02595,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Kampout Leaph",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Kampout Leaph"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673105,
+        1108564617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11509620
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"e1bd75a19b4d11cfa9e7a2d1cdeb749a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564617,
+            "locality_id":1343933653,
+            "region_id":85673105
+        }
+    ],
+    "wof:id":1343933653,
+    "wof:lastmodified":1537654081,
+    "wof:name":"Kampout Leaph",
+    "wof:parent_id":1108564617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.02595,
+    11.02892,
+    106.02595,
+    11.02892
+],
+  "geometry": {"coordinates":[106.02594999999999,11.02892],"type":"Point"}
+}

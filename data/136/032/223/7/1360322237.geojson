@@ -1,0 +1,74 @@
+{
+  "id": 1360322237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.74433,12.00229,105.74433,12.00229",
+    "geom:latitude":12.00229,
+    "geom:longitude":105.74433,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Damnak Popel",
+    "gn:country_code":"KH",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11507549,
+    "gn:latitude":12.00229,
+    "gn:longitude":105.74433,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Damnak Popel",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Damnak Popel"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1790\u17d2\u1793\u17b6\u1780\u1796\u1796\u17c1\u179b",
+        "Phum\u012d Thnak P\u00f4p\u00e9l"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        1108804319,
+        421183891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11507549
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"1be114f3fd542733145a925e22517832",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421183891,
+            "locality_id":1360322237,
+            "region_id":1108804319
+        }
+    ],
+    "wof:id":1360322237,
+    "wof:lastmodified":1537654079,
+    "wof:name":"Damnak Popel",
+    "wof:parent_id":421183891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.74433,
+    12.00229,
+    105.74433,
+    12.00229
+],
+  "geometry": {"coordinates":[105.74433000000001,12.00229],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1310227755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.57025,13.14576,104.57025,13.14576",
+    "geom:latitude":13.14576,
+    "geom:longitude":104.57025,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Phumi Khtom Mon",
+    "gn:country_code":"KH",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827602,
+    "gn:latitude":13.14576,
+    "gn:longitude":104.57025,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Kht\u00f4m M\u00f4n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum Ktom Mon",
+        "Phum\u012d Kht\u00f4m M\u00f4n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673057,
+        1108564849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827602
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"772278430132ce756f305c0ec75c53d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564849,
+            "locality_id":1310227755,
+            "region_id":85673057
+        }
+    ],
+    "wof:id":1310227755,
+    "wof:lastmodified":1537653733,
+    "wof:name":"Phumi Khtom Mon",
+    "wof:parent_id":1108564849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.57025,
+    13.14576,
+    104.57025,
+    13.14576
+],
+  "geometry": {"coordinates":[104.57025,13.14576],"type":"Point"}
+}

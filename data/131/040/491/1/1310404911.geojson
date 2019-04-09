@@ -1,0 +1,72 @@
+{
+  "id": 1310404911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.06185,12.39356,105.06185,12.39356",
+    "geom:latitude":12.39356,
+    "geom:longitude":105.06185,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Phumi Chato Lout",
+    "gn:country_code":"KH",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829109,
+    "gn:latitude":12.39356,
+    "gn:longitude":105.06185,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Ch\u00e2t\u014f Lo\u016dt",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum Chakt\u014f Lo\u016dt",
+        "Phum Chett Lok",
+        "Phum\u012d Ch\u00e2t\u014f Lo\u016dt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673057,
+        421198921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829109
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"53515d3e19f2252437ad6c9eda2aa91f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421198921,
+            "locality_id":1310404911,
+            "region_id":85673057
+        }
+    ],
+    "wof:id":1310404911,
+    "wof:lastmodified":1537653858,
+    "wof:name":"Phumi Chato Lout",
+    "wof:parent_id":421198921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.06185,
+    12.39356,
+    105.06185,
+    12.39356
+],
+  "geometry": {"coordinates":[105.06185000000001,12.39356],"type":"Point"}
+}

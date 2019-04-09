@@ -1,0 +1,67 @@
+{
+  "id": 1226736813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.7429,12.37505,103.7429,12.37505",
+    "geom:latitude":12.37505,
+    "geom:longitude":103.7429,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Phumi Veal Sangke",
+    "gn:country_code":"KH",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1822912,
+    "gn:latitude":12.37505,
+    "gn:longitude":103.7429,
+    "gn:modification_date":"1993-12-30",
+    "gn:name":"Phum\u012d V\u00e9al S\u00e2ngk\u00ea",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673023,
+        1108564759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1822912
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"f983bc42e88228655459380603f178a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564759,
+            "locality_id":1226736813,
+            "region_id":85673023
+        }
+    ],
+    "wof:id":1226736813,
+    "wof:lastmodified":1536728814,
+    "wof:name":"Phumi Veal Sangke",
+    "wof:parent_id":1108564759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.7429,
+    12.37505,
+    103.7429,
+    12.37505
+],
+  "geometry": {"coordinates":[103.74290000000001,12.37505],"type":"Point"}
+}

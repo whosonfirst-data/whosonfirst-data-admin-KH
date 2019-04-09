@@ -1,0 +1,78 @@
+{
+  "id": 1310513227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.39418,12.36895,104.39418,12.36895",
+    "geom:latitude":12.36895,
+    "geom:longitude":104.39418,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Tang Trapeang",
+    "gn:country_code":"KH",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1824139,
+    "gn:latitude":12.36895,
+    "gn:longitude":104.39418,
+    "gn:modification_date":"2017-07-05",
+    "gn:name":"Tang Trapeang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Tang Trapeang"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u178f\u17b6\u17c6\u1784\u178f\u17d2\u179a\u1796\u17b6\u17c6\u1784",
+        "Phum T\u0103ng Tr\u00e2pe\u0103ng"
+    ],
+    "name:und_x_variant":[
+        "Phum Chr\u00e0ng Tr\u00e1pe\u00e1ng",
+        "Phum\u012d T\u0103ng Tr\u00e2pe\u0103ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673047,
+        421202235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1824139
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"5c00949f339dd7ba40b828d533ff2f10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421202235,
+            "locality_id":1310513227,
+            "region_id":85673047
+        }
+    ],
+    "wof:id":1310513227,
+    "wof:lastmodified":1537653434,
+    "wof:name":"Tang Trapeang",
+    "wof:parent_id":421202235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.39418,
+    12.36895,
+    104.39418,
+    12.36895
+],
+  "geometry": {"coordinates":[104.39418000000001,12.36895],"type":"Point"}
+}

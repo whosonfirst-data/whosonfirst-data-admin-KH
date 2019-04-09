@@ -1,0 +1,71 @@
+{
+  "id": 1326580341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.67614,12.93788,103.67614,12.93788",
+    "geom:latitude":12.93788,
+    "geom:longitude":103.67614,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Phumi Ta Moas",
+    "gn:country_code":"KH",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1824208,
+    "gn:latitude":12.93788,
+    "gn:longitude":103.67614,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Ta Mo\u0103s",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "P\u2019um Bak Sn\u00e2r",
+        "Phum\u012d Ta Mo\u0103s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673015,
+        1108564739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1824208
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"0f529d74aeebde3d7ba1c23a41af8a56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564739,
+            "locality_id":1326580341,
+            "region_id":85673015
+        }
+    ],
+    "wof:id":1326580341,
+    "wof:lastmodified":1537653438,
+    "wof:name":"Phumi Ta Moas",
+    "wof:parent_id":1108564739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.67614,
+    12.93788,
+    103.67614,
+    12.93788
+],
+  "geometry": {"coordinates":[103.67614,12.93788],"type":"Point"}
+}

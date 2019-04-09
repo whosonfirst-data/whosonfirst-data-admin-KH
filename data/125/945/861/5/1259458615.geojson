@@ -1,0 +1,76 @@
+{
+  "id": 1259458615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.78492,11.06247,105.78492,11.06247",
+    "geom:latitude":11.06247,
+    "geom:longitude":105.78492,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Ta S'ang",
+    "gn:country_code":"KH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1824050,
+    "gn:latitude":11.06247,
+    "gn:longitude":105.78492,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Ta S\u2019ang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Ta S\u2019ang"
+    ],
+    "name:und_x_variant":[
+        "Phum Sa Ang",
+        "Phum\u012d Ta S\u00e2ang",
+        "Phum Ta Sang",
+        "Phum\u012d Ta S\u2019ang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673105,
+        1108564861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1824050
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"e260c0342a80b264535f8c93778878ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564861,
+            "locality_id":1259458615,
+            "region_id":85673105
+        }
+    ],
+    "wof:id":1259458615,
+    "wof:lastmodified":1537653426,
+    "wof:name":"Ta S'ang",
+    "wof:parent_id":1108564861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.78492,
+    11.06247,
+    105.78492,
+    11.06247
+],
+  "geometry": {"coordinates":[105.78492,11.06247],"type":"Point"}
+}

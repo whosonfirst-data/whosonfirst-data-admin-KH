@@ -1,0 +1,74 @@
+{
+  "id": 1225949215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.12236,12.28309,105.12236,12.28309",
+    "geom:latitude":12.28309,
+    "geom:longitude":105.12236,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Andoung Pou",
+    "gn:country_code":"KH",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829981,
+    "gn:latitude":12.28309,
+    "gn:longitude":105.12236,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Andoung Pou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Andoung Pou"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d \u00c2ndong Po\u016d",
+        "Phum\u012d \u00c2ndong Po\u016dth\u012d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673057,
+        421198921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829981
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"29689a2656947b95897651877af8676a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421198921,
+            "locality_id":1225949215,
+            "region_id":85673057
+        }
+    ],
+    "wof:id":1225949215,
+    "wof:lastmodified":1537653929,
+    "wof:name":"Andoung Pou",
+    "wof:parent_id":421198921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.12236,
+    12.28309,
+    105.12236,
+    12.28309
+],
+  "geometry": {"coordinates":[105.12236,12.28309],"type":"Point"}
+}

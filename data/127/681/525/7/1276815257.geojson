@@ -1,0 +1,74 @@
+{
+  "id": 1276815257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.9154,12.84169,102.9154,12.84169",
+    "geom:latitude":12.84169,
+    "geom:longitude":102.9154,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Phum Kilo",
+    "gn:country_code":"KH",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827544,
+    "gn:latitude":12.84169,
+    "gn:longitude":102.9154,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Phum Kilo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Kilo"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1782\u17b8\u17a1\u17bc",
+        "Phum\u012d Kilo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673015,
+        1108564799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827544
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"a6bc7e25aa52cd23cd7ed28b3e1ef9e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564799,
+            "locality_id":1276815257,
+            "region_id":85673015
+        }
+    ],
+    "wof:id":1276815257,
+    "wof:lastmodified":1537653728,
+    "wof:name":"Phum Kilo",
+    "wof:parent_id":1108564799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.9154,
+    12.84169,
+    102.9154,
+    12.84169
+],
+  "geometry": {"coordinates":[102.91540000000001,12.84169],"type":"Point"}
+}

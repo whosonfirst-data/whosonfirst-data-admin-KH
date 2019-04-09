@@ -1,0 +1,64 @@
+{
+  "id": 1209300671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.21047,13.43819,105.21047,13.43819",
+    "geom:latitude":13.43819,
+    "geom:longitude":105.21047,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Ruos Roan",
+    "gn:country_code":"KH",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11481812,
+    "gn:latitude":13.43819,
+    "gn:longitude":105.21047,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Ruos Roan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Ruos Roan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11481812
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"0dbd930fdb1709ed102902fdf00e6279",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209300671
+        }
+    ],
+    "wof:id":1209300671,
+    "wof:lastmodified":1537654045,
+    "wof:name":"Ruos Roan",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.21047,
+    13.43819,
+    105.21047,
+    13.43819
+],
+  "geometry": {"coordinates":[105.21047,13.43819],"type":"Point"}
+}

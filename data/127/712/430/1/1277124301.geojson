@@ -1,0 +1,75 @@
+{
+  "id": 1277124301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.64936,14.34022,103.64936,14.34022",
+    "geom:latitude":14.34022,
+    "geom:longitude":103.64936,
+    "gn:admin1_code":"27",
+    "gn:asciiname":"Phum Phaang",
+    "gn:country_code":"KH",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1826551,
+    "gn:latitude":14.34022,
+    "gn:longitude":103.64936,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Phum Ph\u00e2\u00e2ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Ph\u00e2\u00e2ng"
+    ],
+    "name:und_x_variant":[
+        "Pa Ong",
+        "Phum\u012d Ph\u00e2\u00e2ng",
+        "Phum\u012d Ph\u2019\u00e2ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673033,
+        1108564823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1826551
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"748a4afe8c58d06768a2be31d57a3671",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564823,
+            "locality_id":1277124301,
+            "region_id":85673033
+        }
+    ],
+    "wof:id":1277124301,
+    "wof:lastmodified":1537653636,
+    "wof:name":"Phum Phaang",
+    "wof:parent_id":1108564823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.64936,
+    14.34022,
+    103.64936,
+    14.34022
+],
+  "geometry": {"coordinates":[103.64936,14.34022],"type":"Point"}
+}

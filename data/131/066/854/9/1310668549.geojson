@@ -1,0 +1,70 @@
+{
+  "id": 1310668549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.17763,14.06915,103.17763,14.06915",
+    "geom:latitude":14.06915,
+    "geom:longitude":103.17763,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Prey Sangha",
+    "gn:country_code":"KH",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11531752,
+    "gn:latitude":14.06915,
+    "gn:longitude":103.17763,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Prey Sangha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Prey Sangha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673011,
+        421203293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11531752
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"909ddd06aede61ee2440f03558f2e0f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421203293,
+            "locality_id":1310668549,
+            "region_id":85673011
+        }
+    ],
+    "wof:id":1310668549,
+    "wof:lastmodified":1537654091,
+    "wof:name":"Prey Sangha",
+    "wof:parent_id":421203293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.17763,
+    14.06915,
+    103.17763,
+    14.06915
+],
+  "geometry": {"coordinates":[103.17762999999999,14.06915],"type":"Point"}
+}

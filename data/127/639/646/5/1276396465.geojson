@@ -1,0 +1,77 @@
+{
+  "id": 1276396465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.07094,13.5045,103.07094,13.5045",
+    "geom:latitude":13.5045,
+    "geom:longitude":103.07094,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Phum Sras Kduoch",
+    "gn:country_code":"KH",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1824730,
+    "gn:latitude":13.5045,
+    "gn:longitude":103.07094,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Phum Sras Kdu\u014fch",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Sras Kdu\u014fch"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1796\u17d2\u179a\u1780\u17d2\u178a\u17bd\u1785"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Sras Kdu\u014fch",
+        "Phum\u012d Sr\u0103h Kdu\u014fch"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673011,
+        1108564737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1824730
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"913febd07c68abfa9e07be565f86f033",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564737,
+            "locality_id":1276396465,
+            "region_id":85673011
+        }
+    ],
+    "wof:id":1276396465,
+    "wof:lastmodified":1537653481,
+    "wof:name":"Phum Sras Kduoch",
+    "wof:parent_id":1108564737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.07094,
+    13.5045,
+    103.07094,
+    13.5045
+],
+  "geometry": {"coordinates":[103.07093999999999,13.5045],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209016055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.5642,11.76819,104.5642,11.76819",
+    "geom:latitude":11.76819,
+    "geom:longitude":104.5642,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Phumi Tang Krong",
+    "gn:country_code":"KH",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1824167,
+    "gn:latitude":11.76819,
+    "gn:longitude":104.5642,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Phum\u012d T\u0103ng Kr\u00f4ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1824167
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"a45d7d924920fffb15db87ca2819e8e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209016055
+        }
+    ],
+    "wof:id":1209016055,
+    "wof:lastmodified":1536300296,
+    "wof:name":"Phumi Tang Krong",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.5642,
+    11.76819,
+    104.5642,
+    11.76819
+],
+  "geometry": {"coordinates":[104.5642,11.76819],"type":"Point"}
+}

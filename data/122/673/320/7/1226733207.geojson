@@ -1,0 +1,72 @@
+{
+  "id": 1226733207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.53248,11.15959,105.53248,11.15959",
+    "geom:latitude":11.15959,
+    "geom:longitude":105.53248,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Khum Prasat",
+    "gn:country_code":"KH",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1830751,
+    "gn:latitude":11.15959,
+    "gn:longitude":105.53248,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kh\u016dm Prasat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum Prasat",
+        "Vat Prasat",
+        "Kh\u016dm Prasat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673067,
+        421202305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1830751
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"5f0fb6f194188b505df792d6a4657432",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421202305,
+            "locality_id":1226733207,
+            "region_id":85673067
+        }
+    ],
+    "wof:id":1226733207,
+    "wof:lastmodified":1537653948,
+    "wof:name":"Khum Prasat",
+    "wof:parent_id":421202305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.53248,
+    11.15959,
+    105.53248,
+    11.15959
+],
+  "geometry": {"coordinates":[105.53248000000001,11.15959],"type":"Point"}
+}

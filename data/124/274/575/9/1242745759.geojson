@@ -1,0 +1,76 @@
+{
+  "id": 1242745759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.34172,13.63346,103.34172,13.63346",
+    "geom:latitude":13.63346,
+    "geom:longitude":103.34172,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Phum Bat Trang Pir",
+    "gn:country_code":"KH",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829520,
+    "gn:latitude":13.63346,
+    "gn:longitude":103.34172,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Phum B\u00e2t Tr\u00e2ng Pir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum B\u00e2t Tr\u00e2ng Pir"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1794\u178f\u17cb\u178f\u17d2\u179a\u1784\u17cb"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d B\u00e1t Tr\u00e1ng (2)"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673011,
+        421183973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829520
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"2798df101e41362b1cbbbb5e5d8463c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421183973,
+            "locality_id":1242745759,
+            "region_id":85673011
+        }
+    ],
+    "wof:id":1242745759,
+    "wof:lastmodified":1537653888,
+    "wof:name":"Phum Bat Trang Pir",
+    "wof:parent_id":421183973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.34172,
+    13.63346,
+    103.34172,
+    13.63346
+],
+  "geometry": {"coordinates":[103.34172,13.63346],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1360108619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.65512,11.35636,104.65512,11.35636",
+    "geom:latitude":11.35636,
+    "geom:longitude":104.65512,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Phumi Tbong Angk",
+    "gn:country_code":"KH",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1823970,
+    "gn:latitude":11.35636,
+    "gn:longitude":104.65512,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Tbong \u00c2ngk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum Thb\u00f4ung",
+        "Phum\u012d Tbong Ang",
+        "Phum\u012d Tbong \u00c2ngk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673053,
+        1108564715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1823970
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"5e8df066aa949abcb8110cad17ba12f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564715,
+            "locality_id":1360108619,
+            "region_id":85673053
+        }
+    ],
+    "wof:id":1360108619,
+    "wof:lastmodified":1537653420,
+    "wof:name":"Phumi Tbong Angk",
+    "wof:parent_id":1108564715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.65512,
+    11.35636,
+    104.65512,
+    11.35636
+],
+  "geometry": {"coordinates":[104.65512,11.35636],"type":"Point"}
+}

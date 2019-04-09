@@ -1,0 +1,65 @@
+{
+  "id": 1209246657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.13343,13.38421,105.13343,13.38421",
+    "geom:latitude":13.38421,
+    "geom:longitude":105.13343,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Phumi Trapeang Roessei",
+    "gn:country_code":"KH",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1823309,
+    "gn:latitude":13.38421,
+    "gn:longitude":105.13343,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Tr\u00e2pe\u0103ng R\u0153ssei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum\u012d Tr\u00e2pe\u0103ng R\u016dssei",
+        "Phum\u012d Tr\u00e2pe\u0103ng R\u0153ssei"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1823309
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"18961ed5dd9cef25441bedbc46d63d5d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209246657
+        }
+    ],
+    "wof:id":1209246657,
+    "wof:lastmodified":1537653371,
+    "wof:name":"Phumi Trapeang Roessei",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.13343,
+    13.38421,
+    105.13343,
+    13.38421
+],
+  "geometry": {"coordinates":[105.13343,13.38421],"type":"Point"}
+}

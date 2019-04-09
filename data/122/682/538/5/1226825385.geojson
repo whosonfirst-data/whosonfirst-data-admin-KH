@@ -1,0 +1,72 @@
+{
+  "id": 1226825385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.99816,13.89965,105.99816,13.89965",
+    "geom:latitude":13.89965,
+    "geom:longitude":105.99816,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Phumi Kaoh Pnou",
+    "gn:country_code":"KH",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827962,
+    "gn:latitude":13.89965,
+    "gn:longitude":105.99816,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Ka\u00f4h Pn\u014fu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Dan Toum",
+        "Phum\u012d Ka\u00f4h Phnou",
+        "Phum\u012d Ka\u00f4h Pn\u014fu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673075,
+        1108564869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827962
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"bcdb173c655360860f3955e655ed129f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564869,
+            "locality_id":1226825385,
+            "region_id":85673075
+        }
+    ],
+    "wof:id":1226825385,
+    "wof:lastmodified":1537653764,
+    "wof:name":"Phumi Kaoh Pnou",
+    "wof:parent_id":1108564869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.99816,
+    13.89965,
+    105.99816,
+    13.89965
+],
+  "geometry": {"coordinates":[105.99816,13.89965],"type":"Point"}
+}

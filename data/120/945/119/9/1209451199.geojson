@@ -1,0 +1,65 @@
+{
+  "id": 1209451199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.98582,11.78555,105.98582,11.78555",
+    "geom:latitude":11.78555,
+    "geom:longitude":105.98582,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Phumi Ampok",
+    "gn:country_code":"KH",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1830019,
+    "gn:latitude":11.78555,
+    "gn:longitude":105.98582,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Phum\u012d \u00c2mp\u00f3k",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum Ampuk",
+        "Phum\u012d \u00c2mp\u00f3k"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1830019
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"b91505f02d65f4b4d6af303e89bc4531",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209451199
+        }
+    ],
+    "wof:id":1209451199,
+    "wof:lastmodified":1537653932,
+    "wof:name":"Phumi Ampok",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.98582,
+    11.78555,
+    105.98582,
+    11.78555
+],
+  "geometry": {"coordinates":[105.98582,11.78555],"type":"Point"}
+}

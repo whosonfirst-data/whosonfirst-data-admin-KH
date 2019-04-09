@@ -1,0 +1,74 @@
+{
+  "id": 1276724487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.97162,10.9503,104.97162,10.9503",
+    "geom:latitude":10.9503,
+    "geom:longitude":104.97162,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Phumi Phnum Angkor Borei",
+    "gn:country_code":"KH",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1826483,
+    "gn:latitude":10.9503,
+    "gn:longitude":104.97162,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Phnum \u00c2ngk\u00f4r Borei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum Phnom Angkor Borey",
+        "Angkor Baurei",
+        "Angkor Borei",
+        "Phum\u012d Phnum \u00c2ngk\u00f4r Borei"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673107,
+        1108564579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1826483,
+        "wk:page":"Angkor_Borei_and_Phnom_Da"
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"5366144346548cbe4442cac882f16c9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564579,
+            "locality_id":1276724487,
+            "region_id":85673107
+        }
+    ],
+    "wof:id":1276724487,
+    "wof:lastmodified":1537653630,
+    "wof:name":"Phumi Phnum Angkor Borei",
+    "wof:parent_id":1108564579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.97162,
+    10.9503,
+    104.97162,
+    10.9503
+],
+  "geometry": {"coordinates":[104.97162,10.9503],"type":"Point"}
+}

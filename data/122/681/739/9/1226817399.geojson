@@ -1,0 +1,75 @@
+{
+  "id": 1226817399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.65827,13.70627,103.65827,13.70627",
+    "geom:latitude":13.70627,
+    "geom:longitude":103.65827,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Bay Mat",
+    "gn:country_code":"KH",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829509,
+    "gn:latitude":13.70627,
+    "gn:longitude":103.65827,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Bay Mat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Bay Mat"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1794\u17b6\u1799\u1798\u17c9\u17b6\u178f",
+        "Phum\u012d Bay Mat",
+        "Phum Bay Mat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673029,
+        1108564583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829509
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"b5a9fb0cc04b93ff0bccc830128b6451",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564583,
+            "locality_id":1226817399,
+            "region_id":85673029
+        }
+    ],
+    "wof:id":1226817399,
+    "wof:lastmodified":1537653887,
+    "wof:name":"Bay Mat",
+    "wof:parent_id":1108564583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.65827,
+    13.70627,
+    103.65827,
+    13.70627
+],
+  "geometry": {"coordinates":[103.65827,13.70627],"type":"Point"}
+}

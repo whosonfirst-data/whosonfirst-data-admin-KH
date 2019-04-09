@@ -1,0 +1,64 @@
+{
+  "id": 1209604165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.15531,12.77513,107.15531,12.77513",
+    "geom:latitude":12.77513,
+    "geom:longitude":107.15531,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Pu Chrey Yang",
+    "gn:country_code":"KH",
+    "gn:dem":404,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11483656,
+    "gn:latitude":12.77513,
+    "gn:longitude":107.15531,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Pu Chrey Yang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Pu Chrey Yang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11483656
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"d839260fda6ec6935398102b2716b5eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209604165
+        }
+    ],
+    "wof:id":1209604165,
+    "wof:lastmodified":1537654060,
+    "wof:name":"Pu Chrey Yang",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.15531,
+    12.77513,
+    107.15531,
+    12.77513
+],
+  "geometry": {"coordinates":[107.15531,12.77513],"type":"Point"}
+}

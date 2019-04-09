@@ -1,0 +1,73 @@
+{
+  "id": 1360032375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.75725,13.10134,102.75725,13.10134",
+    "geom:latitude":13.10134,
+    "geom:longitude":102.75725,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Dey Sor Thmei",
+    "gn:country_code":"KH",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828544,
+    "gn:latitude":13.10134,
+    "gn:longitude":102.75725,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Dey Sor Thmei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Dey Sor Thmei"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Dei S\u00e2r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673015,
+        1108564615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828544
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"06df95f39dc34f39bc82fce1865a1b92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564615,
+            "locality_id":1360032375,
+            "region_id":85673015
+        }
+    ],
+    "wof:id":1360032375,
+    "wof:lastmodified":1537653814,
+    "wof:name":"Dey Sor Thmei",
+    "wof:parent_id":1108564615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.75725,
+    13.10134,
+    102.75725,
+    13.10134
+],
+  "geometry": {"coordinates":[102.75725,13.10134],"type":"Point"}
+}

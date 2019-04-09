@@ -1,0 +1,77 @@
+{
+  "id": 1309863643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.05125,13.29953,104.05125,13.29953",
+    "geom:latitude":13.29953,
+    "geom:longitude":104.05125,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Phum Rokar Kambot",
+    "gn:country_code":"KH",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825374,
+    "gn:latitude":13.29953,
+    "gn:longitude":104.05125,
+    "gn:modification_date":"2017-07-05",
+    "gn:name":"Phum R\u00f4kar K\u00e2mb\u014ft",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum R\u00f4kar K\u00e2mb\u014ft"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u179a\u1780\u17b6\u179a\u1780\u17c6\u1794\u17bb\u178f"
+    ],
+    "name:und_x_variant":[
+        "Phum Roca Kambot",
+        "Phum\u012d R\u00f4kar K\u00e2mb\u014ft"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673029,
+        421171409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825374
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"55b363df867d9e77b497b4e86274f356",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421171409,
+            "locality_id":1309863643,
+            "region_id":85673029
+        }
+    ],
+    "wof:id":1309863643,
+    "wof:lastmodified":1537653535,
+    "wof:name":"Phum Rokar Kambot",
+    "wof:parent_id":421171409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.05125,
+    13.29953,
+    104.05125,
+    13.29953
+],
+  "geometry": {"coordinates":[104.05125,13.29953],"type":"Point"}
+}

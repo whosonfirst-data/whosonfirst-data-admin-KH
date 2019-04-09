@@ -1,0 +1,67 @@
+{
+  "id": 1259957063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.73455,12.60129,103.73455,12.60129",
+    "geom:latitude":12.60129,
+    "geom:longitude":103.73455,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Phumi Krut Chheh",
+    "gn:country_code":"KH",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827046,
+    "gn:latitude":12.60129,
+    "gn:longitude":103.73455,
+    "gn:modification_date":"1993-12-30",
+    "gn:name":"Phum\u012d Kr\u016dt Chh\u00e9h",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673023,
+        1108564595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827046
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"9e2c17a13bb5e825ec40999602c3ad97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564595,
+            "locality_id":1259957063,
+            "region_id":85673023
+        }
+    ],
+    "wof:id":1259957063,
+    "wof:lastmodified":1536673187,
+    "wof:name":"Phumi Krut Chheh",
+    "wof:parent_id":1108564595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.73455,
+    12.60129,
+    103.73455,
+    12.60129
+],
+  "geometry": {"coordinates":[103.73455,12.60129],"type":"Point"}
+}

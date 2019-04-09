@@ -1,0 +1,73 @@
+{
+  "id": 1309773811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.41179,13.70368,103.41179,13.70368",
+    "geom:latitude":13.70368,
+    "geom:longitude":103.41179,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Phum Rouk Khang Cheung",
+    "gn:country_code":"KH",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11376378,
+    "gn:latitude":13.70368,
+    "gn:longitude":103.41179,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Phum Ro\u016dk Khang Cheung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Ro\u016dk Khang Cheung"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u179a\u17c4\u1782\u1781\u17b6\u1784\u1787\u17be\u1784"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673011,
+        1108564763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11376378
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"84d7403bc1b810762e9c3ba98eae56a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564763,
+            "locality_id":1309773811,
+            "region_id":85673011
+        }
+    ],
+    "wof:id":1309773811,
+    "wof:lastmodified":1537653993,
+    "wof:name":"Phum Rouk Khang Cheung",
+    "wof:parent_id":1108564763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.41179,
+    13.70368,
+    103.41179,
+    13.70368
+],
+  "geometry": {"coordinates":[103.41179,13.70368],"type":"Point"}
+}

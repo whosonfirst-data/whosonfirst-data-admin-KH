@@ -1,0 +1,64 @@
+{
+  "id": 1209176655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.88203,11.26391,104.88203,11.26391",
+    "geom:latitude":11.26391,
+    "geom:longitude":104.88203,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Moeung Preaschen",
+    "gn:country_code":"KH",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1826865,
+    "gn:latitude":11.26391,
+    "gn:longitude":104.88203,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Moeung Preaschen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum\u012d M\u0153\u0103ng Pr\u00e2ch\u0115n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1826865
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"55ae38825ba341c0fcf0385b3f0751f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209176655
+        }
+    ],
+    "wof:id":1209176655,
+    "wof:lastmodified":1537653664,
+    "wof:name":"Moeung Preaschen",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.88203,
+    11.26391,
+    104.88203,
+    11.26391
+],
+  "geometry": {"coordinates":[104.88203,11.26391],"type":"Point"}
+}

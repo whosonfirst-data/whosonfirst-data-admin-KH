@@ -1,0 +1,74 @@
+{
+  "id": 1192969013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.33818,13.32901,103.33818,13.32901",
+    "geom:latitude":13.32901,
+    "geom:longitude":103.33818,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Phumi Kancheas",
+    "gn:country_code":"KH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828072,
+    "gn:latitude":13.32901,
+    "gn:longitude":103.33818,
+    "gn:modification_date":"2016-04-10",
+    "gn:name":"Phum\u012d K\u00e2nch\u00e9as",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "\u1797\u17bc\u1798\u17b7\u1780\u1789\u17d2\u1787\u17b6\u179f"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d K\u00e2nch\u00e9as",
+        "Phum\u012d K\u00e2nhch\u00e9as"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673015,
+        421172391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828072
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"b0672c9c28fcf4cc03829611607f6269",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421172391,
+            "locality_id":1192969013,
+            "region_id":85673015
+        }
+    ],
+    "wof:id":1192969013,
+    "wof:lastmodified":1537653774,
+    "wof:name":"Phumi Kancheas",
+    "wof:parent_id":421172391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.33818,
+    13.32901,
+    103.33818,
+    13.32901
+],
+  "geometry": {"coordinates":[103.33817999999999,13.32901],"type":"Point"}
+}

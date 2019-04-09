@@ -1,0 +1,71 @@
+{
+  "id": 1209361285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.59083,12.86942,102.59083,12.86942",
+    "geom:latitude":12.86942,
+    "geom:longitude":102.59083,
+    "gn:admin1_code":"30",
+    "gn:asciiname":"Suon Ampov Khang Kaeut",
+    "gn:country_code":"KH",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1824487,
+    "gn:latitude":12.86942,
+    "gn:longitude":102.59083,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Suon Ampov Khang Kaeut",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Suon Ampov Khang Kaeut"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u179f\u17bd\u179a\u17a2\u17c6\u1796\u17c5"
+    ],
+    "name:und_x_variant":[
+        "Phum Su\u014fr \u00c2mp\u014fu",
+        "Phum\u012d Su\u014fr \u00c2mp\u014fu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1824487
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"b9bfb567b0772401724555dd09a32c97",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209361285
+        }
+    ],
+    "wof:id":1209361285,
+    "wof:lastmodified":1537653461,
+    "wof:name":"Suon Ampov Khang Kaeut",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.59083,
+    12.86942,
+    102.59083,
+    12.86942
+],
+  "geometry": {"coordinates":[102.59083,12.86942],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1293361427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.44338,11.42448,105.44338,11.42448",
+    "geom:latitude":11.42448,
+    "geom:longitude":105.44338,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Phum Prey Samlanh",
+    "gn:country_code":"KH",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825683,
+    "gn:latitude":11.42448,
+    "gn:longitude":105.44338,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Phum Prey S\u00e2mlanh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Prey S\u00e2mlanh"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1796\u17d2\u179a\u17c3\u179f\u17c6\u17a1\u17b6\u1789\u17cb",
+        "Phum\u012d Prey S\u00e2mlanh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673067,
+        1108564859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825683
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"f20587a81a07f9964e753da2f609dd08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564859,
+            "locality_id":1293361427,
+            "region_id":85673067
+        }
+    ],
+    "wof:id":1293361427,
+    "wof:lastmodified":1537653558,
+    "wof:name":"Phum Prey Samlanh",
+    "wof:parent_id":1108564859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.44338,
+    11.42448,
+    105.44338,
+    11.42448
+],
+  "geometry": {"coordinates":[105.44338,11.42448],"type":"Point"}
+}

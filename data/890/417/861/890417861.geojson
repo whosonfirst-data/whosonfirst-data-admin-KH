@@ -1,0 +1,208 @@
+{
+  "id": 890417861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.98046,13.80732,104.98046,13.80732",
+    "geom:latitude":13.80732,
+    "geom:longitude":104.98046,
+    "gn:country":"KH",
+    "gn:fcode":"PPLA",
+    "gn:pop":24380,
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":7.0,
+    "name:dut_x_preferred":[
+        "Tbeng Mean Chey"
+    ],
+    "name:eng_x_preferred":[
+        "Phnom Tbeng Meanchey"
+    ],
+    "name:fre_x_preferred":[
+        "Tbeng Meancheay"
+    ],
+    "name:ger_x_preferred":[
+        "Tbaeng Meanchey"
+    ],
+    "name:ita_x_preferred":[
+        "Phnom Tbeng Meanchey"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d7\u30ce\u30f3\u30fb\u30bf\u30d9\u30f3\u30fb\u30df\u30a8\u30f3\u30c1\u30a7\u30a4"
+    ],
+    "name:khm_x_preferred":[
+        "Tb\u00eang M\u00e9anchey"
+    ],
+    "name:kor_x_preferred":[
+        "\ud504\ub188\ud2b8\ubcb5\uba54\uc548\uccb4\uc774"
+    ],
+    "name:pnb_x_preferred":[
+        "\u062a\u0628\u06cc\u0646\u06af \u0645\u06cc\u0646\u0686\u06d2"
+    ],
+    "name:pol_x_preferred":[
+        "Phnum Tbeng Meanchey"
+    ],
+    "name:por_x_preferred":[
+        "Phnum Tbeng Mean Chey"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043d\u043e\u043c\u0442\u0431\u0435\u043d\u0433\u043c\u0435\u0430\u043d\u0442\u044c\u0435\u0439"
+    ],
+    "name:swe_x_preferred":[
+        "Tb\u00eang M\u00e9anchey"
+    ],
+    "name:unk_x_variant":[
+        "Thbeng Meanchey"
+    ],
+    "name:vie_x_preferred":[
+        "Tbaeng Meanchey"
+    ],
+    "name:war_x_preferred":[
+        "Phnom Tbeng Meanchey"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Cambodia",
+    "ne:ADM0_A3":"KHM",
+    "ne:ADM1NAME":"Preah Vih\u00e9ar",
+    "ne:ADMIN1_COD":13,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":4,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":"Added missing admin-1 capital. Population from GeoNames.",
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Admin-1 capital",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPL",
+    "ne:GEONAMEID":1830098,
+    "ne:GEONAMESNO":"Geonames ascii name + lat.d + long.d matching.",
+    "ne:GN_ASCII":"Phnum Tbeng Meanchey",
+    "ne:GN_POP":24380,
+    "ne:GTOPO30":47.0,
+    "ne:ISO_A2":"KH",
+    "ne:LABELRANK":8,
+    "ne:LATITUDE":13.816701,
+    "ne:LONGITUDE":104.966704,
+    "ne:LS_MATCH":0,
+    "ne:LS_NAME":null,
+    "ne:MAX_AREAKM":0.0,
+    "ne:MAX_AREAMI":0.0,
+    "ne:MAX_BBXMAX":0.0,
+    "ne:MAX_BBXMIN":0.0,
+    "ne:MAX_BBYMAX":0.0,
+    "ne:MAX_BBYMIN":0.0,
+    "ne:MAX_NATSCA":0.0,
+    "ne:MAX_PERKM":0.0,
+    "ne:MAX_PERMI":0.0,
+    "ne:MAX_POP10":0,
+    "ne:MAX_POP20":0,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":0.0,
+    "ne:MEAN_BBYC":0.0,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":0.0,
+    "ne:MIN_AREAMI":0.0,
+    "ne:MIN_BBXMAX":0.0,
+    "ne:MIN_BBXMIN":0.0,
+    "ne:MIN_BBYMAX":0.0,
+    "ne:MIN_BBYMIN":0.0,
+    "ne:MIN_PERKM":0.0,
+    "ne:MIN_PERMI":0.0,
+    "ne:NAME":"Phnum Tbeng Meanchey",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"Phnum Tbeng Meanchey",
+    "ne:NAMEDIFF":1,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":1,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":24380,
+    "ne:POP_MIN":24380,
+    "ne:POP_OTHER":0,
+    "ne:RANK_MAX":7,
+    "ne:RANK_MIN":7,
+    "ne:SCALERANK":10,
+    "ne:SOV0NAME":"Cambodia",
+    "ne:SOV_A3":"KHM",
+    "ne:TIMEZONE":"Asia/Phnom_Penh",
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "qs:name":"Tb\u00eang M\u00e9anchey",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673071,
+        1108564779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1830098,
+        "gp:id":1020986,
+        "qs:id":1033356,
+        "wd:id":"Q2428308"
+    },
+    "wof:country":"KH",
+    "wof:created":1469051224,
+    "wof:geomhash":"0f00baa2fe068ad56e00698a1bfde28e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564779,
+            "locality_id":890417861,
+            "region_id":85673071
+        }
+    ],
+    "wof:id":890417861,
+    "wof:lastmodified":1514468967,
+    "wof:name":"Tb\u00eang M\u00e9anchey",
+    "wof:parent_id":1108564779,
+    "wof:placetype":"locality",
+    "wof:population":24380,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.98046,
+    13.80732,
+    104.98046,
+    13.80732
+],
+  "geometry": {"coordinates":[104.98045999999999,13.80732],"type":"Point"}
+}

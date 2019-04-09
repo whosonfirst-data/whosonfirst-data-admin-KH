@@ -1,0 +1,76 @@
+{
+  "id": 1344041387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.35372,12.59769,107.35372,12.59769",
+    "geom:latitude":12.59769,
+    "geom:longitude":107.35372,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Phum Pouk Roves",
+    "gn:country_code":"KH",
+    "gn:dem":474,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1826309,
+    "gn:latitude":12.59769,
+    "gn:longitude":107.35372,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Phum Po\u016dk R\u00f4v\u00eas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Po\u016dk R\u00f4v\u00eas"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1796\u17c4\u1780\u179a\u179c\u17c2\u179f"
+    ],
+    "name:und_x_variant":[
+        "Bu Rweh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673085,
+        1108564757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1826309
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"650e207b91af9accf6693ccf684e4010",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564757,
+            "locality_id":1344041387,
+            "region_id":85673085
+        }
+    ],
+    "wof:id":1344041387,
+    "wof:lastmodified":1537653614,
+    "wof:name":"Phum Pouk Roves",
+    "wof:parent_id":1108564757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.35372,
+    12.59769,
+    107.35372,
+    12.59769
+],
+  "geometry": {"coordinates":[107.35372,12.59769],"type":"Point"}
+}

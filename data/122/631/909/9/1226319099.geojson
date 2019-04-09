@@ -1,0 +1,70 @@
+{
+  "id": 1226319099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.26942,13.77737,105.26942,13.77737",
+    "geom:latitude":13.77737,
+    "geom:longitude":105.26942,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Mlu Prey Pir",
+    "gn:country_code":"KH",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11481910,
+    "gn:latitude":13.77737,
+    "gn:longitude":105.26942,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Mlu Prey Pir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Mlu Prey Pir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673071,
+        421187975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11481910
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"25c5d082bbfcfa1f384700715db90144",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421187975,
+            "locality_id":1226319099,
+            "region_id":85673071
+        }
+    ],
+    "wof:id":1226319099,
+    "wof:lastmodified":1537654046,
+    "wof:name":"Mlu Prey Pir",
+    "wof:parent_id":421187975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.26942,
+    13.77737,
+    105.26942,
+    13.77737
+],
+  "geometry": {"coordinates":[105.26942,13.77737],"type":"Point"}
+}

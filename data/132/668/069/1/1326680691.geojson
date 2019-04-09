@@ -1,0 +1,72 @@
+{
+  "id": 1326680691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.05155,12.95858,103.05155,12.95858",
+    "geom:latitude":12.95858,
+    "geom:longitude":103.05155,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Phumi Neak Kruor",
+    "gn:country_code":"KH",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1826822,
+    "gn:latitude":12.95858,
+    "gn:longitude":103.05155,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Ne\u0103k Kru\u014fr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum Neak Kruo",
+        "Phum\u012d Nerk Kru\u014fr",
+        "Phum\u012d Ne\u0103k Kru\u014fr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673015,
+        1108564597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1826822
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"1520850ab5b3b7931921d15eb0c5f439",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564597,
+            "locality_id":1326680691,
+            "region_id":85673015
+        }
+    ],
+    "wof:id":1326680691,
+    "wof:lastmodified":1537653660,
+    "wof:name":"Phumi Neak Kruor",
+    "wof:parent_id":1108564597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.05155,
+    12.95858,
+    103.05155,
+    12.95858
+],
+  "geometry": {"coordinates":[103.05155000000001,12.95858],"type":"Point"}
+}

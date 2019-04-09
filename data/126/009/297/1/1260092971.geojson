@@ -1,0 +1,71 @@
+{
+  "id": 1260092971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.40166,11.93575,105.40166,11.93575",
+    "geom:latitude":11.93575,
+    "geom:longitude":105.40166,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Phumi Kaoh Kok Krau",
+    "gn:country_code":"KH",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827989,
+    "gn:latitude":11.93575,
+    "gn:longitude":105.40166,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Ka\u00f4h K\u014fk Krau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum Cheung Kas Prak",
+        "Phum\u012d Ka\u00f4h K\u014fk Krau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673041,
+        421205043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827989
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"3e8b69a578799c4dc09ab264057e16ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421205043,
+            "locality_id":1260092971,
+            "region_id":85673041
+        }
+    ],
+    "wof:id":1260092971,
+    "wof:lastmodified":1537653766,
+    "wof:name":"Phumi Kaoh Kok Krau",
+    "wof:parent_id":421205043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.40166,
+    11.93575,
+    105.40166,
+    11.93575
+],
+  "geometry": {"coordinates":[105.40166000000001,11.93575],"type":"Point"}
+}

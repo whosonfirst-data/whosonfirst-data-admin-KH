@@ -1,0 +1,78 @@
+{
+  "id": 1310491311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.01453,12.26968,106.01453,12.26968",
+    "geom:latitude":12.26968,
+    "geom:longitude":106.01453,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Lvea Thum",
+    "gn:country_code":"KH",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1826930,
+    "gn:latitude":12.26968,
+    "gn:longitude":106.01453,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Lvea Thum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Lvea Thum"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u179b\u17d2\u179c\u17b6\u1792\u17c6",
+        "Phum L\u00f4v\u00e9a Thom"
+    ],
+    "name:und_x_variant":[
+        "Phum Lov\u00e9a Thom",
+        "Phum\u012d Lv\u00e9a Thum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673081,
+        1108564635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1826930
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"7081987df0190f566ade6a23ddbd202a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564635,
+            "locality_id":1310491311,
+            "region_id":85673081
+        }
+    ],
+    "wof:id":1310491311,
+    "wof:lastmodified":1537653671,
+    "wof:name":"Lvea Thum",
+    "wof:parent_id":1108564635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.01453,
+    12.26968,
+    106.01453,
+    12.26968
+],
+  "geometry": {"coordinates":[106.01452999999999,12.26968],"type":"Point"}
+}

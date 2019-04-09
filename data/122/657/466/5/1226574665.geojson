@@ -1,0 +1,70 @@
+{
+  "id": 1226574665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.68384,12.98464,104.68384,12.98464",
+    "geom:latitude":12.98464,
+    "geom:longitude":104.68384,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Dang Phdiek",
+    "gn:country_code":"KH",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11476856,
+    "gn:latitude":12.98464,
+    "gn:longitude":104.68384,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Dang Phdiek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Dang Phdiek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673057,
+        1108564773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11476856
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"0c9ae1f73b6b7220009397713a47d589",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564773,
+            "locality_id":1226574665,
+            "region_id":85673057
+        }
+    ],
+    "wof:id":1226574665,
+    "wof:lastmodified":1537654034,
+    "wof:name":"Dang Phdiek",
+    "wof:parent_id":1108564773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.68384,
+    12.98464,
+    104.68384,
+    12.98464
+],
+  "geometry": {"coordinates":[104.68384,12.98464],"type":"Point"}
+}

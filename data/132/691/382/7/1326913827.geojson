@@ -1,0 +1,67 @@
+{
+  "id": 1326913827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.23008,11.67995,105.23008,11.67995",
+    "geom:latitude":11.67995,
+    "geom:longitude":105.23008,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Phumi Prey Samlanh",
+    "gn:country_code":"KH",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825682,
+    "gn:latitude":11.67995,
+    "gn:longitude":105.23008,
+    "gn:modification_date":"1993-12-30",
+    "gn:name":"Phum\u012d Prey S\u00e2ml\u0103nh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673067,
+        1108564753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825682
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"c1d9428e2ef7a47ebf06114bbc1b706b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564753,
+            "locality_id":1326913827,
+            "region_id":85673067
+        }
+    ],
+    "wof:id":1326913827,
+    "wof:lastmodified":1536932072,
+    "wof:name":"Phumi Prey Samlanh",
+    "wof:parent_id":1108564753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.23008,
+    11.67995,
+    105.23008,
+    11.67995
+],
+  "geometry": {"coordinates":[105.23008,11.67995],"type":"Point"}
+}

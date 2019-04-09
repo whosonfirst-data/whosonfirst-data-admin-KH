@@ -1,0 +1,67 @@
+{
+  "id": 1310006327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.58219,11.66838,104.58219,11.66838",
+    "geom:latitude":11.66838,
+    "geom:longitude":104.58219,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Phumi Yoschou",
+    "gn:country_code":"KH",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1822828,
+    "gn:latitude":11.66838,
+    "gn:longitude":104.58219,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Phum\u012d Y\u00f4scho\u016d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673053,
+        421177965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1822828
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"191bb8c2eb29c64111d5113fdeacde4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421177965,
+            "locality_id":1310006327,
+            "region_id":85673053
+        }
+    ],
+    "wof:id":1310006327,
+    "wof:lastmodified":1536641259,
+    "wof:name":"Phumi Yoschou",
+    "wof:parent_id":421177965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.58219,
+    11.66838,
+    104.58219,
+    11.66838
+],
+  "geometry": {"coordinates":[104.58219,11.66838],"type":"Point"}
+}

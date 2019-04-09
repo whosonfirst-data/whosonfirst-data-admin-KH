@@ -1,0 +1,70 @@
+{
+  "id": 1259414797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.69185,12.9437,104.69185,12.9437",
+    "geom:latitude":12.9437,
+    "geom:longitude":104.69185,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Preah Damrei",
+    "gn:country_code":"KH",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11476859,
+    "gn:latitude":12.9437,
+    "gn:longitude":104.69185,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Preah Damrei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Preah Damrei"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673057,
+        1108564849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11476859
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"0356b003d98d163f927ae37a02de9693",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564849,
+            "locality_id":1259414797,
+            "region_id":85673057
+        }
+    ],
+    "wof:id":1259414797,
+    "wof:lastmodified":1537654034,
+    "wof:name":"Preah Damrei",
+    "wof:parent_id":1108564849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.69185,
+    12.9437,
+    104.69185,
+    12.9437
+],
+  "geometry": {"coordinates":[104.69185,12.9437],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242958701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.75202,11.19463,103.75202,11.19463",
+    "geom:latitude":11.19463,
+    "geom:longitude":103.75202,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Trapeang Reang",
+    "gn:country_code":"KH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1821535,
+    "gn:latitude":11.19463,
+    "gn:longitude":103.75202,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Tr\u00e2pe\u0103ng Re\u0103ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673019,
+        421183117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1821535
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"c433e5a84d8000470926596809085fbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421183117,
+            "locality_id":1242958701,
+            "region_id":85673019
+        }
+    ],
+    "wof:id":1242958701,
+    "wof:lastmodified":1537011101,
+    "wof:name":"Trapeang Reang",
+    "wof:parent_id":421183117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.75202,
+    11.19463,
+    103.75202,
+    11.19463
+],
+  "geometry": {"coordinates":[103.75202,11.19463],"type":"Point"}
+}

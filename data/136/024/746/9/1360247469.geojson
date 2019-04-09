@@ -1,0 +1,72 @@
+{
+  "id": 1360247469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.59021,10.96762,104.59021,10.96762",
+    "geom:latitude":10.96762,
+    "geom:longitude":104.59021,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Phumi Prey Takhab",
+    "gn:country_code":"KH",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825644,
+    "gn:latitude":10.96762,
+    "gn:longitude":104.59021,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Prey Takhab",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum\u012d Pr\u00e9y Takhap",
+        "Phum\u012d Proy Takhap",
+        "Phum\u012d Prey Takhab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673107,
+        1108564877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825644
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"8d22de4fe36854b51790016ca4cff762",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564877,
+            "locality_id":1360247469,
+            "region_id":85673107
+        }
+    ],
+    "wof:id":1360247469,
+    "wof:lastmodified":1537653556,
+    "wof:name":"Phumi Prey Takhab",
+    "wof:parent_id":1108564877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.59021,
+    10.96762,
+    104.59021,
+    10.96762
+],
+  "geometry": {"coordinates":[104.59021,10.96762],"type":"Point"}
+}

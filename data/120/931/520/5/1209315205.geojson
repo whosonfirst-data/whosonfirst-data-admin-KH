@@ -1,0 +1,64 @@
+{
+  "id": 1209315205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.6649,11.13672,104.6649,11.13672",
+    "geom:latitude":11.13672,
+    "geom:longitude":104.6649,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Prey Ta Phem",
+    "gn:country_code":"KH",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11459985,
+    "gn:latitude":11.13672,
+    "gn:longitude":104.6649,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Prey Ta Phem",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Prey Ta Phem"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11459985
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"090d5a18aede49e0651233d6e9353bfa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209315205
+        }
+    ],
+    "wof:id":1209315205,
+    "wof:lastmodified":1537654021,
+    "wof:name":"Prey Ta Phem",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.6649,
+    11.13672,
+    104.6649,
+    11.13672
+],
+  "geometry": {"coordinates":[104.6649,11.13672],"type":"Point"}
+}

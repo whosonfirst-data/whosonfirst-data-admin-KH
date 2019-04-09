@@ -1,0 +1,65 @@
+{
+  "id": 1209601659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.67137,14.17122,104.67137,14.17122",
+    "geom:latitude":14.17122,
+    "geom:longitude":104.67137,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Phumi Prame",
+    "gn:country_code":"KH",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1826195,
+    "gn:latitude":14.17122,
+    "gn:longitude":104.67137,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Pr\u00e2m\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum\u012d Kamnap",
+        "Phum\u012d Pr\u00e2m\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1826195
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"db69ef4422cfeb1fa67415eed3b07f12",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209601659
+        }
+    ],
+    "wof:id":1209601659,
+    "wof:lastmodified":1537653603,
+    "wof:name":"Phumi Prame",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.67137,
+    14.17122,
+    104.67137,
+    14.17122
+],
+  "geometry": {"coordinates":[104.67137,14.17122],"type":"Point"}
+}

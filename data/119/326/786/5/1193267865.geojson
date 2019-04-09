@@ -1,0 +1,72 @@
+{
+  "id": 1193267865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.98204,12.81869,105.98204,12.81869",
+    "geom:latitude":12.81869,
+    "geom:longitude":105.98204,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Phumi Sre Anlong Koul",
+    "gn:country_code":"KH",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1824671,
+    "gn:latitude":12.81869,
+    "gn:longitude":105.98204,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Sr\u00ea \u00c2nl\u00f3ng Ko\u016dl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sr\u00ea An Long Kol",
+        "Phum\u012d Sr\u00ea \u00c2nl\u016dng Ko\u016dl",
+        "Phum\u012d Sr\u00ea \u00c2nl\u00f3ng Ko\u016dl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673081,
+        421188051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1824671
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"79f030d0dd4e9368cc23c624198d5710",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421188051,
+            "locality_id":1193267865,
+            "region_id":85673081
+        }
+    ],
+    "wof:id":1193267865,
+    "wof:lastmodified":1537653477,
+    "wof:name":"Phumi Sre Anlong Koul",
+    "wof:parent_id":421188051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.98203999999998,
+    12.81869,
+    105.98203999999998,
+    12.81869
+],
+  "geometry": {"coordinates":[105.98203999999998,12.81869],"type":"Point"}
+}

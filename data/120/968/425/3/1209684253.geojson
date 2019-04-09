@@ -1,0 +1,71 @@
+{
+  "id": 1209684253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.94738,13.60582,106.94738,13.60582",
+    "geom:latitude":13.60582,
+    "geom:longitude":106.94738,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Ka Lang",
+    "gn:country_code":"KH",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1824323,
+    "gn:latitude":13.60582,
+    "gn:longitude":106.94738,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Ka Lang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Ka Lang"
+    ],
+    "name:khm_x_variant":[
+        "Phum Ta A\u00f4ng P\u014fk",
+        "\u1797\u17bc\u1798\u17b7 \u178f\u17b6\u17a2\u17c4\u1784\u1794\u17c9\u17bb\u1780"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Ta A\u00f4ng P\u014fk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1824323
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"28fafa36b97ba06f8463af7da71f8fae",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209684253
+        }
+    ],
+    "wof:id":1209684253,
+    "wof:lastmodified":1537653448,
+    "wof:name":"Ka Lang",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.94738,
+    13.60582,
+    106.94738,
+    13.60582
+],
+  "geometry": {"coordinates":[106.94738,13.60582],"type":"Point"}
+}

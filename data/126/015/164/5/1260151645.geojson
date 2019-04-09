@@ -1,0 +1,71 @@
+{
+  "id": 1260151645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.60197,11.63806,105.60197,11.63806",
+    "geom:latitude":11.63806,
+    "geom:longitude":105.60197,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Phumi Kouk Rokar",
+    "gn:country_code":"KH",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827352,
+    "gn:latitude":11.63806,
+    "gn:longitude":105.60197,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Ko\u016dk R\u00f4kar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum Kok Roca",
+        "Phum\u012d Ko\u016dk R\u00f4kar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673067,
+        1108564691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827352
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"843429c60aee159cf6acc732a83d0942",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564691,
+            "locality_id":1260151645,
+            "region_id":85673067
+        }
+    ],
+    "wof:id":1260151645,
+    "wof:lastmodified":1537653709,
+    "wof:name":"Phumi Kouk Rokar",
+    "wof:parent_id":1108564691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.60197,
+    11.63806,
+    105.60197,
+    11.63806
+],
+  "geometry": {"coordinates":[105.60196999999999,11.63806],"type":"Point"}
+}

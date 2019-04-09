@@ -1,0 +1,73 @@
+{
+  "id": 1260278003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.41545,12.10655,106.41545,12.10655",
+    "geom:latitude":12.10655,
+    "geom:longitude":106.41545,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Phum Sre Sat",
+    "gn:country_code":"KH",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11509935,
+    "gn:latitude":12.10655,
+    "gn:longitude":106.41545,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Phum Sr\u00ea Sat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Sr\u00ea Sat"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u179f\u17d2\u179a\u17c2\u179f\u17b6\u178f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673081,
+        1108564841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11509935
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"ea59dd9a5fd5bd5ec388900e5fca788a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564841,
+            "locality_id":1260278003,
+            "region_id":85673081
+        }
+    ],
+    "wof:id":1260278003,
+    "wof:lastmodified":1537654083,
+    "wof:name":"Phum Sre Sat",
+    "wof:parent_id":1108564841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.41545,
+    12.10655,
+    106.41545,
+    12.10655
+],
+  "geometry": {"coordinates":[106.41545000000001,12.10655],"type":"Point"}
+}

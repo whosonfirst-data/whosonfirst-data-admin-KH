@@ -1,0 +1,71 @@
+{
+  "id": 1243387631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.60244,11.5626,104.60244,11.5626",
+    "geom:latitude":11.5626,
+    "geom:longitude":104.60244,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Phumi Krang Takev",
+    "gn:country_code":"KH",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827166,
+    "gn:latitude":11.5626,
+    "gn:longitude":104.60244,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Kr\u0103ng Tak\u00eav",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tuol Tak\u00ea",
+        "Phum\u012d Kr\u0103ng Tak\u00eav"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673053,
+        421177965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827166
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"4bd8efeb191664fe3795c9d21ddc9bd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421177965,
+            "locality_id":1243387631,
+            "region_id":85673053
+        }
+    ],
+    "wof:id":1243387631,
+    "wof:lastmodified":1537653692,
+    "wof:name":"Phumi Krang Takev",
+    "wof:parent_id":421177965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.60244,
+    11.5626,
+    104.60244,
+    11.5626
+],
+  "geometry": {"coordinates":[104.60244,11.5626],"type":"Point"}
+}

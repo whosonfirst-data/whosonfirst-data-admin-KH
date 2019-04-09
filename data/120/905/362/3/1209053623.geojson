@@ -1,0 +1,61 @@
+{
+  "id": 1209053623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.22359,12.97056,103.22359,12.97056",
+    "geom:latitude":12.97056,
+    "geom:longitude":103.22359,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Phumi Tuol Thmei (1)",
+    "gn:country_code":"KH",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1822984,
+    "gn:latitude":12.97056,
+    "gn:longitude":103.22359,
+    "gn:modification_date":"2009-05-11",
+    "gn:name":"Phum\u012d Tu\u014fl Thmei (1)",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1822984
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"362ae7ff64b9fd4491dcc7888d2ac841",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209053623
+        }
+    ],
+    "wof:id":1209053623,
+    "wof:lastmodified":1536299172,
+    "wof:name":"Phumi Tuol Thmei (1)",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.22359,
+    12.97056,
+    103.22359,
+    12.97056
+],
+  "geometry": {"coordinates":[103.22359,12.97056],"type":"Point"}
+}

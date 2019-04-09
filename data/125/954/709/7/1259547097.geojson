@@ -1,0 +1,76 @@
+{
+  "id": 1259547097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.67236,13.55864,105.67236,13.55864",
+    "geom:latitude":13.55864,
+    "geom:longitude":105.67236,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Veal Pou",
+    "gn:country_code":"KH",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1821432,
+    "gn:latitude":13.55864,
+    "gn:longitude":105.67236,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Veal Pou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Veal Pou"
+    ],
+    "name:und_x_variant":[
+        "Phum Chamkar Loeu",
+        "V\u00e9al Po\u016d",
+        "Phum\u012d V\u00e9al Po\u016d",
+        "V\u00e9al Po\u016dth\u012d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673075,
+        1108564869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1821432
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"ef00c2687c81662c0c93a649d855fbc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564869,
+            "locality_id":1259547097,
+            "region_id":85673075
+        }
+    ],
+    "wof:id":1259547097,
+    "wof:lastmodified":1537653322,
+    "wof:name":"Veal Pou",
+    "wof:parent_id":1108564869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.67236,
+    13.55864,
+    105.67236,
+    13.55864
+],
+  "geometry": {"coordinates":[105.67236,13.55864],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1293518401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.86312,12.0476,105.86312,12.0476",
+    "geom:latitude":12.0476,
+    "geom:longitude":105.86312,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Chrey Phluk",
+    "gn:country_code":"KH",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828772,
+    "gn:latitude":12.0476,
+    "gn:longitude":105.86312,
+    "gn:modification_date":"2017-07-05",
+    "gn:name":"Chrey Phluk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Chrey Phluk"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1787\u17d2\u179a\u17c3\u1797\u17d2\u179b\u17bc\u1780",
+        "Phum Chrey Phluk"
+    ],
+    "name:und_x_variant":[
+        "Phum Chrey Phlouk",
+        "Phum\u012d Chrey Phluk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        1108804319,
+        1108564653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828772
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"f411148915c2f99bb1ec2a95fad9a324",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564653,
+            "locality_id":1293518401,
+            "region_id":1108804319
+        }
+    ],
+    "wof:id":1293518401,
+    "wof:lastmodified":1537653832,
+    "wof:name":"Chrey Phluk",
+    "wof:parent_id":1108564653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.86312,
+    12.0476,
+    105.86312,
+    12.0476
+],
+  "geometry": {"coordinates":[105.86312,12.0476],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1293023399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.7376,12.80826,104.7376,12.80826",
+    "geom:latitude":12.80826,
+    "geom:longitude":104.7376,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"San Kor",
+    "gn:country_code":"KH",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1822275,
+    "gn:latitude":12.80826,
+    "gn:longitude":104.7376,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"San Kor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "San Kor"
+    ],
+    "name:und_x_variant":[
+        "Phum Sang Ko",
+        "Phum San Ko",
+        "Phum Sankor",
+        "Sank\u00f4r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673057,
+        421169333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1822275
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"7e8fd6e6171085d946dc8a670cd1b770",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421169333,
+            "locality_id":1293023399,
+            "region_id":85673057
+        }
+    ],
+    "wof:id":1293023399,
+    "wof:lastmodified":1537653331,
+    "wof:name":"San Kor",
+    "wof:parent_id":421169333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.7376,
+    12.80826,
+    104.7376,
+    12.80826
+],
+  "geometry": {"coordinates":[104.7376,12.80826],"type":"Point"}
+}

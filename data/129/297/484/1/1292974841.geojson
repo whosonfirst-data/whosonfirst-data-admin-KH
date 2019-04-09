@@ -1,0 +1,67 @@
+{
+  "id": 1292974841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.46303,10.88269,104.46303,10.88269",
+    "geom:latitude":10.88269,
+    "geom:longitude":104.46303,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Phumi Krang Roluos",
+    "gn:country_code":"KH",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827184,
+    "gn:latitude":10.88269,
+    "gn:longitude":104.46303,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Phum\u012d Kr\u0103ng R\u00f4lu\u014fs",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673093,
+        1108564651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827184
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"7ece25d2f034c2ae192a52747214b7c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564651,
+            "locality_id":1292974841,
+            "region_id":85673093
+        }
+    ],
+    "wof:id":1292974841,
+    "wof:lastmodified":1537027950,
+    "wof:name":"Phumi Krang Roluos",
+    "wof:parent_id":1108564651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.46303,
+    10.88269,
+    104.46303,
+    10.88269
+],
+  "geometry": {"coordinates":[104.46303,10.88269],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1310114693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.49638,12.06929,105.49638,12.06929",
+    "geom:latitude":12.06929,
+    "geom:longitude":105.49638,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Kien Chrey",
+    "gn:country_code":"KH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827558,
+    "gn:latitude":12.06929,
+    "gn:longitude":105.49638,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Kien Chrey",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Ki\u0115n Chrey"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1780\u17c0\u1793\u1787\u17d2\u179a\u17c3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673041,
+        421205043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827558
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"116f84f1bd04e9ed5a6e22e284d94a90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421205043,
+            "locality_id":1310114693,
+            "region_id":85673041
+        }
+    ],
+    "wof:id":1310114693,
+    "wof:lastmodified":1537653730,
+    "wof:name":"Kien Chrey",
+    "wof:parent_id":421205043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.49638,
+    12.06929,
+    105.49638,
+    12.06929
+],
+  "geometry": {"coordinates":[105.49638,12.06929],"type":"Point"}
+}

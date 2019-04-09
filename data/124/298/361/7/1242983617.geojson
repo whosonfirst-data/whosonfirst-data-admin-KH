@@ -1,0 +1,73 @@
+{
+  "id": 1242983617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.36915,12.05393,105.36915,12.05393",
+    "geom:latitude":12.05393,
+    "geom:longitude":105.36915,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Phumi Sdech Non",
+    "gn:country_code":"KH",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1824944,
+    "gn:latitude":12.05393,
+    "gn:longitude":105.36915,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Sd\u00e9ch N\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum Sdach Non",
+        "Phum\u012d Sdach N\u016dn",
+        "Phum Soach Non",
+        "Phum\u012d Sd\u00e9ch N\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673041,
+        421205043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1824944
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"6621cced9395f8ca23ddff194e8065c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421205043,
+            "locality_id":1242983617,
+            "region_id":85673041
+        }
+    ],
+    "wof:id":1242983617,
+    "wof:lastmodified":1537653498,
+    "wof:name":"Phumi Sdech Non",
+    "wof:parent_id":421205043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.36915,
+    12.05393,
+    105.36915,
+    12.05393
+],
+  "geometry": {"coordinates":[105.36915,12.05393],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293919981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.31311,11.78887,106.31311,11.78887",
+    "geom:latitude":11.78887,
+    "geom:longitude":106.31311,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Kbal Slaeng",
+    "gn:country_code":"KH",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11482739,
+    "gn:latitude":11.78887,
+    "gn:longitude":106.31311,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Kbal Slaeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Kbal Slaeng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        1108804319,
+        1108564735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11482739
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"1c38c882fb2a17e0ebdc491d394c7d5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564735,
+            "locality_id":1293919981,
+            "region_id":1108804319
+        }
+    ],
+    "wof:id":1293919981,
+    "wof:lastmodified":1537654056,
+    "wof:name":"Kbal Slaeng",
+    "wof:parent_id":1108564735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.31311,
+    11.78887,
+    106.31311,
+    11.78887
+],
+  "geometry": {"coordinates":[106.31310999999999,11.78887],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1326509119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.39553,11.34807,105.39553,11.34807",
+    "geom:latitude":11.34807,
+    "geom:longitude":105.39553,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Phum Chak",
+    "gn:country_code":"KH",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829281,
+    "gn:latitude":11.34807,
+    "gn:longitude":105.39553,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Phum Ch\u00e2k",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Ch\u00e2k"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1785\u1780",
+        "Phum\u012d Ch\u00e2k"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673067,
+        1108564593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829281
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"824046df75ce677724a46e22bf6084bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564593,
+            "locality_id":1326509119,
+            "region_id":85673067
+        }
+    ],
+    "wof:id":1326509119,
+    "wof:lastmodified":1537653872,
+    "wof:name":"Phum Chak",
+    "wof:parent_id":1108564593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.39553,
+    11.34807,
+    105.39553,
+    11.34807
+],
+  "geometry": {"coordinates":[105.39552999999999,11.34807],"type":"Point"}
+}

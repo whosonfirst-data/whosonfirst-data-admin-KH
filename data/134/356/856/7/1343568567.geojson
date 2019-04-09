@@ -1,0 +1,71 @@
+{
+  "id": 1343568567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.75876,12.20556,104.75876,12.20556",
+    "geom:latitude":12.20556,
+    "geom:longitude":104.75876,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Phumi Kien Tama",
+    "gn:country_code":"KH",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827547,
+    "gn:latitude":12.20556,
+    "gn:longitude":104.75876,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Ki\u0115n Tama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kien Tama",
+        "Phum\u012d Ki\u0115n Tama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673047,
+        1108564645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827547
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"b0d3823165ea19bf1f4166dd5da3d250",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564645,
+            "locality_id":1343568567,
+            "region_id":85673047
+        }
+    ],
+    "wof:id":1343568567,
+    "wof:lastmodified":1537653729,
+    "wof:name":"Phumi Kien Tama",
+    "wof:parent_id":1108564645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.75876,
+    12.20556,
+    104.75876,
+    12.20556
+],
+  "geometry": {"coordinates":[104.75876,12.20556],"type":"Point"}
+}

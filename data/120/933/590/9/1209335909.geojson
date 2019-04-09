@@ -1,0 +1,64 @@
+{
+  "id": 1209335909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.72255,11.62994,104.72255,11.62994",
+    "geom:latitude":11.62994,
+    "geom:longitude":104.72255,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Meun Ream",
+    "gn:country_code":"KH",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11475377,
+    "gn:latitude":11.62994,
+    "gn:longitude":104.72255,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Meun Ream",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Meun Ream"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11475377
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"193406796d3197c972d302d2baa2ce67",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209335909
+        }
+    ],
+    "wof:id":1209335909,
+    "wof:lastmodified":1537654029,
+    "wof:name":"Meun Ream",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.72255,
+    11.62994,
+    104.72255,
+    11.62994
+],
+  "geometry": {"coordinates":[104.72255,11.62994],"type":"Point"}
+}

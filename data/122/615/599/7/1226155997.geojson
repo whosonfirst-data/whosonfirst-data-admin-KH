@@ -1,0 +1,72 @@
+{
+  "id": 1226155997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.12926,12.07104,105.12926,12.07104",
+    "geom:latitude":12.07104,
+    "geom:longitude":105.12926,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Phumi Trapeang Tnaot",
+    "gn:country_code":"KH",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1823213,
+    "gn:latitude":12.07104,
+    "gn:longitude":105.12926,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Tr\u00e2pe\u0103ng Tna\u00f4t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Trapeang Thnut",
+        "Trapeang Thnot",
+        "Phum\u012d Tr\u00e2pe\u0103ng Tna\u00f4t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673041,
+        1108564783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1823213
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"3e0afec659bdadb62f62accb88bc8c54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564783,
+            "locality_id":1226155997,
+            "region_id":85673041
+        }
+    ],
+    "wof:id":1226155997,
+    "wof:lastmodified":1537653364,
+    "wof:name":"Phumi Trapeang Tnaot",
+    "wof:parent_id":1108564783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.12926000000002,
+    12.07104,
+    105.12926000000002,
+    12.07104
+],
+  "geometry": {"coordinates":[105.12926000000002,12.07104],"type":"Point"}
+}

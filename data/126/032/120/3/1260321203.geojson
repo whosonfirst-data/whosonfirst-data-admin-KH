@@ -1,0 +1,67 @@
+{
+  "id": 1260321203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.31426,11.82816,106.31426,11.82816",
+    "geom:latitude":11.82816,
+    "geom:longitude":106.31426,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Phumi Meak Khneu",
+    "gn:country_code":"KH",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1826912,
+    "gn:latitude":11.82816,
+    "gn:longitude":106.31426,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Phum\u012d Me\u0103k Khneu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        1108804319,
+        1108564735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1826912
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"4cf546847be9823b2052cf1f53fabf26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564735,
+            "locality_id":1260321203,
+            "region_id":1108804319
+        }
+    ],
+    "wof:id":1260321203,
+    "wof:lastmodified":1536661341,
+    "wof:name":"Phumi Meak Khneu",
+    "wof:parent_id":1108564735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.31426,
+    11.82816,
+    106.31426,
+    11.82816
+],
+  "geometry": {"coordinates":[106.31426,11.82816],"type":"Point"}
+}

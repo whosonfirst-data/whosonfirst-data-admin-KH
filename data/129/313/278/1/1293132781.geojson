@@ -1,0 +1,80 @@
+{
+  "id": 1293132781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.74359,11.82252,104.74359,11.82252",
+    "geom:latitude":11.82252,
+    "geom:longitude":104.74359,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Odongk",
+    "gn:country_code":"KH",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1830231,
+    "gn:latitude":11.82252,
+    "gn:longitude":104.74359,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"\u014ed\u014fngk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum\u012d Odong",
+        "Phum Sar Oudong",
+        "Phum\u012d \u014ed\u014fngk",
+        "Phsar Oudong",
+        "Udong",
+        "Oudong",
+        "Udon",
+        "Phsar-Oudond",
+        "\u014ed\u014fng",
+        "\u014ed\u014fngk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673053,
+        421177965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1830231,
+        "wk:page":"Oudong"
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"3283b799010f9e168157154ece4a1f63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421177965,
+            "locality_id":1293132781,
+            "region_id":85673053
+        }
+    ],
+    "wof:id":1293132781,
+    "wof:lastmodified":1537653938,
+    "wof:name":"Odongk",
+    "wof:parent_id":421177965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.74359,
+    11.82252,
+    104.74359,
+    11.82252
+],
+  "geometry": {"coordinates":[104.74359,11.82252],"type":"Point"}
+}

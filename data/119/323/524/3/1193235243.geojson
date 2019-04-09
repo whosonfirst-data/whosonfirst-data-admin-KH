@@ -1,0 +1,74 @@
+{
+  "id": 1193235243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.39716,10.50947,104.39716,10.50947",
+    "geom:latitude":10.50947,
+    "geom:longitude":104.39716,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Tuol Srangam",
+    "gn:country_code":"KH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1824693,
+    "gn:latitude":10.50947,
+    "gn:longitude":104.39716,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Tuol Srangam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Tuol Srangam"
+    ],
+    "name:und_x_variant":[
+        "Phum Tuol Sragham",
+        "Phum\u012d Sr\u00e2ngam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673099,
+        1108564655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1824693
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"b8be85fabd24ae92e0f75f43bffee3d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564655,
+            "locality_id":1193235243,
+            "region_id":85673099
+        }
+    ],
+    "wof:id":1193235243,
+    "wof:lastmodified":1537653478,
+    "wof:name":"Tuol Srangam",
+    "wof:parent_id":1108564655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.39716,
+    10.50947,
+    104.39716,
+    10.50947
+],
+  "geometry": {"coordinates":[104.39716,10.50947],"type":"Point"}
+}

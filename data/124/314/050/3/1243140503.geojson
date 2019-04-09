@@ -1,0 +1,71 @@
+{
+  "id": 1243140503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.46914,13.38582,104.46914,13.38582",
+    "geom:latitude":13.38582,
+    "geom:longitude":104.46914,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Phumi Pratheat",
+    "gn:country_code":"KH",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1826133,
+    "gn:latitude":13.38582,
+    "gn:longitude":104.46914,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Pr\u00e2th\u00e9at",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Prath\u00e9at Vat",
+        "Phum\u012d Pr\u00e2th\u00e9at"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673029,
+        1108564639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1826133
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"95932d14e1cb74ff940838e9162ef96d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564639,
+            "locality_id":1243140503,
+            "region_id":85673029
+        }
+    ],
+    "wof:id":1243140503,
+    "wof:lastmodified":1537653597,
+    "wof:name":"Phumi Pratheat",
+    "wof:parent_id":1108564639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.46914,
+    13.38582,
+    104.46914,
+    13.38582
+],
+  "geometry": {"coordinates":[104.46914,13.38582],"type":"Point"}
+}

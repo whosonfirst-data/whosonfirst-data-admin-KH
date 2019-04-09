@@ -1,0 +1,67 @@
+{
+  "id": 1209546917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.70775,12.05517,105.70775,12.05517",
+    "geom:latitude":12.05517,
+    "geom:longitude":105.70775,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Phum Ta Pao",
+    "gn:country_code":"KH",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1824099,
+    "gn:latitude":12.05517,
+    "gn:longitude":105.70775,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Phum Ta Pa\u00f4",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Ta Pa\u00f4"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u178f\u17b6\u1794\u17c4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1824099
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"807500a9dc3e58ef501c0cef2b5c3422",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209546917
+        }
+    ],
+    "wof:id":1209546917,
+    "wof:lastmodified":1537653430,
+    "wof:name":"Phum Ta Pao",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.70775,
+    12.05517,
+    105.70775,
+    12.05517
+],
+  "geometry": {"coordinates":[105.70775,12.05517],"type":"Point"}
+}

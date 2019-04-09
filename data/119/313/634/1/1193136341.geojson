@@ -1,0 +1,67 @@
+{
+  "id": 1193136341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.51075,13.41644,105.51075,13.41644",
+    "geom:latitude":13.41644,
+    "geom:longitude":105.51075,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Phumi Tatay",
+    "gn:country_code":"KH",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1824023,
+    "gn:latitude":13.41644,
+    "gn:longitude":105.51075,
+    "gn:modification_date":"1993-12-30",
+    "gn:name":"Phum\u012d Tatay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673057,
+        421188047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1824023
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"0ca195bc2e0dd77de6ca2951a9ef32df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421188047,
+            "locality_id":1193136341,
+            "region_id":85673057
+        }
+    ],
+    "wof:id":1193136341,
+    "wof:lastmodified":1536370312,
+    "wof:name":"Phumi Tatay",
+    "wof:parent_id":421188047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.51075,
+    13.41644,
+    105.51075,
+    13.41644
+],
+  "geometry": {"coordinates":[105.51075,13.41644],"type":"Point"}
+}

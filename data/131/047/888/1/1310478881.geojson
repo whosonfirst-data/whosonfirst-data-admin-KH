@@ -1,0 +1,76 @@
+{
+  "id": 1310478881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.67244,12.65992,103.67244,12.65992",
+    "geom:latitude":12.65992,
+    "geom:longitude":103.67244,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Ou Ta Paong",
+    "gn:country_code":"KH",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1826673,
+    "gn:latitude":12.65992,
+    "gn:longitude":103.67244,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Ou Ta Paong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Ou Ta Paong"
+    ],
+    "name:und_x_variant":[
+        "Phum Preas Meloa",
+        "Phum Au Tapong",
+        "P\u2019um Au Ta Pong",
+        "Phum\u012d O Ta Pa\u00f4ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673023,
+        1108564595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1826673
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"a498e729c195382d43bfaa30741a2f99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564595,
+            "locality_id":1310478881,
+            "region_id":85673023
+        }
+    ],
+    "wof:id":1310478881,
+    "wof:lastmodified":1537653647,
+    "wof:name":"Ou Ta Paong",
+    "wof:parent_id":1108564595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.67244,
+    12.65992,
+    103.67244,
+    12.65992
+],
+  "geometry": {"coordinates":[103.67243999999999,12.65992],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1293151461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.37081,12.60364,103.37081,12.60364",
+    "geom:latitude":12.60364,
+    "geom:longitude":103.37081,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Phum Thnam",
+    "gn:country_code":"KH",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1823742,
+    "gn:latitude":12.60364,
+    "gn:longitude":103.37081,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Phum Thn\u00e2m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Thn\u00e2m"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1790\u17d2\u1793\u17c6"
+    ],
+    "name:und_x_variant":[
+        "Khum Thn\u00e2m",
+        "Phum\u012d Thn\u00e2m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673015,
+        1108564805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1823742
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"c9faa951569eb178692050c26ae3cba9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564805,
+            "locality_id":1293151461,
+            "region_id":85673015
+        }
+    ],
+    "wof:id":1293151461,
+    "wof:lastmodified":1537653402,
+    "wof:name":"Phum Thnam",
+    "wof:parent_id":1108564805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.37081,
+    12.60364,
+    103.37081,
+    12.60364
+],
+  "geometry": {"coordinates":[103.37081000000001,12.60364],"type":"Point"}
+}

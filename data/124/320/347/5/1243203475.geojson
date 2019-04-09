@@ -1,0 +1,72 @@
+{
+  "id": 1243203475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.78213,11.81261,105.78213,11.81261",
+    "geom:latitude":11.81261,
+    "geom:longitude":105.78213,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Phumi Kouk Lveang",
+    "gn:country_code":"KH",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827381,
+    "gn:latitude":11.81261,
+    "gn:longitude":105.78213,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Phum\u012d Ko\u016dk Lv\u00e9ang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum Kok Rov\u00e9ang",
+        "Phum\u012d Ko\u016dk L\u00f4v\u00e9ang",
+        "Phum\u012d Ko\u016dk Lv\u00e9ang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        1108804319,
+        421183889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827381
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"44611165e04416be13f0b0030bf18eb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421183889,
+            "locality_id":1243203475,
+            "region_id":1108804319
+        }
+    ],
+    "wof:id":1243203475,
+    "wof:lastmodified":1537653712,
+    "wof:name":"Phumi Kouk Lveang",
+    "wof:parent_id":421183889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.78213,
+    11.81261,
+    105.78213,
+    11.81261
+],
+  "geometry": {"coordinates":[105.78213,11.81261],"type":"Point"}
+}

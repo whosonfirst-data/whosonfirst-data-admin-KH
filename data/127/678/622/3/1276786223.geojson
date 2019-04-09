@@ -1,0 +1,72 @@
+{
+  "id": 1276786223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.35216,10.87232,103.35216,10.87232",
+    "geom:latitude":10.87232,
+    "geom:longitude":103.35216,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Chamlang Kou",
+    "gn:country_code":"KH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1831693,
+    "gn:latitude":10.87232,
+    "gn:longitude":103.35216,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Ch\u00e2ml\u00e2ng Ko\u016d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Ch\u00e2ml\u00e2ng Ko\u016d"
+    ],
+    "name:khm_x_variant":[
+        "\u1785\u17c6\u17a1\u1784\u1782\u17c4"
+    ],
+    "name:und_x_variant":[
+        "Tchato"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1831693
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"45804b874989dfe23bd46cb18e648090",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1276786223,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276786223,
+    "wof:lastmodified":1537653961,
+    "wof:name":"Chamlang Kou",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.35216,
+    10.87232,
+    103.35216,
+    10.87232
+],
+  "geometry": {"coordinates":[103.35216,10.87232],"type":"Point"}
+}

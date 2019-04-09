@@ -1,0 +1,79 @@
+{
+  "id": 1327490899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.06463,13.73206,103.06463,13.73206",
+    "geom:latitude":13.73206,
+    "geom:longitude":103.06463,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Bantoat Baoh",
+    "gn:country_code":"KH",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829585,
+    "gn:latitude":13.73206,
+    "gn:longitude":103.06463,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Bantoat Baoh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Bantoat Baoh"
+    ],
+    "name:khm_x_variant":[
+        "Phum B\u00e2nto\u00e2t B\u00e2s",
+        "\u1797\u17bc\u1798\u17b7 \u1794\u1793\u17d2\u1791\u17b6\u178f\u17cb\u1794\u179f\u17cb"
+    ],
+    "name:und_x_variant":[
+        "Phum Banteat Boas",
+        "Phum\u012d B\u00e2nte\u00e2t B\u00e2s",
+        "Phum\u012d B\u00e2nto\u0103t B\u00e1s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673011,
+        421183973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829585
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"9eabc26b94343d237e01e79d17c672e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421183973,
+            "locality_id":1327490899,
+            "region_id":85673011
+        }
+    ],
+    "wof:id":1327490899,
+    "wof:lastmodified":1537653894,
+    "wof:name":"Bantoat Baoh",
+    "wof:parent_id":421183973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.06463,
+    13.73206,
+    103.06463,
+    13.73206
+],
+  "geometry": {"coordinates":[103.06462999999999,13.73206],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1344234079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.86923,12.22157,103.86923,12.22157",
+    "geom:latitude":12.22157,
+    "geom:longitude":103.86923,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Phumi Cheur",
+    "gn:country_code":"KH",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829045,
+    "gn:latitude":12.22157,
+    "gn:longitude":103.86923,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Cheur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "P\u2019um Ch\u2019o",
+        "Phum Chor",
+        "Phum\u012d Cheu",
+        "Phum\u012d Cheur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673023,
+        1108564759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829045
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"bc951e2209b2308a21cf82174fe90c5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564759,
+            "locality_id":1344234079,
+            "region_id":85673023
+        }
+    ],
+    "wof:id":1344234079,
+    "wof:lastmodified":1537653854,
+    "wof:name":"Phumi Cheur",
+    "wof:parent_id":1108564759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.86923,
+    12.22157,
+    103.86923,
+    12.22157
+],
+  "geometry": {"coordinates":[103.86923,12.22157],"type":"Point"}
+}

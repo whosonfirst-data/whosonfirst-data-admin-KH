@@ -1,0 +1,74 @@
+{
+  "id": 1276569971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.04498,12.40226,106.04498,12.40226",
+    "geom:latitude":12.40226,
+    "geom:longitude":106.04498,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Bos Leav",
+    "gn:country_code":"KH",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825387,
+    "gn:latitude":12.40226,
+    "gn:longitude":106.04498,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Bos Leav",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Bos Leav"
+    ],
+    "name:khm_x_variant":[
+        "Phum R\u00f4ka Kht\u016dm",
+        "\u1797\u17bc\u1798\u17b7 \u179a\u1780\u17b6\u1781\u17d2\u1791\u17bb\u17c6"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673081,
+        1108564631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825387
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"78d570925463220df9f6a1f8bf91e121",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564631,
+            "locality_id":1276569971,
+            "region_id":85673081
+        }
+    ],
+    "wof:id":1276569971,
+    "wof:lastmodified":1537653536,
+    "wof:name":"Bos Leav",
+    "wof:parent_id":1108564631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.04498,
+    12.40226,
+    106.04498,
+    12.40226
+],
+  "geometry": {"coordinates":[106.04498,12.40226],"type":"Point"}
+}

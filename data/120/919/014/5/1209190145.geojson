@@ -1,0 +1,64 @@
+{
+  "id": 1209190145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.06336,10.93025,106.06336,10.93025",
+    "geom:latitude":10.93025,
+    "geom:longitude":106.06336,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Trapeang Die Leu",
+    "gn:country_code":"KH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11482664,
+    "gn:latitude":10.93025,
+    "gn:longitude":106.06336,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Trapeang Die Leu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Trapeang Die Leu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11482664
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"424e244c9faeb316419f8c212d1e2db9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209190145
+        }
+    ],
+    "wof:id":1209190145,
+    "wof:lastmodified":1537654055,
+    "wof:name":"Trapeang Die Leu",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.06336,
+    10.93025,
+    106.06336,
+    10.93025
+],
+  "geometry": {"coordinates":[106.06336,10.93025],"type":"Point"}
+}

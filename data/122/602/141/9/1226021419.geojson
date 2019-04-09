@@ -1,0 +1,70 @@
+{
+  "id": 1226021419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.95816,13.81151,104.95816,13.81151",
+    "geom:latitude":13.81151,
+    "geom:longitude":104.95816,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Akphivoat",
+    "gn:country_code":"KH",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11477563,
+    "gn:latitude":13.81151,
+    "gn:longitude":104.95816,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Akphivoat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Akphivoat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673071,
+        1108564779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11477563
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"2ac06695bab17e74f77b0f9c96b45c42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564779,
+            "locality_id":1226021419,
+            "region_id":85673071
+        }
+    ],
+    "wof:id":1226021419,
+    "wof:lastmodified":1537654037,
+    "wof:name":"Akphivoat",
+    "wof:parent_id":1108564779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.95816,
+    13.81151,
+    104.95816,
+    13.81151
+],
+  "geometry": {"coordinates":[104.95816000000001,13.81151],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1259692845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.36508,11.85633,105.36508,11.85633",
+    "geom:latitude":11.85633,
+    "geom:longitude":105.36508,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Lve",
+    "gn:country_code":"KH",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1826951,
+    "gn:latitude":11.85633,
+    "gn:longitude":105.36508,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Lve",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Lve"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d L\u00f4v\u00e9",
+        "Phum\u012d Lv\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673041,
+        1108564701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1826951
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"1d9353bdc1a07d7f4076575e62ae01fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564701,
+            "locality_id":1259692845,
+            "region_id":85673041
+        }
+    ],
+    "wof:id":1259692845,
+    "wof:lastmodified":1537653674,
+    "wof:name":"Lve",
+    "wof:parent_id":1108564701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.36508,
+    11.85633,
+    105.36508,
+    11.85633
+],
+  "geometry": {"coordinates":[105.36508000000001,11.85633],"type":"Point"}
+}

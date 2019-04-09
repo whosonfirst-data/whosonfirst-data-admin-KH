@@ -1,0 +1,67 @@
+{
+  "id": 1242725089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.90268,12.95142,102.90268,12.95142",
+    "geom:latitude":12.95142,
+    "geom:longitude":102.90268,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Neang Lem",
+    "gn:country_code":"KH",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11329554,
+    "gn:latitude":12.95142,
+    "gn:longitude":102.90268,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Neang Lem",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673015,
+        1108564799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11329554
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"1f7a1d401d2ffd8d75f86b83d1cd9d60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564799,
+            "locality_id":1242725089,
+            "region_id":85673015
+        }
+    ],
+    "wof:id":1242725089,
+    "wof:lastmodified":1536850299,
+    "wof:name":"Neang Lem",
+    "wof:parent_id":1108564799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.90268,
+    12.95142,
+    102.90268,
+    12.95142
+],
+  "geometry": {"coordinates":[102.90268,12.95142],"type":"Point"}
+}

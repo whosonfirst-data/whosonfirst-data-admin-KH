@@ -1,0 +1,72 @@
+{
+  "id": 1276328229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.57052,12.62959,107.57052,12.62959",
+    "geom:latitude":12.62959,
+    "geom:longitude":107.57052,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Phumi Ba Bay",
+    "gn:country_code":"KH",
+    "gn:dem":336,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829723,
+    "gn:latitude":12.62959,
+    "gn:longitude":107.57052,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Ba Bay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Ba Bai",
+        "Phum\u012d Ba Bai",
+        "Phum\u012d Ba Bay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673085,
+        1108564757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829723
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"483bce020e6b55c480b5f62a34250232",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564757,
+            "locality_id":1276328229,
+            "region_id":85673085
+        }
+    ],
+    "wof:id":1276328229,
+    "wof:lastmodified":1537653905,
+    "wof:name":"Phumi Ba Bay",
+    "wof:parent_id":1108564757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.57052,
+    12.62959,
+    107.57052,
+    12.62959
+],
+  "geometry": {"coordinates":[107.57052,12.62959],"type":"Point"}
+}

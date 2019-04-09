@@ -1,0 +1,75 @@
+{
+  "id": 421188893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.781272,13.990374,106.781272,13.990374",
+    "geom:latitude":13.990374,
+    "geom:longitude":106.781272,
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Virocheay",
+    "qs:name_adm0":"Cambodia",
+    "qs:name_adm1":"Ratanah Kiri",
+    "qs:photos":254,
+    "qs:photos_1k":51,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":254,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1104903,
+    "qs:woe_adm0":23424776,
+    "qs:woe_id":1028629,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673089,
+        421194641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1028629,
+        "qs:id":1104903
+    },
+    "wof:country":"KH",
+    "wof:created":1459009587,
+    "wof:geomhash":"05d0e390a70b6eadbb515e9aeaf0910d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421194641,
+            "locality_id":421188893,
+            "region_id":85673089
+        }
+    ],
+    "wof:id":421188893,
+    "wof:lastmodified":1499930124,
+    "wof:name":"Virocheay",
+    "wof:parent_id":421194641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.781272,
+    13.990374,
+    106.781272,
+    13.990374
+],
+  "geometry": {"coordinates":[106.781272,13.990374],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1343619517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.10116,13.32796,104.10116,13.32796",
+    "geom:latitude":13.32796,
+    "geom:longitude":104.10116,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Kansaeng Leu",
+    "gn:country_code":"KH",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11604954,
+    "gn:latitude":13.32796,
+    "gn:longitude":104.10116,
+    "gn:modification_date":"2017-07-06",
+    "gn:name":"Kansaeng Leu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Kansaeng Leu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673029,
+        1108564843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11604954
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"bec452f1f01a94bd9c3bb12547d83425",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564843,
+            "locality_id":1343619517,
+            "region_id":85673029
+        }
+    ],
+    "wof:id":1343619517,
+    "wof:lastmodified":1537654139,
+    "wof:name":"Kansaeng Leu",
+    "wof:parent_id":1108564843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.10116,
+    13.32796,
+    104.10116,
+    13.32796
+],
+  "geometry": {"coordinates":[104.10115999999999,13.32796],"type":"Point"}
+}

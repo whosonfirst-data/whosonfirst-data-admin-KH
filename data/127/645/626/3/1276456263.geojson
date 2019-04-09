@@ -1,0 +1,72 @@
+{
+  "id": 1276456263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.16778,12.0906,105.16778,12.0906",
+    "geom:latitude":12.0906,
+    "geom:longitude":105.16778,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Phumi Trapeang Kakhob",
+    "gn:country_code":"KH",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1823420,
+    "gn:latitude":12.0906,
+    "gn:longitude":105.16778,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Tr\u00e2pe\u0103ng Kakh\u014fb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum Trapeang Kakhon",
+        "Phum\u012d Tr\u00e2pe\u0103ng Kakh\u014fp",
+        "Phum\u012d Tr\u00e2pe\u0103ng Kakh\u014fb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673041,
+        1108564783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1823420
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"107f148f10d61b83c2296aaa07fd7207",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564783,
+            "locality_id":1276456263,
+            "region_id":85673041
+        }
+    ],
+    "wof:id":1276456263,
+    "wof:lastmodified":1537653377,
+    "wof:name":"Phumi Trapeang Kakhob",
+    "wof:parent_id":1108564783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.16778,
+    12.0906,
+    105.16778,
+    12.0906
+],
+  "geometry": {"coordinates":[105.16777999999999,12.0906],"type":"Point"}
+}

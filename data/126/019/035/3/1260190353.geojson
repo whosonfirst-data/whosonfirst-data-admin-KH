@@ -1,0 +1,72 @@
+{
+  "id": 1260190353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.60942,12.29243,104.60942,12.29243",
+    "geom:latitude":12.29243,
+    "geom:longitude":104.60942,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Phumi Sen Lang",
+    "gn:country_code":"KH",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1824905,
+    "gn:latitude":12.29243,
+    "gn:longitude":104.60942,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d S\u00ean Lang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Set Lang",
+        "Phum\u012d S\u0115t Lang",
+        "Phum\u012d S\u00ean Lang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673047,
+        421198923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1824905
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"0521fcece4900413645b00c65f31ff9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421198923,
+            "locality_id":1260190353,
+            "region_id":85673047
+        }
+    ],
+    "wof:id":1260190353,
+    "wof:lastmodified":1537653495,
+    "wof:name":"Phumi Sen Lang",
+    "wof:parent_id":421198923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.60942,
+    12.29243,
+    104.60942,
+    12.29243
+],
+  "geometry": {"coordinates":[104.60942,12.29243],"type":"Point"}
+}

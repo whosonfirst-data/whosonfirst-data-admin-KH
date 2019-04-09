@@ -1,0 +1,73 @@
+{
+  "id": 1242656867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.35983,13.77822,105.35983,13.77822",
+    "geom:latitude":13.77822,
+    "geom:longitude":105.35983,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Sangkae",
+    "gn:country_code":"KH",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825034,
+    "gn:latitude":13.77822,
+    "gn:longitude":105.35983,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Sangkae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Sangkae"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d S\u00e2ngk\u00ea"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673071,
+        421187975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825034
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"c536913c8644cbed1352203fcc6b0bc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421187975,
+            "locality_id":1242656867,
+            "region_id":85673071
+        }
+    ],
+    "wof:id":1242656867,
+    "wof:lastmodified":1537653506,
+    "wof:name":"Sangkae",
+    "wof:parent_id":421187975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.35983,
+    13.77822,
+    105.35983,
+    13.77822
+],
+  "geometry": {"coordinates":[105.35983,13.77822],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1343418935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.97207,13.18986,103.97207,13.18986",
+    "geom:latitude":13.18986,
+    "geom:longitude":103.97207,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Phum Tonle Sap",
+    "gn:country_code":"KH",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1823584,
+    "gn:latitude":13.18986,
+    "gn:longitude":103.97207,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Phum T\u00f4nl\u00e9 Sap",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum T\u00f4nl\u00e9 Sap"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1791\u1793\u17d2\u179b\u17c1\u179f\u17b6\u1794"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Khang Tbong Vatt",
+        "Phum\u012d T\u00f4nl\u00e9 Sap",
+        "Phum\u012d T\u00f4nl\u00e9 Sab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673029,
+        421171409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1823584
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"f19a0ee642783ce31eeb0f54ebbfddfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421171409,
+            "locality_id":1343418935,
+            "region_id":85673029
+        }
+    ],
+    "wof:id":1343418935,
+    "wof:lastmodified":1537653389,
+    "wof:name":"Phum Tonle Sap",
+    "wof:parent_id":421171409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.97207,
+    13.18986,
+    103.97207,
+    13.18986
+],
+  "geometry": {"coordinates":[103.97207,13.18986],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1277035933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.15384,13.19765,103.15384,13.19765",
+    "geom:latitude":13.19765,
+    "geom:longitude":103.15384,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Phum Kampong Sdei",
+    "gn:country_code":"KH",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828216,
+    "gn:latitude":13.19765,
+    "gn:longitude":103.15384,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Phum K\u00e2mp\u00f4ng Sdei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum K\u00e2mp\u00f4ng Sdei"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1780\u17c6\u1796\u1784\u17cb\u179f\u17d2\u178a\u17b8"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d K\u00e2mp\u00f3ng Sdei"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673015,
+        1108564871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828216
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"3e0ad8f4c4fb0787991e9257833ba4a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564871,
+            "locality_id":1277035933,
+            "region_id":85673015
+        }
+    ],
+    "wof:id":1277035933,
+    "wof:lastmodified":1537653786,
+    "wof:name":"Phum Kampong Sdei",
+    "wof:parent_id":1108564871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.15384,
+    13.19765,
+    103.15384,
+    13.19765
+],
+  "geometry": {"coordinates":[103.15384,13.19765],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243604229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.67882,13.09546,102.67882,13.09546",
+    "geom:latitude":13.09546,
+    "geom:longitude":102.67882,
+    "gn:admin1_code":"30",
+    "gn:asciiname":"Kaoh Kaev",
+    "gn:country_code":"KH",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11417835,
+    "gn:latitude":13.09546,
+    "gn:longitude":102.67882,
+    "gn:modification_date":"2017-01-07",
+    "gn:name":"Kaoh Kaev",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Kaoh Kaev"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673037,
+        1108564815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11417835
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"6261b21c1bea4f7af78180ed158b0e5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564815,
+            "locality_id":1243604229,
+            "region_id":85673037
+        }
+    ],
+    "wof:id":1243604229,
+    "wof:lastmodified":1537653999,
+    "wof:name":"Kaoh Kaev",
+    "wof:parent_id":1108564815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.67882,
+    13.09546,
+    102.67882,
+    13.09546
+],
+  "geometry": {"coordinates":[102.67882,13.09546],"type":"Point"}
+}

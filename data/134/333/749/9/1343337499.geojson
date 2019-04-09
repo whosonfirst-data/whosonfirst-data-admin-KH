@@ -1,0 +1,73 @@
+{
+  "id": 1343337499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.03908,10.87574,106.03908,10.87574",
+    "geom:latitude":10.87574,
+    "geom:longitude":106.03908,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Prey Roboes",
+    "gn:country_code":"KH",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825710,
+    "gn:latitude":10.87574,
+    "gn:longitude":106.03908,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Prey Roboes",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Prey Roboes"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Prey R\u00f4baeus"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673105,
+        1108564671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825710
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"5ad4f69bae4aa0c9d46b4f67741e1491",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564671,
+            "locality_id":1343337499,
+            "region_id":85673105
+        }
+    ],
+    "wof:id":1343337499,
+    "wof:lastmodified":1537653560,
+    "wof:name":"Prey Roboes",
+    "wof:parent_id":1108564671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.03908,
+    10.87574,
+    106.03908,
+    10.87574
+],
+  "geometry": {"coordinates":[106.03908,10.87574],"type":"Point"}
+}

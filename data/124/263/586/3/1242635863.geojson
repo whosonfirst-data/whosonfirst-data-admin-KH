@@ -1,0 +1,70 @@
+{
+  "id": 1242635863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.85367,11.51,104.85367,11.51",
+    "geom:latitude":11.51,
+    "geom:longitude":104.85367,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Trapeang Rumchek",
+    "gn:country_code":"KH",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11475297,
+    "gn:latitude":11.51,
+    "gn:longitude":104.85367,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Trapeang Rumchek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Trapeang Rumchek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673063,
+        1108564793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11475297
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"cfdc13e24d0a852ba2a0727c5b64e070",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564793,
+            "locality_id":1242635863,
+            "region_id":85673063
+        }
+    ],
+    "wof:id":1242635863,
+    "wof:lastmodified":1537654028,
+    "wof:name":"Trapeang Rumchek",
+    "wof:parent_id":1108564793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.85367,
+    11.51,
+    104.85367,
+    11.51
+],
+  "geometry": {"coordinates":[104.85366999999999,11.51],"type":"Point"}
+}

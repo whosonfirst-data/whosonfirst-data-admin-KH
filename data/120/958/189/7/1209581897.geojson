@@ -1,0 +1,68 @@
+{
+  "id": 1209581897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.61667,11.11667,105.61667,11.11667",
+    "geom:latitude":11.11667,
+    "geom:longitude":105.61667,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Khum Pratheat",
+    "gn:cc2":"KH",
+    "gn:country_code":"KH",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1830749,
+    "gn:latitude":11.11667,
+    "gn:longitude":105.61667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kh\u016dm Pr\u00e2th\u00e9at",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum Pratheat",
+        "Kompong Pratheat",
+        "Phum Kratheat",
+        "Kh\u016dm Pr\u00e2th\u00e9at"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1830749
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"8ab956dc0a5632356a0b5380289955b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209581897
+        }
+    ],
+    "wof:id":1209581897,
+    "wof:lastmodified":1537653947,
+    "wof:name":"Khum Pratheat",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.61667,
+    11.11667,
+    105.61667,
+    11.11667
+],
+  "geometry": {"coordinates":[105.61667,11.11667],"type":"Point"}
+}

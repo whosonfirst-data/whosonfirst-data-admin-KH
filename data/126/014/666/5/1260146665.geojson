@@ -1,0 +1,73 @@
+{
+  "id": 1260146665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.8917,11.22124,105.8917,11.22124",
+    "geom:latitude":11.22124,
+    "geom:longitude":105.8917,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Bos Touch",
+    "gn:country_code":"KH",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829299,
+    "gn:latitude":11.22124,
+    "gn:longitude":105.8917,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Bos Touch",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Bos Touch"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d B\u014fs Toch"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673105,
+        1108564807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829299
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"656de59b554233d50d8af1ba8decc3e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564807,
+            "locality_id":1260146665,
+            "region_id":85673105
+        }
+    ],
+    "wof:id":1260146665,
+    "wof:lastmodified":1537653873,
+    "wof:name":"Bos Touch",
+    "wof:parent_id":1108564807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.8917,
+    11.22124,
+    105.8917,
+    11.22124
+],
+  "geometry": {"coordinates":[105.8917,11.22124],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1310620983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.52958,11.62925,103.52958,11.62925",
+    "geom:latitude":11.62925,
+    "geom:longitude":103.52958,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Thma Bang",
+    "gn:country_code":"KH",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":11441372,
+    "gn:latitude":11.62925,
+    "gn:longitude":103.52958,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Thma Bang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Thma Bang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673019,
+        421194857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11441372
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"6bb2a034aa9a4e88ab4299092ff40673",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421194857,
+            "locality_id":1310620983,
+            "region_id":85673019
+        }
+    ],
+    "wof:id":1310620983,
+    "wof:lastmodified":1537654005,
+    "wof:name":"Thma Bang",
+    "wof:parent_id":421194857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.52958,
+    11.62925,
+    103.52958,
+    11.62925
+],
+  "geometry": {"coordinates":[103.52958,11.62925],"type":"Point"}
+}

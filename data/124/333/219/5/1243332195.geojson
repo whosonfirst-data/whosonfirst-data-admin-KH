@@ -1,0 +1,70 @@
+{
+  "id": 1243332195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.06567,13.74573,107.06567,13.74573",
+    "geom:latitude":13.74573,
+    "geom:longitude":107.06567,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Pa Chon Thum",
+    "gn:country_code":"KH",
+    "gn:dem":367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11484202,
+    "gn:latitude":13.74573,
+    "gn:longitude":107.06567,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Pa Chon Thum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Pa Chon Thum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673089,
+        1108564743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11484202
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"26af2972a6492d11beefb9b0c70312d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564743,
+            "locality_id":1243332195,
+            "region_id":85673089
+        }
+    ],
+    "wof:id":1243332195,
+    "wof:lastmodified":1537654064,
+    "wof:name":"Pa Chon Thum",
+    "wof:parent_id":1108564743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.06567,
+    13.74573,
+    107.06567,
+    13.74573
+],
+  "geometry": {"coordinates":[107.06567,13.74573],"type":"Point"}
+}

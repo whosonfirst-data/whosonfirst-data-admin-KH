@@ -1,0 +1,74 @@
+{
+  "id": 1344222541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.64306,11.04063,104.64306,11.04063",
+    "geom:latitude":11.04063,
+    "geom:longitude":104.64306,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Pou Preah Sang",
+    "gn:country_code":"KH",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1826142,
+    "gn:latitude":11.04063,
+    "gn:longitude":104.64306,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Pou Preah Sang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Pou Preah Sang"
+    ],
+    "name:und_x_variant":[
+        "Phum Prasuong",
+        "Phum\u012d Pr\u00e2sung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673107,
+        1108564877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1826142
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"1fccdcd33bc3294c2d47f079eb542e0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564877,
+            "locality_id":1344222541,
+            "region_id":85673107
+        }
+    ],
+    "wof:id":1344222541,
+    "wof:lastmodified":1537653598,
+    "wof:name":"Pou Preah Sang",
+    "wof:parent_id":1108564877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.64306,
+    11.04063,
+    104.64306,
+    11.04063
+],
+  "geometry": {"coordinates":[104.64306000000001,11.04063],"type":"Point"}
+}

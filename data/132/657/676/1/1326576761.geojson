@@ -1,0 +1,72 @@
+{
+  "id": 1326576761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.81224,13.17275,102.81224,13.17275",
+    "geom:latitude":13.17275,
+    "geom:longitude":102.81224,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Phumi Damnak Dangkao",
+    "gn:country_code":"KH",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828643,
+    "gn:latitude":13.17275,
+    "gn:longitude":102.81224,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d D\u00e2mn\u0103k D\u00e2ngka\u00f4",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum Dam Nak Dang Kon",
+        "Phum Dam Nak Dang Kor",
+        "Phum\u012d D\u00e2mn\u0103k D\u00e2ngka\u00f4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673015,
+        1108564615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828643
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"95168ab858f141cf9497864a338afdee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564615,
+            "locality_id":1326576761,
+            "region_id":85673015
+        }
+    ],
+    "wof:id":1326576761,
+    "wof:lastmodified":1537653821,
+    "wof:name":"Phumi Damnak Dangkao",
+    "wof:parent_id":1108564615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.81224,
+    13.17275,
+    102.81224,
+    13.17275
+],
+  "geometry": {"coordinates":[102.81224,13.17275],"type":"Point"}
+}

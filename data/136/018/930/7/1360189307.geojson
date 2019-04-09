@@ -1,0 +1,73 @@
+{
+  "id": 1360189307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.56431,12.89112,104.56431,12.89112",
+    "geom:latitude":12.89112,
+    "geom:longitude":104.56431,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Pey",
+    "gn:country_code":"KH",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1826554,
+    "gn:latitude":12.89112,
+    "gn:longitude":104.56431,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Pey",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Pey"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Pey"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673057,
+        1108564849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1826554
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"26e55d7e6c2b5bcdae0833471c01d2b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564849,
+            "locality_id":1360189307,
+            "region_id":85673057
+        }
+    ],
+    "wof:id":1360189307,
+    "wof:lastmodified":1537653637,
+    "wof:name":"Pey",
+    "wof:parent_id":1108564849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.56431,
+    12.89112,
+    104.56431,
+    12.89112
+],
+  "geometry": {"coordinates":[104.56431000000001,12.89112],"type":"Point"}
+}

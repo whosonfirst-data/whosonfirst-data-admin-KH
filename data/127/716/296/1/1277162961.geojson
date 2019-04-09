@@ -1,0 +1,73 @@
+{
+  "id": 1277162961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.58544,11.18867,103.58544,11.18867",
+    "geom:latitude":11.18867,
+    "geom:longitude":103.58544,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Tam Kan",
+    "gn:country_code":"KH",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1824210,
+    "gn:latitude":11.18867,
+    "gn:longitude":103.58544,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Tam Kan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Tam Kan"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d T\u0103mk\u00e2n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673019,
+        421202413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1824210
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"8c4e3095491a9f4010144004a8a49fdd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421202413,
+            "locality_id":1277162961,
+            "region_id":85673019
+        }
+    ],
+    "wof:id":1277162961,
+    "wof:lastmodified":1537653439,
+    "wof:name":"Tam Kan",
+    "wof:parent_id":421202413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.58544,
+    11.18867,
+    103.58544,
+    11.18867
+],
+  "geometry": {"coordinates":[103.58544000000001,11.18867],"type":"Point"}
+}

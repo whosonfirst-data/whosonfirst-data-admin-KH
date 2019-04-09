@@ -1,0 +1,78 @@
+{
+  "id": 1343422037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.18701,13.03943,103.18701,13.03943",
+    "geom:latitude":13.03943,
+    "geom:longitude":103.18701,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Khsach Pouy",
+    "gn:country_code":"KH",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827623,
+    "gn:latitude":13.03943,
+    "gn:longitude":103.18701,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Khsach Pouy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Khsach Pouy"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1781\u17d2\u179f\u17b6\u1785\u17cb\u1796\u17c4\u1799",
+        "Phum Khs\u0103ch Po\u016dy"
+    ],
+    "name:und_x_variant":[
+        "Phum Ksech Puoy",
+        "Phum\u012d Khs\u0103ch Po\u016dy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673015,
+        421171545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827623
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"ca172f9710b1f76d30019815d9aca2d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421171545,
+            "locality_id":1343422037,
+            "region_id":85673015
+        }
+    ],
+    "wof:id":1343422037,
+    "wof:lastmodified":1537653736,
+    "wof:name":"Khsach Pouy",
+    "wof:parent_id":421171545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.18701,
+    13.03943,
+    103.18701,
+    13.03943
+],
+  "geometry": {"coordinates":[103.18701,13.03943],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226407873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.56916,11.05089,104.56916,11.05089",
+    "geom:latitude":11.05089,
+    "geom:longitude":104.56916,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Trapeang Thum Khang Cheung",
+    "gn:country_code":"KH",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11460003,
+    "gn:latitude":11.05089,
+    "gn:longitude":104.56916,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Trapeang Thum Khang Cheung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Trapeang Thum Khang Cheung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673107,
+        1108564877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11460003
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"ba0d6969c634eba6738100f68625d512",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564877,
+            "locality_id":1226407873,
+            "region_id":85673107
+        }
+    ],
+    "wof:id":1226407873,
+    "wof:lastmodified":1537654022,
+    "wof:name":"Trapeang Thum Khang Cheung",
+    "wof:parent_id":1108564877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.56916,
+    11.05089,
+    104.56916,
+    11.05089
+],
+  "geometry": {"coordinates":[104.56916,11.05089],"type":"Point"}
+}

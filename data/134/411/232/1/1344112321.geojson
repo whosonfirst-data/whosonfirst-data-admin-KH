@@ -1,0 +1,70 @@
+{
+  "id": 1344112321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.3076,13.68148,103.3076,13.68148",
+    "geom:latitude":13.68148,
+    "geom:longitude":103.3076,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Kouk Rumchek",
+    "gn:country_code":"KH",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11376356,
+    "gn:latitude":13.68148,
+    "gn:longitude":103.3076,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Kouk Rumchek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Kouk Rumchek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673011,
+        1108564763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11376356
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"13bee242e08327a3a7a2a1cff4a5ecfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564763,
+            "locality_id":1344112321,
+            "region_id":85673011
+        }
+    ],
+    "wof:id":1344112321,
+    "wof:lastmodified":1537653992,
+    "wof:name":"Kouk Rumchek",
+    "wof:parent_id":1108564763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.3076,
+    13.68148,
+    103.3076,
+    13.68148
+],
+  "geometry": {"coordinates":[103.30759999999999,13.68148],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1277160745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.56704,11.2127,105.56704,11.2127",
+    "geom:latitude":11.2127,
+    "geom:longitude":105.56704,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Phumi Trav",
+    "gn:country_code":"KH",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1823164,
+    "gn:latitude":11.2127,
+    "gn:longitude":105.56704,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Trav",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum Trau",
+        "Phum\u012d Trav"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673067,
+        421202305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1823164
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"a8f7b1c9d8faa5b3ca87f26260bbf10d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421202305,
+            "locality_id":1277160745,
+            "region_id":85673067
+        }
+    ],
+    "wof:id":1277160745,
+    "wof:lastmodified":1537653361,
+    "wof:name":"Phumi Trav",
+    "wof:parent_id":421202305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.56704,
+    11.2127,
+    105.56704,
+    11.2127
+],
+  "geometry": {"coordinates":[105.56704000000001,11.2127],"type":"Point"}
+}

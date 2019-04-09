@@ -1,0 +1,72 @@
+{
+  "id": 1343835259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.86447,12.4964,103.86447,12.4964",
+    "geom:latitude":12.4964,
+    "geom:longitude":103.86447,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Phumi Chruoy",
+    "gn:country_code":"KH",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828731,
+    "gn:latitude":12.4964,
+    "gn:longitude":103.86447,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Chru\u014fy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "P\u2019um Chr\u00fboy",
+        "Pum Chrvoy",
+        "Phum\u012d Chru\u014fy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673023,
+        1108564795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828731
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"e4ffcc0483d6ccc34134b16c488e2ce9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564795,
+            "locality_id":1343835259,
+            "region_id":85673023
+        }
+    ],
+    "wof:id":1343835259,
+    "wof:lastmodified":1537653828,
+    "wof:name":"Phumi Chruoy",
+    "wof:parent_id":1108564795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.86447,
+    12.4964,
+    103.86447,
+    12.4964
+],
+  "geometry": {"coordinates":[103.86447,12.4964],"type":"Point"}
+}

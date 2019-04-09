@@ -1,0 +1,74 @@
+{
+  "id": 1327491395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.64138,13.71666,103.64138,13.71666",
+    "geom:latitude":13.71666,
+    "geom:longitude":103.64138,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Ta Toy",
+    "gn:country_code":"KH",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11586814,
+    "gn:latitude":13.71666,
+    "gn:longitude":103.64138,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Ta Toy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Ta Toy"
+    ],
+    "name:khm_x_variant":[
+        "Phum Ta Ku\u014fy",
+        "\u1797\u17bc\u1798\u17b7 \u178f\u17b6\u1782\u17bd\u1799"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673029,
+        1108564583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11586814
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"205e6fe9a3ea02f5e22a837dce68fae1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564583,
+            "locality_id":1327491395,
+            "region_id":85673029
+        }
+    ],
+    "wof:id":1327491395,
+    "wof:lastmodified":1537654116,
+    "wof:name":"Ta Toy",
+    "wof:parent_id":1108564583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.64138,
+    13.71666,
+    103.64138,
+    13.71666
+],
+  "geometry": {"coordinates":[103.64138,13.71666],"type":"Point"}
+}

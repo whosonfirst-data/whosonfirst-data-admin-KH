@@ -1,0 +1,86 @@
+{
+  "id": 1108564771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000296,
+    "geom:area_square_m":3580619.270656,
+    "geom:bbox":"104.903812677,11.5521231269,104.925463466,11.5714649929",
+    "geom:latitude":11.561552,
+    "geom:longitude":104.914015,
+    "iso:country":"KH",
+    "lbl:latitude":11.560836,
+    "lbl:longitude":104.914015,
+    "meso:admin_1":"Phnom Penh",
+    "meso:dissme":"Prampir MeakkakraPhnom Penh",
+    "meso:gadm_admin":"Phnom Penh",
+    "meso:gadm_hasc2":"KH.PP.PM\t",
+    "meso:gaul_admin":"Prampir Meakkakra",
+    "meso:mps_x":104.914015,
+    "meso:mps_y":11.560836,
+    "meso:name_en":"Prampir Meakkakra",
+    "meso:source":"AOTM",
+    "mps:latitude":11.560836,
+    "mps:longitude":104.914015,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Prampir Meakkara"
+    ],
+    "name:eng_x_variant":[
+        "Prampir Meakkakra",
+        "Phnom Penh"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"",
+    "statoids:capital":"",
+    "statoids:country":"KH",
+    "statoids:hasc":"KH.PP",
+    "statoids:name":"Prampir Meakkara",
+    "statoids:population":"",
+    "statoids:statoid":"KH.PP.PM",
+    "statoids:timezone":"7",
+    "statoids:type":"district",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"KH.PP.PM"
+    },
+    "wof:country":"KH",
+    "wof:created":1474062753,
+    "wof:geomhash":"01b1610d663d4b9c37ad3a9850bafcd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564771,
+            "region_id":85673063
+        }
+    ],
+    "wof:id":1108564771,
+    "wof:lastmodified":1536615226,
+    "wof:name":"Prampir Meakkakra",
+    "wof:parent_id":85673063,
+    "wof:placetype":"county",
+    "wof:placetype_local":"district",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:shortcode":"PM",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.90381267743572,
+    11.5521231268551,
+    104.92546346625512,
+    11.57146499291585
+],
+  "geometry": {"coordinates":[[[104.90383944470372,11.57018901178204],[104.91584229563955,11.57146499291585],[104.91981396457109,11.57045392112351],[104.9207705369065,11.56831801121324],[104.92042495421953,11.56510071472568],[104.92246955994946,11.55914744431763],[104.92546346625512,11.55464801795835],[104.92225240146904,11.5528151226786],[104.92167374425674,11.55261065899091],[104.92004261532661,11.55231340947152],[104.91782794452371,11.5521231268551],[104.91637282215075,11.5522884297008],[104.91562622322138,11.55244189478737],[104.91521667036017,11.55256088654203],[104.91440773186608,11.5528557953341],[104.91343313625619,11.55290461297121],[104.90906929963057,11.55349870407469],[104.90516115055945,11.55424947155528],[104.90516361781816,11.55438337515175],[104.90535764257925,11.55565334206231],[104.905950608865,11.55879309183708],[104.90644183564397,11.56114264801878],[104.90667088776392,11.56189939792544],[104.90697492176801,11.5626996610744],[104.9070798290973,11.56315131761281],[104.90654692053357,11.56383929606645],[104.90599632067313,11.56457789692978],[104.90540991066788,11.56566970996507],[104.90482968017128,11.56679837877089],[104.90429043297442,11.56814148286909],[104.90381267743572,11.56945954605479],[104.90383944470372,11.57018901178204]]],"type":"Polygon"}
+}

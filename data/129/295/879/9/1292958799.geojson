@@ -1,0 +1,74 @@
+{
+  "id": 1292958799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.84731,13.30554,103.84731,13.30554",
+    "geom:latitude":13.30554,
+    "geom:longitude":103.84731,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Aranh",
+    "gn:country_code":"KH",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11559280,
+    "gn:latitude":13.30554,
+    "gn:longitude":103.84731,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Aranh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Aranh"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u17a2\u17b6\u179a\u17b6\u1789\u17cb",
+        "Phum Aranh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673029,
+        421204115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11559280
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"49193e435eef5d0b6c17561bc57a7bc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421204115,
+            "locality_id":1292958799,
+            "region_id":85673029
+        }
+    ],
+    "wof:id":1292958799,
+    "wof:lastmodified":1537654105,
+    "wof:name":"Aranh",
+    "wof:parent_id":421204115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.84731,
+    13.30554,
+    103.84731,
+    13.30554
+],
+  "geometry": {"coordinates":[103.84730999999999,13.30554],"type":"Point"}
+}

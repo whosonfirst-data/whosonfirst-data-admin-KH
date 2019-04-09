@@ -1,0 +1,79 @@
+{
+  "id": 1293741287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.12203,13.52037,103.12203,13.52037",
+    "geom:latitude":13.52037,
+    "geom:longitude":103.12203,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Boeng Khleang Kaeut",
+    "gn:country_code":"KH",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829441,
+    "gn:latitude":13.52037,
+    "gn:longitude":103.12203,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Boeng Khleang Kaeut",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum\u012d B\u0153\u0306ng Khle\u0103ng"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1794\u17b9\u1784\u1783\u17d2\u179b\u17b6\u17c6\u1784"
+    ],
+    "name:und_x_variant":[
+        "Phum Beng Kleang",
+        "Phum Beng Khleang",
+        "Phum\u012d B\u0153\u0306ng Khle\u0103ng (1)",
+        "Boeng Khleang Kaeut"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673011,
+        1108564737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829441
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"512160fad3bf3caacd8173834a6e6ec2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564737,
+            "locality_id":1293741287,
+            "region_id":85673011
+        }
+    ],
+    "wof:id":1293741287,
+    "wof:lastmodified":1537653883,
+    "wof:name":"Boeng Khleang Kaeut",
+    "wof:parent_id":1108564737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.12203,
+    13.52037,
+    103.12203,
+    13.52037
+],
+  "geometry": {"coordinates":[103.12203,13.52037],"type":"Point"}
+}

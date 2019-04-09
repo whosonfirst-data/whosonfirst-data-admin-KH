@@ -1,0 +1,74 @@
+{
+  "id": 1260244307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.66867,11.06279,104.66867,11.06279",
+    "geom:latitude":11.06279,
+    "geom:longitude":104.66867,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Popeel",
+    "gn:country_code":"KH",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1826331,
+    "gn:latitude":11.06279,
+    "gn:longitude":104.66867,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Popeel",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Popeel"
+    ],
+    "name:und_x_variant":[
+        "Kh\u016dm P\u00f4p\u00e9l",
+        "Phum\u012d P\u00f4p\u00e9l"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673107,
+        1108564877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1826331
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"7f838655adfe38f024724c5718772a26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564877,
+            "locality_id":1260244307,
+            "region_id":85673107
+        }
+    ],
+    "wof:id":1260244307,
+    "wof:lastmodified":1537653615,
+    "wof:name":"Popeel",
+    "wof:parent_id":1108564877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.66867,
+    11.06279,
+    104.66867,
+    11.06279
+],
+  "geometry": {"coordinates":[104.66867000000001,11.06279],"type":"Point"}
+}

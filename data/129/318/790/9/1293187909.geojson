@@ -1,0 +1,78 @@
+{
+  "id": 1293187909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.90817,12.56076,103.90817,12.56076",
+    "geom:latitude":12.56076,
+    "geom:longitude":103.90817,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Dangkear",
+    "gn:country_code":"KH",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828588,
+    "gn:latitude":12.56076,
+    "gn:longitude":103.90817,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Dangkear",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Dangkear"
+    ],
+    "name:khm_x_variant":[
+        "Phum D\u00e2ngka Ch\u00e2ml\u00e2h",
+        "\u1797\u17bc\u1798\u17b7 \u178a\u1784\u17d2\u1780\u17b6\u1785\u17c6\u179b\u17c7"
+    ],
+    "name:und_x_variant":[
+        "D\u0103ng Kea",
+        "Phum\u012d D\u00e2ngka Ch\u00e2mle\u0103h"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673023,
+        1108564795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828588
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"25c794d0541313fcf6db95c44e3640ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564795,
+            "locality_id":1293187909,
+            "region_id":85673023
+        }
+    ],
+    "wof:id":1293187909,
+    "wof:lastmodified":1537653817,
+    "wof:name":"Dangkear",
+    "wof:parent_id":1108564795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.90817,
+    12.56076,
+    103.90817,
+    12.56076
+],
+  "geometry": {"coordinates":[103.90817,12.56076],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226299051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.03739,13.84325,107.03739,13.84325",
+    "geom:latitude":13.84325,
+    "geom:longitude":107.03739,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Phumi Labang (1)",
+    "gn:country_code":"KH",
+    "gn:dem":318,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827027,
+    "gn:latitude":13.84325,
+    "gn:longitude":107.03739,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Lab\u0103ng (1)",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Labang Nhai",
+        "Phum\u012d Lab\u0103ng (1)"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673089,
+        1108564743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827027
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"ba3fdb77a13119d3624bfbb35457240d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564743,
+            "locality_id":1226299051,
+            "region_id":85673089
+        }
+    ],
+    "wof:id":1226299051,
+    "wof:lastmodified":1537653680,
+    "wof:name":"Phumi Labang (1)",
+    "wof:parent_id":1108564743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.03739,
+    13.84325,
+    107.03739,
+    13.84325
+],
+  "geometry": {"coordinates":[107.03739,13.84325],"type":"Point"}
+}

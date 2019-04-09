@@ -1,0 +1,70 @@
+{
+  "id": 1243546261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.81204,11.83075,104.81204,11.83075",
+    "geom:latitude":11.83075,
+    "geom:longitude":104.81204,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Sasei",
+    "gn:country_code":"KH",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11475117,
+    "gn:latitude":11.83075,
+    "gn:longitude":104.81204,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Sasei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Sasei"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673051,
+        421188235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11475117
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"f6565d0a3021526d5a94f8cee4e086c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421188235,
+            "locality_id":1243546261,
+            "region_id":85673051
+        }
+    ],
+    "wof:id":1243546261,
+    "wof:lastmodified":1537654023,
+    "wof:name":"Sasei",
+    "wof:parent_id":421188235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.81204,
+    11.83075,
+    104.81204,
+    11.83075
+],
+  "geometry": {"coordinates":[104.81204,11.83075],"type":"Point"}
+}

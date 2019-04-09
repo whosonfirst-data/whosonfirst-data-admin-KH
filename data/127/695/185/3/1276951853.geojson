@@ -1,0 +1,74 @@
+{
+  "id": 1276951853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.55325,11.41887,105.55325,11.41887",
+    "geom:latitude":11.41887,
+    "geom:longitude":105.55325,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Prey Chamkar Cheung",
+    "gn:country_code":"KH",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825881,
+    "gn:latitude":11.41887,
+    "gn:longitude":105.55325,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Prey Chamkar Cheung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Prey Chamkar Cheung"
+    ],
+    "name:und_x_variant":[
+        "Phum Prey Chamka",
+        "Phum\u012d Prey Ch\u00e2mkar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673067,
+        1108564729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825881
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"79f44e281444d9d3966bb7bc01d6ece6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564729,
+            "locality_id":1276951853,
+            "region_id":85673067
+        }
+    ],
+    "wof:id":1276951853,
+    "wof:lastmodified":1537653573,
+    "wof:name":"Prey Chamkar Cheung",
+    "wof:parent_id":1108564729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.55325,
+    11.41887,
+    105.55325,
+    11.41887
+],
+  "geometry": {"coordinates":[105.55325000000001,11.41887],"type":"Point"}
+}

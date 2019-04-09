@@ -1,0 +1,77 @@
+{
+  "id": 1327418391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.01441,12.29379,106.01441,12.29379",
+    "geom:latitude":12.29379,
+    "geom:longitude":106.01441,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Phum Deidoh Kraom",
+    "gn:country_code":"KH",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828553,
+    "gn:latitude":12.29379,
+    "gn:longitude":106.01441,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Phum Deid\u014fh Kra\u00f4m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Deid\u014fh Kra\u00f4m"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u178a\u17b8\u178a\u17bb\u17c7\u1780\u17d2\u179a\u17c4\u1798"
+    ],
+    "name:und_x_variant":[
+        "Phum Dey Dos",
+        "Phum\u012d Dei D\u014fh Kra\u00f4m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673081,
+        1108564781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828553
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"2bfcfab71e03d4e8c9cc7899268414ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564781,
+            "locality_id":1327418391,
+            "region_id":85673081
+        }
+    ],
+    "wof:id":1327418391,
+    "wof:lastmodified":1537653814,
+    "wof:name":"Phum Deidoh Kraom",
+    "wof:parent_id":1108564781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.01441,
+    12.29379,
+    106.01441,
+    12.29379
+],
+  "geometry": {"coordinates":[106.01441,12.29379],"type":"Point"}
+}

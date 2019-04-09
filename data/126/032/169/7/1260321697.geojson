@@ -1,0 +1,70 @@
+{
+  "id": 1260321697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.44267,11.8108,105.44267,11.8108",
+    "geom:latitude":11.8108,
+    "geom:longitude":105.44267,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Mien",
+    "gn:country_code":"KH",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11478217,
+    "gn:latitude":11.8108,
+    "gn:longitude":105.44267,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Mien",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Mien"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        1108804319,
+        421177919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11478217
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"60c65af88b9a0c14a2ba99ce29c42ddf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421177919,
+            "locality_id":1260321697,
+            "region_id":1108804319
+        }
+    ],
+    "wof:id":1260321697,
+    "wof:lastmodified":1537654041,
+    "wof:name":"Mien",
+    "wof:parent_id":421177919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.44267,
+    11.8108,
+    105.44267,
+    11.8108
+],
+  "geometry": {"coordinates":[105.44267000000001,11.8108],"type":"Point"}
+}

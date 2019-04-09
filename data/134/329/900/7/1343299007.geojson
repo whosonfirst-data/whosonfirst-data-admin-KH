@@ -1,0 +1,67 @@
+{
+  "id": 1343299007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.81254,11.66485,105.81254,11.66485",
+    "geom:latitude":11.66485,
+    "geom:longitude":105.81254,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Phumi Santey",
+    "gn:country_code":"KH",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1824995,
+    "gn:latitude":11.66485,
+    "gn:longitude":105.81254,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Phum\u012d S\u00e2ntey",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        1108804319,
+        421183889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1824995
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"255530c9bcbc2867d11bd7e09fdf313d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421183889,
+            "locality_id":1343299007,
+            "region_id":1108804319
+        }
+    ],
+    "wof:id":1343299007,
+    "wof:lastmodified":1536978537,
+    "wof:name":"Phumi Santey",
+    "wof:parent_id":421183889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.81253999999998,
+    11.66485,
+    105.81253999999998,
+    11.66485
+],
+  "geometry": {"coordinates":[105.81253999999998,11.66485],"type":"Point"}
+}

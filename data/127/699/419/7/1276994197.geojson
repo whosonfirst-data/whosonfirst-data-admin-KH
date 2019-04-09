@@ -1,0 +1,75 @@
+{
+  "id": 1276994197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.11293,11.83451,105.11293,11.83451",
+    "geom:latitude":11.83451,
+    "geom:longitude":105.11293,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Prek Pouthi",
+    "gn:country_code":"KH",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1822651,
+    "gn:latitude":11.83451,
+    "gn:longitude":105.11293,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Pr\u00eak Po\u016dth\u012d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Prek Po",
+        "Prek Po\u016dch\u0115",
+        "Pr\u00eak Po\u016d",
+        "P\u00f4r",
+        "Prek Por",
+        "Pr\u00eak Po\u016dth\u012d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673041,
+        1108564845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1822651
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"d0187d5bda3e2ab0ef3a7f5003128c61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564845,
+            "locality_id":1276994197,
+            "region_id":85673041
+        }
+    ],
+    "wof:id":1276994197,
+    "wof:lastmodified":1537653335,
+    "wof:name":"Prek Pouthi",
+    "wof:parent_id":1108564845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.11293,
+    11.83451,
+    105.11293,
+    11.83451
+],
+  "geometry": {"coordinates":[105.11293000000001,11.83451],"type":"Point"}
+}

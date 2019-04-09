@@ -1,0 +1,61 @@
+{
+  "id": 1209404455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.37938,11.96837,106.37938,11.96837",
+    "geom:latitude":11.96837,
+    "geom:longitude":106.37938,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Phumi Sre Rumduol",
+    "gn:country_code":"KH",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1824575,
+    "gn:latitude":11.96837,
+    "gn:longitude":106.37938,
+    "gn:modification_date":"1993-12-30",
+    "gn:name":"Phum\u012d Sr\u00ea Rumdu\u014fl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1824575
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"e3be33caccbaa01d63d56c016a024cfa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209404455
+        }
+    ],
+    "wof:id":1209404455,
+    "wof:lastmodified":1536288041,
+    "wof:name":"Phumi Sre Rumduol",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.37938,
+    11.96837,
+    106.37938,
+    11.96837
+],
+  "geometry": {"coordinates":[106.37938,11.96837],"type":"Point"}
+}

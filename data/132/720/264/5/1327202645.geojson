@@ -1,0 +1,67 @@
+{
+  "id": 1327202645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.44242,13.91425,107.44242,13.91425",
+    "geom:latitude":13.91425,
+    "geom:longitude":107.44242,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Phumi Ban Phi",
+    "gn:country_code":"KH",
+    "gn:dem":202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829627,
+    "gn:latitude":13.91425,
+    "gn:longitude":107.44242,
+    "gn:modification_date":"2009-05-12",
+    "gn:name":"Phum\u012d Ban Phi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673089,
+        1108564575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829627
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"bfb7c597a7b21ad766aa3067467d5283",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564575,
+            "locality_id":1327202645,
+            "region_id":85673089
+        }
+    ],
+    "wof:id":1327202645,
+    "wof:lastmodified":1537011975,
+    "wof:name":"Phumi Ban Phi",
+    "wof:parent_id":1108564575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.44242,
+    13.91425,
+    107.44242,
+    13.91425
+],
+  "geometry": {"coordinates":[107.44242,13.91425],"type":"Point"}
+}

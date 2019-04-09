@@ -1,0 +1,77 @@
+{
+  "id": 1226193031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.20028,13.16098,103.20028,13.16098",
+    "geom:latitude":13.16098,
+    "geom:longitude":103.20028,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Phum Ka Rohal",
+    "gn:country_code":"KH",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827898,
+    "gn:latitude":13.16098,
+    "gn:longitude":103.20028,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Phum K\u00e2 R\u00f4hal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum K\u00e2 R\u00f4hal"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1780\u179a\u17a0\u17b6\u179b"
+    ],
+    "name:und_x_variant":[
+        "Phum Ka Rochal",
+        "Phum\u012d K\u00e2 R\u00f4hal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673015,
+        421172391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827898
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"49b4e8acc811e58ce3da90e10137ba6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421172391,
+            "locality_id":1226193031,
+            "region_id":85673015
+        }
+    ],
+    "wof:id":1226193031,
+    "wof:lastmodified":1537653759,
+    "wof:name":"Phum Ka Rohal",
+    "wof:parent_id":421172391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.20028,
+    13.16098,
+    103.20028,
+    13.16098
+],
+  "geometry": {"coordinates":[103.20028000000001,13.16098],"type":"Point"}
+}

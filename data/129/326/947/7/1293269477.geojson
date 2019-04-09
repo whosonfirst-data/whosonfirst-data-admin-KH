@@ -1,0 +1,78 @@
+{
+  "id": 1293269477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.64142,12.66907,103.64142,12.66907",
+    "geom:latitude":12.66907,
+    "geom:longitude":103.64142,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Svay Doun Kaev",
+    "gn:country_code":"KH",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1822000,
+    "gn:latitude":12.66907,
+    "gn:longitude":103.64142,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Svay Doun Kaev",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Svay Doun Kaev"
+    ],
+    "name:und_x_variant":[
+        "Phum Soai Donkeo",
+        "Svay Daun Keo",
+        "Svay Daun Ke",
+        "Svai Don Keo",
+        "Svay Don K\u00eav"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673023,
+        1108564595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1822000,
+        "wk:page":"Svay_Don_K%C3%AAv"
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"1b3e74a72b8ac29b51b3b843482d95d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564595,
+            "locality_id":1293269477,
+            "region_id":85673023
+        }
+    ],
+    "wof:id":1293269477,
+    "wof:lastmodified":1537653326,
+    "wof:name":"Svay Doun Kaev",
+    "wof:parent_id":1108564595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.64142,
+    12.66907,
+    103.64142,
+    12.66907
+],
+  "geometry": {"coordinates":[103.64142,12.66907],"type":"Point"}
+}

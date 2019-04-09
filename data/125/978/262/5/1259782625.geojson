@@ -1,0 +1,72 @@
+{
+  "id": 1259782625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.89766,12.69226,104.89766,12.69226",
+    "geom:latitude":12.69226,
+    "geom:longitude":104.89766,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Phumi Balang",
+    "gn:country_code":"KH",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829688,
+    "gn:latitude":12.69226,
+    "gn:longitude":104.89766,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Bal\u0103ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Balang",
+        "Bolang",
+        "Phum\u012d Bal\u0103ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673057,
+        421180491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829688
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"82816d9d839ebfdfbbf712ba4098469b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421180491,
+            "locality_id":1259782625,
+            "region_id":85673057
+        }
+    ],
+    "wof:id":1259782625,
+    "wof:lastmodified":1537653903,
+    "wof:name":"Phumi Balang",
+    "wof:parent_id":421180491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.89766000000002,
+    12.69226,
+    104.89766000000002,
+    12.69226
+],
+  "geometry": {"coordinates":[104.89766000000002,12.69226],"type":"Point"}
+}

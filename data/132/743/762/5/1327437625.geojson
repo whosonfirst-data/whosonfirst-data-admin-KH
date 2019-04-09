@@ -1,0 +1,70 @@
+{
+  "id": 1327437625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.38829,11.71575,104.38829,11.71575",
+    "geom:latitude":11.71575,
+    "geom:longitude":104.38829,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Trapeang Traeunh",
+    "gn:country_code":"KH",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11591541,
+    "gn:latitude":11.71575,
+    "gn:longitude":104.38829,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Trapeang Traeunh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Trapeang Traeunh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673053,
+        1108564873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11591541
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"e4adb2a999f0574314cd5c8fe35abb48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564873,
+            "locality_id":1327437625,
+            "region_id":85673053
+        }
+    ],
+    "wof:id":1327437625,
+    "wof:lastmodified":1537654122,
+    "wof:name":"Trapeang Traeunh",
+    "wof:parent_id":1108564873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.38829,
+    11.71575,
+    104.38829,
+    11.71575
+],
+  "geometry": {"coordinates":[104.38829,11.71575],"type":"Point"}
+}

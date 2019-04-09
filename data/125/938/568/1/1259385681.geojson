@@ -1,0 +1,73 @@
+{
+  "id": 1259385681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.97444,12.07451,104.97444,12.07451",
+    "geom:latitude":12.07451,
+    "geom:longitude":104.97444,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Phumi Tumnob",
+    "gn:country_code":"KH",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1823118,
+    "gn:latitude":12.07451,
+    "gn:longitude":104.97444,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Phum\u012d Tumn\u00f3b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tumnup",
+        "Phum\u012d T\u016dmn\u016dp (1)",
+        "Tum Nop",
+        "Phum\u012d Tumn\u00f3b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673041,
+        1108564611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1823118
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"9020179bfa8ef16f52c5dd8fa06698a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564611,
+            "locality_id":1259385681,
+            "region_id":85673041
+        }
+    ],
+    "wof:id":1259385681,
+    "wof:lastmodified":1537653357,
+    "wof:name":"Phumi Tumnob",
+    "wof:parent_id":1108564611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.97444,
+    12.07451,
+    104.97444,
+    12.07451
+],
+  "geometry": {"coordinates":[104.97444,12.07451],"type":"Point"}
+}

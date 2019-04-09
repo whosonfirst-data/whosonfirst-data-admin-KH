@@ -1,0 +1,74 @@
+{
+  "id": 1226289995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.81021,10.5808,103.81021,10.5808",
+    "geom:latitude":10.5808,
+    "geom:longitude":103.81021,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Phum Don Loy",
+    "gn:country_code":"KH",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828478,
+    "gn:latitude":10.5808,
+    "gn:longitude":103.81021,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Phum Don L\u00f4y",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Don L\u00f4y"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u178a\u17bc\u1793\u179b\u1799",
+        "Phum\u012d Don L\u00f4y"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673101,
+        421188243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828478
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"304d831483c895c4fc7a12506124db0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421188243,
+            "locality_id":1226289995,
+            "region_id":85673101
+        }
+    ],
+    "wof:id":1226289995,
+    "wof:lastmodified":1537653809,
+    "wof:name":"Phum Don Loy",
+    "wof:parent_id":421188243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.81021,
+    10.5808,
+    103.81021,
+    10.5808
+],
+  "geometry": {"coordinates":[103.81021,10.5808],"type":"Point"}
+}

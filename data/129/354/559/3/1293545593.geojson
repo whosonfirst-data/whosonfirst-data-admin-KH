@@ -1,0 +1,70 @@
+{
+  "id": 1293545593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.30521,13.68641,107.30521,13.68641",
+    "geom:latitude":13.68641,
+    "geom:longitude":107.30521,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Lum Choar",
+    "gn:country_code":"KH",
+    "gn:dem":247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11484001,
+    "gn:latitude":13.68641,
+    "gn:longitude":107.30521,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Lum Choar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Lum Choar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673089,
+        1108564747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11484001
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"6415ed07c03994aff931359e6e6a4447",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564747,
+            "locality_id":1293545593,
+            "region_id":85673089
+        }
+    ],
+    "wof:id":1293545593,
+    "wof:lastmodified":1537654062,
+    "wof:name":"Lum Choar",
+    "wof:parent_id":1108564747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.30521,
+    13.68641,
+    107.30521,
+    13.68641
+],
+  "geometry": {"coordinates":[107.30521,13.68641],"type":"Point"}
+}

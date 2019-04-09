@@ -1,0 +1,74 @@
+{
+  "id": 1226329431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.7551,12.38963,103.7551,12.38963",
+    "geom:latitude":12.38963,
+    "geom:longitude":103.7551,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Samraong Muoy",
+    "gn:country_code":"KH",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825106,
+    "gn:latitude":12.38963,
+    "gn:longitude":103.7551,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Samraong Muoy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Samraong Muoy"
+    ],
+    "name:und_x_variant":[
+        "Phum S\u00e2mr\u014fng",
+        "Phum\u012d S\u00e2mra\u00f4ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673023,
+        1108564759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825106
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"124291fba5c65743ba790ed6945801c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564759,
+            "locality_id":1226329431,
+            "region_id":85673023
+        }
+    ],
+    "wof:id":1226329431,
+    "wof:lastmodified":1537653513,
+    "wof:name":"Samraong Muoy",
+    "wof:parent_id":1108564759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.7551,
+    12.38963,
+    103.7551,
+    12.38963
+],
+  "geometry": {"coordinates":[103.7551,12.38963],"type":"Point"}
+}

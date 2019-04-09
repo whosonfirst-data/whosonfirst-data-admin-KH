@@ -1,0 +1,73 @@
+{
+  "id": 1343943325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.94989,11.10284,103.94989,11.10284",
+    "geom:latitude":11.10284,
+    "geom:longitude":103.94989,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Krang At",
+    "gn:country_code":"KH",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827228,
+    "gn:latitude":11.10284,
+    "gn:longitude":103.94989,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Krang At",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Krang At"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Kr\u0103ng At"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673019,
+        1108564673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827228
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"129955b9120e02ba8647f068a846a293",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564673,
+            "locality_id":1343943325,
+            "region_id":85673019
+        }
+    ],
+    "wof:id":1343943325,
+    "wof:lastmodified":1537653697,
+    "wof:name":"Krang At",
+    "wof:parent_id":1108564673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.94989,
+    11.10284,
+    103.94989,
+    11.10284
+],
+  "geometry": {"coordinates":[103.94989,11.10284],"type":"Point"}
+}

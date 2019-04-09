@@ -1,0 +1,78 @@
+{
+  "id": 1310356361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.7721,10.60938,103.7721,10.60938",
+    "geom:latitude":10.60938,
+    "geom:longitude":103.7721,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Ou Ta Pang",
+    "gn:country_code":"KH",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1826769,
+    "gn:latitude":10.60938,
+    "gn:longitude":103.7721,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Ou Ta Pang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Ou Ta Pang"
+    ],
+    "name:khm_x_variant":[
+        "Phum O Ch\u00e2mna",
+        "\u1797\u17bc\u1798\u17b7 \u17a2\u17bc\u1785\u17c6\u17c6\u178e\u17b6\u179a"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d O Ch\u00e2mna (2)",
+        "Phum\u012d O Ch\u00e2mnar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673101,
+        421188243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1826769
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"98f9517ab3c2502d94bf2f497ae39158",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421188243,
+            "locality_id":1310356361,
+            "region_id":85673101
+        }
+    ],
+    "wof:id":1310356361,
+    "wof:lastmodified":1537653655,
+    "wof:name":"Ou Ta Pang",
+    "wof:parent_id":421188243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.7721,
+    10.60938,
+    103.7721,
+    10.60938
+],
+  "geometry": {"coordinates":[103.77209999999999,10.60938],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1276307785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.86579,10.6741,104.86579,10.6741",
+    "geom:latitude":10.6741,
+    "geom:longitude":104.86579,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Phumi Tonloab",
+    "gn:country_code":"KH",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1823574,
+    "gn:latitude":10.6741,
+    "gn:longitude":104.86579,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Phum\u012d T\u00f4nlo\u0103b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum\u012d T\u016dl\u00f4\u00e2p",
+        "Phum Tunloat",
+        "Phum Tam Lap",
+        "Phum\u012d T\u00f4nle\u0103b (3)",
+        "Phum\u012d T\u00f4nlo\u0103b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673107,
+        1108564709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1823574
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"31417001d4d09a613a06fb222147db4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564709,
+            "locality_id":1276307785,
+            "region_id":85673107
+        }
+    ],
+    "wof:id":1276307785,
+    "wof:lastmodified":1537653387,
+    "wof:name":"Phumi Tonloab",
+    "wof:parent_id":1108564709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.86579,
+    10.6741,
+    104.86579,
+    10.6741
+],
+  "geometry": {"coordinates":[104.86579,10.6741],"type":"Point"}
+}

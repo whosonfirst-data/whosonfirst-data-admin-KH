@@ -1,0 +1,77 @@
+{
+  "id": 1226363903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.08239,11.17084,105.08239,11.17084",
+    "geom:latitude":11.17084,
+    "geom:longitude":105.08239,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Phum Svay Ta Mek",
+    "gn:country_code":"KH",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1824367,
+    "gn:latitude":11.17084,
+    "gn:longitude":105.08239,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Phum Svay Ta M\u00e9k",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Svay Ta M\u00e9k"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u179f\u17d2\u179c\u17b6\u1799\u178f\u17b6\u1798\u17c1\u1783"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Svay Ta M\u00e9k",
+        "Phum\u012d Svay Ta M\u00e9kh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673051,
+        1108564703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1824367
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"708d741510cbaa6c4ce16bd38de621e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564703,
+            "locality_id":1226363903,
+            "region_id":85673051
+        }
+    ],
+    "wof:id":1226363903,
+    "wof:lastmodified":1537653451,
+    "wof:name":"Phum Svay Ta Mek",
+    "wof:parent_id":1108564703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.08239,
+    11.17084,
+    105.08239,
+    11.17084
+],
+  "geometry": {"coordinates":[105.08239,11.17084],"type":"Point"}
+}

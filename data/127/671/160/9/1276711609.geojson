@@ -1,0 +1,70 @@
+{
+  "id": 1276711609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.55342,13.40771,102.55342,13.40771",
+    "geom:latitude":13.40771,
+    "geom:longitude":102.55342,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Ou Trav Chur",
+    "gn:country_code":"KH",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11418344,
+    "gn:latitude":13.40771,
+    "gn:longitude":102.55342,
+    "gn:modification_date":"2017-01-07",
+    "gn:name":"Ou Trav Chur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Ou Trav Chur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673015,
+        1108564817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11418344
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"2d0e8c58cf3e0fcf5a16a90cc7afa7ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564817,
+            "locality_id":1276711609,
+            "region_id":85673015
+        }
+    ],
+    "wof:id":1276711609,
+    "wof:lastmodified":1537654000,
+    "wof:name":"Ou Trav Chur",
+    "wof:parent_id":1108564817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.55342,
+    13.40771,
+    102.55342,
+    13.40771
+],
+  "geometry": {"coordinates":[102.55342,13.40771],"type":"Point"}
+}

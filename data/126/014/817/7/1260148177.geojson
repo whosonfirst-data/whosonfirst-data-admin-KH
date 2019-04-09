@@ -1,0 +1,79 @@
+{
+  "id": 1260148177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.74205,13.61621,102.74205,13.61621",
+    "geom:latitude":13.61621,
+    "geom:longitude":102.74205,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Nimitt",
+    "gn:country_code":"KH",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1826790,
+    "gn:latitude":13.61621,
+    "gn:longitude":102.74205,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Nimitt",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Nimitt"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1793\u17b7\u1798\u17b7\u178f\u17d2\u178f",
+        "Phum N\u012dm\u012dt"
+    ],
+    "name:und_x_variant":[
+        "Nimith",
+        "Phum\u012d Nimit",
+        "Phum\u012d N\u012dm\u012dtt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673011,
+        1108564751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1826790
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"e0807fe1f23406a67c02ef08875c13e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564751,
+            "locality_id":1260148177,
+            "region_id":85673011
+        }
+    ],
+    "wof:id":1260148177,
+    "wof:lastmodified":1537653657,
+    "wof:name":"Nimitt",
+    "wof:parent_id":1108564751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.74205,
+    13.61621,
+    102.74205,
+    13.61621
+],
+  "geometry": {"coordinates":[102.74205000000001,13.61621],"type":"Point"}
+}

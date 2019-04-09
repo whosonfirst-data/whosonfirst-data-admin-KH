@@ -1,0 +1,67 @@
+{
+  "id": 1259690087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.36146,11.40754,104.36146,11.40754",
+    "geom:latitude":11.40754,
+    "geom:longitude":104.36146,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Phumi Prum Rolok",
+    "gn:country_code":"KH",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825561,
+    "gn:latitude":11.40754,
+    "gn:longitude":104.36146,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Phum\u012d Pr\u016dm R\u00f4l\u00f4k",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673053,
+        1108564765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825561
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"dd3ebd6e23a3bda78de7205294bfdcf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564765,
+            "locality_id":1259690087,
+            "region_id":85673053
+        }
+    ],
+    "wof:id":1259690087,
+    "wof:lastmodified":1537055059,
+    "wof:name":"Phumi Prum Rolok",
+    "wof:parent_id":1108564765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.36146,
+    11.40754,
+    104.36146,
+    11.40754
+],
+  "geometry": {"coordinates":[104.36145999999999,11.40754],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1326709297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.29216,10.97704,105.29216,10.97704",
+    "geom:latitude":10.97704,
+    "geom:longitude":105.29216,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Edth",
+    "gn:country_code":"KH",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11477910,
+    "gn:latitude":10.97704,
+    "gn:longitude":105.29216,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Edth",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Edth"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673067,
+        1108564755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11477910
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"dd4f2bc1bd4b0e15bdc044058d7628f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564755,
+            "locality_id":1326709297,
+            "region_id":85673067
+        }
+    ],
+    "wof:id":1326709297,
+    "wof:lastmodified":1537654038,
+    "wof:name":"Edth",
+    "wof:parent_id":1108564755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.29216,
+    10.97704,
+    105.29216,
+    10.97704
+],
+  "geometry": {"coordinates":[105.29216,10.97704],"type":"Point"}
+}

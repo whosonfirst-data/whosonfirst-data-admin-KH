@@ -1,0 +1,77 @@
+{
+  "id": 1326497965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.12507,13.78874,103.12507,13.78874",
+    "geom:latitude":13.78874,
+    "geom:longitude":103.12507,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Kouk Ampil",
+    "gn:country_code":"KH",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829617,
+    "gn:latitude":13.78874,
+    "gn:longitude":103.12507,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Kouk Ampil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Kouk Ampil"
+    ],
+    "name:khm_x_variant":[
+        "Phum\u012d B\u00e2nt\u00e9ay \u00c2mpil",
+        "\u1797\u17bc\u1798\u17b7 \u1794\u1793\u17d2\u1791\u17b6\u1799\u17a2\u17c6\u1796\u17b7\u179b"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d B\u00e2nt\u00e9ay \u00c2mp\u012dl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673011,
+        421181961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829617
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"627b729463e3141f8361bab395d842de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421181961,
+            "locality_id":1326497965,
+            "region_id":85673011
+        }
+    ],
+    "wof:id":1326497965,
+    "wof:lastmodified":1537653897,
+    "wof:name":"Kouk Ampil",
+    "wof:parent_id":421181961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.12507,
+    13.78874,
+    103.12507,
+    13.78874
+],
+  "geometry": {"coordinates":[103.12506999999999,13.78874],"type":"Point"}
+}

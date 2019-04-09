@@ -1,0 +1,70 @@
+{
+  "id": 1260310129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.42059,11.17164,104.42059,11.17164",
+    "geom:latitude":11.17164,
+    "geom:longitude":104.42059,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Chhuk Roatn",
+    "gn:country_code":"KH",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11450654,
+    "gn:latitude":11.17164,
+    "gn:longitude":104.42059,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Chhuk Roatn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Chhuk Roatn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673053,
+        1108564609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11450654
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"af3fda76e682b416d67d4802ebc77f84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564609,
+            "locality_id":1260310129,
+            "region_id":85673053
+        }
+    ],
+    "wof:id":1260310129,
+    "wof:lastmodified":1537654014,
+    "wof:name":"Chhuk Roatn",
+    "wof:parent_id":1108564609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.42059,
+    11.17164,
+    104.42059,
+    11.17164
+],
+  "geometry": {"coordinates":[104.42059,11.17164],"type":"Point"}
+}

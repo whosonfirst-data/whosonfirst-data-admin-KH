@@ -1,0 +1,71 @@
+{
+  "id": 1343627051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.70565,11.21629,104.70565,11.21629",
+    "geom:latitude":11.21629,
+    "geom:longitude":104.70565,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Phumi Vott Prasat",
+    "gn:country_code":"KH",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1822856,
+    "gn:latitude":11.21629,
+    "gn:longitude":104.70565,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d V\u00f4tt Prasat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum\u012d Vatt Prasat",
+        "Phum\u012d V\u00f4tt Prasat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673107,
+        1108564613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1822856
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"cc610e7bdbc455e5f18174ea4498248b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564613,
+            "locality_id":1343627051,
+            "region_id":85673107
+        }
+    ],
+    "wof:id":1343627051,
+    "wof:lastmodified":1537653339,
+    "wof:name":"Phumi Vott Prasat",
+    "wof:parent_id":1108564613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.70565,
+    11.21629,
+    104.70565,
+    11.21629
+],
+  "geometry": {"coordinates":[104.70565000000001,11.21629],"type":"Point"}
+}

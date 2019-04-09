@@ -1,0 +1,71 @@
+{
+  "id": 1226554405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.92833,11.47107,104.92833,11.47107",
+    "geom:latitude":11.47107,
+    "geom:longitude":104.92833,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Phumi Prek Long",
+    "gn:country_code":"KH",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825995,
+    "gn:latitude":11.47107,
+    "gn:longitude":104.92833,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Pr\u00eak L\u014fng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Treal Chos",
+        "Phum\u012d Pr\u00eak L\u014fng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673051,
+        421168305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825995
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"8e19ff76bd8751058abaca4bdbd177d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421168305,
+            "locality_id":1226554405,
+            "region_id":85673051
+        }
+    ],
+    "wof:id":1226554405,
+    "wof:lastmodified":1537653584,
+    "wof:name":"Phumi Prek Long",
+    "wof:parent_id":421168305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.92833,
+    11.47107,
+    104.92833,
+    11.47107
+],
+  "geometry": {"coordinates":[104.92833,11.47107],"type":"Point"}
+}

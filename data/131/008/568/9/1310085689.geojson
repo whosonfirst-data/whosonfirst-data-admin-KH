@@ -1,0 +1,67 @@
+{
+  "id": 1310085689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.23743,12.55945,104.23743,12.55945",
+    "geom:latitude":12.55945,
+    "geom:longitude":104.23743,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Phumi Kampong Khneas",
+    "gn:country_code":"KH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828289,
+    "gn:latitude":12.55945,
+    "gn:longitude":104.23743,
+    "gn:modification_date":"1993-12-30",
+    "gn:name":"Phum\u012d K\u00e2mp\u00f3ng Khn\u00e9as",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673023,
+        421203239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828289
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"7d9f5e0fabfbf86de84e7b06a7781568",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421203239,
+            "locality_id":1310085689,
+            "region_id":85673023
+        }
+    ],
+    "wof:id":1310085689,
+    "wof:lastmodified":1537024054,
+    "wof:name":"Phumi Kampong Khneas",
+    "wof:parent_id":421203239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.23743,
+    12.55945,
+    104.23743,
+    12.55945
+],
+  "geometry": {"coordinates":[104.23743,12.55945],"type":"Point"}
+}

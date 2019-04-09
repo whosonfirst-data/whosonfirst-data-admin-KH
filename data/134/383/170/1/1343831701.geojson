@@ -1,0 +1,70 @@
+{
+  "id": 1343831701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.66836,11.26709,105.66836,11.26709",
+    "geom:latitude":11.26709,
+    "geom:longitude":105.66836,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Sou",
+    "gn:country_code":"KH",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11482249,
+    "gn:latitude":11.26709,
+    "gn:longitude":105.66836,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Sou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Sou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673067,
+        1108564729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11482249
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"afc88675bbabfced1fff06206ed1c9bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564729,
+            "locality_id":1343831701,
+            "region_id":85673067
+        }
+    ],
+    "wof:id":1343831701,
+    "wof:lastmodified":1537654053,
+    "wof:name":"Sou",
+    "wof:parent_id":1108564729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.66836,
+    11.26709,
+    105.66836,
+    11.26709
+],
+  "geometry": {"coordinates":[105.66836000000001,11.26709],"type":"Point"}
+}

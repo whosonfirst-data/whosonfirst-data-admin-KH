@@ -1,0 +1,67 @@
+{
+  "id": 1309691157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.63432,11.64043,105.63432,11.64043",
+    "geom:latitude":11.64043,
+    "geom:longitude":105.63432,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Phumi Tuol Trach",
+    "gn:country_code":"KH",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1822977,
+    "gn:latitude":11.64043,
+    "gn:longitude":105.63432,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Phum\u012d Tu\u014fl Trach",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673067,
+        1108564691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1822977
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"6e4470d808af3bfbfac2c207a8b03738",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564691,
+            "locality_id":1309691157,
+            "region_id":85673067
+        }
+    ],
+    "wof:id":1309691157,
+    "wof:lastmodified":1537093210,
+    "wof:name":"Phumi Tuol Trach",
+    "wof:parent_id":1108564691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.63432,
+    11.64043,
+    105.63432,
+    11.64043
+],
+  "geometry": {"coordinates":[105.63432,11.64043],"type":"Point"}
+}

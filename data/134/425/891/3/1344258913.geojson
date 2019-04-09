@@ -1,0 +1,67 @@
+{
+  "id": 1344258913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.64579,12.43311,104.64579,12.43311",
+    "geom:latitude":12.43311,
+    "geom:longitude":104.64579,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Phumi Cheung Anhchrong",
+    "gn:country_code":"KH",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829065,
+    "gn:latitude":12.43311,
+    "gn:longitude":104.64579,
+    "gn:modification_date":"1993-12-30",
+    "gn:name":"Phum\u012d Cheung \u00c2nhchrong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673047,
+        421188239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829065
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"1d27dbf949726b9cc6c636601bf45342",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421188239,
+            "locality_id":1344258913,
+            "region_id":85673047
+        }
+    ],
+    "wof:id":1344258913,
+    "wof:lastmodified":1537083225,
+    "wof:name":"Phumi Cheung Anhchrong",
+    "wof:parent_id":421188239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.64579,
+    12.43311,
+    104.64579,
+    12.43311
+],
+  "geometry": {"coordinates":[104.64579000000001,12.43311],"type":"Point"}
+}

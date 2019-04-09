@@ -1,0 +1,73 @@
+{
+  "id": 1310607245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.03076,11.82445,104.03076,11.82445",
+    "geom:latitude":11.82445,
+    "geom:longitude":104.03076,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Phum Lerk Tan",
+    "gn:country_code":"KH",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11598843,
+    "gn:latitude":11.82445,
+    "gn:longitude":104.03076,
+    "gn:modification_date":"2017-07-06",
+    "gn:name":"Phum L\u00e9rk Tan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum L\u00e9rk Tan"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u179b\u17b6\u1780\u17cb\u178f\u17b6\u1793"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673053,
+        1108564591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11598843
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"ea252cf060c7fea85a5e34e1fafcf4b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564591,
+            "locality_id":1310607245,
+            "region_id":85673053
+        }
+    ],
+    "wof:id":1310607245,
+    "wof:lastmodified":1537654123,
+    "wof:name":"Phum Lerk Tan",
+    "wof:parent_id":1108564591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.03076,
+    11.82445,
+    104.03076,
+    11.82445
+],
+  "geometry": {"coordinates":[104.03076,11.82445],"type":"Point"}
+}

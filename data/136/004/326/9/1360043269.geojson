@@ -1,0 +1,73 @@
+{
+  "id": 1360043269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.81008,13.37004,103.81008,13.37004",
+    "geom:latitude":13.37004,
+    "geom:longitude":103.81008,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Srangae",
+    "gn:country_code":"KH",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11559299,
+    "gn:latitude":13.37004,
+    "gn:longitude":103.81008,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Srangae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Srangae"
+    ],
+    "name:khm_x_variant":[
+        "Phum Sr\u00e2ng\u00ea"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673029,
+        421204115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11559299
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"4a826bc08c821b4b387229976fc2e2a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421204115,
+            "locality_id":1360043269,
+            "region_id":85673029
+        }
+    ],
+    "wof:id":1360043269,
+    "wof:lastmodified":1537654106,
+    "wof:name":"Srangae",
+    "wof:parent_id":421204115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.81008,
+    13.37004,
+    103.81008,
+    13.37004
+],
+  "geometry": {"coordinates":[103.81008,13.37004],"type":"Point"}
+}

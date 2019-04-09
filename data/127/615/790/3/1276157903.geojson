@@ -1,0 +1,76 @@
+{
+  "id": 1276157903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.69165,12.07433,105.69165,12.07433",
+    "geom:latitude":12.07433,
+    "geom:longitude":105.69165,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Trapeang Khla",
+    "gn:country_code":"KH",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825031,
+    "gn:latitude":12.07433,
+    "gn:longitude":105.69165,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Trapeang Khla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Trapeang Khla"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u178f\u17d2\u179a\u1796\u17b6\u17c6\u1784\u1781\u17d2\u179b\u17b6",
+        "Phum\u012d S\u00e2ngk\u00ea Ka\u00f4ng",
+        "Phum Tr\u00e2pe\u0103ng Khla",
+        "\u1797\u17bc\u1798\u17b7 \u179f\u1784\u17d2\u1780\u17c2\u1780\u17c4\u1784"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        1108804319,
+        421183891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825031
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"be04dfbf19ec2927d1cc24b7bcb82515",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421183891,
+            "locality_id":1276157903,
+            "region_id":1108804319
+        }
+    ],
+    "wof:id":1276157903,
+    "wof:lastmodified":1537653505,
+    "wof:name":"Trapeang Khla",
+    "wof:parent_id":421183891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.69165,
+    12.07433,
+    105.69165,
+    12.07433
+],
+  "geometry": {"coordinates":[105.69165,12.07433],"type":"Point"}
+}

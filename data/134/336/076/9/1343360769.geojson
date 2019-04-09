@@ -1,0 +1,74 @@
+{
+  "id": 1343360769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.64906,12.33748,104.64906,12.33748",
+    "geom:latitude":12.33748,
+    "geom:longitude":104.64906,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Krapeu Pul",
+    "gn:country_code":"KH",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827128,
+    "gn:latitude":12.33748,
+    "gn:longitude":104.64906,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Krapeu Pul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Krapeu Pul"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Kr\u00e2peu P\u016dl",
+        "Phum\u012d Kr\u00e2peu P\u00f3l"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673047,
+        421198923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827128
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"21e769ba7253d7632249f8fbc8af915d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421198923,
+            "locality_id":1343360769,
+            "region_id":85673047
+        }
+    ],
+    "wof:id":1343360769,
+    "wof:lastmodified":1537653688,
+    "wof:name":"Krapeu Pul",
+    "wof:parent_id":421198923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.64906,
+    12.33748,
+    104.64906,
+    12.33748
+],
+  "geometry": {"coordinates":[104.64906000000001,12.33748],"type":"Point"}
+}

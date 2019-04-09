@@ -1,0 +1,73 @@
+{
+  "id": 1226805425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.86782,14.24938,106.86782,14.24938",
+    "geom:latitude":14.24938,
+    "geom:longitude":106.86782,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Veang Kham",
+    "gn:country_code":"KH",
+    "gn:dem":258,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1821416,
+    "gn:latitude":14.24938,
+    "gn:longitude":106.86782,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"V\u00e9ang Kh\u0103m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "V\u00e9ang Kh\u0103m"
+    ],
+    "name:khm_x_variant":[
+        "\u179c\u17b6\u1784\u1781\u17b6\u17c6"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673089,
+        421194641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1821416
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"885047accca03c1f825e880a23e6e8ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421194641,
+            "locality_id":1226805425,
+            "region_id":85673089
+        }
+    ],
+    "wof:id":1226805425,
+    "wof:lastmodified":1537653321,
+    "wof:name":"Veang Kham",
+    "wof:parent_id":421194641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.86782,
+    14.24938,
+    106.86782,
+    14.24938
+],
+  "geometry": {"coordinates":[106.86781999999999,14.24938],"type":"Point"}
+}

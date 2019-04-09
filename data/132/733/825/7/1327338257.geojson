@@ -1,0 +1,70 @@
+{
+  "id": 1327338257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.77504,13.1861,104.77504,13.1861",
+    "geom:latitude":13.1861,
+    "geom:longitude":104.77504,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Prich",
+    "gn:country_code":"KH",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11477419,
+    "gn:latitude":13.1861,
+    "gn:longitude":104.77504,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Prich",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Prich"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673057,
+        1108564773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11477419
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"02b2b0a19e103b42e1423b18b228aff4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564773,
+            "locality_id":1327338257,
+            "region_id":85673057
+        }
+    ],
+    "wof:id":1327338257,
+    "wof:lastmodified":1537654036,
+    "wof:name":"Prich",
+    "wof:parent_id":1108564773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.77504,
+    13.1861,
+    104.77504,
+    13.1861
+],
+  "geometry": {"coordinates":[104.77504,13.1861],"type":"Point"}
+}

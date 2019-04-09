@@ -1,0 +1,76 @@
+{
+  "id": 1259837463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.18535,13.35895,104.18535,13.35895",
+    "geom:latitude":13.35895,
+    "geom:longitude":104.18535,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Phum Krasang Pul",
+    "gn:country_code":"KH",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827102,
+    "gn:latitude":13.35895,
+    "gn:longitude":104.18535,
+    "gn:modification_date":"2017-07-05",
+    "gn:name":"Phum Kr\u00e2s\u0103ng P\u016dl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Kr\u00e2s\u0103ng P\u016dl"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1780\u17d2\u179a\u179f\u17b6\u17c6\u1784\u1796\u17bb\u179b"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Kr\u00e2s\u0103ng P\u016dl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673029,
+        1108564843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827102
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"f95118dbfec33dfa6bac5a3eb0f16889",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564843,
+            "locality_id":1259837463,
+            "region_id":85673029
+        }
+    ],
+    "wof:id":1259837463,
+    "wof:lastmodified":1537653686,
+    "wof:name":"Phum Krasang Pul",
+    "wof:parent_id":1108564843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.18535,
+    13.35895,
+    104.18535,
+    13.35895
+],
+  "geometry": {"coordinates":[104.18535,13.35895],"type":"Point"}
+}

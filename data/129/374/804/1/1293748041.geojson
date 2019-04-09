@@ -1,0 +1,70 @@
+{
+  "id": 1293748041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.20089,10.64255,104.20089,10.64255",
+    "geom:latitude":10.64255,
+    "geom:longitude":104.20089,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Prey Tom",
+    "gn:country_code":"KH",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11449491,
+    "gn:latitude":10.64255,
+    "gn:longitude":104.20089,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Prey Tom",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Prey Tom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673093,
+        1108564883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11449491
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"4c10737af8c09990dbdabe18512ee01c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564883,
+            "locality_id":1293748041,
+            "region_id":85673093
+        }
+    ],
+    "wof:id":1293748041,
+    "wof:lastmodified":1537654012,
+    "wof:name":"Prey Tom",
+    "wof:parent_id":1108564883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.20089,
+    10.64255,
+    104.20089,
+    10.64255
+],
+  "geometry": {"coordinates":[104.20089,10.64255],"type":"Point"}
+}

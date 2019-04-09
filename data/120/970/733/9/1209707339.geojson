@@ -1,0 +1,74 @@
+{
+  "id": 1209707339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.07539,10.95775,105.07539,10.95775",
+    "geom:latitude":10.95775,
+    "geom:longitude":105.07539,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Chrey Thum",
+    "gn:country_code":"KH",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828769,
+    "gn:latitude":10.95775,
+    "gn:longitude":105.07539,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Chrey Thum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Chrey Thum"
+    ],
+    "name:und_x_variant":[
+        "Phum Chrey Thom",
+        "Phum\u012d Chrey Thum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673051,
+        1108564703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828769
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"8f2d659f28c62c3c88fda18413351ac3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564703,
+            "locality_id":1209707339,
+            "region_id":85673051
+        }
+    ],
+    "wof:id":1209707339,
+    "wof:lastmodified":1537653831,
+    "wof:name":"Chrey Thum",
+    "wof:parent_id":1108564703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.07538999999998,
+    10.95775,
+    105.07538999999998,
+    10.95775
+],
+  "geometry": {"coordinates":[105.07538999999998,10.95775],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242682501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.01369,12.68225,105.01369,12.68225",
+    "geom:latitude":12.68225,
+    "geom:longitude":105.01369,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Phumi Bay Teav",
+    "gn:country_code":"KH",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829506,
+    "gn:latitude":12.68225,
+    "gn:longitude":105.01369,
+    "gn:modification_date":"1993-12-30",
+    "gn:name":"Phum\u012d Bay T\u00e9av",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673057,
+        1108564829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829506
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"ca4cdc29b4dfb9c4c7c8d2140e38d3c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564829,
+            "locality_id":1242682501,
+            "region_id":85673057
+        }
+    ],
+    "wof:id":1242682501,
+    "wof:lastmodified":1536913090,
+    "wof:name":"Phumi Bay Teav",
+    "wof:parent_id":1108564829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.01369,
+    12.68225,
+    105.01369,
+    12.68225
+],
+  "geometry": {"coordinates":[105.01369,12.68225],"type":"Point"}
+}

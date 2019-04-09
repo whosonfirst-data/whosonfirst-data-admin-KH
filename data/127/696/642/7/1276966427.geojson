@@ -1,0 +1,76 @@
+{
+  "id": 1276966427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.17936,12.3077,104.17936,12.3077",
+    "geom:latitude":12.3077,
+    "geom:longitude":104.17936,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Phum Prek Tabek",
+    "gn:country_code":"KH",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825943,
+    "gn:latitude":12.3077,
+    "gn:longitude":104.17936,
+    "gn:modification_date":"2017-07-05",
+    "gn:name":"Phum Pr\u00eak Tab\u00eak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Pr\u00eak Tab\u00eak"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1796\u17d2\u179a\u17c2\u1780\u178f\u17b6\u1794\u17c2\u1780"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Pr\u00eak Tab\u00eak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673023,
+        421203239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825943
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"14326555dfe78ff8705e694cf8a8f72b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421203239,
+            "locality_id":1276966427,
+            "region_id":85673023
+        }
+    ],
+    "wof:id":1276966427,
+    "wof:lastmodified":1537653579,
+    "wof:name":"Phum Prek Tabek",
+    "wof:parent_id":421203239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.17936,
+    12.3077,
+    104.17936,
+    12.3077
+],
+  "geometry": {"coordinates":[104.17936,12.3077],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1226225971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.51422,12.67319,107.51422,12.67319",
+    "geom:latitude":12.67319,
+    "geom:longitude":107.51422,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Phumi Chvang",
+    "gn:country_code":"KH",
+    "gn:dem":323,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828698,
+    "gn:latitude":12.67319,
+    "gn:longitude":107.51422,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Chvang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Djwang",
+        "Phum\u012d El",
+        "B\u2019El",
+        "Phum\u012d Djwang",
+        "Phum\u012d Chvang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673085,
+        1108564757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828698
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"915ec8dced6ba9be720868ef2ba42cf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564757,
+            "locality_id":1226225971,
+            "region_id":85673085
+        }
+    ],
+    "wof:id":1226225971,
+    "wof:lastmodified":1537653825,
+    "wof:name":"Phumi Chvang",
+    "wof:parent_id":1108564757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.51422,
+    12.67319,
+    107.51422,
+    12.67319
+],
+  "geometry": {"coordinates":[107.51421999999999,12.67319],"type":"Point"}
+}

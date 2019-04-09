@@ -1,0 +1,77 @@
+{
+  "id": 1242700595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.3439,12.74614,104.3439,12.74614",
+    "geom:latitude":12.74614,
+    "geom:longitude":104.3439,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Ba Lat",
+    "gn:country_code":"KH",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829682,
+    "gn:latitude":12.74614,
+    "gn:longitude":104.3439,
+    "gn:modification_date":"2017-07-05",
+    "gn:name":"Ba Lat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Ba Lat"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1794\u17b6\u17a1\u178f",
+        "Phum Bal\u00e2t"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Bal\u00e2t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673057,
+        1108564849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829682
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"81bacc68ad542f23efb3313b0c799926",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564849,
+            "locality_id":1242700595,
+            "region_id":85673057
+        }
+    ],
+    "wof:id":1242700595,
+    "wof:lastmodified":1537653902,
+    "wof:name":"Ba Lat",
+    "wof:parent_id":1108564849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.3439,
+    12.74614,
+    104.3439,
+    12.74614
+],
+  "geometry": {"coordinates":[104.3439,12.74614],"type":"Point"}
+}

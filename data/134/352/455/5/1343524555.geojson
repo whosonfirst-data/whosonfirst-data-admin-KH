@@ -1,0 +1,67 @@
+{
+  "id": 1343524555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.7313,11.39622,105.7313,11.39622",
+    "geom:latitude":11.39622,
+    "geom:longitude":105.7313,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Phumi Bos",
+    "gn:country_code":"KH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829330,
+    "gn:latitude":11.39622,
+    "gn:longitude":105.7313,
+    "gn:modification_date":"1993-12-30",
+    "gn:name":"Phum\u012d B\u014fs",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673105,
+        1108564797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829330
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"cbd449345b3a01c111a91ecbdc61b9dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564797,
+            "locality_id":1343524555,
+            "region_id":85673105
+        }
+    ],
+    "wof:id":1343524555,
+    "wof:lastmodified":1536653822,
+    "wof:name":"Phumi Bos",
+    "wof:parent_id":1108564797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.7313,
+    11.39622,
+    105.7313,
+    11.39622
+],
+  "geometry": {"coordinates":[105.7313,11.39622],"type":"Point"}
+}

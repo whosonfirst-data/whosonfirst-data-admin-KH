@@ -1,0 +1,78 @@
+{
+  "id": 1193225081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.01656,13.22722,103.01656,13.22722",
+    "geom:latitude":13.22722,
+    "geom:longitude":103.01656,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Phum Prey Leav",
+    "gn:country_code":"KH",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825777,
+    "gn:latitude":13.22722,
+    "gn:longitude":103.01656,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Phum Prey L\u00e9av",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Prey L\u00e9av"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1796\u17d2\u179a\u17c3\u179b\u17b6\u179c"
+    ],
+    "name:und_x_variant":[
+        "Phum Prey L\u00e9au",
+        "Phum Prey Leay",
+        "Phum\u012d Prey L\u00e9av"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673015,
+        1108564871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825777
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"5a8619245a9c636c9d20b2e726f02f8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564871,
+            "locality_id":1193225081,
+            "region_id":85673015
+        }
+    ],
+    "wof:id":1193225081,
+    "wof:lastmodified":1537653565,
+    "wof:name":"Phum Prey Leav",
+    "wof:parent_id":1108564871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.01656,
+    13.22722,
+    103.01656,
+    13.22722
+],
+  "geometry": {"coordinates":[103.01656,13.22722],"type":"Point"}
+}

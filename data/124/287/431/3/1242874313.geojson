@@ -1,0 +1,71 @@
+{
+  "id": 1242874313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.66923,11.36016,104.66923,11.36016",
+    "geom:latitude":11.36016,
+    "geom:longitude":104.66923,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Phumi Damdek",
+    "gn:country_code":"KH",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828655,
+    "gn:latitude":11.36016,
+    "gn:longitude":104.66923,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d D\u00e2md\u00eak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum Damdek",
+        "Phum\u012d D\u00e2md\u00eak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673053,
+        1108564715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828655
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"6e04037f8e5150460c87c9738e49f0b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564715,
+            "locality_id":1242874313,
+            "region_id":85673053
+        }
+    ],
+    "wof:id":1242874313,
+    "wof:lastmodified":1537653822,
+    "wof:name":"Phumi Damdek",
+    "wof:parent_id":1108564715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.66923,
+    11.36016,
+    104.66923,
+    11.36016
+],
+  "geometry": {"coordinates":[104.66923,11.36016],"type":"Point"}
+}

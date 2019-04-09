@@ -1,0 +1,75 @@
+{
+  "id": 1293476091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.90169,13.62824,104.90169,13.62824",
+    "geom:latitude":13.62824,
+    "geom:longitude":104.90169,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Knaor",
+    "gn:country_code":"KH",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827649,
+    "gn:latitude":13.62824,
+    "gn:longitude":104.90169,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Knaor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Knaor"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1781\u17d2\u1793\u179a",
+        "Phum\u012d Khn\u014fr",
+        "Phum Khn\u014fr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673071,
+        1108564827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827649
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"717a7a183206bbde228a97574f728ce7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564827,
+            "locality_id":1293476091,
+            "region_id":85673071
+        }
+    ],
+    "wof:id":1293476091,
+    "wof:lastmodified":1537653738,
+    "wof:name":"Knaor",
+    "wof:parent_id":1108564827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.90169,
+    13.62824,
+    104.90169,
+    13.62824
+],
+  "geometry": {"coordinates":[104.90169,13.62824],"type":"Point"}
+}

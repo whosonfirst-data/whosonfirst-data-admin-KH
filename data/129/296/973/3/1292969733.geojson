@@ -1,0 +1,70 @@
+{
+  "id": 1292969733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.85381,11.56884,104.85381,11.56884",
+    "geom:latitude":11.56884,
+    "geom:longitude":104.85381,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Dei Thmei",
+    "gn:country_code":"KH",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11475272,
+    "gn:latitude":11.56884,
+    "gn:longitude":104.85381,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Dei Thmei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Dei Thmei"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673063,
+        1108564813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11475272
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"41d5e83ff1a7c2cc5101b8e9d4a4b0fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564813,
+            "locality_id":1292969733,
+            "region_id":85673063
+        }
+    ],
+    "wof:id":1292969733,
+    "wof:lastmodified":1537654027,
+    "wof:name":"Dei Thmei",
+    "wof:parent_id":1108564813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.85381,
+    11.56884,
+    104.85381,
+    11.56884
+],
+  "geometry": {"coordinates":[104.85381,11.56884],"type":"Point"}
+}

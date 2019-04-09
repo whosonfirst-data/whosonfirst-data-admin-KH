@@ -1,0 +1,65 @@
+{
+  "id": 1209480733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.88379,10.80032,104.88379,10.80032",
+    "geom:latitude":10.80032,
+    "geom:longitude":104.88379,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Phumi Samraong",
+    "gn:country_code":"KH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825075,
+    "gn:latitude":10.80032,
+    "gn:longitude":104.88379,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Phum\u012d S\u00e2mra\u00f4ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum O Teap",
+        "Phum\u012d S\u00e2mra\u00f4ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825075
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"b62821e66a8b748a44b049ebd703b80f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209480733
+        }
+    ],
+    "wof:id":1209480733,
+    "wof:lastmodified":1537653510,
+    "wof:name":"Phumi Samraong",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.88379,
+    10.80032,
+    104.88379,
+    10.80032
+],
+  "geometry": {"coordinates":[104.88379,10.80032],"type":"Point"}
+}

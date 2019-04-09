@@ -1,0 +1,77 @@
+{
+  "id": 1276957957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.7778,13.7255,104.7778,13.7255",
+    "geom:latitude":13.7255,
+    "geom:longitude":104.7778,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Chhuk",
+    "gn:country_code":"KH",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828958,
+    "gn:latitude":13.7255,
+    "gn:longitude":104.7778,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Chhuk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Chhuk"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1788\u17bc\u1780"
+    ],
+    "name:und_x_variant":[
+        "Chuk",
+        "Phum\u012d Chhuk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673071,
+        421194859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828958
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"76d47d90be47f8d9ed859315596b2a65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421194859,
+            "locality_id":1276957957,
+            "region_id":85673071
+        }
+    ],
+    "wof:id":1276957957,
+    "wof:lastmodified":1537653846,
+    "wof:name":"Chhuk",
+    "wof:parent_id":421194859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.7778,
+    13.7255,
+    104.7778,
+    13.7255
+],
+  "geometry": {"coordinates":[104.7778,13.7255],"type":"Point"}
+}

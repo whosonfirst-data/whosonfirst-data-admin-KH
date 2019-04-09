@@ -1,0 +1,71 @@
+{
+  "id": 1310161915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.08342,13.79058,107.08342,13.79058",
+    "geom:latitude":13.79058,
+    "geom:longitude":107.08342,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Phumi Kong Nang",
+    "gn:country_code":"KH",
+    "gn:dem":301,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827474,
+    "gn:latitude":13.79058,
+    "gn:longitude":107.08342,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d K\u00f3ng Nang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum\u012d K\u016dng Nang",
+        "Phum\u012d K\u00f3ng Nang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673089,
+        1108564743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827474
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"7daeb9b143e23e3bf2188173b1d1fa0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564743,
+            "locality_id":1310161915,
+            "region_id":85673089
+        }
+    ],
+    "wof:id":1310161915,
+    "wof:lastmodified":1537653722,
+    "wof:name":"Phumi Kong Nang",
+    "wof:parent_id":1108564743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.08342,
+    13.79058,
+    107.08342,
+    13.79058
+],
+  "geometry": {"coordinates":[107.08342,13.79058],"type":"Point"}
+}

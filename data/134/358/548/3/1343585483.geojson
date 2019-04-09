@@ -1,0 +1,70 @@
+{
+  "id": 1343585483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.41952,11.52673,104.41952,11.52673",
+    "geom:latitude":11.52673,
+    "geom:longitude":104.41952,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Sovann Kiri",
+    "gn:country_code":"KH",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11591549,
+    "gn:latitude":11.52673,
+    "gn:longitude":104.41952,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Sovann Kiri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Sovann Kiri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673053,
+        1108564819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11591549
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"087fb4e5a32289aef4051fd3f9dc2232",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564819,
+            "locality_id":1343585483,
+            "region_id":85673053
+        }
+    ],
+    "wof:id":1343585483,
+    "wof:lastmodified":1537654122,
+    "wof:name":"Sovann Kiri",
+    "wof:parent_id":1108564819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.41952,
+    11.52673,
+    104.41952,
+    11.52673
+],
+  "geometry": {"coordinates":[104.41952000000001,11.52673],"type":"Point"}
+}

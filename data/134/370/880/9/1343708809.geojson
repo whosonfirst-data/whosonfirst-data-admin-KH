@@ -1,0 +1,72 @@
+{
+  "id": 1343708809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.99026,13.23996,102.99026,13.23996",
+    "geom:latitude":13.23996,
+    "geom:longitude":102.99026,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Phumi Kouk Khpos",
+    "gn:country_code":"KH",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827402,
+    "gn:latitude":13.23996,
+    "gn:longitude":102.99026,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Ko\u016dk Khp\u00f3s",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum Prey Khpos",
+        "Phum\u012d Ko\u016dk Khpu\u014fs",
+        "Phum\u012d Ko\u016dk Khp\u00f3s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673015,
+        1108564871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827402
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"6a8f79591e4294bee91c747f0a7d6166",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564871,
+            "locality_id":1343708809,
+            "region_id":85673015
+        }
+    ],
+    "wof:id":1343708809,
+    "wof:lastmodified":1537653715,
+    "wof:name":"Phumi Kouk Khpos",
+    "wof:parent_id":1108564871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.99026,
+    13.23996,
+    102.99026,
+    13.23996
+],
+  "geometry": {"coordinates":[102.99026000000001,13.23996],"type":"Point"}
+}

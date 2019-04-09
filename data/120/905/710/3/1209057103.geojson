@@ -1,0 +1,70 @@
+{
+  "id": 1209057103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.78469,12.57095,102.78469,12.57095",
+    "geom:latitude":12.57095,
+    "geom:longitude":102.78469,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Phum Song Pir",
+    "gn:country_code":"KH",
+    "gn:dem":249,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1824778,
+    "gn:latitude":12.57095,
+    "gn:longitude":102.78469,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Phum S\u014fng Pir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum S\u014fng Pir"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u179f\u17bb\u1784 \u1796\u17b8\u179a"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d S\u014fng (2)"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1824778
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"5d3064410d292af0dad66c89cd550b7d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209057103
+        }
+    ],
+    "wof:id":1209057103,
+    "wof:lastmodified":1537653485,
+    "wof:name":"Phum Song Pir",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.78469,
+    12.57095,
+    102.78469,
+    12.57095
+],
+  "geometry": {"coordinates":[102.78469,12.57095],"type":"Point"}
+}

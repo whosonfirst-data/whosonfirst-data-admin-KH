@@ -1,0 +1,70 @@
+{
+  "id": 1309812245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.41945,12.3008,105.41945,12.3008",
+    "geom:latitude":12.3008,
+    "geom:longitude":105.41945,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Me Sar Chrey",
+    "gn:country_code":"KH",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11478672,
+    "gn:latitude":12.3008,
+    "gn:longitude":105.41945,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Me Sar Chrey",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Me Sar Chrey"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673041,
+        1108564853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11478672
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"a601be89be8e291587aa7db21bd1e9f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564853,
+            "locality_id":1309812245,
+            "region_id":85673041
+        }
+    ],
+    "wof:id":1309812245,
+    "wof:lastmodified":1537654042,
+    "wof:name":"Me Sar Chrey",
+    "wof:parent_id":1108564853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.41945,
+    12.3008,
+    105.41945,
+    12.3008
+],
+  "geometry": {"coordinates":[105.41945,12.3008],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1310338327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.24183,11.21409,104.24183,11.21409",
+    "geom:latitude":11.21409,
+    "geom:longitude":104.24183,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Phum Trapeang Srange",
+    "gn:country_code":"KH",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11591339,
+    "gn:latitude":11.21409,
+    "gn:longitude":104.24183,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Phum Tr\u00e2pe\u0103ng Sr\u00e2ng\u00ea",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Tr\u00e2pe\u0103ng Sr\u00e2ng\u00ea"
+    ],
+    "name:khm_x_variant":[
+        "\u178f\u17d2\u179a\u1796\u17b6\u17c6\u1784\u179f\u17d2\u179a\u1784\u17c2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673053,
+        1108564765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11591339
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"91a2eb9ba485e149b0ce383da48c51cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564765,
+            "locality_id":1310338327,
+            "region_id":85673053
+        }
+    ],
+    "wof:id":1310338327,
+    "wof:lastmodified":1537654120,
+    "wof:name":"Phum Trapeang Srange",
+    "wof:parent_id":1108564765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.24183,
+    11.21409,
+    104.24183,
+    11.21409
+],
+  "geometry": {"coordinates":[104.24182999999999,11.21409],"type":"Point"}
+}

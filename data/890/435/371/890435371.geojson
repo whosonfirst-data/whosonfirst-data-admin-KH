@@ -1,0 +1,220 @@
+{
+  "id": 890435371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.52085,11.45332,104.52085,11.45332",
+    "geom:latitude":11.45332,
+    "geom:longitude":104.52085,
+    "gn:country":"KH",
+    "gn:fcode":"PPLA",
+    "gn:pop":33231,
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:chi_x_preferred":[
+        "\u78c5\u58eb\u5351"
+    ],
+    "name:dut_x_preferred":[
+        "Kampong Spoe"
+    ],
+    "name:eng_x_preferred":[
+        "Kampong Speu"
+    ],
+    "name:fre_x_preferred":[
+        "Kampong Spoe"
+    ],
+    "name:ger_x_preferred":[
+        "Kampong Speu"
+    ],
+    "name:ita_x_preferred":[
+        "Kampong Speu"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b3\u30f3\u30dd\u30f3\u30b9\u30d7\u30fc"
+    ],
+    "name:khm_x_preferred":[
+        "\u1780\u17d2\u179a\u17bb\u1784\u1780\u17c6\u1796\u1784\u17cb\u179f\u17d2\u1796\u17ba"
+    ],
+    "name:kor_x_preferred":[
+        "\uce84\ud401\uc2a4\ud398\uc6b0"
+    ],
+    "name:per_x_preferred":[
+        "\u06a9\u0627\u0645\u067e\u0648\u0646\u06af \u0633\u067e\u0626\u0648"
+    ],
+    "name:pnb_x_preferred":[
+        "\u06a9\u0645\u067e\u0648\u0646\u06af \u0633\u067e\u06cc\u0648 \u0634\u06c1\u0631"
+    ],
+    "name:pol_x_preferred":[
+        "Kampong Spoe"
+    ],
+    "name:por_x_preferred":[
+        "Kampong Speu"
+    ],
+    "name:rum_x_preferred":[
+        "Kampong Speu"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043c\u043f\u043e\u043d\u0433\u0441\u043f\u044b"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0bae\u0bcd\u0baa\u0bcb\u0b99\u0bcd \u0b87\u0b9a\u0bc1\u0baa\u0bbf\u0baf\u0bc1"
+    ],
+    "name:unk_x_variant":[
+        "K\u014fmpon Spu"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0627\u0645\u067e\u0648\u0646\u06af \u0633\u067e\u06cc\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "Kampong Speu"
+    ],
+    "name:war_x_preferred":[
+        "Kampong Speu"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Cambodia",
+    "ne:ADM0_A3":"KHM",
+    "ne:ADM1NAME":"K\u00e2mp\u00f3ng Sp\u0153",
+    "ne:ADMIN1_COD":4,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":4,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":"Added missing admin-1 capital. Population from GeoNames.",
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Admin-1 capital",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPL",
+    "ne:GEONAMEID":1831133,
+    "ne:GEONAMESNO":"GeoNames match with ascii name + lat + long whole numbers.",
+    "ne:GN_ASCII":"Kampong Spoe",
+    "ne:GN_POP":33231,
+    "ne:GTOPO30":38.0,
+    "ne:ISO_A2":"KH",
+    "ne:LABELRANK":8,
+    "ne:LATITUDE":11.451996,
+    "ne:LONGITUDE":104.518999,
+    "ne:LS_MATCH":0,
+    "ne:LS_NAME":null,
+    "ne:MAX_AREAKM":0.0,
+    "ne:MAX_AREAMI":0.0,
+    "ne:MAX_BBXMAX":0.0,
+    "ne:MAX_BBXMIN":0.0,
+    "ne:MAX_BBYMAX":0.0,
+    "ne:MAX_BBYMIN":0.0,
+    "ne:MAX_NATSCA":0.0,
+    "ne:MAX_PERKM":0.0,
+    "ne:MAX_PERMI":0.0,
+    "ne:MAX_POP10":0,
+    "ne:MAX_POP20":0,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":0.0,
+    "ne:MEAN_BBYC":0.0,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":0.0,
+    "ne:MIN_AREAMI":0.0,
+    "ne:MIN_BBXMAX":0.0,
+    "ne:MIN_BBXMIN":0.0,
+    "ne:MIN_BBYMAX":0.0,
+    "ne:MIN_BBYMIN":0.0,
+    "ne:MIN_PERKM":0.0,
+    "ne:MIN_PERMI":0.0,
+    "ne:NAME":"Kampong Spoe",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"Kampong Spoe",
+    "ne:NAMEDIFF":1,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":1,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":33231,
+    "ne:POP_MIN":33231,
+    "ne:POP_OTHER":0,
+    "ne:RANK_MAX":7,
+    "ne:RANK_MIN":7,
+    "ne:SCALERANK":10,
+    "ne:SOV0NAME":"Cambodia",
+    "ne:SOV_A3":"KHM",
+    "ne:TIMEZONE":"Asia/Phnom_Penh",
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "qs:name":"K\u00e2mp\u00f3ng Sp\u0153",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673053,
+        421194855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1831133,
+        "gp:id":1028470,
+        "qs:id":274073,
+        "wd:id":"Q2344811"
+    },
+    "wof:country":"KH",
+    "wof:created":1469052065,
+    "wof:geomhash":"5425e995da20113f32f034143f5534a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421194855,
+            "locality_id":890435371,
+            "region_id":85673053
+        }
+    ],
+    "wof:id":890435371,
+    "wof:lastmodified":1553816396,
+    "wof:name":"K\u00e2mp\u00f3ng Sp\u0153",
+    "wof:parent_id":421194855,
+    "wof:placetype":"locality",
+    "wof:population":33231,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.52085,
+    11.45332,
+    104.52085,
+    11.45332
+],
+  "geometry": {"coordinates":[104.52085,11.45332],"type":"Point"}
+}

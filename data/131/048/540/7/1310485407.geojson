@@ -1,0 +1,77 @@
+{
+  "id": 1310485407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.17018,12.33283,107.17018,12.33283",
+    "geom:latitude":12.33283,
+    "geom:longitude":107.17018,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Ou Reang",
+    "gn:country_code":"KH",
+    "gn:dem":691,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1830221,
+    "gn:latitude":12.33283,
+    "gn:longitude":107.17018,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Ou Reang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Ou Reang"
+    ],
+    "name:und_x_variant":[
+        "Au Raing",
+        "Kompong-Reang",
+        "Oreang",
+        "O Raing",
+        "O Rang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673085,
+        1108564745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1830221
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"80384e58d8345d93df97f1cc0dcbfc84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564745,
+            "locality_id":1310485407,
+            "region_id":85673085
+        }
+    ],
+    "wof:id":1310485407,
+    "wof:lastmodified":1537653938,
+    "wof:name":"Ou Reang",
+    "wof:parent_id":1108564745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.17018,
+    12.33283,
+    107.17018,
+    12.33283
+],
+  "geometry": {"coordinates":[107.17018,12.33283],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1343865697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.7277,12.29483,104.7277,12.29483",
+    "geom:latitude":12.29483,
+    "geom:longitude":104.7277,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Trangel",
+    "gn:country_code":"KH",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1823492,
+    "gn:latitude":12.29483,
+    "gn:longitude":104.7277,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Trangel",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Trangel"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Tr\u00e2ng\u012dl",
+        "Phum\u012d Tr\u00e2ng\u0115l"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673047,
+        421188239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1823492
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"73ea64438ca327adcbda252c645af88f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421188239,
+            "locality_id":1343865697,
+            "region_id":85673047
+        }
+    ],
+    "wof:id":1343865697,
+    "wof:lastmodified":1537653381,
+    "wof:name":"Trangel",
+    "wof:parent_id":421188239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.7277,
+    12.29483,
+    104.7277,
+    12.29483
+],
+  "geometry": {"coordinates":[104.7277,12.29483],"type":"Point"}
+}

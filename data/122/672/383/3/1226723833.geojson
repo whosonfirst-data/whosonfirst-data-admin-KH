@@ -1,0 +1,67 @@
+{
+  "id": 1226723833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.36577,11.09982,105.36577,11.09982",
+    "geom:latitude":11.09982,
+    "geom:longitude":105.36577,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Phumi Samraong Krachak",
+    "gn:country_code":"KH",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825088,
+    "gn:latitude":11.09982,
+    "gn:longitude":105.36577,
+    "gn:modification_date":"1993-12-30",
+    "gn:name":"Phum\u012d S\u00e2mra\u00f4ng Kr\u00e2ch\u00e1k",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673067,
+        1108564775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825088
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"6c006752b0a9045e16b90f75a3a71c0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564775,
+            "locality_id":1226723833,
+            "region_id":85673067
+        }
+    ],
+    "wof:id":1226723833,
+    "wof:lastmodified":1536746948,
+    "wof:name":"Phumi Samraong Krachak",
+    "wof:parent_id":1108564775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.36577,
+    11.09982,
+    105.36577,
+    11.09982
+],
+  "geometry": {"coordinates":[105.36577,11.09982],"type":"Point"}
+}

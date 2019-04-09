@@ -1,0 +1,70 @@
+{
+  "id": 1327451965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.00854,12.97668,107.00854,12.97668",
+    "geom:latitude":12.97668,
+    "geom:longitude":107.00854,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Klang Ngle",
+    "gn:country_code":"KH",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11483568,
+    "gn:latitude":12.97668,
+    "gn:longitude":107.00854,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Klang Ngle",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Klang Ngle"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673085,
+        1108564699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11483568
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"3ebdfbe982b88ab36178ea97e362c960",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564699,
+            "locality_id":1327451965,
+            "region_id":85673085
+        }
+    ],
+    "wof:id":1327451965,
+    "wof:lastmodified":1537654060,
+    "wof:name":"Klang Ngle",
+    "wof:parent_id":1108564699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.00854,
+    12.97668,
+    107.00854,
+    12.97668
+],
+  "geometry": {"coordinates":[107.00854,12.97668],"type":"Point"}
+}

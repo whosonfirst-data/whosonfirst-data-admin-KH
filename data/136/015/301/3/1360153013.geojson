@@ -1,0 +1,74 @@
+{
+  "id": 1360153013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.76948,13.62325,103.76948,13.62325",
+    "geom:latitude":13.62325,
+    "geom:longitude":103.76948,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Phum Pong Toek",
+    "gn:country_code":"KH",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1826360,
+    "gn:latitude":13.62325,
+    "gn:longitude":103.76948,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Phum P\u00f4ng T\u0153\u0306k",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum P\u00f4ng T\u0153\u0306k"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1796\u1784\u1791\u17b9\u1780",
+        "Phum\u012d P\u00f4ng T\u0153\u0306k"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673029,
+        1108564585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1826360
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"752afc76f851f5e5366d4cb765904152",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564585,
+            "locality_id":1360153013,
+            "region_id":85673029
+        }
+    ],
+    "wof:id":1360153013,
+    "wof:lastmodified":1537653618,
+    "wof:name":"Phum Pong Toek",
+    "wof:parent_id":1108564585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.76948,
+    13.62325,
+    103.76948,
+    13.62325
+],
+  "geometry": {"coordinates":[103.76948,13.62325],"type":"Point"}
+}

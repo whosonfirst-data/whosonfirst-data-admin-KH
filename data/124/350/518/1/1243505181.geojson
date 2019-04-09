@@ -1,0 +1,73 @@
+{
+  "id": 1243505181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.21243,13.06015,103.21243,13.06015",
+    "geom:latitude":13.06015,
+    "geom:longitude":103.21243,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Phum Baoh Pou",
+    "gn:country_code":"KH",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11369385,
+    "gn:latitude":13.06015,
+    "gn:longitude":103.21243,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Phum Ba\u00f4h Po\u016d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Ba\u00f4h Po\u016d"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1794\u17c4\u17c7\u1796\u17c4\u1792\u17b7"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673015,
+        421202239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11369385
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"b9dcda35537313c110c1104ca295985d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421202239,
+            "locality_id":1243505181,
+            "region_id":85673015
+        }
+    ],
+    "wof:id":1243505181,
+    "wof:lastmodified":1537653985,
+    "wof:name":"Phum Baoh Pou",
+    "wof:parent_id":421202239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.21243,
+    13.06015,
+    103.21243,
+    13.06015
+],
+  "geometry": {"coordinates":[103.21243,13.06015],"type":"Point"}
+}

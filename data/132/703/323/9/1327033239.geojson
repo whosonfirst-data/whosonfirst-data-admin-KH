@@ -1,0 +1,72 @@
+{
+  "id": 1327033239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.1,11.75,105.1,11.75",
+    "geom:latitude":11.75,
+    "geom:longitude":105.1,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Phumi Khyaong",
+    "gn:cc2":"KH",
+    "gn:country_code":"KH",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827560,
+    "gn:latitude":11.75,
+    "gn:longitude":105.1,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Khya\u00f4ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khyong",
+        "Phum\u012d Khya\u00f4ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673041,
+        1108564845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827560
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"9a1ea803c70c017d6e02219e628355ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564845,
+            "locality_id":1327033239,
+            "region_id":85673041
+        }
+    ],
+    "wof:id":1327033239,
+    "wof:lastmodified":1537653730,
+    "wof:name":"Phumi Khyaong",
+    "wof:parent_id":1108564845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.1,
+    11.75,
+    105.1,
+    11.75
+],
+  "geometry": {"coordinates":[105.09999999999999,11.75],"type":"Point"}
+}

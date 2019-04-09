@@ -1,0 +1,67 @@
+{
+  "id": 1260043141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.81667,10.53333,105.81667,10.53333",
+    "geom:latitude":10.53333,
+    "geom:longitude":105.81667,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Phumi Popel",
+    "gn:country_code":"KH",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1826332,
+    "gn:latitude":10.53333,
+    "gn:longitude":105.81667,
+    "gn:modification_date":"1993-12-30",
+    "gn:name":"Phum\u012d P\u00f4p\u00e9l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680807,
+        1108782181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1826332
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"c14fb6382b7f6f6c1139f58b807e69f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108782181,
+            "locality_id":1260043141,
+            "region_id":85680807
+        }
+    ],
+    "wof:id":1260043141,
+    "wof:lastmodified":1537044449,
+    "wof:name":"Phumi Popel",
+    "wof:parent_id":1108782181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.81667,
+    10.53333,
+    105.81667,
+    10.53333
+],
+  "geometry": {"coordinates":[105.81667,10.53333],"type":"Point"}
+}

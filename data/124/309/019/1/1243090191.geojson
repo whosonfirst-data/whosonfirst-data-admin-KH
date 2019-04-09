@@ -1,0 +1,67 @@
+{
+  "id": 1243090191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.89606,12.52651,104.89606,12.52651",
+    "geom:latitude":12.52651,
+    "geom:longitude":104.89606,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Phumi Tuol Chas",
+    "gn:country_code":"KH",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1823077,
+    "gn:latitude":12.52651,
+    "gn:longitude":104.89606,
+    "gn:modification_date":"1993-12-30",
+    "gn:name":"Phum\u012d Tu\u014fl Ch\u0103s",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673057,
+        421180491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1823077
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"2dac3c8e03f6bbea989781e0082fe60e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421180491,
+            "locality_id":1243090191,
+            "region_id":85673057
+        }
+    ],
+    "wof:id":1243090191,
+    "wof:lastmodified":1536821209,
+    "wof:name":"Phumi Tuol Chas",
+    "wof:parent_id":421180491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.89606,
+    12.52651,
+    104.89606,
+    12.52651
+],
+  "geometry": {"coordinates":[104.89606000000001,12.52651],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1210008297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.0144,11.09509,105.0144,11.09509",
+    "geom:latitude":11.09509,
+    "geom:longitude":105.0144,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Phum Kbal Khmaoch",
+    "gn:country_code":"KH",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827847,
+    "gn:latitude":11.09509,
+    "gn:longitude":105.0144,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Phum Kbal Khma\u00f4ch",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Kbal Khma\u00f4ch"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1780\u17d2\u1794\u17b6\u179b\u1781\u17d2\u1798\u17c4\u1785"
+    ],
+    "name:und_x_variant":[
+        "Phum Kbal Kmoch",
+        "Phum\u012d Kbal Khma\u00f4ch"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673107,
+        1108564787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827847
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"4edb541f2000e18c18eeffe2df3765b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564787,
+            "locality_id":1210008297,
+            "region_id":85673107
+        }
+    ],
+    "wof:id":1210008297,
+    "wof:lastmodified":1537653755,
+    "wof:name":"Phum Kbal Khmaoch",
+    "wof:parent_id":1108564787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.0144,
+    11.09509,
+    105.0144,
+    11.09509
+],
+  "geometry": {"coordinates":[105.01439999999999,11.09509],"type":"Point"}
+}

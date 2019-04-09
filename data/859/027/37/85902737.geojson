@@ -1,0 +1,111 @@
+{
+  "id": 85902737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":14328757.848196,
+    "geom:bbox":"104.911622,11.568929,104.911622,11.568929",
+    "geom:latitude":11.568929,
+    "geom:longitude":104.911622,
+    "gn:latitude":11.56717,
+    "gn:longitude":104.90472,
+    "iso:country":"KH",
+    "lbl:latitude":11.568929,
+    "lbl:longitude":104.911622,
+    "mps:latitude":11.56132,
+    "mps:longitude":104.893782,
+    "mz:hierarchy_label":0,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":3,
+    "name:eng_x_preferred":[
+        "Tuk Laak"
+    ],
+    "name:unk_x_variant":[
+        "T\u0153\u0306k L\u00f4\u00e2k",
+        "Tuk Laak"
+    ],
+    "qs:gn_adm0_cc":"KH",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":1821306,
+    "qs:gn_namadm1":"22",
+    "qs:gn_name":"Tuk Laak",
+    "qs:local_max":13947,
+    "qs:local_sum":18162,
+    "qs:localhoods":3,
+    "qs:name":"Tuk Laak",
+    "qs:name_adm0":"Cambodia",
+    "qs:name_adm1":"Phnum Penh",
+    "qs:name_adm2":"Phnom Penh",
+    "qs:name_local":"Phnom Penh",
+    "qs:photo_max":460,
+    "qs:photo_sum":2687,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":54,
+    "qs:woe_adm0":23424776,
+    "qs:woe_adm1":20070095,
+    "qs:woe_adm2":56063387,
+    "qs:woe_lau":0,
+    "qs:woe_local":1020985,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85673063,
+        102191569,
+        85632359,
+        1108564771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1821625,
+        "gp:id":1028387,
+        "qs:id":1083521
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"82c7e376806a21e16408517c3415f5de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564771,
+            "locality_id":-1,
+            "neighbourhood_id":85902737,
+            "region_id":85673063
+        }
+    ],
+    "wof:id":85902737,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1534379374,
+    "wof:name":"Tuk Laak",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[
+        1126090741
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.911622,
+    11.568929,
+    104.911622,
+    11.568929
+],
+  "geometry": {"coordinates":[104.91162199999999,11.568929],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1293536659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.76454,12.60916,102.76454,12.60916",
+    "geom:latitude":12.60916,
+    "geom:longitude":102.76454,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Phum Dong",
+    "gn:country_code":"KH",
+    "gn:dem":266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11336079,
+    "gn:latitude":12.60916,
+    "gn:longitude":102.76454,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Phum Dong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Dong"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u178a\u17bc\u1784"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673015,
+        421196403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11336079
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"d2dcdcd1e51e5ef4d1460f7d6303a421",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421196403,
+            "locality_id":1293536659,
+            "region_id":85673015
+        }
+    ],
+    "wof:id":1293536659,
+    "wof:lastmodified":1537653969,
+    "wof:name":"Phum Dong",
+    "wof:parent_id":421196403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.76454,
+    12.60916,
+    102.76454,
+    12.60916
+],
+  "geometry": {"coordinates":[102.76454,12.60916],"type":"Point"}
+}

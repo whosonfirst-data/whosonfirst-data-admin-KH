@@ -1,0 +1,64 @@
+{
+  "id": 1209290417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.79074,11.51138,105.79074,11.51138",
+    "geom:latitude":11.51138,
+    "geom:longitude":105.79074,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Serei Ao",
+    "gn:country_code":"KH",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11482469,
+    "gn:latitude":11.51138,
+    "gn:longitude":105.79074,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Serei Ao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Serei Ao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11482469
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"1a48be506e8d5fa00cde5be810190e73",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209290417
+        }
+    ],
+    "wof:id":1209290417,
+    "wof:lastmodified":1537654054,
+    "wof:name":"Serei Ao",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.79074,
+    11.51138,
+    105.79074,
+    11.51138
+],
+  "geometry": {"coordinates":[105.79074,11.51138],"type":"Point"}
+}

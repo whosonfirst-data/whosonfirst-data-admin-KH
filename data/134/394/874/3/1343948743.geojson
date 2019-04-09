@@ -1,0 +1,79 @@
+{
+  "id": 1343948743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.20848,11.39574,103.20848,11.39574",
+    "geom:latitude":11.39574,
+    "geom:longitude":103.20848,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Preaek Angkonh",
+    "gn:country_code":"KH",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1826062,
+    "gn:latitude":11.39574,
+    "gn:longitude":103.20848,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Preaek Angkonh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Preaek Angkonh"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1796\u17d2\u179a\u17c2\u1780\u17a2\u1784\u17d2\u1782\u17bb\u1789"
+    ],
+    "name:und_x_variant":[
+        "Prek Ang Khunh",
+        "Prek Ang Kunk",
+        "Prek Ang Kunh",
+        "Phum\u012d Pr\u00eak \u00c2ngk\u016dnh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673019,
+        1108564697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1826062
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"5392c61435f8107b6a48059d28afc6a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564697,
+            "locality_id":1343948743,
+            "region_id":85673019
+        }
+    ],
+    "wof:id":1343948743,
+    "wof:lastmodified":1537653591,
+    "wof:name":"Preaek Angkonh",
+    "wof:parent_id":1108564697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.20848,
+    11.39574,
+    103.20848,
+    11.39574
+],
+  "geometry": {"coordinates":[103.20847999999999,11.39574],"type":"Point"}
+}

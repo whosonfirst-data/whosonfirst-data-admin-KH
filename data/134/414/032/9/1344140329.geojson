@@ -1,0 +1,77 @@
+{
+  "id": 1344140329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.21618,11.08164,105.21618,11.08164",
+    "geom:latitude":11.08164,
+    "geom:longitude":105.21618,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Phum Chrey Thom",
+    "gn:country_code":"KH",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828768,
+    "gn:latitude":11.08164,
+    "gn:longitude":105.21618,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Phum Chrey Thom",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Chrey Thom"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1787\u17d2\u179a\u17c3\u1792\u17c6"
+    ],
+    "name:und_x_variant":[
+        "Phumi Chrey Thom",
+        "Phum\u012d Chrey Thum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673067,
+        1108564755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828768
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"25b930aed639210d9d882359b7ae42a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564755,
+            "locality_id":1344140329,
+            "region_id":85673067
+        }
+    ],
+    "wof:id":1344140329,
+    "wof:lastmodified":1537653831,
+    "wof:name":"Phum Chrey Thom",
+    "wof:parent_id":1108564755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.21618,
+    11.08164,
+    105.21618,
+    11.08164
+],
+  "geometry": {"coordinates":[105.21617999999999,11.08164],"type":"Point"}
+}

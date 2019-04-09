@@ -1,0 +1,77 @@
+{
+  "id": 1276932571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.74324,14.02474,103.74324,14.02474",
+    "geom:latitude":14.02474,
+    "geom:longitude":103.74324,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Phum Romiet",
+    "gn:country_code":"KH",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825312,
+    "gn:latitude":14.02474,
+    "gn:longitude":103.74324,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Phum R\u00f4mi\u0115t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum R\u00f4mi\u0115t"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u179a\u1798\u17c0\u178f"
+    ],
+    "name:und_x_variant":[
+        "Romiet",
+        "Phum\u012d R\u00f4mi\u0115t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673033,
+        1108564647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825312
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"a1d0b93fcabcaf861bf69570af5d312a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564647,
+            "locality_id":1276932571,
+            "region_id":85673033
+        }
+    ],
+    "wof:id":1276932571,
+    "wof:lastmodified":1537653530,
+    "wof:name":"Phum Romiet",
+    "wof:parent_id":1108564647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.74324,
+    14.02474,
+    103.74324,
+    14.02474
+],
+  "geometry": {"coordinates":[103.74324,14.02474],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1276599947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.36692,12.7987,103.36692,12.7987",
+    "geom:latitude":12.7987,
+    "geom:longitude":103.36692,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Kaoh Char",
+    "gn:country_code":"KH",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828016,
+    "gn:latitude":12.7987,
+    "gn:longitude":103.36692,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kaoh Char",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Kaoh Char"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1780\u17c4\u17c7\u1785\u17b6",
+        "Phum Ka\u00f4h Char"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Ka\u00f4h Char",
+        "Phum\u012d Ka\u00f4h Cha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673015,
+        1108564739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828016
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"eee584fd1b0234c15abf67581965aeed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564739,
+            "locality_id":1276599947,
+            "region_id":85673015
+        }
+    ],
+    "wof:id":1276599947,
+    "wof:lastmodified":1537653769,
+    "wof:name":"Kaoh Char",
+    "wof:parent_id":1108564739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.36692,
+    12.7987,
+    103.36692,
+    12.7987
+],
+  "geometry": {"coordinates":[103.36691999999999,12.7987],"type":"Point"}
+}

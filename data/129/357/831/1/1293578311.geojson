@@ -1,0 +1,70 @@
+{
+  "id": 1293578311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.46392,12.45788,107.46392,12.45788",
+    "geom:latitude":12.45788,
+    "geom:longitude":107.46392,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Phum Leekh Pir",
+    "gn:country_code":"KH",
+    "gn:dem":725,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11483397,
+    "gn:latitude":12.45788,
+    "gn:longitude":107.46392,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Phum Leekh Pir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Leekh Pir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673085,
+        1108564757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11483397
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"63659df23ca714418ebd2ebb28b74e53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564757,
+            "locality_id":1293578311,
+            "region_id":85673085
+        }
+    ],
+    "wof:id":1293578311,
+    "wof:lastmodified":1537654059,
+    "wof:name":"Phum Leekh Pir",
+    "wof:parent_id":1108564757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.46392,
+    12.45788,
+    107.46392,
+    12.45788
+],
+  "geometry": {"coordinates":[107.46392,12.45788],"type":"Point"}
+}

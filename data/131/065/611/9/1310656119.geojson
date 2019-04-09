@@ -1,0 +1,78 @@
+{
+  "id": 1310656119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.01802,13.832,103.01802,13.832",
+    "geom:latitude":13.832,
+    "geom:longitude":103.01802,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Chaeng",
+    "gn:country_code":"KH",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829067,
+    "gn:latitude":13.832,
+    "gn:longitude":103.01802,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Chaeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Chaeng"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1787\u17be\u1784",
+        "Phum Cheung"
+    ],
+    "name:und_x_variant":[
+        "Phum Cheng",
+        "Phum\u012d Cheung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673011,
+        421181961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829067
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"9657567043e1227c4dc9437340852eaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421181961,
+            "locality_id":1310656119,
+            "region_id":85673011
+        }
+    ],
+    "wof:id":1310656119,
+    "wof:lastmodified":1537653856,
+    "wof:name":"Chaeng",
+    "wof:parent_id":421181961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.01802,
+    13.832,
+    103.01802,
+    13.832
+],
+  "geometry": {"coordinates":[103.01802000000001,13.832],"type":"Point"}
+}

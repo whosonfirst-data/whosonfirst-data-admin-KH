@@ -1,0 +1,67 @@
+{
+  "id": 1226728655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.24842,10.96584,105.24842,10.96584",
+    "geom:latitude":10.96584,
+    "geom:longitude":105.24842,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Phumi Sramaoch",
+    "gn:country_code":"KH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1824707,
+    "gn:latitude":10.96584,
+    "gn:longitude":105.24842,
+    "gn:modification_date":"1993-12-30",
+    "gn:name":"Phum\u012d Sr\u00e2ma\u00f4ch",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673067,
+        1108564755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1824707
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"c6919dcfdaa5a73cd6f4ddd2cd6adb8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564755,
+            "locality_id":1226728655,
+            "region_id":85673067
+        }
+    ],
+    "wof:id":1226728655,
+    "wof:lastmodified":1536740021,
+    "wof:name":"Phumi Sramaoch",
+    "wof:parent_id":1108564755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.24842,
+    10.96584,
+    105.24842,
+    10.96584
+],
+  "geometry": {"coordinates":[105.24842,10.96584],"type":"Point"}
+}

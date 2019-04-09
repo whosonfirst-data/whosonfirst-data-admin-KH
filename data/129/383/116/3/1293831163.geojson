@@ -1,0 +1,76 @@
+{
+  "id": 1293831163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.8327,10.63247,103.8327,10.63247",
+    "geom:latitude":10.63247,
+    "geom:longitude":103.8327,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Phumi Bambek Kandal",
+    "gn:country_code":"KH",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829410,
+    "gn:latitude":10.63247,
+    "gn:longitude":103.8327,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Phumi Bambek Kandal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum B\u0153\u0306ng Perk\u00e2ndal"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1794\u17b9\u1784\u1796\u17b6\u1780\u17cb\u1780\u178e\u17d2\u178f\u17b6\u179b"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d B\u0153\u0306ng Pe\u0103k K\u00e2ndal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673101,
+        421188243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829410
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"164b156b43b9b27766b4f1e6a48403b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421188243,
+            "locality_id":1293831163,
+            "region_id":85673101
+        }
+    ],
+    "wof:id":1293831163,
+    "wof:lastmodified":1537653881,
+    "wof:name":"Phumi Bambek Kandal",
+    "wof:parent_id":421188243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.8327,
+    10.63247,
+    103.8327,
+    10.63247
+],
+  "geometry": {"coordinates":[103.8327,10.63247],"type":"Point"}
+}

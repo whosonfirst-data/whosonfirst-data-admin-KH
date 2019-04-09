@@ -1,0 +1,69 @@
+{
+  "id": 1209582329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.22298,14.29967,104.22298,14.29967",
+    "geom:latitude":14.29967,
+    "geom:longitude":104.22298,
+    "gn:admin1_code":"27",
+    "gn:asciiname":"Ruessei",
+    "gn:country_code":"KH",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825442,
+    "gn:latitude":14.29967,
+    "gn:longitude":104.22298,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Ruessei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Ruessei"
+    ],
+    "name:und_x_variant":[
+        "Russey",
+        "Phum\u012d R\u016dssei",
+        "Phum\u012d R\u0153ssei"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825442
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"fb88f0f7920566ce3f53f86407107a6c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209582329
+        }
+    ],
+    "wof:id":1209582329,
+    "wof:lastmodified":1537653541,
+    "wof:name":"Ruessei",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.22298,
+    14.29967,
+    104.22298,
+    14.29967
+],
+  "geometry": {"coordinates":[104.22298000000001,14.29967],"type":"Point"}
+}

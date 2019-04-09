@@ -1,0 +1,77 @@
+{
+  "id": 1310073911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.59892,13.6602,103.59892,13.6602",
+    "geom:latitude":13.6602,
+    "geom:longitude":103.59892,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Prey Lvey",
+    "gn:country_code":"KH",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825597,
+    "gn:latitude":13.6602,
+    "gn:longitude":103.59892,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Prey Lvey",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Prey Lvey"
+    ],
+    "name:khm_x_variant":[
+        "Phum Prey R\u00f4v\u012dl",
+        "\u1797\u17bc\u1798\u17b7 \u1796\u17d2\u179a\u17c3\u179a\u179c\u17b7\u179b"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Prey T\u00f4v\u012dl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673029,
+        1108564583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825597
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"74a96852f6cf00cf53363522ff89f7f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564583,
+            "locality_id":1310073911,
+            "region_id":85673029
+        }
+    ],
+    "wof:id":1310073911,
+    "wof:lastmodified":1537653552,
+    "wof:name":"Prey Lvey",
+    "wof:parent_id":1108564583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.59892,
+    13.6602,
+    103.59892,
+    13.6602
+],
+  "geometry": {"coordinates":[103.59892000000001,13.6602],"type":"Point"}
+}

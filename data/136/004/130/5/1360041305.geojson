@@ -1,0 +1,78 @@
+{
+  "id": 1360041305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.71327,13.57666,103.71327,13.57666",
+    "geom:latitude":13.57666,
+    "geom:longitude":103.71327,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Trei Nhoar",
+    "gn:country_code":"KH",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1823141,
+    "gn:latitude":13.57666,
+    "gn:longitude":103.71327,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Trei Nhoar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Trei Nhoar"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u178f\u17d2\u179a\u17b8\u1789\u179a",
+        "Phum Trei Nh\u00f4r"
+    ],
+    "name:und_x_variant":[
+        "Trey Nhor",
+        "Phum\u012d Trei Nh\u00f4r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673029,
+        421185505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1823141
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"12ec80c952ebd1a7b8ab0dbfe25e9c32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421185505,
+            "locality_id":1360041305,
+            "region_id":85673029
+        }
+    ],
+    "wof:id":1360041305,
+    "wof:lastmodified":1537653359,
+    "wof:name":"Trei Nhoar",
+    "wof:parent_id":421185505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.71327,
+    13.57666,
+    103.71327,
+    13.57666
+],
+  "geometry": {"coordinates":[103.71326999999999,13.57666],"type":"Point"}
+}

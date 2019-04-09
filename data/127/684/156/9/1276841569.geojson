@@ -1,0 +1,77 @@
+{
+  "id": 1276841569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.45568,13.46875,106.45568,13.46875",
+    "geom:latitude":13.46875,
+    "geom:longitude":106.45568,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Phum Rumpe Lech",
+    "gn:country_code":"KH",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825248,
+    "gn:latitude":13.46875,
+    "gn:longitude":106.45568,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Phum R\u016dmp\u00e9 L\u0115ch",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum R\u016dmp\u00e9 L\u0115ch"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u179a\u17c6\u1796\u17c1\u179b\u17b7\u1785"
+    ],
+    "name:und_x_variant":[
+        "Phum Lamph\u00e9",
+        "Phum\u012d Rump\u00e9 L\u0115ch"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673075,
+        1108564831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825248
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"9a2f4b4aa30ee5c9729d322a172b93a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564831,
+            "locality_id":1276841569,
+            "region_id":85673075
+        }
+    ],
+    "wof:id":1276841569,
+    "wof:lastmodified":1537653525,
+    "wof:name":"Phum Rumpe Lech",
+    "wof:parent_id":1108564831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.45568,
+    13.46875,
+    106.45568,
+    13.46875
+],
+  "geometry": {"coordinates":[106.45568,13.46875],"type":"Point"}
+}

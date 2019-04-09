@@ -1,0 +1,79 @@
+{
+  "id": 1293739295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.37785,13.7958,103.37785,13.7958",
+    "geom:latitude":13.7958,
+    "geom:longitude":103.37785,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Ponley",
+    "gn:country_code":"KH",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1826345,
+    "gn:latitude":13.7958,
+    "gn:longitude":103.37785,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Ponley",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Ponley"
+    ],
+    "name:khm_x_variant":[
+        "\u1796\u1793\u17d2\u179b\u17c3"
+    ],
+    "name:und_x_variant":[
+        "P\u00f4nley",
+        "Ban Lei",
+        "Phum Ban Lei",
+        "Phum\u012d P\u00f4nley"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673011,
+        1108564763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1826345
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"7fc754dcb6d1a6c94050cb3c26a057bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564763,
+            "locality_id":1293739295,
+            "region_id":85673011
+        }
+    ],
+    "wof:id":1293739295,
+    "wof:lastmodified":1537653617,
+    "wof:name":"Ponley",
+    "wof:parent_id":1108564763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.37785,
+    13.7958,
+    103.37785,
+    13.7958
+],
+  "geometry": {"coordinates":[103.37785,13.7958],"type":"Point"}
+}

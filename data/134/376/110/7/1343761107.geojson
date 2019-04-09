@@ -1,0 +1,71 @@
+{
+  "id": 1343761107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.52126,12.93223,104.52126,12.93223",
+    "geom:latitude":12.93223,
+    "geom:longitude":104.52126,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Phumi Kouk Trea",
+    "gn:country_code":"KH",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827303,
+    "gn:latitude":12.93223,
+    "gn:longitude":104.52126,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Ko\u016dk Tr\u00e9a",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kok Tres",
+        "Phum\u012d Ko\u016dk Tr\u00e9a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673057,
+        1108564849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827303
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"88345f3b3563b4c1184b335bf0d3b1f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564849,
+            "locality_id":1343761107,
+            "region_id":85673057
+        }
+    ],
+    "wof:id":1343761107,
+    "wof:lastmodified":1537653704,
+    "wof:name":"Phumi Kouk Trea",
+    "wof:parent_id":1108564849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.52126,
+    12.93223,
+    104.52126,
+    12.93223
+],
+  "geometry": {"coordinates":[104.52126,12.93223],"type":"Point"}
+}

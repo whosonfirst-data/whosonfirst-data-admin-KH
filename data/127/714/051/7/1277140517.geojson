@@ -1,0 +1,73 @@
+{
+  "id": 1277140517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.65453,14.17952,106.65453,14.17952",
+    "geom:latitude":14.17952,
+    "geom:longitude":106.65453,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Phum O Kau",
+    "gn:country_code":"KH",
+    "gn:dem":239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1826752,
+    "gn:latitude":14.17952,
+    "gn:longitude":106.65453,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Phum O Kau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum O Kau"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u17a2\u17bc\u1780\u17c5"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673075,
+        1108564835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1826752
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"06fa2c1516cf4c4b607b36d629362186",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564835,
+            "locality_id":1277140517,
+            "region_id":85673075
+        }
+    ],
+    "wof:id":1277140517,
+    "wof:lastmodified":1537653654,
+    "wof:name":"Phum O Kau",
+    "wof:parent_id":1108564835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.65453,
+    14.17952,
+    106.65453,
+    14.17952
+],
+  "geometry": {"coordinates":[106.65452999999999,14.17952],"type":"Point"}
+}

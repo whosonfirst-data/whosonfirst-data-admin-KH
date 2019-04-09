@@ -1,0 +1,71 @@
+{
+  "id": 1209784245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.35401,13.84442,107.35401,13.84442",
+    "geom:latitude":13.84442,
+    "geom:longitude":107.35401,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Phumi Ba Kham",
+    "gn:country_code":"KH",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829711,
+    "gn:latitude":13.84442,
+    "gn:longitude":107.35401,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d B\u00e2 Kh\u0103m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bo Kham",
+        "Phum\u012d B\u00e2 Kh\u0103m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673089,
+        1108564575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829711
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"43ce762874f08ec4ac7713a49951f27d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564575,
+            "locality_id":1209784245,
+            "region_id":85673089
+        }
+    ],
+    "wof:id":1209784245,
+    "wof:lastmodified":1537653904,
+    "wof:name":"Phumi Ba Kham",
+    "wof:parent_id":1108564575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.35401,
+    13.84442,
+    107.35401,
+    13.84442
+],
+  "geometry": {"coordinates":[107.35401,13.84442],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1226561023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.91667,12.58333,105.91667,12.58333",
+    "geom:latitude":12.58333,
+    "geom:longitude":105.91667,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Phumi Paprak",
+    "gn:cc2":"KH",
+    "gn:country_code":"KH",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1826622,
+    "gn:latitude":12.58333,
+    "gn:longitude":105.91667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d P\u00e2pr\u00e2k",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum Paprac",
+        "Phum\u012d P\u00e2pr\u00e2k"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673081,
+        1108564781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1826622
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"4ac2421e252e5139d2c3da886d7e320c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564781,
+            "locality_id":1226561023,
+            "region_id":85673081
+        }
+    ],
+    "wof:id":1226561023,
+    "wof:lastmodified":1537653643,
+    "wof:name":"Phumi Paprak",
+    "wof:parent_id":1108564781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.91667,
+    12.58333,
+    105.91667,
+    12.58333
+],
+  "geometry": {"coordinates":[105.91667,12.58333],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1276973983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.02572,11.77469,105.02572,11.77469",
+    "geom:latitude":11.77469,
+    "geom:longitude":105.02572,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Khum Preah Prasab",
+    "gn:country_code":"KH",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1830747,
+    "gn:latitude":11.77469,
+    "gn:longitude":105.02572,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kh\u016dm Pre\u0103h Pr\u00e2s\u00e1b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum\u012d Pre\u0103h Pr\u00e2s\u00e2p",
+        "Preas Prasap",
+        "Kh\u016dm Pre\u0103h Pr\u00e2s\u00e2p",
+        "Kh\u016dm Pre\u0103h Pr\u00e2s\u00e1b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673051,
+        421188351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1830747
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"0b7679529d95611285d69d920d4b5f63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421188351,
+            "locality_id":1276973983,
+            "region_id":85673051
+        }
+    ],
+    "wof:id":1276973983,
+    "wof:lastmodified":1537653947,
+    "wof:name":"Khum Preah Prasab",
+    "wof:parent_id":421188351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.02572,
+    11.77469,
+    105.02572,
+    11.77469
+],
+  "geometry": {"coordinates":[105.02572000000001,11.77469],"type":"Point"}
+}

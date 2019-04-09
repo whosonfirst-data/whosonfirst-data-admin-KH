@@ -1,0 +1,76 @@
+{
+  "id": 1260195875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.13464,12.09775,105.13464,12.09775",
+    "geom:latitude":12.09775,
+    "geom:longitude":105.13464,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Svay Reaks",
+    "gn:country_code":"KH",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829735,
+    "gn:latitude":12.09775,
+    "gn:longitude":105.13464,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Svay Reaks",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Svay Reaks"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Svay Are\u0103k",
+        "Sval Arac",
+        "Svai Ar\u0103c",
+        "Phum\u012d Ar\u0103ks"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673041,
+        1108564783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829735
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"1d9a55b225164d2edda355d091815e45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564783,
+            "locality_id":1260195875,
+            "region_id":85673041
+        }
+    ],
+    "wof:id":1260195875,
+    "wof:lastmodified":1537653907,
+    "wof:name":"Svay Reaks",
+    "wof:parent_id":1108564783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.13464,
+    12.09775,
+    105.13464,
+    12.09775
+],
+  "geometry": {"coordinates":[105.13464,12.09775],"type":"Point"}
+}

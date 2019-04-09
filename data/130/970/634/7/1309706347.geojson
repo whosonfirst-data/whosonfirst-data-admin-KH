@@ -1,0 +1,73 @@
+{
+  "id": 1309706347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.8841,12.60038,106.8841,12.60038",
+    "geom:latitude":12.60038,
+    "geom:longitude":106.8841,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Phum Mesam",
+    "gn:country_code":"KH",
+    "gn:dem":242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1826899,
+    "gn:latitude":12.60038,
+    "gn:longitude":106.8841,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Phum M\u00e9s\u00e2m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum M\u00e9s\u00e2m"
+    ],
+    "name:und_x_variant":[
+        "Ban Mesi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673085,
+        1108564667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1826899
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"5aa899ba267e319030ad196ddf21cbf2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564667,
+            "locality_id":1309706347,
+            "region_id":85673085
+        }
+    ],
+    "wof:id":1309706347,
+    "wof:lastmodified":1537653668,
+    "wof:name":"Phum Mesam",
+    "wof:parent_id":1108564667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.8841,
+    12.60038,
+    106.8841,
+    12.60038
+],
+  "geometry": {"coordinates":[106.8841,12.60038],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343858693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.34668,11.4236,104.34668,11.4236",
+    "geom:latitude":11.4236,
+    "geom:longitude":104.34668,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Phumi Krang Ta Kan",
+    "gn:country_code":"KH",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827167,
+    "gn:latitude":11.4236,
+    "gn:longitude":104.34668,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Kr\u0103ng Ta K\u00e2n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum\u012d Kr\u0103ng Ta Ki\u00ean",
+        "Phum\u012d Kr\u0103ng Ta K\u00e2n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673053,
+        1108564765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827167
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"38c37b8fa8c3ca9475be877a365a641c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564765,
+            "locality_id":1343858693,
+            "region_id":85673053
+        }
+    ],
+    "wof:id":1343858693,
+    "wof:lastmodified":1537653692,
+    "wof:name":"Phumi Krang Ta Kan",
+    "wof:parent_id":1108564765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.34668,
+    11.4236,
+    104.34668,
+    11.4236
+],
+  "geometry": {"coordinates":[104.34668000000001,11.4236],"type":"Point"}
+}

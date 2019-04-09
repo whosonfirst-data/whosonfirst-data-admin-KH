@@ -1,0 +1,70 @@
+{
+  "id": 1343841707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.43272,12.56162,107.43272,12.56162",
+    "geom:latitude":12.56162,
+    "geom:longitude":107.43272,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Pu Tuet",
+    "gn:country_code":"KH",
+    "gn:dem":513,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11531575,
+    "gn:latitude":12.56162,
+    "gn:longitude":107.43272,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Pu Tuet",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Pu Tuet"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673085,
+        1108564757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11531575
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"2e8e1e7b6f7965a3db9ba25194060c48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564757,
+            "locality_id":1343841707,
+            "region_id":85673085
+        }
+    ],
+    "wof:id":1343841707,
+    "wof:lastmodified":1537654091,
+    "wof:name":"Pu Tuet",
+    "wof:parent_id":1108564757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.43272,
+    12.56162,
+    107.43272,
+    12.56162
+],
+  "geometry": {"coordinates":[107.43272,12.56162],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209681353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.7631,10.91623,104.7631,10.91623",
+    "geom:latitude":10.91623,
+    "geom:longitude":104.7631,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Phumi Sophi",
+    "gn:country_code":"KH",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1824769,
+    "gn:latitude":10.91623,
+    "gn:longitude":104.7631,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Phum\u012d Sophi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum Sopin",
+        "Phum\u012d Sophi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1824769
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"8e25aaf5b65cc790cda6a23de5d2f763",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209681353
+        }
+    ],
+    "wof:id":1209681353,
+    "wof:lastmodified":1537653484,
+    "wof:name":"Phumi Sophi",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.7631,
+    10.91623,
+    104.7631,
+    10.91623
+],
+  "geometry": {"coordinates":[104.76309999999999,10.91623],"type":"Point"}
+}

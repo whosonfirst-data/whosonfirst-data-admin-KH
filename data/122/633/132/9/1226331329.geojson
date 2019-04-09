@@ -1,0 +1,70 @@
+{
+  "id": 1226331329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.21725,12.49236,107.21725,12.49236",
+    "geom:latitude":12.49236,
+    "geom:longitude":107.21725,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Phumi Pu Rodet Leu",
+    "gn:country_code":"KH",
+    "gn:dem":746,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825511,
+    "gn:latitude":12.49236,
+    "gn:longitude":107.21725,
+    "gn:modification_date":"2012-04-30",
+    "gn:name":"Phum\u012d Pu R\u00f4d\u00eat Leu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Pu Rodet Leu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673085,
+        421188055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825511
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"db5f56aa1f945337c8eed3aba3902a96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421188055,
+            "locality_id":1226331329,
+            "region_id":85673085
+        }
+    ],
+    "wof:id":1226331329,
+    "wof:lastmodified":1537653547,
+    "wof:name":"Phumi Pu Rodet Leu",
+    "wof:parent_id":421188055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.21725,
+    12.49236,
+    107.21725,
+    12.49236
+],
+  "geometry": {"coordinates":[107.21725000000001,12.49236],"type":"Point"}
+}

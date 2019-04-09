@@ -1,0 +1,67 @@
+{
+  "id": 1293205213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.56198,12.70534,104.56198,12.70534",
+    "geom:latitude":12.70534,
+    "geom:longitude":104.56198,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Phumi Boeng Khmau",
+    "gn:country_code":"KH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829439,
+    "gn:latitude":12.70534,
+    "gn:longitude":104.56198,
+    "gn:modification_date":"1993-12-30",
+    "gn:name":"Phum\u012d B\u0153\u0306ng Khmau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673057,
+        1108564849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829439
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"2043d83baaa26d2a841344d8f760e125",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564849,
+            "locality_id":1293205213,
+            "region_id":85673057
+        }
+    ],
+    "wof:id":1293205213,
+    "wof:lastmodified":1536697174,
+    "wof:name":"Phumi Boeng Khmau",
+    "wof:parent_id":1108564849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.56198,
+    12.70534,
+    104.56198,
+    12.70534
+],
+  "geometry": {"coordinates":[104.56198000000001,12.70534],"type":"Point"}
+}

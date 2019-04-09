@@ -1,0 +1,79 @@
+{
+  "id": 1225800545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.98488,14.17074,102.98488,14.17074",
+    "geom:latitude":14.17074,
+    "geom:longitude":102.98488,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Phum Talok",
+    "gn:country_code":"KH",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1824237,
+    "gn:latitude":14.17074,
+    "gn:longitude":102.98488,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Phum Tal\u014fk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Tal\u014fk"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u178f\u17b6\u17a1\u17bb\u1780"
+    ],
+    "name:und_x_variant":[
+        "Takak",
+        "Takok",
+        "Talok",
+        "Phum\u012d Tal\u014fk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673011,
+        421203293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1824237
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"c0cf3bd4f7db3e2a3db175b0e2cbac38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421203293,
+            "locality_id":1225800545,
+            "region_id":85673011
+        }
+    ],
+    "wof:id":1225800545,
+    "wof:lastmodified":1537653441,
+    "wof:name":"Phum Talok",
+    "wof:parent_id":421203293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.98488,
+    14.17074,
+    102.98488,
+    14.17074
+],
+  "geometry": {"coordinates":[102.98488,14.17074],"type":"Point"}
+}

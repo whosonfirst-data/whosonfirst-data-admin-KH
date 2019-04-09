@@ -1,0 +1,70 @@
+{
+  "id": 1343915447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.0819,13.72216,103.0819,13.72216",
+    "geom:latitude":13.72216,
+    "geom:longitude":103.0819,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Pring Kaong",
+    "gn:country_code":"KH",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11407736,
+    "gn:latitude":13.72216,
+    "gn:longitude":103.0819,
+    "gn:modification_date":"2017-01-07",
+    "gn:name":"Pring Kaong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Pring Kaong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673011,
+        421183973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11407736
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"2a0d2a213262580eb301c6099a83d591",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421183973,
+            "locality_id":1343915447,
+            "region_id":85673011
+        }
+    ],
+    "wof:id":1343915447,
+    "wof:lastmodified":1537653995,
+    "wof:name":"Pring Kaong",
+    "wof:parent_id":421183973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.0819,
+    13.72216,
+    103.0819,
+    13.72216
+],
+  "geometry": {"coordinates":[103.0819,13.72216],"type":"Point"}
+}

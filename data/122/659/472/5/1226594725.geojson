@@ -1,0 +1,76 @@
+{
+  "id": 1226594725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.47635,12.61158,103.47635,12.61158",
+    "geom:latitude":12.61158,
+    "geom:longitude":103.47635,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Phum Banteay Dek",
+    "gn:country_code":"KH",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829610,
+    "gn:latitude":12.61158,
+    "gn:longitude":103.47635,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Phum B\u00e2nt\u00e9ay D\u00eak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum B\u00e2nt\u00e9ay D\u00eak"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1794\u1793\u17d2\u1791\u17b6\u1799\u178a\u17c2\u1780"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d B\u00e2nt\u00e9ay D\u00eak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673015,
+        1108564805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829610
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"82937a26b9b2b059bb4a848110aa62d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564805,
+            "locality_id":1226594725,
+            "region_id":85673015
+        }
+    ],
+    "wof:id":1226594725,
+    "wof:lastmodified":1537653896,
+    "wof:name":"Phum Banteay Dek",
+    "wof:parent_id":1108564805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.47635,
+    12.61158,
+    103.47635,
+    12.61158
+],
+  "geometry": {"coordinates":[103.47635,12.61158],"type":"Point"}
+}

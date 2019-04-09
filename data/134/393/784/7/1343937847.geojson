@@ -1,0 +1,70 @@
+{
+  "id": 1343937847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.18362,12.2998,104.18362,12.2998",
+    "geom:latitude":12.2998,
+    "geom:longitude":104.18362,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Tuol Tbaeng",
+    "gn:country_code":"KH",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11602451,
+    "gn:latitude":12.2998,
+    "gn:longitude":104.18362,
+    "gn:modification_date":"2017-07-06",
+    "gn:name":"Tuol Tbaeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Tuol Tbaeng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673023,
+        421203239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11602451
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"7770832c65c0d063a1787acc74f2a535",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421203239,
+            "locality_id":1343937847,
+            "region_id":85673023
+        }
+    ],
+    "wof:id":1343937847,
+    "wof:lastmodified":1537654128,
+    "wof:name":"Tuol Tbaeng",
+    "wof:parent_id":421203239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.18362,
+    12.2998,
+    104.18362,
+    12.2998
+],
+  "geometry": {"coordinates":[104.18362,12.2998],"type":"Point"}
+}

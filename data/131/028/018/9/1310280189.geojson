@@ -1,0 +1,67 @@
+{
+  "id": 1310280189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.78465,10.7083,104.78465,10.7083",
+    "geom:latitude":10.7083,
+    "geom:longitude":104.78465,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Phumi Kaoh Kosal",
+    "gn:country_code":"KH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827983,
+    "gn:latitude":10.7083,
+    "gn:longitude":104.78465,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Phum\u012d Ka\u00f4h K\u014fs\u00e1l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673107,
+        1108564709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827983
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"0fa70d1b556330ff0efe6707b3aef108",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564709,
+            "locality_id":1310280189,
+            "region_id":85673107
+        }
+    ],
+    "wof:id":1310280189,
+    "wof:lastmodified":1536744188,
+    "wof:name":"Phumi Kaoh Kosal",
+    "wof:parent_id":1108564709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.78465,
+    10.7083,
+    104.78465,
+    10.7083
+],
+  "geometry": {"coordinates":[104.78465,10.7083],"type":"Point"}
+}

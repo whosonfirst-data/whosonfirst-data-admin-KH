@@ -1,0 +1,73 @@
+{
+  "id": 1226214059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.58801,13.78234,105.58801,13.78234",
+    "geom:latitude":13.78234,
+    "geom:longitude":105.58801,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Sralau",
+    "gn:country_code":"KH",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1822122,
+    "gn:latitude":13.78234,
+    "gn:longitude":105.58801,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sr\u00e2lau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum\u012d Sr\u00e2lau",
+        "Salao",
+        "Phum Salao",
+        "Sr\u00e2lau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673075,
+        1108564869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1822122
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"61dcf7b9502579e3b3872396bcfce8e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564869,
+            "locality_id":1226214059,
+            "region_id":85673075
+        }
+    ],
+    "wof:id":1226214059,
+    "wof:lastmodified":1537653329,
+    "wof:name":"Sralau",
+    "wof:parent_id":1108564869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.58801,
+    13.78234,
+    105.58801,
+    13.78234
+],
+  "geometry": {"coordinates":[105.58801,13.78234],"type":"Point"}
+}

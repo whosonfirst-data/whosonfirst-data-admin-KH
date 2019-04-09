@@ -1,0 +1,72 @@
+{
+  "id": 1309800387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.05892,11.50685,105.05892,11.50685",
+    "geom:latitude":11.50685,
+    "geom:longitude":105.05892,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Kokir",
+    "gn:country_code":"KH",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1830643,
+    "gn:latitude":11.50685,
+    "gn:longitude":105.05892,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"K\u00f4kir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum Koki",
+        "K\u00f4ki",
+        "K\u00f4kir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673051,
+        1108564707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1830643
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"95c29b0a84c7337a7ce061265b13d9c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564707,
+            "locality_id":1309800387,
+            "region_id":85673051
+        }
+    ],
+    "wof:id":1309800387,
+    "wof:lastmodified":1537653941,
+    "wof:name":"Kokir",
+    "wof:parent_id":1108564707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.05892,
+    11.50685,
+    105.05892,
+    11.50685
+],
+  "geometry": {"coordinates":[105.05892,11.50685],"type":"Point"}
+}

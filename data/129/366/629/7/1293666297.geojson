@@ -1,0 +1,74 @@
+{
+  "id": 1293666297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.80127,12.48971,103.80127,12.48971",
+    "geom:latitude":12.48971,
+    "geom:longitude":103.80127,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Phumi Damnak Ampil",
+    "gn:country_code":"KH",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828650,
+    "gn:latitude":12.48971,
+    "gn:longitude":103.80127,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Phum\u012d D\u00e2mn\u0103k \u00c2mp\u012dl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Damnak Ampil"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d D\u00e2mnek \u00c2mpil",
+        "Phum\u012d D\u00e2mn\u0103k \u00c2mp\u012dl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673023,
+        1108564795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828650
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"5b387e2f8e1028aef975a583b9bf69c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564795,
+            "locality_id":1293666297,
+            "region_id":85673023
+        }
+    ],
+    "wof:id":1293666297,
+    "wof:lastmodified":1537653822,
+    "wof:name":"Phumi Damnak Ampil",
+    "wof:parent_id":1108564795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.80127,
+    12.48971,
+    103.80127,
+    12.48971
+],
+  "geometry": {"coordinates":[103.80127,12.48971],"type":"Point"}
+}

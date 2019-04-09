@@ -1,0 +1,71 @@
+{
+  "id": 1326853263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.62302,13.02916,104.62302,13.02916",
+    "geom:latitude":13.02916,
+    "geom:longitude":104.62302,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Phumi Tumpech",
+    "gn:country_code":"KH",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1823115,
+    "gn:latitude":13.02916,
+    "gn:longitude":104.62302,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Tump\u00e9ch",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum Tompech",
+        "Phum\u012d Tump\u00e9ch"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673057,
+        1108564849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1823115
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"ea1423b92e2bd01c123f4acd22039738",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564849,
+            "locality_id":1326853263,
+            "region_id":85673057
+        }
+    ],
+    "wof:id":1326853263,
+    "wof:lastmodified":1537653357,
+    "wof:name":"Phumi Tumpech",
+    "wof:parent_id":1108564849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.62302,
+    13.02916,
+    104.62302,
+    13.02916
+],
+  "geometry": {"coordinates":[104.62302,13.02916],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1326988673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.87752,11.59194,104.87752,11.59194",
+    "geom:latitude":11.59194,
+    "geom:longitude":104.87752,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Bayab",
+    "gn:country_code":"KH",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829512,
+    "gn:latitude":11.59194,
+    "gn:longitude":104.87752,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Bayab",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Bayab"
+    ],
+    "name:und_x_variant":[
+        "Phum Bayap",
+        "Phum\u012d Bayab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673063,
+        1108564813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829512
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"b3c5ef2beb856d3be370042e063d2184",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564813,
+            "locality_id":1326988673,
+            "region_id":85673063
+        }
+    ],
+    "wof:id":1326988673,
+    "wof:lastmodified":1537653888,
+    "wof:name":"Bayab",
+    "wof:parent_id":1108564813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.87752,
+    11.59194,
+    104.87752,
+    11.59194
+],
+  "geometry": {"coordinates":[104.87752,11.59194],"type":"Point"}
+}

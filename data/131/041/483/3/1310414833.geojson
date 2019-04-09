@@ -1,0 +1,72 @@
+{
+  "id": 1310414833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.1,12.18333,105.1,12.18333",
+    "geom:latitude":12.18333,
+    "geom:longitude":105.1,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Phumi Don Tao",
+    "gn:cc2":"KH",
+    "gn:country_code":"KH",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828452,
+    "gn:latitude":12.18333,
+    "gn:longitude":105.1,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Don Ta\u00f4",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum Don Tor",
+        "Phum\u012d Don Ta\u00f4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673041,
+        421195831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828452
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"ff429b0521bb0950f8dece98cbce70c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421195831,
+            "locality_id":1310414833,
+            "region_id":85673041
+        }
+    ],
+    "wof:id":1310414833,
+    "wof:lastmodified":1537653807,
+    "wof:name":"Phumi Don Tao",
+    "wof:parent_id":421195831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.1,
+    12.18333,
+    105.1,
+    12.18333
+],
+  "geometry": {"coordinates":[105.09999999999999,12.18333],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1259820245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.12244,11.80742,106.12244,11.80742",
+    "geom:latitude":11.80742,
+    "geom:longitude":106.12244,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Samraong Cheung",
+    "gn:country_code":"KH",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825112,
+    "gn:latitude":11.80742,
+    "gn:longitude":106.12244,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Samraong Cheung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Samraong Cheung"
+    ],
+    "name:und_x_variant":[
+        "Phum Samrong",
+        "Phum\u012d S\u00e2mro\u016dng",
+        "Phum\u012d S\u00e2mra\u00f4ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        1108804319,
+        1108564735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825112
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"29c8e27313c1a56e4b17dfdc36da20a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564735,
+            "locality_id":1259820245,
+            "region_id":1108804319
+        }
+    ],
+    "wof:id":1259820245,
+    "wof:lastmodified":1537653514,
+    "wof:name":"Samraong Cheung",
+    "wof:parent_id":1108564735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.12244,
+    11.80742,
+    106.12244,
+    11.80742
+],
+  "geometry": {"coordinates":[106.12244,11.80742],"type":"Point"}
+}

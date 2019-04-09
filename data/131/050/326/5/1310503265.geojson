@@ -1,0 +1,77 @@
+{
+  "id": 1310503265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.39417,12.22341,104.39417,12.22341",
+    "geom:latitude":12.22341,
+    "geom:longitude":104.39417,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Phum Chambak Prasat",
+    "gn:country_code":"KH",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829242,
+    "gn:latitude":12.22341,
+    "gn:longitude":104.39417,
+    "gn:modification_date":"2017-07-05",
+    "gn:name":"Phum Ch\u00e2mb\u00e2k Prasat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Ch\u00e2mb\u00e2k Prasat"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1785\u17c6\u1794\u1780\u17cb\u1794\u17d2\u179a\u17b6\u179f\u17b6\u1791"
+    ],
+    "name:und_x_variant":[
+        "Prasat",
+        "Phum\u012d Ch\u00e2mb\u00e1k Prasat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673047,
+        1108564885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829242
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"58042d0e65ac86eb0eff55ddbfd39987",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564885,
+            "locality_id":1310503265,
+            "region_id":85673047
+        }
+    ],
+    "wof:id":1310503265,
+    "wof:lastmodified":1537653868,
+    "wof:name":"Phum Chambak Prasat",
+    "wof:parent_id":1108564885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.39417,
+    12.22341,
+    104.39417,
+    12.22341
+],
+  "geometry": {"coordinates":[104.39417,12.22341],"type":"Point"}
+}

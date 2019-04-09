@@ -1,0 +1,71 @@
+{
+  "id": 1343624699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.83831,11.15597,105.83831,11.15597",
+    "geom:latitude":11.15597,
+    "geom:longitude":105.83831,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Phumi Chambak Kaong",
+    "gn:country_code":"KH",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829253,
+    "gn:latitude":11.15597,
+    "gn:longitude":105.83831,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Ch\u00e2mb\u00e1k Ka\u00f4ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum Chamb\u00e2k Kong",
+        "Phum\u012d Ch\u00e2mb\u00e1k Ka\u00f4ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673105,
+        1108564807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829253
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"88762b6c17959d5fcf139095843acf03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564807,
+            "locality_id":1343624699,
+            "region_id":85673105
+        }
+    ],
+    "wof:id":1343624699,
+    "wof:lastmodified":1537653869,
+    "wof:name":"Phumi Chambak Kaong",
+    "wof:parent_id":1108564807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.83831,
+    11.15597,
+    105.83831,
+    11.15597
+],
+  "geometry": {"coordinates":[105.83831000000001,11.15597],"type":"Point"}
+}

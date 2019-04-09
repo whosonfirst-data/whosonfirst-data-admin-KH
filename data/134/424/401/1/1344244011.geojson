@@ -1,0 +1,72 @@
+{
+  "id": 1344244011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.80737,12.12172,103.80737,12.12172",
+    "geom:latitude":12.12172,
+    "geom:longitude":103.80737,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Kamnom",
+    "gn:country_code":"KH",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1831189,
+    "gn:latitude":12.12172,
+    "gn:longitude":103.80737,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"K\u00e2mn\u00f4m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "P\u2019um K\u014fmn\u014fm",
+        "Phum\u012d K\u00e2mn\u00f4n",
+        "K\u00e2mn\u00f4m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673023,
+        1108564759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1831189
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"cb0a8586f5a34d3f68d071dcc2656aaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564759,
+            "locality_id":1344244011,
+            "region_id":85673023
+        }
+    ],
+    "wof:id":1344244011,
+    "wof:lastmodified":1537653957,
+    "wof:name":"Kamnom",
+    "wof:parent_id":1108564759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.80737,
+    12.12172,
+    103.80737,
+    12.12172
+],
+  "geometry": {"coordinates":[103.80737000000001,12.12172],"type":"Point"}
+}

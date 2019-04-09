@@ -1,0 +1,78 @@
+{
+  "id": 1309977663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.97859,13.79226,104.97859,13.79226",
+    "geom:latitude":13.79226,
+    "geom:longitude":104.97859,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Pal Hal",
+    "gn:country_code":"KH",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1831866,
+    "gn:latitude":13.79226,
+    "gn:longitude":104.97859,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Pal Hal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Pal Hal"
+    ],
+    "name:und_x_variant":[
+        "Phum Pahal",
+        "Barhal",
+        "Phum\u012d Bahal",
+        "Banhai",
+        "Palhal",
+        "Bahal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673071,
+        1108564779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1831866
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"c12f17fc20471932f6a77886378aa16b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564779,
+            "locality_id":1309977663,
+            "region_id":85673071
+        }
+    ],
+    "wof:id":1309977663,
+    "wof:lastmodified":1537653964,
+    "wof:name":"Pal Hal",
+    "wof:parent_id":1108564779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.97859,
+    13.79226,
+    104.97859,
+    13.79226
+],
+  "geometry": {"coordinates":[104.97859,13.79226],"type":"Point"}
+}

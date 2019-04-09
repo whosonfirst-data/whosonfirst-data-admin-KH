@@ -1,0 +1,72 @@
+{
+  "id": 1243292615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.52992,11.95775,105.52992,11.95775",
+    "geom:latitude":11.95775,
+    "geom:longitude":105.52992,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Phumi Bek Dab",
+    "gn:country_code":"KH",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829498,
+    "gn:latitude":11.95775,
+    "gn:longitude":105.52992,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Phum\u012d B\u00eak D\u00e2b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum\u012d B\u00eak D\u00e2p",
+        "Phum Bak Dap",
+        "Phum\u012d B\u00eak D\u00e2b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        1108804319,
+        421183891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829498
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"af91398e264d574c5245fec4d36885b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421183891,
+            "locality_id":1243292615,
+            "region_id":1108804319
+        }
+    ],
+    "wof:id":1243292615,
+    "wof:lastmodified":1537653887,
+    "wof:name":"Phumi Bek Dab",
+    "wof:parent_id":421183891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.52992,
+    11.95775,
+    105.52992,
+    11.95775
+],
+  "geometry": {"coordinates":[105.52992,11.95775],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343471669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.57479,12.29683,105.57479,12.29683",
+    "geom:latitude":12.29683,
+    "geom:longitude":105.57479,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Boeng Ket",
+    "gn:country_code":"KH",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829430,
+    "gn:latitude":12.29683,
+    "gn:longitude":105.57479,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Boeng Ket",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Boeng Ket"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d B\u0153\u0306ng Koy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673041,
+        1108564853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829430
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"90cb44833fdbba0eec3fb5f697249e5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564853,
+            "locality_id":1343471669,
+            "region_id":85673041
+        }
+    ],
+    "wof:id":1343471669,
+    "wof:lastmodified":1537653882,
+    "wof:name":"Boeng Ket",
+    "wof:parent_id":1108564853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.57479,
+    12.29683,
+    105.57479,
+    12.29683
+],
+  "geometry": {"coordinates":[105.57478999999999,12.29683],"type":"Point"}
+}

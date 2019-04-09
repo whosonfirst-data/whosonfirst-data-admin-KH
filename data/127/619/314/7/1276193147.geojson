@@ -1,0 +1,78 @@
+{
+  "id": 1276193147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.00143,13.43408,103.00143,13.43408",
+    "geom:latitude":13.43408,
+    "geom:longitude":103.00143,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Ka Svay",
+    "gn:country_code":"KH",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825217,
+    "gn:latitude":13.43408,
+    "gn:longitude":103.00143,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Ka Svay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Ka Svay"
+    ],
+    "name:khm_x_variant":[
+        "Phum Sak\u00e2r Svay",
+        "\u1797\u17bc\u1798\u17b7 \u179f\u17b6\u1780\u179a\u179f\u17d2\u179c\u17b6\u1799"
+    ],
+    "name:und_x_variant":[
+        "Phum Sakar Svai",
+        "Phum\u012d Sak\u00e2r Svay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673011,
+        1108564737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825217
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"182b065e92d9168b31807f8db53fd1de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564737,
+            "locality_id":1276193147,
+            "region_id":85673011
+        }
+    ],
+    "wof:id":1276193147,
+    "wof:lastmodified":1537653522,
+    "wof:name":"Ka Svay",
+    "wof:parent_id":1108564737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.00143,
+    13.43408,
+    103.00143,
+    13.43408
+],
+  "geometry": {"coordinates":[103.00143,13.43408],"type":"Point"}
+}

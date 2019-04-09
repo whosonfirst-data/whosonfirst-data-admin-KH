@@ -1,0 +1,79 @@
+{
+  "id": 1226705959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.40994,13.07338,104.40994,13.07338",
+    "geom:latitude":13.07338,
+    "geom:longitude":104.40994,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Phum Kon Tnaot",
+    "gn:country_code":"KH",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827455,
+    "gn:latitude":13.07338,
+    "gn:longitude":104.40994,
+    "gn:modification_date":"2017-07-05",
+    "gn:name":"Phum Kon Tna\u00f4t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Kon Tna\u00f4t"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1780\u17bc\u1793\u178f\u17d2\u1793\u17c4\u178f"
+    ],
+    "name:und_x_variant":[
+        "Phum Can Thnot",
+        "Phum Can Thot",
+        "Phum Con Thnot",
+        "Phum\u012d Kon Tna\u00f4t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673029,
+        1108564639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827455
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"040488ff4ae2c0d0ea760140e62f8ef6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564639,
+            "locality_id":1226705959,
+            "region_id":85673029
+        }
+    ],
+    "wof:id":1226705959,
+    "wof:lastmodified":1537653720,
+    "wof:name":"Phum Kon Tnaot",
+    "wof:parent_id":1108564639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.40994,
+    13.07338,
+    104.40994,
+    13.07338
+],
+  "geometry": {"coordinates":[104.40994000000001,13.07338],"type":"Point"}
+}

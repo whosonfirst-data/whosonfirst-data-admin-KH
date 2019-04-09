@@ -1,0 +1,74 @@
+{
+  "id": 1276716829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.01277,13.54324,103.01277,13.54324",
+    "geom:latitude":13.54324,
+    "geom:longitude":103.01277,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Neang Ket",
+    "gn:country_code":"KH",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11407690,
+    "gn:latitude":13.54324,
+    "gn:longitude":103.01277,
+    "gn:modification_date":"2017-01-07",
+    "gn:name":"Neang Ket",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Neang Ket"
+    ],
+    "name:khm_x_variant":[
+        "Phum Ro\u016dng Srov",
+        "\u1797\u17bc\u1798\u17b7 \u179a\u17c4\u1784\u179f\u17d2\u179a\u17bc\u179c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673011,
+        1108564737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11407690
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"6577395a0bb71cd517fbe434b0765521",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564737,
+            "locality_id":1276716829,
+            "region_id":85673011
+        }
+    ],
+    "wof:id":1276716829,
+    "wof:lastmodified":1537653993,
+    "wof:name":"Neang Ket",
+    "wof:parent_id":1108564737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.01277,
+    13.54324,
+    103.01277,
+    13.54324
+],
+  "geometry": {"coordinates":[103.01277,13.54324],"type":"Point"}
+}

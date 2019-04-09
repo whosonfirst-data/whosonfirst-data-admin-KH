@@ -1,0 +1,64 @@
+{
+  "id": 1209666055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.35896,13.46404,102.35896,13.46404",
+    "geom:latitude":13.46404,
+    "geom:longitude":102.35896,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Sralau Chrum",
+    "gn:country_code":"KH",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11411722,
+    "gn:latitude":13.46404,
+    "gn:longitude":102.35896,
+    "gn:modification_date":"2017-01-07",
+    "gn:name":"Sralau Chrum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Sralau Chrum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11411722
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"3616cdf4a4ef2ae839dccdb1a8770fb3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209666055
+        }
+    ],
+    "wof:id":1209666055,
+    "wof:lastmodified":1537653997,
+    "wof:name":"Sralau Chrum",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.35896,
+    13.46404,
+    102.35896,
+    13.46404
+],
+  "geometry": {"coordinates":[102.35896,13.46404],"type":"Point"}
+}

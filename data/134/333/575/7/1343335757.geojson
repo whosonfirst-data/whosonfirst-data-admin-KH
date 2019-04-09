@@ -1,0 +1,67 @@
+{
+  "id": 1343335757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.60602,10.66588,104.60602,10.66588",
+    "geom:latitude":10.66588,
+    "geom:longitude":104.60602,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Phumi Sre Kan",
+    "gn:country_code":"KH",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1824638,
+    "gn:latitude":10.66588,
+    "gn:longitude":104.60602,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Phum\u012d Sr\u00ea K\u0103n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673093,
+        1108564601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1824638
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"9b8d9c56490f53d41af797b8b0797a82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564601,
+            "locality_id":1343335757,
+            "region_id":85673093
+        }
+    ],
+    "wof:id":1343335757,
+    "wof:lastmodified":1536927044,
+    "wof:name":"Phumi Sre Kan",
+    "wof:parent_id":1108564601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.60602,
+    10.66588,
+    104.60602,
+    10.66588
+],
+  "geometry": {"coordinates":[104.60602,10.66588],"type":"Point"}
+}

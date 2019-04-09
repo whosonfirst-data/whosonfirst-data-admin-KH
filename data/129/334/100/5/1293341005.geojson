@@ -1,0 +1,67 @@
+{
+  "id": 1293341005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.56091,12.63355,103.56091,12.63355",
+    "geom:latitude":12.63355,
+    "geom:longitude":103.56091,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Phumi Boeng Phong",
+    "gn:country_code":"KH",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829406,
+    "gn:latitude":12.63355,
+    "gn:longitude":103.56091,
+    "gn:modification_date":"2009-05-11",
+    "gn:name":"Phum\u012d B\u0153\u0306ng Ph\u014fng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673015,
+        1108564739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829406
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"5a479874eeaa5cef001e8ec6e8669648",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564739,
+            "locality_id":1293341005,
+            "region_id":85673015
+        }
+    ],
+    "wof:id":1293341005,
+    "wof:lastmodified":1536997584,
+    "wof:name":"Phumi Boeng Phong",
+    "wof:parent_id":1108564739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.56091,
+    12.63355,
+    103.56091,
+    12.63355
+],
+  "geometry": {"coordinates":[103.56091000000001,12.63355],"type":"Point"}
+}

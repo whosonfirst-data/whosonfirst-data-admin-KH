@@ -1,0 +1,64 @@
+{
+  "id": 1209578063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.62413,11.06416,104.62413,11.06416",
+    "geom:latitude":11.06416,
+    "geom:longitude":104.62413,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Trapeang Srangae",
+    "gn:country_code":"KH",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11460004,
+    "gn:latitude":11.06416,
+    "gn:longitude":104.62413,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Trapeang Srangae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Trapeang Srangae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11460004
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"a4096d21082197106b677ad8e0fffbea",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209578063
+        }
+    ],
+    "wof:id":1209578063,
+    "wof:lastmodified":1537654022,
+    "wof:name":"Trapeang Srangae",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.62413,
+    11.06416,
+    104.62413,
+    11.06416
+],
+  "geometry": {"coordinates":[104.62412999999999,11.06416],"type":"Point"}
+}

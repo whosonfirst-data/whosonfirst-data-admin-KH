@@ -1,0 +1,75 @@
+{
+  "id": 1310602825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.79896,11.92287,104.79896,11.92287",
+    "geom:latitude":11.92287,
+    "geom:longitude":104.79896,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Preaek Kanlang",
+    "gn:country_code":"KH",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1826012,
+    "gn:latitude":11.92287,
+    "gn:longitude":104.79896,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Preaek Kanlang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Preaek Kanlang"
+    ],
+    "name:und_x_variant":[
+        "Prea K\u00e2nlong",
+        "Prea Kahlong",
+        "Phum\u012d Pr\u00eak K\u00f4nl\u00f4ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673047,
+        1108564679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1826012
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"aafe1ad116b47ce14e11ec5bb71c8270",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564679,
+            "locality_id":1310602825,
+            "region_id":85673047
+        }
+    ],
+    "wof:id":1310602825,
+    "wof:lastmodified":1537653586,
+    "wof:name":"Preaek Kanlang",
+    "wof:parent_id":1108564679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.79896,
+    11.92287,
+    104.79896,
+    11.92287
+],
+  "geometry": {"coordinates":[104.79895999999999,11.92287],"type":"Point"}
+}

@@ -1,0 +1,266 @@
+{
+  "id": 1141906179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.801003635,11.0799990981,105.801003635,11.0799990981",
+    "geom:latitude":11.079999,
+    "geom:longitude":105.801004,
+    "iso:country":"KH",
+    "lbl:latitude":11.079999,
+    "lbl:longitude":105.801004,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062a\u0627\u064a \u0646\u064a\u0646\u0647"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09ad\u09be\u09af\u09bc \u09b0\u09bf\u09af\u09bc\u09c7\u0982"
+    ],
+    "name:chi_x_preferred":[
+        "\u67f4\u6968"
+    ],
+    "name:dan_x_preferred":[
+        "Svay Rieng"
+    ],
+    "name:dut_x_preferred":[
+        "Svay Rieng"
+    ],
+    "name:eng_x_preferred":[
+        "Svay Rieng"
+    ],
+    "name:est_x_preferred":[
+        "Svay Ri\u0115ng"
+    ],
+    "name:fin_x_preferred":[
+        "Svay Rieng"
+    ],
+    "name:fre_x_preferred":[
+        "Svay Rieng"
+    ],
+    "name:ger_x_preferred":[
+        "Svay Rieng"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a3\u03b2\u03ad\u03b9 \u03a1\u03b9\u03ad\u03bd\u03b3\u03ba"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab8\u0acd\u0ab5\u0ac7 \u0ab0\u0ac7\u0a82\u0a97"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u094d\u0935\u092f \u0930\u0947\u0902\u0917"
+    ],
+    "name:hun_x_preferred":[
+        "Szvajrieng"
+    ],
+    "name:ind_x_preferred":[
+        "Svay Rieng"
+    ],
+    "name:ita_x_preferred":[
+        "Svay Rieng"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b9\u30f4\u30a1\u30a4\u30ea\u30a8\u30f3"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb8\u0ccd\u0cb5\u0cc6 \u0cb0\u0cc8\u0c82\u0c97\u0ccd"
+    ],
+    "name:kor_x_preferred":[
+        "\uc2a4\ubc14\uc774\ub9ac\uc5e5"
+    ],
+    "name:lav_x_preferred":[
+        "Sv\u0101jr\u012bena"
+    ],
+    "name:lit_x_preferred":[
+        "Svai Riengas"
+    ],
+    "name:mar_x_preferred":[
+        "\u0938\u094d\u0935\u0947 \u0930\u0947\u0902\u0917"
+    ],
+    "name:may_x_preferred":[
+        "Svay Rieng"
+    ],
+    "name:nob_x_preferred":[
+        "Svay Rieng"
+    ],
+    "name:per_x_preferred":[
+        "\u0633\u0648\u06cc\u200c\u0631\u06cc\u0646\u06af"
+    ],
+    "name:pol_x_preferred":[
+        "Svay Rieng"
+    ],
+    "name:por_x_preferred":[
+        "Svay Rieng"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0432\u0430\u0439\u0440\u0438\u0435\u043d\u0433"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc3\u0dca\u0dc0\u0dda \u0dbb\u0dba\u0dd2\u0db1\u0dca"
+    ],
+    "name:spa_x_preferred":[
+        "Svay Rieng"
+    ],
+    "name:swe_x_preferred":[
+        "Svay Rieng"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb8\u0bcd\u0bb5\u0bc7 \u0bb0\u0bc6\u0baf\u0bcd\u0b99\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c30\u0c3f\u0c35\u0c4d \u0c30\u0c3f\u0c2f\u0c3e\u0c02\u0c17\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e08\u0e31\u0e19\u0e17\u0e23\u0e35"
+    ],
+    "name:tur_x_preferred":[
+        "Svay Rieng"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0432\u0430\u0439\u0440\u0456\u0454\u043d\u0433"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0648\u0627\u06cc \u0631\u06cc\u06cc\u0646\u062c"
+    ],
+    "name:vie_x_preferred":[
+        "Svay Rieng"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Cambodia",
+    "ne:ADM0_A3":"KHM",
+    "ne:ADM1NAME":"Svay Rieng",
+    "ne:ADMIN1_COD":0,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":4,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":"Added missing admin-1 capital.",
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Admin-1 capital",
+    "ne:FEATURE_CL":null,
+    "ne:FEATURE_CO":null,
+    "ne:GEONAMEID":-1,
+    "ne:GEONAMESNO":"No GeoNames match due to small population, not in GeoNames, or poor NEV placement.",
+    "ne:GN_ASCII":null,
+    "ne:GN_POP":0,
+    "ne:GTOPO30":0.0,
+    "ne:ISO_A2":"KH",
+    "ne:LABELRANK":8,
+    "ne:LATITUDE":11.079999,
+    "ne:LONGITUDE":105.801004,
+    "ne:LS_MATCH":0,
+    "ne:LS_NAME":null,
+    "ne:MAX_AREAKM":0.0,
+    "ne:MAX_AREAMI":0.0,
+    "ne:MAX_BBXMAX":0.0,
+    "ne:MAX_BBXMIN":0.0,
+    "ne:MAX_BBYMAX":0.0,
+    "ne:MAX_BBYMIN":0.0,
+    "ne:MAX_NATSCA":0.0,
+    "ne:MAX_PERKM":0.0,
+    "ne:MAX_PERMI":0.0,
+    "ne:MAX_POP10":0,
+    "ne:MAX_POP20":0,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":0.0,
+    "ne:MEAN_BBYC":0.0,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":0.0,
+    "ne:MIN_AREAMI":0.0,
+    "ne:MIN_BBXMAX":0.0,
+    "ne:MIN_BBXMIN":0.0,
+    "ne:MIN_BBYMAX":0.0,
+    "ne:MIN_BBYMIN":0.0,
+    "ne:MIN_PERKM":0.0,
+    "ne:MIN_PERMI":0.0,
+    "ne:NAME":"Svay Rieng",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"Svay Rieng",
+    "ne:NAMEDIFF":1,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":1,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":23956,
+    "ne:POP_MIN":23956,
+    "ne:POP_OTHER":0,
+    "ne:RANK_MAX":7,
+    "ne:RANK_MIN":7,
+    "ne:SCALERANK":10,
+    "ne:SOV0NAME":"Cambodia",
+    "ne:SOV_A3":"KHM",
+    "ne:TIMEZONE":null,
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "ne:min_zoom":7.0,
+    "reversegeo:latitude":11.079999,
+    "reversegeo:longitude":105.801004,
+    "src:geom":"naturalearth",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673105,
+        1108564863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q10861438"
+    },
+    "wof:country":"KH",
+    "wof:created":1499130552,
+    "wof:geomhash":"5840b0352a6a2da1d72b158bacdc62c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564863,
+            "locality_id":1141906179,
+            "region_id":85673105
+        }
+    ],
+    "wof:id":1141906179,
+    "wof:lastmodified":1553816735,
+    "wof:name":"Svay Rieng",
+    "wof:parent_id":1108564863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.80100363516192,
+    11.07999909805983,
+    105.80100363516192,
+    11.07999909805983
+],
+  "geometry": {"coordinates":[105.80100363516192,11.07999909805983],"type":"Point"}
+}

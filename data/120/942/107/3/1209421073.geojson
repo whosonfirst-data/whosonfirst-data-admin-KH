@@ -1,0 +1,64 @@
+{
+  "id": 1209421073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.64104,11.21634,104.64104,11.21634",
+    "geom:latitude":11.21634,
+    "geom:longitude":104.64104,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Boeng Roneal",
+    "gn:country_code":"KH",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11460020,
+    "gn:latitude":11.21634,
+    "gn:longitude":104.64104,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Boeng Roneal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Boeng Roneal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11460020
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"e70b31b0681b172f39fbb0620ef6b52a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209421073
+        }
+    ],
+    "wof:id":1209421073,
+    "wof:lastmodified":1537654022,
+    "wof:name":"Boeng Roneal",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.64104,
+    11.21634,
+    104.64104,
+    11.21634
+],
+  "geometry": {"coordinates":[104.64104,11.21634],"type":"Point"}
+}

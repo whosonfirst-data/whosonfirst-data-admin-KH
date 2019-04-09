@@ -1,0 +1,71 @@
+{
+  "id": 1277087217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.10415,11.78285,105.10415,11.78285",
+    "geom:latitude":11.78285,
+    "geom:longitude":105.10415,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Khum Tong Tralach",
+    "gn:country_code":"KH",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1830694,
+    "gn:latitude":11.78285,
+    "gn:longitude":105.10415,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kh\u016dm T\u00f4ng Tr\u00e2lach",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tong Tralach",
+        "Kh\u016dm T\u00f4ng Tr\u00e2lach"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673041,
+        1108564845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1830694
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"3496024d3e6e1493e4945a20212a8813",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564845,
+            "locality_id":1277087217,
+            "region_id":85673041
+        }
+    ],
+    "wof:id":1277087217,
+    "wof:lastmodified":1537653942,
+    "wof:name":"Khum Tong Tralach",
+    "wof:parent_id":1108564845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.10415,
+    11.78285,
+    105.10415,
+    11.78285
+],
+  "geometry": {"coordinates":[105.10415,11.78285],"type":"Point"}
+}

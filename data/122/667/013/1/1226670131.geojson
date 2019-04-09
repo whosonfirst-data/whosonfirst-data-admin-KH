@@ -1,0 +1,72 @@
+{
+  "id": 1226670131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.7495,11.4199,104.7495,11.4199",
+    "geom:latitude":11.4199,
+    "geom:longitude":104.7495,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Phumi Prey Lvea",
+    "gn:country_code":"KH",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825774,
+    "gn:latitude":11.4199,
+    "gn:longitude":104.7495,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Prey Lv\u00e9a",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum Prei Lov\u00e9a",
+        "Phum\u012d Prey L\u00f4v\u00e9a",
+        "Phum\u012d Prey Lv\u00e9a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673053,
+        1108564715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825774
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"01c713fd6428e8fa732d988b4ce33cff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564715,
+            "locality_id":1226670131,
+            "region_id":85673053
+        }
+    ],
+    "wof:id":1226670131,
+    "wof:lastmodified":1537653565,
+    "wof:name":"Phumi Prey Lvea",
+    "wof:parent_id":1108564715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.7495,
+    11.4199,
+    104.7495,
+    11.4199
+],
+  "geometry": {"coordinates":[104.7495,11.4199],"type":"Point"}
+}

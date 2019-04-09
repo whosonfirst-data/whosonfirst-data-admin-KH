@@ -1,0 +1,70 @@
+{
+  "id": 1209606909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.06745,11.26742,105.06745,11.26742",
+    "geom:latitude":11.26742,
+    "geom:longitude":105.06745,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Phum Prek Totung",
+    "gn:country_code":"KH",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825910,
+    "gn:latitude":11.26742,
+    "gn:longitude":105.06745,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Phum Prek Totung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Prey T\u00f4t\u0153\u0306ng"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1796\u17d2\u179a\u17c3\u1791\u1791\u17b9\u1784"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Pr\u00eak T\u00f4t\u0153\u0306ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825910
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"81dd769d6a0f25138c42f29cfa148987",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209606909
+        }
+    ],
+    "wof:id":1209606909,
+    "wof:lastmodified":1537653575,
+    "wof:name":"Phum Prek Totung",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.06745,
+    11.26742,
+    105.06745,
+    11.26742
+],
+  "geometry": {"coordinates":[105.06744999999999,11.26742],"type":"Point"}
+}

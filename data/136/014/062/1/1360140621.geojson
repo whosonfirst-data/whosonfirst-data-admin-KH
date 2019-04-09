@@ -1,0 +1,78 @@
+{
+  "id": 1360140621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.7102,13.57368,103.7102,13.57368",
+    "geom:latitude":13.57368,
+    "geom:longitude":103.7102,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Chhuk",
+    "gn:country_code":"KH",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828961,
+    "gn:latitude":13.57368,
+    "gn:longitude":103.7102,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Chhuk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Chhuk"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1788\u17bc\u1780",
+        "Phum Chhuk"
+    ],
+    "name:und_x_variant":[
+        "Chhouk Krao",
+        "Phum\u012d Chhuk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673029,
+        421185505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828961
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"c3caca07d64aa5e38ae6bc5fb7e2b109",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421185505,
+            "locality_id":1360140621,
+            "region_id":85673029
+        }
+    ],
+    "wof:id":1360140621,
+    "wof:lastmodified":1537653846,
+    "wof:name":"Chhuk",
+    "wof:parent_id":421185505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.7102,
+    13.57368,
+    103.7102,
+    13.57368
+],
+  "geometry": {"coordinates":[103.7102,13.57368],"type":"Point"}
+}

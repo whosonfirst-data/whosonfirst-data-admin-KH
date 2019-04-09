@@ -1,0 +1,74 @@
+{
+  "id": 1209836947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.24106,11.32649,105.24106,11.32649",
+    "geom:latitude":11.32649,
+    "geom:longitude":105.24106,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Phum Reang Dek",
+    "gn:country_code":"KH",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825471,
+    "gn:latitude":11.32649,
+    "gn:longitude":105.24106,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Phum Re\u0103ng D\u00eak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Re\u0103ng D\u00eak"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u179a\u17b6\u17c6\u1784\u178a\u17c2\u1780",
+        "Phum\u012d Re\u0103ng D\u00eak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673051,
+        1108564707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825471
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"6bb78bf5fd7b27ffdaedfd2a8a1c4015",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564707,
+            "locality_id":1209836947,
+            "region_id":85673051
+        }
+    ],
+    "wof:id":1209836947,
+    "wof:lastmodified":1537653544,
+    "wof:name":"Phum Reang Dek",
+    "wof:parent_id":1108564707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.24106,
+    11.32649,
+    105.24106,
+    11.32649
+],
+  "geometry": {"coordinates":[105.24106,11.32649],"type":"Point"}
+}

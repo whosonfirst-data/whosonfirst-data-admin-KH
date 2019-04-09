@@ -1,0 +1,71 @@
+{
+  "id": 1193024895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.06999,12.00445,105.06999,12.00445",
+    "geom:latitude":12.00445,
+    "geom:longitude":105.06999,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Beng Chruoi",
+    "gn:country_code":"KH",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829452,
+    "gn:latitude":12.00445,
+    "gn:longitude":105.06999,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Beng Chruoi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Beng Chroui",
+        "Phum\u012d B\u0153\u0306ng Chro\u016dy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673041,
+        421195831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829452
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"0f7055a2e2c787efebd7abd8de4fabd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421195831,
+            "locality_id":1193024895,
+            "region_id":85673041
+        }
+    ],
+    "wof:id":1193024895,
+    "wof:lastmodified":1537653884,
+    "wof:name":"Beng Chruoi",
+    "wof:parent_id":421195831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.06999,
+    12.00445,
+    105.06999,
+    12.00445
+],
+  "geometry": {"coordinates":[105.06999,12.00445],"type":"Point"}
+}

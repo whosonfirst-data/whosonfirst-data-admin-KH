@@ -1,0 +1,72 @@
+{
+  "id": 1209137173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.76142,12.24616,105.76142,12.24616",
+    "geom:latitude":12.24616,
+    "geom:longitude":105.76142,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Roka Khnaor",
+    "gn:country_code":"KH",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828112,
+    "gn:latitude":12.24616,
+    "gn:longitude":105.76142,
+    "gn:modification_date":"2017-07-05",
+    "gn:name":"Roka Khnaor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Roka Khnaor"
+    ],
+    "name:khm_x_variant":[
+        "Phum K\u00e2ndal Phum\u012d",
+        "\u1797\u17bc\u1798\u17b7 \u1780\u178e\u17d2\u178a\u17b6\u179b\u1797\u17bc\u1798\u17b7"
+    ],
+    "name:und_x_variant":[
+        "Phum Rocar Khnor Kandal",
+        "Phum\u012d K\u00e2ndal Phum\u012d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828112
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"6710fa3d6ae43a87d8167da08184c684",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209137173
+        }
+    ],
+    "wof:id":1209137173,
+    "wof:lastmodified":1537653777,
+    "wof:name":"Roka Khnaor",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.76142,
+    12.24616,
+    105.76142,
+    12.24616
+],
+  "geometry": {"coordinates":[105.76142,12.24616],"type":"Point"}
+}

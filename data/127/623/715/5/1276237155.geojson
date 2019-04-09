@@ -1,0 +1,72 @@
+{
+  "id": 1276237155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.70282,12.28643,105.70282,12.28643",
+    "geom:latitude":12.28643,
+    "geom:longitude":105.70282,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Phumi Traeuy Prek",
+    "gn:country_code":"KH",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1823526,
+    "gn:latitude":12.28643,
+    "gn:longitude":105.70282,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Traeuy Pr\u00eak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum Toreui Prek",
+        "Phum\u012d Treuy Pr\u00eak",
+        "Phum\u012d Traeuy Pr\u00eak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673041,
+        1108564853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1823526
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"d84742da9cfcde47587736a0894f8cc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564853,
+            "locality_id":1276237155,
+            "region_id":85673041
+        }
+    ],
+    "wof:id":1276237155,
+    "wof:lastmodified":1537653385,
+    "wof:name":"Phumi Traeuy Prek",
+    "wof:parent_id":1108564853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.70282,
+    12.28643,
+    105.70282,
+    12.28643
+],
+  "geometry": {"coordinates":[105.70282,12.28643],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1327418371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.06247,12.54091,106.06247,12.54091",
+    "geom:latitude":12.54091,
+    "geom:longitude":106.06247,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Kou Loab",
+    "gn:country_code":"KH",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827292,
+    "gn:latitude":12.54091,
+    "gn:longitude":106.06247,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Kou Loab",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Kou Loab"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1782\u17c4\u179b\u17b6\u1794\u17cb",
+        "Phum Kou L\u00f4\u0103p"
+    ],
+    "name:und_x_variant":[
+        "Phum Kou Le\u0103p",
+        "Phum Kalop",
+        "Phum\u012d Ko\u016d Lo\u0103b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673081,
+        1108564631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827292
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"14ec6030339f4c3e5b1de2d57a0a2e3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564631,
+            "locality_id":1327418371,
+            "region_id":85673081
+        }
+    ],
+    "wof:id":1327418371,
+    "wof:lastmodified":1537653703,
+    "wof:name":"Kou Loab",
+    "wof:parent_id":1108564631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.06247,
+    12.54091,
+    106.06247,
+    12.54091
+],
+  "geometry": {"coordinates":[106.06247,12.54091],"type":"Point"}
+}

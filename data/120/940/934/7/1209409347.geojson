@@ -1,0 +1,65 @@
+{
+  "id": 1209409347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.8166,11.7914,104.8166,11.7914",
+    "geom:latitude":11.7914,
+    "geom:longitude":104.8166,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Phumi Thmei",
+    "gn:country_code":"KH",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1823817,
+    "gn:latitude":11.7914,
+    "gn:longitude":104.8166,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Thmei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kompong Luong",
+        "Phum\u012d Thmei"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1823817
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"b8d80437d29912c66ce3628e22f1b671",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209409347
+        }
+    ],
+    "wof:id":1209409347,
+    "wof:lastmodified":1537653408,
+    "wof:name":"Phumi Thmei",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.8166,
+    11.7914,
+    104.8166,
+    11.7914
+],
+  "geometry": {"coordinates":[104.81659999999999,11.7914],"type":"Point"}
+}

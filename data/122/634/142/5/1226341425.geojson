@@ -1,0 +1,67 @@
+{
+  "id": 1226341425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.09063,12.53705,105.09063,12.53705",
+    "geom:latitude":12.53705,
+    "geom:longitude":105.09063,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Phumi Trapeang Khnak (2)",
+    "gn:country_code":"KH",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1823405,
+    "gn:latitude":12.53705,
+    "gn:longitude":105.09063,
+    "gn:modification_date":"1993-12-30",
+    "gn:name":"Phum\u012d Tr\u00e2pe\u0103ng Khn\u00e1k (2)",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673057,
+        1108564829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1823405
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"1117988217707d4bd594d59a33e38231",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564829,
+            "locality_id":1226341425,
+            "region_id":85673057
+        }
+    ],
+    "wof:id":1226341425,
+    "wof:lastmodified":1536795940,
+    "wof:name":"Phumi Trapeang Khnak (2)",
+    "wof:parent_id":1108564829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.09063,
+    12.53705,
+    105.09063,
+    12.53705
+],
+  "geometry": {"coordinates":[105.09063,12.53705],"type":"Point"}
+}

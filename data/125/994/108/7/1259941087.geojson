@@ -1,0 +1,70 @@
+{
+  "id": 1259941087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.63503,12.71198,103.63503,12.71198",
+    "geom:latitude":12.71198,
+    "geom:longitude":103.63503,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Kampout Ang",
+    "gn:country_code":"KH",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11446602,
+    "gn:latitude":12.71198,
+    "gn:longitude":103.63503,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Kampout Ang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Kampout Ang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673023,
+        1108564595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11446602
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"1d1e20f7339711098ff977e349361705",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564595,
+            "locality_id":1259941087,
+            "region_id":85673023
+        }
+    ],
+    "wof:id":1259941087,
+    "wof:lastmodified":1537654008,
+    "wof:name":"Kampout Ang",
+    "wof:parent_id":1108564595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.63503,
+    12.71198,
+    103.63503,
+    12.71198
+],
+  "geometry": {"coordinates":[103.63503,12.71198],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1343560241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.94454,12.66327,104.94454,12.66327",
+    "geom:latitude":12.66327,
+    "geom:longitude":104.94454,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Tboung Krapeu",
+    "gn:country_code":"KH",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1823966,
+    "gn:latitude":12.66327,
+    "gn:longitude":104.94454,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Tboung Krapeu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Tboung Krapeu"
+    ],
+    "name:und_x_variant":[
+        "Tbong Krap\u0153u",
+        "Phum Thbaung Kr\u00e2peu",
+        "Thong Krapoeu",
+        "Phum\u012d Tb\u00e2ng Kr\u00e2peu",
+        "Phum\u012d Tbong Kr\u00e2paeu",
+        "Phum\u012d Tb\u00f4ng Kr\u00e2peu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673057,
+        1108564829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1823966
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"104b548ed05896b584d2b9858b0f02b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564829,
+            "locality_id":1343560241,
+            "region_id":85673057
+        }
+    ],
+    "wof:id":1343560241,
+    "wof:lastmodified":1537653420,
+    "wof:name":"Tboung Krapeu",
+    "wof:parent_id":1108564829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.94454,
+    12.66327,
+    104.94454,
+    12.66327
+],
+  "geometry": {"coordinates":[104.94454,12.66327],"type":"Point"}
+}

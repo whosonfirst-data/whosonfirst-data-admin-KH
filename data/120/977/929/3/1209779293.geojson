@@ -1,0 +1,74 @@
+{
+  "id": 1209779293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.32439,14.00722,106.32439,14.00722",
+    "geom:latitude":14.00722,
+    "geom:longitude":106.32439,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Ket Moeang",
+    "gn:country_code":"KH",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827770,
+    "gn:latitude":14.00722,
+    "gn:longitude":106.32439,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Ket Moeang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Ket Moeang"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d K\u00e9t M\u0153\u0306u\u0103ng",
+        "Phum\u012d K\u00e9t M\u0153\u0103ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673075,
+        1108564835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827770
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"880de28492fc00cd2a2b4181c560a25e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564835,
+            "locality_id":1209779293,
+            "region_id":85673075
+        }
+    ],
+    "wof:id":1209779293,
+    "wof:lastmodified":1537653748,
+    "wof:name":"Ket Moeang",
+    "wof:parent_id":1108564835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.32439,
+    14.00722,
+    106.32439,
+    14.00722
+],
+  "geometry": {"coordinates":[106.32438999999999,14.00722],"type":"Point"}
+}

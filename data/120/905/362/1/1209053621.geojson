@@ -1,0 +1,64 @@
+{
+  "id": 1209053621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.40513,13.18881,102.40513,13.18881",
+    "geom:latitude":13.18881,
+    "geom:longitude":102.40513,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Ou Anlok",
+    "gn:country_code":"KH",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11320708,
+    "gn:latitude":13.18881,
+    "gn:longitude":102.40513,
+    "gn:modification_date":"2017-01-06",
+    "gn:name":"Ou Anlok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Ou Anlok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11320708
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"1ad39d6bbccaaf7013ef47ad3122f3fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209053621
+        }
+    ],
+    "wof:id":1209053621,
+    "wof:lastmodified":1537653968,
+    "wof:name":"Ou Anlok",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.40513,
+    13.18881,
+    102.40513,
+    13.18881
+],
+  "geometry": {"coordinates":[102.40513,13.18881],"type":"Point"}
+}

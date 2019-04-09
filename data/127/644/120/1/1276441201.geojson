@@ -1,0 +1,74 @@
+{
+  "id": 1276441201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.77294,13.15785,104.77294,13.15785",
+    "geom:latitude":13.15785,
+    "geom:longitude":104.77294,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Kien Teak",
+    "gn:country_code":"KH",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827546,
+    "gn:latitude":13.15785,
+    "gn:longitude":104.77294,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Kien Teak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Kien Teak"
+    ],
+    "name:und_x_variant":[
+        "Phum Kieut\u00e9ac",
+        "Phum\u012d Ki\u0115n Te\u0103k"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673057,
+        1108564773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827546
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"49e0a12aa0673935b8dd3fa3b31f9747",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564773,
+            "locality_id":1276441201,
+            "region_id":85673057
+        }
+    ],
+    "wof:id":1276441201,
+    "wof:lastmodified":1537653728,
+    "wof:name":"Kien Teak",
+    "wof:parent_id":1108564773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.77294,
+    13.15785,
+    104.77294,
+    13.15785
+],
+  "geometry": {"coordinates":[104.77294000000001,13.15785],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1260214963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.63748,12.21689,105.63748,12.21689",
+    "geom:latitude":12.21689,
+    "geom:longitude":105.63748,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Phum Tukdach",
+    "gn:country_code":"KH",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1823633,
+    "gn:latitude":12.21689,
+    "gn:longitude":105.63748,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Phum Tukdach",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum T\u0153\u0306k D\u0103ch"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1791\u17b9\u1780\u178a\u17b6\u1785\u17cb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        1108804319,
+        1108564719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1823633
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"f2c9c3a3bafc330b04dc50538b650de1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564719,
+            "locality_id":1260214963,
+            "region_id":1108804319
+        }
+    ],
+    "wof:id":1260214963,
+    "wof:lastmodified":1537653393,
+    "wof:name":"Phum Tukdach",
+    "wof:parent_id":1108564719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.63748,
+    12.21689,
+    105.63748,
+    12.21689
+],
+  "geometry": {"coordinates":[105.63748,12.21689],"type":"Point"}
+}

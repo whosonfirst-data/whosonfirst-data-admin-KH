@@ -1,0 +1,71 @@
+{
+  "id": 1209975731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.48162,10.73732,104.48162,10.73732",
+    "geom:latitude":10.73732,
+    "geom:longitude":104.48162,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Sala Khum Baniev",
+    "gn:country_code":"KH",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1822375,
+    "gn:latitude":10.73732,
+    "gn:longitude":104.48162,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sala Kh\u016dm Bani\u0115v",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum Sala Banieu",
+        "Sala Kh\u016dm Bani\u0115v"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673093,
+        1108564657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1822375
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"a5b2fdecc7ab0e51cdca8d2c4d875ca7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564657,
+            "locality_id":1209975731,
+            "region_id":85673093
+        }
+    ],
+    "wof:id":1209975731,
+    "wof:lastmodified":1537653332,
+    "wof:name":"Sala Khum Baniev",
+    "wof:parent_id":1108564657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.48162,
+    10.73732,
+    104.48162,
+    10.73732
+],
+  "geometry": {"coordinates":[104.48162000000001,10.73732],"type":"Point"}
+}

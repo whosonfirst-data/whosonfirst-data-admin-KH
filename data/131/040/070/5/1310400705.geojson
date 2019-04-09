@@ -1,0 +1,70 @@
+{
+  "id": 1310400705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.00721,12.98837,107.00721,12.98837",
+    "geom:latitude":12.98837,
+    "geom:longitude":107.00721,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Peam Trav",
+    "gn:country_code":"KH",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11483570,
+    "gn:latitude":12.98837,
+    "gn:longitude":107.00721,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Peam Trav",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Peam Trav"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673085,
+        1108564699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11483570
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"4371f2fd7b7ff9f2bcec116ca4b8ee5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564699,
+            "locality_id":1310400705,
+            "region_id":85673085
+        }
+    ],
+    "wof:id":1310400705,
+    "wof:lastmodified":1537654060,
+    "wof:name":"Peam Trav",
+    "wof:parent_id":1108564699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.00721,
+    12.98837,
+    107.00721,
+    12.98837
+],
+  "geometry": {"coordinates":[107.00721,12.98837],"type":"Point"}
+}

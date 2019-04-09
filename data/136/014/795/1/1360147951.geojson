@@ -1,0 +1,74 @@
+{
+  "id": 1360147951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.04316,10.93289,106.04316,10.93289",
+    "geom:latitude":10.93289,
+    "geom:longitude":106.04316,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Doun Nouy",
+    "gn:country_code":"KH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828469,
+    "gn:latitude":10.93289,
+    "gn:longitude":106.04316,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Doun Nouy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Doun Nouy"
+    ],
+    "name:und_x_variant":[
+        "Phum D\u00f4n N\u00f4i",
+        "Phum\u012d Don Noy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673105,
+        1108564627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828469
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"08744d5af6ee56e037a532ed8bf5a218",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564627,
+            "locality_id":1360147951,
+            "region_id":85673105
+        }
+    ],
+    "wof:id":1360147951,
+    "wof:lastmodified":1537653808,
+    "wof:name":"Doun Nouy",
+    "wof:parent_id":1108564627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.04316,
+    10.93289,
+    106.04316,
+    10.93289
+],
+  "geometry": {"coordinates":[106.04316,10.93289],"type":"Point"}
+}

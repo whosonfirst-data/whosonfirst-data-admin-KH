@@ -1,0 +1,65 @@
+{
+  "id": 1209265273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.63026,13.24568,103.63026,13.24568",
+    "geom:latitude":13.24568,
+    "geom:longitude":103.63026,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Phumi Kampong Prahok",
+    "gn:country_code":"KH",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828246,
+    "gn:latitude":13.24568,
+    "gn:longitude":103.63026,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d K\u00e2mp\u00f3ng Pr\u00e2h\u014fk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum Kompong Krahok",
+        "Phum\u012d K\u00e2mp\u00f3ng Pr\u00e2h\u014fk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828246
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"0cb1adcc2939d3e7e78aa3a16faaf3ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209265273
+        }
+    ],
+    "wof:id":1209265273,
+    "wof:lastmodified":1537653789,
+    "wof:name":"Phumi Kampong Prahok",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.63026,
+    13.24568,
+    103.63026,
+    13.24568
+],
+  "geometry": {"coordinates":[103.63026000000001,13.24568],"type":"Point"}
+}

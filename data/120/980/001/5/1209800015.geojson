@@ -1,0 +1,72 @@
+{
+  "id": 1209800015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.96674,12.78014,105.96674,12.78014",
+    "geom:latitude":12.78014,
+    "geom:longitude":105.96674,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Sambor",
+    "gn:country_code":"KH",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1822361,
+    "gn:latitude":12.78014,
+    "gn:longitude":105.96674,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"S\u00e2mbor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum\u012d S\u00e2mbor",
+        "Sambaur",
+        "S\u00e2mbor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673081,
+        421188051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1822361
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"f4a7e32f7dfa8e23f00f19cc04f45a02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421188051,
+            "locality_id":1209800015,
+            "region_id":85673081
+        }
+    ],
+    "wof:id":1209800015,
+    "wof:lastmodified":1537653331,
+    "wof:name":"Sambor",
+    "wof:parent_id":421188051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.96674,
+    12.78014,
+    105.96674,
+    12.78014
+],
+  "geometry": {"coordinates":[105.96674,12.78014],"type":"Point"}
+}

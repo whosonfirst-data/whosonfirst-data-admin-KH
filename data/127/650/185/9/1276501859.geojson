@@ -1,0 +1,74 @@
+{
+  "id": 1276501859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.31553,13.78503,103.31553,13.78503",
+    "geom:latitude":13.78503,
+    "geom:longitude":103.31553,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Paoy Char",
+    "gn:country_code":"KH",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11375355,
+    "gn:latitude":13.78503,
+    "gn:longitude":103.31553,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Paoy Char",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Paoy Char"
+    ],
+    "name:khm_x_variant":[
+        "Phum Tr\u00e2pe\u0103ng Thm\u00e2 Khang Cheung",
+        "\u1797\u17bc\u1798\u17b7 \u178f\u17d2\u179a\u1796\u17b6\u17c6\u1784\u1790\u17d2\u1798\u1781\u17b6\u1784\u1787\u17be\u1784"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673011,
+        1108564763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11375355
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"41f0aa5605fd91a4c65ef8d71c365dc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564763,
+            "locality_id":1276501859,
+            "region_id":85673011
+        }
+    ],
+    "wof:id":1276501859,
+    "wof:lastmodified":1537653990,
+    "wof:name":"Paoy Char",
+    "wof:parent_id":1108564763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.31553,
+    13.78503,
+    103.31553,
+    13.78503
+],
+  "geometry": {"coordinates":[103.31553,13.78503],"type":"Point"}
+}

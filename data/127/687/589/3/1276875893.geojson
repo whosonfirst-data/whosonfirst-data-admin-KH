@@ -1,0 +1,74 @@
+{
+  "id": 1276875893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.32544,11.92758,105.32544,11.92758",
+    "geom:latitude":11.92758,
+    "geom:longitude":105.32544,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Moha Khnhoung",
+    "gn:country_code":"KH",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827652,
+    "gn:latitude":11.92758,
+    "gn:longitude":105.32544,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Moha Khnhoung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Moha Khnhoung"
+    ],
+    "name:und_x_variant":[
+        "Phum Khnhuong",
+        "Phum\u012d Khnhung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673041,
+        1108564701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827652
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"83dfa22a1ce87b7499157a2da1fc8087",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564701,
+            "locality_id":1276875893,
+            "region_id":85673041
+        }
+    ],
+    "wof:id":1276875893,
+    "wof:lastmodified":1537653738,
+    "wof:name":"Moha Khnhoung",
+    "wof:parent_id":1108564701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.32544,
+    11.92758,
+    105.32544,
+    11.92758
+],
+  "geometry": {"coordinates":[105.32544,11.92758],"type":"Point"}
+}

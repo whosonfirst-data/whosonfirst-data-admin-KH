@@ -1,0 +1,71 @@
+{
+  "id": 1309909143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.19133,12.13541,105.19133,12.13541",
+    "geom:latitude":12.13541,
+    "geom:longitude":105.19133,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Phumi Tuol Khpos",
+    "gn:country_code":"KH",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1823061,
+    "gn:latitude":12.13541,
+    "gn:longitude":105.19133,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Tu\u014fl Khp\u00f3s",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum\u012d Tu\u014fl Khpu\u014fs",
+        "Phum\u012d Tu\u014fl Khp\u00f3s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673041,
+        1108564783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1823061
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"a3149e0d59b73861a80c007dde5a86b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564783,
+            "locality_id":1309909143,
+            "region_id":85673041
+        }
+    ],
+    "wof:id":1309909143,
+    "wof:lastmodified":1537653354,
+    "wof:name":"Phumi Tuol Khpos",
+    "wof:parent_id":1108564783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.19133,
+    12.13541,
+    105.19133,
+    12.13541
+],
+  "geometry": {"coordinates":[105.19132999999999,12.13541],"type":"Point"}
+}

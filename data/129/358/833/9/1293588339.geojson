@@ -1,0 +1,71 @@
+{
+  "id": 1293588339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.44545,12.86667,105.44545,12.86667",
+    "geom:latitude":12.86667,
+    "geom:longitude":105.44545,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Phum Russey Prey",
+    "gn:country_code":"KH",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825419,
+    "gn:latitude":12.86667,
+    "gn:longitude":105.44545,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Phum Russey Prey",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum\u012d R\u016dssei Prey",
+        "Phum\u012d R\u0153ssei Prey"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673057,
+        421188047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825419
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"4dcb3af226187d4e7dc8d95f1dde080b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421188047,
+            "locality_id":1293588339,
+            "region_id":85673057
+        }
+    ],
+    "wof:id":1293588339,
+    "wof:lastmodified":1537653539,
+    "wof:name":"Phum Russey Prey",
+    "wof:parent_id":421188047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.44545,
+    12.86667,
+    105.44545,
+    12.86667
+],
+  "geometry": {"coordinates":[105.44544999999999,12.86667],"type":"Point"}
+}

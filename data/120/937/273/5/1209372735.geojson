@@ -1,0 +1,67 @@
+{
+  "id": 1209372735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.67442,13.68897,103.67442,13.68897",
+    "geom:latitude":13.68897,
+    "geom:longitude":103.67442,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Phum Svay Lompea",
+    "gn:country_code":"KH",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11586823,
+    "gn:latitude":13.68897,
+    "gn:longitude":103.67442,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Phum Svay L\u00f4mp\u00e9a",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Svay L\u00f4mp\u00e9a"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u179f\u17d2\u179c\u17b6\u1799\u179b\u1796\u17b6"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11586823
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"f00388ef0c7998a2cc32467c5c5b8d79",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209372735
+        }
+    ],
+    "wof:id":1209372735,
+    "wof:lastmodified":1537654117,
+    "wof:name":"Phum Svay Lompea",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.67442,
+    13.68897,
+    103.67442,
+    13.68897
+],
+  "geometry": {"coordinates":[103.67442,13.68897],"type":"Point"}
+}

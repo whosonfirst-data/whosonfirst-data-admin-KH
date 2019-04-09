@@ -1,0 +1,74 @@
+{
+  "id": 1310700917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.25357,12.73433,104.25357,12.73433",
+    "geom:latitude":12.73433,
+    "geom:longitude":104.25357,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Preaek Damrei Koun",
+    "gn:country_code":"KH",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11602738,
+    "gn:latitude":12.73433,
+    "gn:longitude":104.25357,
+    "gn:modification_date":"2017-07-06",
+    "gn:name":"Preaek Damrei Koun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Preaek Damrei Koun"
+    ],
+    "name:khm_x_variant":[
+        "\u1796\u17d2\u179a\u17c2\u1780\u178a\u17c6\u179a\u17b8\u1780\u17bc\u1793",
+        "Pr\u00eak D\u00e2mrei Kon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673057,
+        1108564849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11602738
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"ba9597ca222dea2855413b47d3e05b8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564849,
+            "locality_id":1310700917,
+            "region_id":85673057
+        }
+    ],
+    "wof:id":1310700917,
+    "wof:lastmodified":1537654129,
+    "wof:name":"Preaek Damrei Koun",
+    "wof:parent_id":1108564849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.25357,
+    12.73433,
+    104.25357,
+    12.73433
+],
+  "geometry": {"coordinates":[104.25357,12.73433],"type":"Point"}
+}

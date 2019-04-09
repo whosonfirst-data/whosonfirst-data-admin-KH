@@ -1,0 +1,73 @@
+{
+  "id": 1326991229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.37811,12.94428,103.37811,12.94428",
+    "geom:latitude":12.94428,
+    "geom:longitude":103.37811,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Phum Poy Sangke",
+    "gn:country_code":"KH",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11349816,
+    "gn:latitude":12.94428,
+    "gn:longitude":103.37811,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Phum P\u014fy S\u0103ngke",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum P\u014fy S\u0103ngke"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1794\u17c9\u17bc\u1799\u179f\u1784\u17d2\u1780\u17c2\u179a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673015,
+        421202239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11349816
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"2f71f8018b5f3cdeb3dbc37b877c71a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421202239,
+            "locality_id":1326991229,
+            "region_id":85673015
+        }
+    ],
+    "wof:id":1326991229,
+    "wof:lastmodified":1537653976,
+    "wof:name":"Phum Poy Sangke",
+    "wof:parent_id":421202239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.37811,
+    12.94428,
+    103.37811,
+    12.94428
+],
+  "geometry": {"coordinates":[103.37811000000001,12.94428],"type":"Point"}
+}

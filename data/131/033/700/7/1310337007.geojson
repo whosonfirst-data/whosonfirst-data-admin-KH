@@ -1,0 +1,67 @@
+{
+  "id": 1310337007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.20429,13.04059,105.20429,13.04059",
+    "geom:latitude":13.04059,
+    "geom:longitude":105.20429,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Phumi Veal Pring",
+    "gn:country_code":"KH",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1822917,
+    "gn:latitude":13.04059,
+    "gn:longitude":105.20429,
+    "gn:modification_date":"1993-12-30",
+    "gn:name":"Phum\u012d V\u00e9al Pring",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673057,
+        421188047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1822917
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"19f50459132825f55c3fb8f5d76bc666",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421188047,
+            "locality_id":1310337007,
+            "region_id":85673057
+        }
+    ],
+    "wof:id":1310337007,
+    "wof:lastmodified":1536662594,
+    "wof:name":"Phumi Veal Pring",
+    "wof:parent_id":421188047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.20429,
+    13.04059,
+    105.20429,
+    13.04059
+],
+  "geometry": {"coordinates":[105.20429,13.04059],"type":"Point"}
+}

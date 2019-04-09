@@ -1,0 +1,71 @@
+{
+  "id": 1243368561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.37638,12.88758,104.37638,12.88758",
+    "geom:latitude":12.88758,
+    "geom:longitude":104.37638,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Phumi Bat Dai",
+    "gn:country_code":"KH",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829542,
+    "gn:latitude":12.88758,
+    "gn:longitude":104.37638,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Bat Dai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Baday",
+        "Phum\u012d Bat Dai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673057,
+        1108564849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829542
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"4495e4c756200cdd9bc385731c4cf405",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564849,
+            "locality_id":1243368561,
+            "region_id":85673057
+        }
+    ],
+    "wof:id":1243368561,
+    "wof:lastmodified":1537653890,
+    "wof:name":"Phumi Bat Dai",
+    "wof:parent_id":1108564849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.37638,
+    12.88758,
+    104.37638,
+    12.88758
+],
+  "geometry": {"coordinates":[104.37638,12.88758],"type":"Point"}
+}

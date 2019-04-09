@@ -1,0 +1,74 @@
+{
+  "id": 1276396457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.87535,13.66598,102.87535,13.66598",
+    "geom:latitude":13.66598,
+    "geom:longitude":102.87535,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Chrey",
+    "gn:country_code":"KH",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828779,
+    "gn:latitude":13.66598,
+    "gn:longitude":102.87535,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Chrey",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Chrey"
+    ],
+    "name:und_x_variant":[
+        "Phum Kok Chrey",
+        "Phum\u012d Chrey"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673011,
+        421198129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828779
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"0ab3efa62674d323921687f46494740f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421198129,
+            "locality_id":1276396457,
+            "region_id":85673011
+        }
+    ],
+    "wof:id":1276396457,
+    "wof:lastmodified":1537653832,
+    "wof:name":"Chrey",
+    "wof:parent_id":421198129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.87535,
+    13.66598,
+    102.87535,
+    13.66598
+],
+  "geometry": {"coordinates":[102.87535,13.66598],"type":"Point"}
+}

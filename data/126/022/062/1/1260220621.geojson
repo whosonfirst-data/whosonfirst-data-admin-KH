@@ -1,0 +1,71 @@
+{
+  "id": 1260220621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.71206,11.88287,105.71206,11.88287",
+    "geom:latitude":11.88287,
+    "geom:longitude":105.71206,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Phumi Dang Kambet",
+    "gn:country_code":"KH",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828587,
+    "gn:latitude":11.88287,
+    "gn:longitude":105.71206,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Phum\u012d D\u00e2ng K\u00e2mb\u0115t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum Dang Nombet",
+        "Phum\u012d D\u00e2ng K\u00e2mb\u0115t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        1108804319,
+        421183891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828587
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"a0368a01d972941bacf723ec777dd937",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421183891,
+            "locality_id":1260220621,
+            "region_id":1108804319
+        }
+    ],
+    "wof:id":1260220621,
+    "wof:lastmodified":1537653817,
+    "wof:name":"Phumi Dang Kambet",
+    "wof:parent_id":421183891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.71206,
+    11.88287,
+    105.71206,
+    11.88287
+],
+  "geometry": {"coordinates":[105.71205999999999,11.88287],"type":"Point"}
+}

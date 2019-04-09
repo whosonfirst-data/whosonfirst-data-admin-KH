@@ -1,0 +1,68 @@
+{
+  "id": 1209270353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.77708,13.82467,103.77708,13.82467",
+    "geom:latitude":13.82467,
+    "geom:longitude":103.77708,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Vien",
+    "gn:country_code":"KH",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1822882,
+    "gn:latitude":13.82467,
+    "gn:longitude":103.77708,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Vien",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Vien"
+    ],
+    "name:khm_x_variant":[
+        "Phum\u012d Vi\u0115n",
+        "Phum Vi\u0115n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1822882
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"c498416287af0ac1b161b12e81d8153d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209270353
+        }
+    ],
+    "wof:id":1209270353,
+    "wof:lastmodified":1537653342,
+    "wof:name":"Vien",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.77708,
+    13.82467,
+    103.77708,
+    13.82467
+],
+  "geometry": {"coordinates":[103.77708,13.82467],"type":"Point"}
+}

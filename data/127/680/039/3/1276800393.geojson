@@ -1,0 +1,71 @@
+{
+  "id": 1276800393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.6604,11.32692,104.6604,11.32692",
+    "geom:latitude":11.32692,
+    "geom:longitude":104.6604,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Phumi Haong",
+    "gn:country_code":"KH",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828414,
+    "gn:latitude":11.32692,
+    "gn:longitude":104.6604,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Ha\u00f4ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum H\u00f4ng",
+        "Phum\u012d Ha\u00f4ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673053,
+        1108564715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828414
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"5079b02b8455b88000ee0f47f64cd7e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564715,
+            "locality_id":1276800393,
+            "region_id":85673053
+        }
+    ],
+    "wof:id":1276800393,
+    "wof:lastmodified":1537653804,
+    "wof:name":"Phumi Haong",
+    "wof:parent_id":1108564715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.6604,
+    11.32692,
+    104.6604,
+    11.32692
+],
+  "geometry": {"coordinates":[104.6604,11.32692],"type":"Point"}
+}

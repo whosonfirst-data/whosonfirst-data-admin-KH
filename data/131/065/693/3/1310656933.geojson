@@ -1,0 +1,67 @@
+{
+  "id": 1310656933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.30424,13.82902,107.30424,13.82902",
+    "geom:latitude":13.82902,
+    "geom:longitude":107.30424,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Phumi Pu Yi",
+    "gn:country_code":"KH",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825484,
+    "gn:latitude":13.82902,
+    "gn:longitude":107.30424,
+    "gn:modification_date":"2009-05-12",
+    "gn:name":"Phum\u012d Pu Yi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673089,
+        1108564575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825484
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"16d7da6ec2c895b5a15d43c175845e15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564575,
+            "locality_id":1310656933,
+            "region_id":85673089
+        }
+    ],
+    "wof:id":1310656933,
+    "wof:lastmodified":1536698831,
+    "wof:name":"Phumi Pu Yi",
+    "wof:parent_id":1108564575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.30424,
+    13.82902,
+    107.30424,
+    13.82902
+],
+  "geometry": {"coordinates":[107.30423999999999,13.82902],"type":"Point"}
+}

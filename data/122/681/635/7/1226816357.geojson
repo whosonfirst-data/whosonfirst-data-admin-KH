@@ -1,0 +1,71 @@
+{
+  "id": 1226816357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.29401,10.54914,104.29401,10.54914",
+    "geom:latitude":10.54914,
+    "geom:longitude":104.29401,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Phumi Trapeang Anchot",
+    "gn:country_code":"KH",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1823471,
+    "gn:latitude":10.54914,
+    "gn:longitude":104.29401,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Phum\u012d Tr\u00e2pe\u0103ng \u00c2nchot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum\u012d Tr\u00e2pe\u0103ng \u00c2nchut",
+        "Phum\u012d Tr\u00e2pe\u0103ng \u00c2nchot"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673099,
+        1108564665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1823471
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"5b8eefaa6bcdea332c7e2c6409a4cbdd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564665,
+            "locality_id":1226816357,
+            "region_id":85673099
+        }
+    ],
+    "wof:id":1226816357,
+    "wof:lastmodified":1537653380,
+    "wof:name":"Phumi Trapeang Anchot",
+    "wof:parent_id":1108564665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.29401,
+    10.54914,
+    104.29401,
+    10.54914
+],
+  "geometry": {"coordinates":[104.29401,10.54914],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209515807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.44272,11.4503,104.44272,11.4503",
+    "geom:latitude":11.4503,
+    "geom:longitude":104.44272,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Tang Krouch",
+    "gn:country_code":"KH",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11450590,
+    "gn:latitude":11.4503,
+    "gn:longitude":104.44272,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Tang Krouch",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Tang Krouch"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11450590
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"9b5d5bc8c3427d3055a63b5c4defa187",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209515807
+        }
+    ],
+    "wof:id":1209515807,
+    "wof:lastmodified":1537654013,
+    "wof:name":"Tang Krouch",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.44272,
+    11.4503,
+    104.44272,
+    11.4503
+],
+  "geometry": {"coordinates":[104.44271999999999,11.4503],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1309956487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.10043,13.34427,103.10043,13.34427",
+    "geom:latitude":13.34427,
+    "geom:longitude":103.10043,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Phum Nikum Preah Sihanouk",
+    "gn:country_code":"KH",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8442098,
+    "gn:latitude":13.34427,
+    "gn:longitude":103.10043,
+    "gn:modification_date":"2016-12-04",
+    "gn:name":"Phum Nik\u016dm Pre\u0103h Sihanouk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Nik\u016dm Pre\u0103h Sihanouk"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1793\u17b7\u1782\u1798\u1796\u17d2\u179a\u17c7\u179f\u17b8\u17a0\u17b6\u1793\u17bb",
+        "Phum Nik\u016bm Pre\u0103h Sihanouk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673015,
+        1108564871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8442098
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"c3ad3404c92f905f0ad4896bae330683",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564871,
+            "locality_id":1309956487,
+            "region_id":85673015
+        }
+    ],
+    "wof:id":1309956487,
+    "wof:lastmodified":1537653967,
+    "wof:name":"Phum Nikum Preah Sihanouk",
+    "wof:parent_id":1108564871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.10043,
+    13.34427,
+    103.10043,
+    13.34427
+],
+  "geometry": {"coordinates":[103.10043,13.34427],"type":"Point"}
+}

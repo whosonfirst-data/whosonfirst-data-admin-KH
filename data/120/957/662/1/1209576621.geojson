@@ -1,0 +1,72 @@
+{
+  "id": 1209576621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.36678,12.71753,103.36678,12.71753",
+    "geom:latitude":12.71753,
+    "geom:longitude":103.36678,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Phum Russei Thmei",
+    "gn:country_code":"KH",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825410,
+    "gn:latitude":12.71753,
+    "gn:longitude":103.36678,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Phum R\u016dssei Thmei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum R\u016dssei Thmei"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u17ac\u179f\u17d2\u179f\u17b8\u1790\u17d2\u1798\u17b8"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d \u00c2nk\u016dng Kop Tbong",
+        "Phum\u012d R\u016dssei Thmei",
+        "Phum\u012d R\u0153ssei Thmei"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825410
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"53e773766728c2949eb9baea925f6eb3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209576621
+        }
+    ],
+    "wof:id":1209576621,
+    "wof:lastmodified":1537653538,
+    "wof:name":"Phum Russei Thmei",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.36678,
+    12.71753,
+    103.36678,
+    12.71753
+],
+  "geometry": {"coordinates":[103.36678000000001,12.71753],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1327367869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.25114,11.89314,106.25114,11.89314",
+    "geom:latitude":11.89314,
+    "geom:longitude":106.25114,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Choam Ta Mau",
+    "gn:country_code":"KH",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11482719,
+    "gn:latitude":11.89314,
+    "gn:longitude":106.25114,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Choam Ta Mau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Choam Ta Mau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        1108804319,
+        1108564735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11482719
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"edacae051237f771c805072c46b8be94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564735,
+            "locality_id":1327367869,
+            "region_id":1108804319
+        }
+    ],
+    "wof:id":1327367869,
+    "wof:lastmodified":1537654055,
+    "wof:name":"Choam Ta Mau",
+    "wof:parent_id":1108564735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.25114,
+    11.89314,
+    106.25114,
+    11.89314
+],
+  "geometry": {"coordinates":[106.25114000000001,11.89314],"type":"Point"}
+}

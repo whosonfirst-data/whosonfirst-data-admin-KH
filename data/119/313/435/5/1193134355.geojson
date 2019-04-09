@@ -1,0 +1,75 @@
+{
+  "id": 1193134355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.06931,11.25138,103.06931,11.25138",
+    "geom:latitude":11.25138,
+    "geom:longitude":103.06931,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Preaek Khsach",
+    "gn:country_code":"KH",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1826018,
+    "gn:latitude":11.25138,
+    "gn:longitude":103.06931,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Preaek Khsach",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Preaek Khsach"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1796\u17d2\u179a\u17c2\u1780\u1781\u17d2\u179f\u17b6\u1785\u17cb\u1792\u17c6",
+        "Phum Pr\u00eak Khsach Thom"
+    ],
+    "name:und_x_variant":[
+        "Prek Kassatt",
+        "Phum\u012d Pr\u00eak Khsach Thom",
+        "Prek Krusat",
+        "Pr\u00e8k Kr\u00e2sat",
+        "Phum\u012d Pr\u00eak Khs\u0103ch Thum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1826018
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"2c23eb0c0c44f40eacc498ba5641bec5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1193134355,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1193134355,
+    "wof:lastmodified":1537653586,
+    "wof:name":"Preaek Khsach",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.06931,
+    11.25138,
+    103.06931,
+    11.25138
+],
+  "geometry": {"coordinates":[103.06931,11.25138],"type":"Point"}
+}

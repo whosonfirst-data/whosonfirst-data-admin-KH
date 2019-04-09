@@ -1,0 +1,67 @@
+{
+  "id": 1209201725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.94728,12.61451,103.94728,12.61451",
+    "geom:latitude":12.61451,
+    "geom:longitude":103.94728,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Phum Pteah Sre",
+    "gn:country_code":"KH",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11538830,
+    "gn:latitude":12.61451,
+    "gn:longitude":103.94728,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Phum Pteah Sr\u00ea",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Pteah Sr\u00ea"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1795\u17d2\u1791\u17c7\u179f\u17d2\u179a\u17c2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11538830
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"b794bcc5fa03acd8de10b2223768c4ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209201725
+        }
+    ],
+    "wof:id":1209201725,
+    "wof:lastmodified":1537654099,
+    "wof:name":"Phum Pteah Sre",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.94728,
+    12.61451,
+    103.94728,
+    12.61451
+],
+  "geometry": {"coordinates":[103.94728000000001,12.61451],"type":"Point"}
+}

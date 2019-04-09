@@ -1,0 +1,72 @@
+{
+  "id": 1276975101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.22269,12.94123,107.22269,12.94123",
+    "geom:latitude":12.94123,
+    "geom:longitude":107.22269,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Phumi Romat",
+    "gn:country_code":"KH",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825321,
+    "gn:latitude":12.94123,
+    "gn:longitude":107.22269,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d R\u00f4mat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Rmat",
+        "Phum\u012d R\u2019Mat",
+        "Phum\u012d R\u00f4mat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673085,
+        1108564699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825321
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"c6d78628946d1a65b488d56b245ad3f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564699,
+            "locality_id":1276975101,
+            "region_id":85673085
+        }
+    ],
+    "wof:id":1276975101,
+    "wof:lastmodified":1537653531,
+    "wof:name":"Phumi Romat",
+    "wof:parent_id":1108564699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.22269,
+    12.94123,
+    107.22269,
+    12.94123
+],
+  "geometry": {"coordinates":[107.22269,12.94123],"type":"Point"}
+}

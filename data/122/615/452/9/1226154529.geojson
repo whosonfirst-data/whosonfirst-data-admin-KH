@@ -1,0 +1,78 @@
+{
+  "id": 1226154529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.43404,12.20961,104.43404,12.20961",
+    "geom:latitude":12.20961,
+    "geom:longitude":104.43404,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Krang Skear",
+    "gn:country_code":"KH",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1830491,
+    "gn:latitude":12.20961,
+    "gn:longitude":104.43404,
+    "gn:modification_date":"2017-07-05",
+    "gn:name":"Krang Skear",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Krang Skear"
+    ],
+    "name:khm_x_variant":[
+        "\u1782\u17d2\u179a\u17b6\u17c6\u1784\u179f\u17d2\u1782\u17b6\u179a"
+    ],
+    "name:und_x_variant":[
+        "Phum Krang Skea",
+        "Kre\u0103ng Sk\u00e9a",
+        "Kre\u0103ng Sk\u00e9ar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673047,
+        1108564885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1830491
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"6a4a9b8435a00828256fd3354191ffc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564885,
+            "locality_id":1226154529,
+            "region_id":85673047
+        }
+    ],
+    "wof:id":1226154529,
+    "wof:lastmodified":1537653940,
+    "wof:name":"Krang Skear",
+    "wof:parent_id":1108564885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.43404,
+    12.20961,
+    104.43404,
+    12.20961
+],
+  "geometry": {"coordinates":[104.43404,12.20961],"type":"Point"}
+}

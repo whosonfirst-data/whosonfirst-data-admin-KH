@@ -1,0 +1,67 @@
+{
+  "id": 1310076447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.27697,11.22743,105.27697,11.22743",
+    "geom:latitude":11.22743,
+    "geom:longitude":105.27697,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Phumi Peam Ro",
+    "gn:country_code":"KH",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1826593,
+    "gn:latitude":11.22743,
+    "gn:longitude":105.27697,
+    "gn:modification_date":"1993-12-30",
+    "gn:name":"Phum\u012d P\u00e9am R\u00f4",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673067,
+        421191397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1826593
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"b4927e113f55c31df4cc8b94e0147d54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421191397,
+            "locality_id":1310076447,
+            "region_id":85673067
+        }
+    ],
+    "wof:id":1310076447,
+    "wof:lastmodified":1537036926,
+    "wof:name":"Phumi Peam Ro",
+    "wof:parent_id":421191397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.27697,
+    11.22743,
+    105.27697,
+    11.22743
+],
+  "geometry": {"coordinates":[105.27697000000001,11.22743],"type":"Point"}
+}

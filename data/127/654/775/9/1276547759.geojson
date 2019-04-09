@@ -1,0 +1,67 @@
+{
+  "id": 1276547759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.50561,11.72371,104.50561,11.72371",
+    "geom:latitude":11.72371,
+    "geom:longitude":104.50561,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Phumi Chambak Sar",
+    "gn:country_code":"KH",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829240,
+    "gn:latitude":11.72371,
+    "gn:longitude":104.50561,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Phum\u012d Ch\u00e2mb\u00e1k S\u00e2r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673053,
+        1108564873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829240
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"604c8ec70810a5dad01741517d551e37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564873,
+            "locality_id":1276547759,
+            "region_id":85673053
+        }
+    ],
+    "wof:id":1276547759,
+    "wof:lastmodified":1536987860,
+    "wof:name":"Phumi Chambak Sar",
+    "wof:parent_id":1108564873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.50561,
+    11.72371,
+    104.50561,
+    11.72371
+],
+  "geometry": {"coordinates":[104.50561,11.72371],"type":"Point"}
+}

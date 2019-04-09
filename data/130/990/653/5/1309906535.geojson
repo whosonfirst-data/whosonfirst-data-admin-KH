@@ -1,0 +1,73 @@
+{
+  "id": 1309906535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.55,11.51667,104.55,11.51667",
+    "geom:latitude":11.51667,
+    "geom:longitude":104.55,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Vott Tepkhanaram",
+    "gn:cc2":"KH",
+    "gn:country_code":"KH",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1821346,
+    "gn:latitude":11.51667,
+    "gn:longitude":104.55,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"V\u00f4tt T\u00e9pkh\u00e2naram",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vat Tatep",
+        "Vatt Tepkhnaram",
+        "V\u00f4tt T\u00e9pkh\u00e2naram"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673053,
+        1108564819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1821346
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"ee597f3ec9bf4a42396d0b87d57ba0d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564819,
+            "locality_id":1309906535,
+            "region_id":85673053
+        }
+    ],
+    "wof:id":1309906535,
+    "wof:lastmodified":1537653317,
+    "wof:name":"Vott Tepkhanaram",
+    "wof:parent_id":1108564819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.55,
+    11.51667,
+    104.55,
+    11.51667
+],
+  "geometry": {"coordinates":[104.55,11.51667],"type":"Point"}
+}

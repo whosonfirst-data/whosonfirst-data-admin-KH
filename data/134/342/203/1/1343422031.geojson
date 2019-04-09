@@ -1,0 +1,77 @@
+{
+  "id": 1343422031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.45888,12.86262,103.45888,12.86262",
+    "geom:latitude":12.86262,
+    "geom:longitude":103.45888,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Phum Tuol Ampil",
+    "gn:country_code":"KH",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1823091,
+    "gn:latitude":12.86262,
+    "gn:longitude":103.45888,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Phum Tu\u014fl \u00c2mp\u012dl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Tu\u014fl \u00c2mp\u012dl"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1791\u17bd\u179b\u17a2\u17c6\u1796\u17b7\u179b"
+    ],
+    "name:und_x_variant":[
+        "P\u2019um T\u00fbol Pompel",
+        "Phum\u012d Tu\u014fl \u00c2mp\u012dl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673015,
+        1108564739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1823091
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"a006728ccad8ffad76a23928aed0b6c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564739,
+            "locality_id":1343422031,
+            "region_id":85673015
+        }
+    ],
+    "wof:id":1343422031,
+    "wof:lastmodified":1537653355,
+    "wof:name":"Phum Tuol Ampil",
+    "wof:parent_id":1108564739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.45888,
+    12.86262,
+    103.45888,
+    12.86262
+],
+  "geometry": {"coordinates":[103.45887999999999,12.86262],"type":"Point"}
+}

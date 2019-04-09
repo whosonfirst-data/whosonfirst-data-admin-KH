@@ -1,0 +1,67 @@
+{
+  "id": 1209282243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.23278,13.45238,103.23278,13.45238",
+    "geom:latitude":13.45238,
+    "geom:longitude":103.23278,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Phum Sra Chu",
+    "gn:country_code":"KH",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11374142,
+    "gn:latitude":13.45238,
+    "gn:longitude":103.23278,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Phum Sra Chu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Sra Chu"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u179f\u17d2\u179a\u17b6\u1787\u17bc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11374142
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"7d5318d41a26bb625cf985aab4bde6af",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209282243
+        }
+    ],
+    "wof:id":1209282243,
+    "wof:lastmodified":1537653989,
+    "wof:name":"Phum Sra Chu",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.23278,
+    13.45238,
+    103.23278,
+    13.45238
+],
+  "geometry": {"coordinates":[103.23278000000001,13.45238],"type":"Point"}
+}

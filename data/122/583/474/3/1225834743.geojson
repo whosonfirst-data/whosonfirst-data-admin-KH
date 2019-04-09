@@ -1,0 +1,76 @@
+{
+  "id": 1225834743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.05967,12.26515,106.05967,12.26515",
+    "geom:latitude":12.26515,
+    "geom:longitude":106.05967,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Phum Andong Tor",
+    "gn:country_code":"KH",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829963,
+    "gn:latitude":12.26515,
+    "gn:longitude":106.05967,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Phum \u00c2ndong T\u00f4r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum \u00c2ndong T\u00f4r"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u17a2\u178e\u17d2\u178f\u17bc\u1784\u1791\u179a"
+    ],
+    "name:und_x_variant":[
+        "Phum Andon Tor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673081,
+        1108564635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829963
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"1b6e1bbb2cb41ae051278858feafb601",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564635,
+            "locality_id":1225834743,
+            "region_id":85673081
+        }
+    ],
+    "wof:id":1225834743,
+    "wof:lastmodified":1537653928,
+    "wof:name":"Phum Andong Tor",
+    "wof:parent_id":1108564635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.05967,
+    12.26515,
+    106.05967,
+    12.26515
+],
+  "geometry": {"coordinates":[106.05967,12.26515],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1326587777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.61407,13.87695,103.61407,13.87695",
+    "geom:latitude":13.87695,
+    "geom:longitude":103.61407,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Phumi Kon Kreng",
+    "gn:country_code":"KH",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827461,
+    "gn:latitude":13.87695,
+    "gn:longitude":103.61407,
+    "gn:modification_date":"2009-05-12",
+    "gn:name":"Phum\u012d Kon Kr\u00eang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673029,
+        1108564847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827461
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"98edad8234d5adaefc5799fcd7137315",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564847,
+            "locality_id":1326587777,
+            "region_id":85673029
+        }
+    ],
+    "wof:id":1326587777,
+    "wof:lastmodified":1536904251,
+    "wof:name":"Phumi Kon Kreng",
+    "wof:parent_id":1108564847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.61407,
+    13.87695,
+    103.61407,
+    13.87695
+],
+  "geometry": {"coordinates":[103.61407,13.87695],"type":"Point"}
+}

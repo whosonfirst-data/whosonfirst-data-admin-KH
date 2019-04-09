@@ -1,0 +1,74 @@
+{
+  "id": 1310373625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.62639,13.73165,103.62639,13.73165",
+    "geom:latitude":13.73165,
+    "geom:longitude":103.62639,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Phum Khvav",
+    "gn:country_code":"KH",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827573,
+    "gn:latitude":13.73165,
+    "gn:longitude":103.62639,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Phum Khvav",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Khvav"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1781\u17d2\u179c\u17b6\u179c",
+        "Phum\u012d Khvav"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673029,
+        1108564583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827573
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"035c41a733926c9f7d1af9b1bba2514c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564583,
+            "locality_id":1310373625,
+            "region_id":85673029
+        }
+    ],
+    "wof:id":1310373625,
+    "wof:lastmodified":1537653731,
+    "wof:name":"Phum Khvav",
+    "wof:parent_id":1108564583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.62639,
+    13.73165,
+    103.62639,
+    13.73165
+],
+  "geometry": {"coordinates":[103.62639,13.73165],"type":"Point"}
+}

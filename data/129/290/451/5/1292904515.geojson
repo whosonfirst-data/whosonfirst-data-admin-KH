@@ -1,0 +1,71 @@
+{
+  "id": 1292904515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.6575,11.22762,104.6575,11.22762",
+    "geom:latitude":11.22762,
+    "geom:longitude":104.6575,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Phumi Bat Chonhchean",
+    "gn:country_code":"KH",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829544,
+    "gn:latitude":11.22762,
+    "gn:longitude":104.6575,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d B\u0103t Ch\u00f4nhch\u00e9an",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum Bat Ch\u00f4nchien",
+        "Phum\u012d B\u0103t Ch\u00f4nhch\u00e9an"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673053,
+        1108564715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829544
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"a22efeab167e58d060f94fdd72ff5247",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564715,
+            "locality_id":1292904515,
+            "region_id":85673053
+        }
+    ],
+    "wof:id":1292904515,
+    "wof:lastmodified":1537653890,
+    "wof:name":"Phumi Bat Chonhchean",
+    "wof:parent_id":1108564715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.6575,
+    11.22762,
+    104.6575,
+    11.22762
+],
+  "geometry": {"coordinates":[104.6575,11.22762],"type":"Point"}
+}

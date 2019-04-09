@@ -1,0 +1,76 @@
+{
+  "id": 1242800443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.10853,13.31626,105.10853,13.31626",
+    "geom:latitude":13.31626,
+    "geom:longitude":105.10853,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Srae Thum",
+    "gn:country_code":"KH",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1822058,
+    "gn:latitude":13.31626,
+    "gn:longitude":105.10853,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Srae Thum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Srae Thum"
+    ],
+    "name:und_x_variant":[
+        "Sre Thom",
+        "Phum Sre Thom",
+        "Phum\u012d Sr\u00ea Thom",
+        "Sr\u00ea Thum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673071,
+        1108564801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1822058
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"51ba893238c4dab5d164ecbb0768583d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564801,
+            "locality_id":1242800443,
+            "region_id":85673071
+        }
+    ],
+    "wof:id":1242800443,
+    "wof:lastmodified":1537653327,
+    "wof:name":"Srae Thum",
+    "wof:parent_id":1108564801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.10853,
+    13.31626,
+    105.10853,
+    13.31626
+],
+  "geometry": {"coordinates":[105.10853,13.31626],"type":"Point"}
+}

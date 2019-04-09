@@ -1,0 +1,71 @@
+{
+  "id": 1225808355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.67411,11.32789,105.67411,11.32789",
+    "geom:latitude":11.32789,
+    "geom:longitude":105.67411,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Phumi Lbaeuk",
+    "gn:country_code":"KH",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827005,
+    "gn:latitude":11.32789,
+    "gn:longitude":105.67411,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Lbaeuk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum\u012d L\u00f4beauk",
+        "Phum\u012d Lbaeuk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673105,
+        1108564797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827005
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"ad8f5d9e68d8a054d487f6ff58d2290d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564797,
+            "locality_id":1225808355,
+            "region_id":85673105
+        }
+    ],
+    "wof:id":1225808355,
+    "wof:lastmodified":1537653678,
+    "wof:name":"Phumi Lbaeuk",
+    "wof:parent_id":1108564797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.67411,
+    11.32789,
+    105.67411,
+    11.32789
+],
+  "geometry": {"coordinates":[105.67411,11.32789],"type":"Point"}
+}

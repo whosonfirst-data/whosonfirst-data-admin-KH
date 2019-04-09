@@ -1,0 +1,74 @@
+{
+  "id": 1242686631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.21892,12.05391,105.21892,12.05391",
+    "geom:latitude":12.05391,
+    "geom:longitude":105.21892,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Khvet Thum",
+    "gn:country_code":"KH",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827564,
+    "gn:latitude":12.05391,
+    "gn:longitude":105.21892,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Khvet Thum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Khvet Thum"
+    ],
+    "name:und_x_variant":[
+        "Phum Kvet Thom",
+        "Phum\u012d Khv\u0115t Thum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673041,
+        1108564783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827564
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"37bfbe38cc2310f3d722fcd9af02f64e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564783,
+            "locality_id":1242686631,
+            "region_id":85673041
+        }
+    ],
+    "wof:id":1242686631,
+    "wof:lastmodified":1537653730,
+    "wof:name":"Khvet Thum",
+    "wof:parent_id":1108564783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.21892,
+    12.05391,
+    105.21892,
+    12.05391
+],
+  "geometry": {"coordinates":[105.21892,12.05391],"type":"Point"}
+}

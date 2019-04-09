@@ -1,0 +1,79 @@
+{
+  "id": 1276724479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.70114,11.24625,104.70114,11.24625",
+    "geom:latitude":11.24625,
+    "geom:longitude":104.70114,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Phumi Chbar Mon",
+    "gn:country_code":"KH",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829101,
+    "gn:latitude":11.24625,
+    "gn:longitude":104.70114,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Chbar M\u00f4n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chbar Morn",
+        "Kbal Morn",
+        "Chbal Mon",
+        "Kebal Mean",
+        "Chbor Morn",
+        "Chbar Mon",
+        "Chbal Morn",
+        "Kabal Mon",
+        "Kabal Morn",
+        "Phum\u012d Chbar M\u00f4n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673053,
+        1108564715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829101
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"facb17453826bb951ee678c535e39b0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564715,
+            "locality_id":1276724479,
+            "region_id":85673053
+        }
+    ],
+    "wof:id":1276724479,
+    "wof:lastmodified":1537653858,
+    "wof:name":"Phumi Chbar Mon",
+    "wof:parent_id":1108564715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.70114,
+    11.24625,
+    104.70114,
+    11.24625
+],
+  "geometry": {"coordinates":[104.70114,11.24625],"type":"Point"}
+}

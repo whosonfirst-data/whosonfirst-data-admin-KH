@@ -1,0 +1,67 @@
+{
+  "id": 1327233639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.56183,12.50371,104.56183,12.50371",
+    "geom:latitude":12.50371,
+    "geom:longitude":104.56183,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Phumi Phlov Tuk",
+    "gn:country_code":"KH",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1826503,
+    "gn:latitude":12.50371,
+    "gn:longitude":104.56183,
+    "gn:modification_date":"1993-12-30",
+    "gn:name":"Phum\u012d Phlov Tuk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673047,
+        421188239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1826503
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"e2f6c86db0fdc6fcea1a73e3eb7600d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421188239,
+            "locality_id":1327233639,
+            "region_id":85673047
+        }
+    ],
+    "wof:id":1327233639,
+    "wof:lastmodified":1536967494,
+    "wof:name":"Phumi Phlov Tuk",
+    "wof:parent_id":421188239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.56183,
+    12.50371,
+    104.56183,
+    12.50371
+],
+  "geometry": {"coordinates":[104.56183,12.50371],"type":"Point"}
+}

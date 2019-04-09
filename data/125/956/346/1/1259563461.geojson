@@ -1,0 +1,78 @@
+{
+  "id": 1259563461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.72768,12.07784,103.72768,12.07784",
+    "geom:latitude":12.07784,
+    "geom:longitude":103.72768,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Phum Tomleay",
+    "gn:country_code":"KH",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1823124,
+    "gn:latitude":12.07784,
+    "gn:longitude":103.72768,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Phum Toml\u00e9ay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Toml\u00e9ay"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1791\u17c6\u179b\u17b6\u1799"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Toml\u00e9ay",
+        "Phum Tomlay",
+        "Phum\u012d Tuml\u00e9ay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673023,
+        1108564759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1823124
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"8fb65b19b487b2fa3a3d78217b058260",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564759,
+            "locality_id":1259563461,
+            "region_id":85673023
+        }
+    ],
+    "wof:id":1259563461,
+    "wof:lastmodified":1537653358,
+    "wof:name":"Phum Tomleay",
+    "wof:parent_id":1108564759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.72768,
+    12.07784,
+    103.72768,
+    12.07784
+],
+  "geometry": {"coordinates":[103.72768000000001,12.07784],"type":"Point"}
+}

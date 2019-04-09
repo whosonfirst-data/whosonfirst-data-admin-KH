@@ -1,0 +1,74 @@
+{
+  "id": 1242682333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.86034,12.71972,104.86034,12.71972",
+    "geom:latitude":12.71972,
+    "geom:longitude":104.86034,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Kdei Doung",
+    "gn:country_code":"KH",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827805,
+    "gn:latitude":12.71972,
+    "gn:longitude":104.86034,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Kdei Doung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Kdei Doung"
+    ],
+    "name:und_x_variant":[
+        "Kdey Dong",
+        "Phum\u012d Kdei Dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673057,
+        421169333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827805
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"79a4d4a2c73575d5f9949daba0406df1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421169333,
+            "locality_id":1242682333,
+            "region_id":85673057
+        }
+    ],
+    "wof:id":1242682333,
+    "wof:lastmodified":1537653751,
+    "wof:name":"Kdei Doung",
+    "wof:parent_id":421169333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.86034,
+    12.71972,
+    104.86034,
+    12.71972
+],
+  "geometry": {"coordinates":[104.86033999999999,12.71972],"type":"Point"}
+}

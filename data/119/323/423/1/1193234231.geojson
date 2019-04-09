@@ -1,0 +1,77 @@
+{
+  "id": 1193234231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.76445,13.46107,103.76445,13.46107",
+    "geom:latitude":13.46107,
+    "geom:longitude":103.76445,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Ta Snae",
+    "gn:country_code":"KH",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1824033,
+    "gn:latitude":13.46107,
+    "gn:longitude":103.76445,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Ta Snae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Ta Snae"
+    ],
+    "name:khm_x_variant":[
+        "Phum Ta Sn\u00ea"
+    ],
+    "name:und_x_variant":[
+        "Phum Tasn\u00e1",
+        "Phum\u012d Ta Sn\u00ea"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673029,
+        421185505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1824033
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"a986bfb0e01f8e673d13a42cc4cc0c92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421185505,
+            "locality_id":1193234231,
+            "region_id":85673029
+        }
+    ],
+    "wof:id":1193234231,
+    "wof:lastmodified":1537653425,
+    "wof:name":"Ta Snae",
+    "wof:parent_id":421185505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.76445,
+    13.46107,
+    103.76445,
+    13.46107
+],
+  "geometry": {"coordinates":[103.76445,13.46107],"type":"Point"}
+}

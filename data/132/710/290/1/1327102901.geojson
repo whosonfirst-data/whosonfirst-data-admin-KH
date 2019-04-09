@@ -1,0 +1,78 @@
+{
+  "id": 1327102901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.43715,13.13976,104.43715,13.13976",
+    "geom:latitude":13.13976,
+    "geom:longitude":104.43715,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Dang Ph'av",
+    "gn:country_code":"KH",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1826544,
+    "gn:latitude":13.13976,
+    "gn:longitude":104.43715,
+    "gn:modification_date":"2017-07-05",
+    "gn:name":"Dang Ph\u2019av",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Dang Ph\u2019av"
+    ],
+    "name:khm_x_variant":[
+        "Phum Ph\u00e2av",
+        "\u1797\u17bc\u1798\u17b7 \u1795\u17d2\u17a2\u17b6\u179c"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Ph\u00e2av",
+        "Phum\u012d Ph\u2019av"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673029,
+        1108564639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1826544
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"e5a1e9f6a370350015e639248614a659",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564639,
+            "locality_id":1327102901,
+            "region_id":85673029
+        }
+    ],
+    "wof:id":1327102901,
+    "wof:lastmodified":1537653636,
+    "wof:name":"Dang Ph'av",
+    "wof:parent_id":1108564639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.43715,
+    13.13976,
+    104.43715,
+    13.13976
+],
+  "geometry": {"coordinates":[104.43715,13.13976],"type":"Point"}
+}

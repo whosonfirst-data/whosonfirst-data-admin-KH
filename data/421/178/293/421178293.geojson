@@ -1,0 +1,75 @@
+{
+  "id": 421178293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.473401,11.188221,103.473401,11.188221",
+    "geom:latitude":11.188221,
+    "geom:longitude":103.473401,
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Phumi Chimeal",
+    "qs:name_adm0":"Cambodia",
+    "qs:name_adm1":"Kaoh Kong",
+    "qs:photos":16,
+    "qs:photos_1k":3,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":16,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":56699,
+    "qs:woe_adm0":23424776,
+    "qs:woe_id":1028461,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673019,
+        421202413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1028461,
+        "qs:id":56699
+    },
+    "wof:country":"KH",
+    "wof:created":1459009177,
+    "wof:geomhash":"29c231de4a4160fa2a178e425e84c386",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421202413,
+            "locality_id":421178293,
+            "region_id":85673019
+        }
+    ],
+    "wof:id":421178293,
+    "wof:lastmodified":1499929952,
+    "wof:name":"Phumi Chimeal",
+    "wof:parent_id":421202413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.473401,
+    11.188221,
+    103.473401,
+    11.188221
+],
+  "geometry": {"coordinates":[103.473401,11.188221],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209578727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.75781,11.2909,105.75781,11.2909",
+    "geom:latitude":11.2909,
+    "geom:longitude":105.75781,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Phumi Trapeang Sdau",
+    "gn:country_code":"KH",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1823274,
+    "gn:latitude":11.2909,
+    "gn:longitude":105.75781,
+    "gn:modification_date":"1993-12-30",
+    "gn:name":"Phum\u012d Tr\u00e2pe\u0103ng Sdau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1823274
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"093827996eb49f19761f6b8a815cce2e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209578727
+        }
+    ],
+    "wof:id":1209578727,
+    "wof:lastmodified":1536282855,
+    "wof:name":"Phumi Trapeang Sdau",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.75781,
+    11.2909,
+    105.75781,
+    11.2909
+],
+  "geometry": {"coordinates":[105.75781000000001,11.2909],"type":"Point"}
+}

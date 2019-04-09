@@ -1,0 +1,67 @@
+{
+  "id": 1193246207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.87634,13.49517,102.87634,13.49517",
+    "geom:latitude":13.49517,
+    "geom:longitude":102.87634,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Phumi Spean Leu",
+    "gn:country_code":"KH",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1824745,
+    "gn:latitude":13.49517,
+    "gn:longitude":102.87634,
+    "gn:modification_date":"2009-05-11",
+    "gn:name":"Phum\u012d Sp\u00e9an Leu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673011,
+        1108564737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1824745
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"5d24a1c0fd8ed2b28cd80eee58c23d93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564737,
+            "locality_id":1193246207,
+            "region_id":85673011
+        }
+    ],
+    "wof:id":1193246207,
+    "wof:lastmodified":1536373090,
+    "wof:name":"Phumi Spean Leu",
+    "wof:parent_id":1108564737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.87634,
+    13.49517,
+    102.87634,
+    13.49517
+],
+  "geometry": {"coordinates":[102.87634,13.49517],"type":"Point"}
+}

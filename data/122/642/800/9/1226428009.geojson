@@ -1,0 +1,63 @@
+{
+  "id": 1226428009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.0994,10.94123,103.0994,10.94123",
+    "geom:latitude":10.94123,
+    "geom:longitude":103.0994,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Preaek Khsach",
+    "gn:country_code":"KH",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11343872,
+    "gn:latitude":10.94123,
+    "gn:longitude":103.0994,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Preaek Khsach",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11343872
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"e2a4cfe9af4b6b0bf8b2171f955ccab6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1226428009,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226428009,
+    "wof:lastmodified":1536671029,
+    "wof:name":"Preaek Khsach",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.0994,
+    10.94123,
+    103.0994,
+    10.94123
+],
+  "geometry": {"coordinates":[103.0994,10.94123],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1293164489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.08841,13.51935,106.08841,13.51935",
+    "geom:latitude":13.51935,
+    "geom:longitude":106.08841,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Phum Russei",
+    "gn:country_code":"KH",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825444,
+    "gn:latitude":13.51935,
+    "gn:longitude":106.08841,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Phum R\u016dssei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum R\u016dssei"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u17ab\u179f\u17d2\u179f\u17b8"
+    ],
+    "name:und_x_variant":[
+        "Sre Svay",
+        "Ban Soun",
+        "Phum\u012d R\u0153ssei"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673075,
+        1108564831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825444
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"770ee0b829f7048bdb75f3b068b6c924",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564831,
+            "locality_id":1293164489,
+            "region_id":85673075
+        }
+    ],
+    "wof:id":1293164489,
+    "wof:lastmodified":1537653542,
+    "wof:name":"Phum Russei",
+    "wof:parent_id":1108564831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.08841,
+    13.51935,
+    106.08841,
+    13.51935
+],
+  "geometry": {"coordinates":[106.08841,13.51935],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1242956721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.33307,11.18597,105.33307,11.18597",
+    "geom:latitude":11.18597,
+    "geom:longitude":105.33307,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Ta Mau",
+    "gn:country_code":"KH",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1823693,
+    "gn:latitude":11.18597,
+    "gn:longitude":105.33307,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Ta Mau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Ta Mau"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Tna\u00f4t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673067,
+        1108564775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1823693
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"ef125861a2b3e17c9a87fb3b27555b7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564775,
+            "locality_id":1242956721,
+            "region_id":85673067
+        }
+    ],
+    "wof:id":1242956721,
+    "wof:lastmodified":1537653398,
+    "wof:name":"Ta Mau",
+    "wof:parent_id":1108564775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.33307,
+    11.18597,
+    105.33307,
+    11.18597
+],
+  "geometry": {"coordinates":[105.33307000000001,11.18597],"type":"Point"}
+}

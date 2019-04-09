@@ -1,0 +1,73 @@
+{
+  "id": 1293867541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.49004,11.09538,105.49004,11.09538",
+    "geom:latitude":11.09538,
+    "geom:longitude":105.49004,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Peam Montear",
+    "gn:country_code":"KH",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1826598,
+    "gn:latitude":11.09538,
+    "gn:longitude":105.49004,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Peam Montear",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Peam Montear"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d P\u00e9am M\u00f4nt\u00e9a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673067,
+        421202305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1826598
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"2b4d3223b012d64943f1a50bdc3d9a99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421202305,
+            "locality_id":1293867541,
+            "region_id":85673067
+        }
+    ],
+    "wof:id":1293867541,
+    "wof:lastmodified":1537653640,
+    "wof:name":"Peam Montear",
+    "wof:parent_id":421202305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.49004,
+    11.09538,
+    105.49004,
+    11.09538
+],
+  "geometry": {"coordinates":[105.49003999999999,11.09538],"type":"Point"}
+}

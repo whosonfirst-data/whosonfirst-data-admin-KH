@@ -1,0 +1,73 @@
+{
+  "id": 1242634813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.10985,13.63292,103.10985,13.63292",
+    "geom:latitude":13.63292,
+    "geom:longitude":103.10985,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Phum Kum Roka",
+    "gn:country_code":"KH",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11407705,
+    "gn:latitude":13.63292,
+    "gn:longitude":103.10985,
+    "gn:modification_date":"2017-01-07",
+    "gn:name":"Phum K\u016dm R\u00f4ka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum K\u016dm R\u00f4ka"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1782\u17bb\u1798\u17d2\u178f\u179a\u1780\u17b6"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673011,
+        421183973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11407705
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"1e252b3e514257d84fb94a5bfb9d3efc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421183973,
+            "locality_id":1242634813,
+            "region_id":85673011
+        }
+    ],
+    "wof:id":1242634813,
+    "wof:lastmodified":1537653994,
+    "wof:name":"Phum Kum Roka",
+    "wof:parent_id":421183973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.10985,
+    13.63292,
+    103.10985,
+    13.63292
+],
+  "geometry": {"coordinates":[103.10984999999999,13.63292],"type":"Point"}
+}

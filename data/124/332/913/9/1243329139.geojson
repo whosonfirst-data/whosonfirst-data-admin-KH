@@ -1,0 +1,73 @@
+{
+  "id": 1243329139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.80329,11.14419,104.80329,11.14419",
+    "geom:latitude":11.14419,
+    "geom:longitude":104.80329,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Bat Rokar",
+    "gn:country_code":"KH",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1831790,
+    "gn:latitude":11.14419,
+    "gn:longitude":104.80329,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"B\u00e1t R\u00f4kar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum Bat Rokar",
+        "Bat Roka",
+        "Phum\u012d B\u00e1t R\u00f4kar",
+        "B\u00e1t R\u00f4kar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673107,
+        1108564825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1831790
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"1044262e9c092a4af37ffe8bbf34960f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564825,
+            "locality_id":1243329139,
+            "region_id":85673107
+        }
+    ],
+    "wof:id":1243329139,
+    "wof:lastmodified":1537653963,
+    "wof:name":"Bat Rokar",
+    "wof:parent_id":1108564825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.80329,
+    11.14419,
+    104.80329,
+    11.14419
+],
+  "geometry": {"coordinates":[104.80329,11.14419],"type":"Point"}
+}

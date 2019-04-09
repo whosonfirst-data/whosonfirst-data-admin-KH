@@ -1,0 +1,76 @@
+{
+  "id": 1310647783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.22449,13.15363,103.22449,13.15363",
+    "geom:latitude":13.15363,
+    "geom:longitude":103.22449,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Phum Prek Kroch",
+    "gn:country_code":"KH",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825997,
+    "gn:latitude":13.15363,
+    "gn:longitude":103.22449,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Phum Pr\u00eak Kroch",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Pr\u00eak Kroch"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1796\u17d2\u179a\u17c2\u1780\u1780\u17d2\u179a\u17bc\u1785"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Pr\u00eak Kroch"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673015,
+        421172391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825997
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"bafe73b81a8c28c420951e37dd5eb97f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421172391,
+            "locality_id":1310647783,
+            "region_id":85673015
+        }
+    ],
+    "wof:id":1310647783,
+    "wof:lastmodified":1537653584,
+    "wof:name":"Phum Prek Kroch",
+    "wof:parent_id":421172391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.22449,
+    13.15363,
+    103.22449,
+    13.15363
+],
+  "geometry": {"coordinates":[103.22449,13.15363],"type":"Point"}
+}

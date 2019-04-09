@@ -1,0 +1,70 @@
+{
+  "id": 1193149943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.42782,11.88548,105.42782,11.88548",
+    "geom:latitude":11.88548,
+    "geom:longitude":105.42782,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Kaoh Soutin",
+    "gn:country_code":"KH",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":11478187,
+    "gn:latitude":11.88548,
+    "gn:longitude":105.42782,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Kaoh Soutin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Kaoh Soutin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673041,
+        1108564701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11478187
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"157f58074e0977e3b7b4870de8452c3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564701,
+            "locality_id":1193149943,
+            "region_id":85673041
+        }
+    ],
+    "wof:id":1193149943,
+    "wof:lastmodified":1537654040,
+    "wof:name":"Kaoh Soutin",
+    "wof:parent_id":1108564701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.42782,
+    11.88548,
+    105.42782,
+    11.88548
+],
+  "geometry": {"coordinates":[105.42782,11.88548],"type":"Point"}
+}

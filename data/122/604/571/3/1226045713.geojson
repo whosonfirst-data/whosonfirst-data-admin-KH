@@ -1,0 +1,70 @@
+{
+  "id": 1226045713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.22747,12.01193,105.22747,12.01193",
+    "geom:latitude":12.01193,
+    "geom:longitude":105.22747,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Tuol Bak Koam",
+    "gn:country_code":"KH",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11478719,
+    "gn:latitude":12.01193,
+    "gn:longitude":105.22747,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Tuol Bak Koam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Tuol Bak Koam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673041,
+        1108564783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11478719
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"2a9e82d543124c2d455d58e13769ce4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564783,
+            "locality_id":1226045713,
+            "region_id":85673041
+        }
+    ],
+    "wof:id":1226045713,
+    "wof:lastmodified":1537654043,
+    "wof:name":"Tuol Bak Koam",
+    "wof:parent_id":1108564783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.22747,
+    12.01193,
+    105.22747,
+    12.01193
+],
+  "geometry": {"coordinates":[105.22747,12.01193],"type":"Point"}
+}

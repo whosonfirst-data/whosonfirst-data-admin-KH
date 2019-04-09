@@ -1,0 +1,71 @@
+{
+  "id": 1260181351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.97258,12.84334,104.97258,12.84334",
+    "geom:latitude":12.84334,
+    "geom:longitude":104.97258,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Mohar",
+    "gn:country_code":"KH",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1830314,
+    "gn:latitude":12.84334,
+    "gn:longitude":104.97258,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"M\u00f4h\u00e2r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum\u012d M\u00f4h\u00f4r",
+        "M\u00f4h\u00e2r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673057,
+        421169333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1830314
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"2f0e3324301e9316f25d58820502a336",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421169333,
+            "locality_id":1260181351,
+            "region_id":85673057
+        }
+    ],
+    "wof:id":1260181351,
+    "wof:lastmodified":1537653939,
+    "wof:name":"Mohar",
+    "wof:parent_id":421169333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.97258,
+    12.84334,
+    104.97258,
+    12.84334
+],
+  "geometry": {"coordinates":[104.97257999999999,12.84334],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1209583999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.49043,13.67427,103.49043,13.67427",
+    "geom:latitude":13.67427,
+    "geom:longitude":103.49043,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Phum Don Kay",
+    "gn:country_code":"KH",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828485,
+    "gn:latitude":13.67427,
+    "gn:longitude":103.49043,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Phum Don Kay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Don Kay"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u178a\u17bc\u1793\u1780\u17b6\u1799"
+    ],
+    "name:und_x_variant":[
+        "Dan Kay",
+        "Phum\u012d Don Kay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828485
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"f1d0a4373f45e115a73b3eefd5f14e2c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209583999
+        }
+    ],
+    "wof:id":1209583999,
+    "wof:lastmodified":1537653810,
+    "wof:name":"Phum Don Kay",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.49043,
+    13.67427,
+    103.49043,
+    13.67427
+],
+  "geometry": {"coordinates":[103.49043,13.67427],"type":"Point"}
+}

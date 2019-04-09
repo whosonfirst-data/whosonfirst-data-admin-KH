@@ -1,0 +1,72 @@
+{
+  "id": 1209472323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.19841,13.6422,103.19841,13.6422",
+    "geom:latitude":13.6422,
+    "geom:longitude":103.19841,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Krasang Thmei",
+    "gn:country_code":"KH",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827100,
+    "gn:latitude":13.6422,
+    "gn:longitude":103.19841,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Krasang Thmei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Krasang Thmei"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1780\u17d2\u179a\u179f\u17b6\u17c6\u1784\u1790\u17d2\u1798\u17b8",
+        "Phum Kr\u00e2s\u0103ng Thmei"
+    ],
+    "name:und_x_variant":[
+        "Kasang Thmey",
+        "Phum\u012d Kr\u00e2s\u0103ng Thmei"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827100
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"ee2e385e45c799638be76705bf602f67",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209472323
+        }
+    ],
+    "wof:id":1209472323,
+    "wof:lastmodified":1537653685,
+    "wof:name":"Krasang Thmei",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.19841,
+    13.6422,
+    103.19841,
+    13.6422
+],
+  "geometry": {"coordinates":[103.19841,13.6422],"type":"Point"}
+}

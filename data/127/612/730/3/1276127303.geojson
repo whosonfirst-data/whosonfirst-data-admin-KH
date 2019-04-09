@@ -1,0 +1,71 @@
+{
+  "id": 1276127303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.32604,12.34031,105.32604,12.34031",
+    "geom:latitude":12.34031,
+    "geom:longitude":105.32604,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Peng Meas",
+    "gn:country_code":"KH",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1830151,
+    "gn:latitude":12.34031,
+    "gn:longitude":105.32604,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"P\u00eang M\u00e9as",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum\u012d P\u00e9ng M\u00e9as",
+        "P\u00eang M\u00e9as"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673041,
+        1108564621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1830151
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"472d6e1f533f9a40686aa5b71f248bce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564621,
+            "locality_id":1276127303,
+            "region_id":85673041
+        }
+    ],
+    "wof:id":1276127303,
+    "wof:lastmodified":1537653937,
+    "wof:name":"Peng Meas",
+    "wof:parent_id":1108564621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.32604,
+    12.34031,
+    105.32604,
+    12.34031
+],
+  "geometry": {"coordinates":[105.32604000000001,12.34031],"type":"Point"}
+}

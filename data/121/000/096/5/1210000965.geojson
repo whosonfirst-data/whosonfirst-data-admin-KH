@@ -1,0 +1,74 @@
+{
+  "id": 1210000965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.00369,12.28151,106.00369,12.28151",
+    "geom:latitude":12.28151,
+    "geom:longitude":106.00369,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Phum Angchar",
+    "gn:country_code":"KH",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829957,
+    "gn:latitude":12.28151,
+    "gn:longitude":106.00369,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Phum \u00c2ngchar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum \u00c2ngchar"
+    ],
+    "name:und_x_variant":[
+        "Phum Ongcha",
+        "Phum\u012d \u00c2ngchar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673081,
+        1108564781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829957
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"c5aa868803060b873dc78f44f33f2366",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564781,
+            "locality_id":1210000965,
+            "region_id":85673081
+        }
+    ],
+    "wof:id":1210000965,
+    "wof:lastmodified":1537653927,
+    "wof:name":"Phum Angchar",
+    "wof:parent_id":1108564781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.00369,
+    12.28151,
+    106.00369,
+    12.28151
+],
+  "geometry": {"coordinates":[106.00369000000001,12.28151],"type":"Point"}
+}

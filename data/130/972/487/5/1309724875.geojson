@@ -1,0 +1,70 @@
+{
+  "id": 1309724875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.9219,11.99924,104.9219,11.99924",
+    "geom:latitude":11.99924,
+    "geom:longitude":104.9219,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Chreaek",
+    "gn:country_code":"KH",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11475090,
+    "gn:latitude":11.99924,
+    "gn:longitude":104.9219,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Chreaek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Chreaek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673041,
+        1108564611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11475090
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"460a14a6268d25bcded34335c515a50a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564611,
+            "locality_id":1309724875,
+            "region_id":85673041
+        }
+    ],
+    "wof:id":1309724875,
+    "wof:lastmodified":1537654023,
+    "wof:name":"Chreaek",
+    "wof:parent_id":1108564611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.9219,
+    11.99924,
+    104.9219,
+    11.99924
+],
+  "geometry": {"coordinates":[104.92189999999999,11.99924],"type":"Point"}
+}

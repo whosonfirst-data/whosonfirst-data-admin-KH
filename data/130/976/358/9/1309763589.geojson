@@ -1,0 +1,70 @@
+{
+  "id": 1309763589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.75732,13.68558,102.75732,13.68558",
+    "geom:latitude":13.68558,
+    "geom:longitude":102.75732,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Snuol Tret",
+    "gn:country_code":"KH",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11423669,
+    "gn:latitude":13.68558,
+    "gn:longitude":102.75732,
+    "gn:modification_date":"2017-01-07",
+    "gn:name":"Snuol Tret",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Snuol Tret"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673011,
+        421198129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11423669
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"d828f7ce3bfc097134c3fdfb7ac922d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421198129,
+            "locality_id":1309763589,
+            "region_id":85673011
+        }
+    ],
+    "wof:id":1309763589,
+    "wof:lastmodified":1537654000,
+    "wof:name":"Snuol Tret",
+    "wof:parent_id":421198129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.75732,
+    13.68558,
+    102.75732,
+    13.68558
+],
+  "geometry": {"coordinates":[102.75732000000001,13.68558],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1327017001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.20773,12.07896,103.20773,12.07896",
+    "geom:latitude":12.07896,
+    "geom:longitude":103.20773,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Ou Saom",
+    "gn:country_code":"KH",
+    "gn:dem":529,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11424136,
+    "gn:latitude":12.07896,
+    "gn:longitude":103.20773,
+    "gn:modification_date":"2017-01-07",
+    "gn:name":"Ou Saom",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Ou Saom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673023,
+        1108564889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11424136
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"c877825be6fd8a1680d5edc49f071238",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564889,
+            "locality_id":1327017001,
+            "region_id":85673023
+        }
+    ],
+    "wof:id":1327017001,
+    "wof:lastmodified":1537654002,
+    "wof:name":"Ou Saom",
+    "wof:parent_id":1108564889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.20773,
+    12.07896,
+    103.20773,
+    12.07896
+],
+  "geometry": {"coordinates":[103.20773,12.07896],"type":"Point"}
+}

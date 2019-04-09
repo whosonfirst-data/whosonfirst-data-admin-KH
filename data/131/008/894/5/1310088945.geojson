@@ -1,0 +1,67 @@
+{
+  "id": 1310088945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.33592,11.49641,105.33592,11.49641",
+    "geom:latitude":11.49641,
+    "geom:longitude":105.33592,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Phumi Don Roean",
+    "gn:country_code":"KH",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828457,
+    "gn:latitude":11.49641,
+    "gn:longitude":105.33592,
+    "gn:modification_date":"1993-12-30",
+    "gn:name":"Phum\u012d Don R\u0153\u0103n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673067,
+        1108564789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828457
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"3212b2f00e600779ee240c2f546c1242",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564789,
+            "locality_id":1310088945,
+            "region_id":85673067
+        }
+    ],
+    "wof:id":1310088945,
+    "wof:lastmodified":1537019561,
+    "wof:name":"Phumi Don Roean",
+    "wof:parent_id":1108564789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.33592,
+    11.49641,
+    105.33592,
+    11.49641
+],
+  "geometry": {"coordinates":[105.33592,11.49641],"type":"Point"}
+}

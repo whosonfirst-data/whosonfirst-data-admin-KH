@@ -1,0 +1,78 @@
+{
+  "id": 1242858823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.35022,12.95716,106.35022,12.95716",
+    "geom:latitude":12.95716,
+    "geom:longitude":106.35022,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Phum Pakhle",
+    "gn:country_code":"KH",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1826645,
+    "gn:latitude":12.95716,
+    "gn:longitude":106.35022,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Phum Pakhl\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Pakhl\u00e9"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1794\u17c9\u17b6\u1781\u17d2\u179b\u17c1"
+    ],
+    "name:und_x_variant":[
+        "Arach Pakle",
+        "Pak Kle",
+        "Phum\u012d Pakhl\u00e9 (2)"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673081,
+        421188051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1826645
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"b7c71b0adf5921aa6c02453a2ed17124",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421188051,
+            "locality_id":1242858823,
+            "region_id":85673081
+        }
+    ],
+    "wof:id":1242858823,
+    "wof:lastmodified":1537653645,
+    "wof:name":"Phum Pakhle",
+    "wof:parent_id":421188051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.35022,
+    12.95716,
+    106.35022,
+    12.95716
+],
+  "geometry": {"coordinates":[106.35021999999999,12.95716],"type":"Point"}
+}

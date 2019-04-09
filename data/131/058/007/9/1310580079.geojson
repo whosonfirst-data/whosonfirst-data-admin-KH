@@ -1,0 +1,78 @@
+{
+  "id": 1310580079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.23521,11.46638,105.23521,11.46638",
+    "geom:latitude":11.46638,
+    "geom:longitude":105.23521,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Preaek Chrey",
+    "gn:country_code":"KH",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1826044,
+    "gn:latitude":11.46638,
+    "gn:longitude":105.23521,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Preaek Chrey",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Preaek Chrey"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1796\u17d2\u179a\u17c2\u1780\u1787\u17d2\u179a\u17c3",
+        "Phum Pr\u00eak Chrey"
+    ],
+    "name:und_x_variant":[
+        "Phum Prey Chrey",
+        "Phum\u012d Pr\u00eak Chrey"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673067,
+        1108564791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1826044
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"3d3feae2a8d23dd585419ce1503bfcb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564791,
+            "locality_id":1310580079,
+            "region_id":85673067
+        }
+    ],
+    "wof:id":1310580079,
+    "wof:lastmodified":1537653589,
+    "wof:name":"Preaek Chrey",
+    "wof:parent_id":1108564791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.23521,
+    11.46638,
+    105.23521,
+    11.46638
+],
+  "geometry": {"coordinates":[105.23521,11.46638],"type":"Point"}
+}

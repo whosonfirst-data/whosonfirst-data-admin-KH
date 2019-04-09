@@ -1,0 +1,72 @@
+{
+  "id": 1344041309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.92079,12.08681,106.92079,12.08681",
+    "geom:latitude":12.08681,
+    "geom:longitude":106.92079,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Phumi Pu Lngiem",
+    "gn:country_code":"KH",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825531,
+    "gn:latitude":12.08681,
+    "gn:longitude":106.92079,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Phum\u012d Pu Lngi\u0115m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bu L\u2019Nghi\u00eam",
+        "Phum\u012d Pu L\u2019Nghi\u0115m (2)",
+        "Phum\u012d Pu Lngi\u0115m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673085,
+        1108564667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825531
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"6422f53fd4d059ac40f1bb713e055cd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564667,
+            "locality_id":1344041309,
+            "region_id":85673085
+        }
+    ],
+    "wof:id":1344041309,
+    "wof:lastmodified":1537653548,
+    "wof:name":"Phumi Pu Lngiem",
+    "wof:parent_id":1108564667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.92079,
+    12.08681,
+    106.92079,
+    12.08681
+],
+  "geometry": {"coordinates":[106.92079,12.08681],"type":"Point"}
+}

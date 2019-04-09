@@ -1,0 +1,67 @@
+{
+  "id": 1293165335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.56458,10.80494,104.56458,10.80494",
+    "geom:latitude":10.80494,
+    "geom:longitude":104.56458,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Phumi Ta Kao Leu",
+    "gn:country_code":"KH",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1824275,
+    "gn:latitude":10.80494,
+    "gn:longitude":104.56458,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Phum\u012d Ta Ka\u00f4 Leu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673093,
+        1108564581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1824275
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"5a156a0349be5eefa0720e1d9249ca2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564581,
+            "locality_id":1293165335,
+            "region_id":85673093
+        }
+    ],
+    "wof:id":1293165335,
+    "wof:lastmodified":1536754698,
+    "wof:name":"Phumi Ta Kao Leu",
+    "wof:parent_id":1108564581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.56458,
+    10.80494,
+    104.56458,
+    10.80494
+],
+  "geometry": {"coordinates":[104.56458000000001,10.80494],"type":"Point"}
+}

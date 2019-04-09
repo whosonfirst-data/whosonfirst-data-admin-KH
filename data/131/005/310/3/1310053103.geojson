@@ -1,0 +1,75 @@
+{
+  "id": 1310053103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.55367,13.9248,103.55367,13.9248",
+    "geom:latitude":13.9248,
+    "geom:longitude":103.55367,
+    "gn:admin1_code":"27",
+    "gn:asciiname":"Cheung Tien",
+    "gn:country_code":"KH",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829049,
+    "gn:latitude":13.9248,
+    "gn:longitude":103.55367,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Cheung Tien",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Cheung Tien"
+    ],
+    "name:und_x_variant":[
+        "Choung Vien",
+        "Phum\u012d Cheung Ti\u0115n",
+        "Phum\u012d Cheung T\u00e9an"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673033,
+        1108564647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829049
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"7939d604999f364bb6b2d096e63d5899",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564647,
+            "locality_id":1310053103,
+            "region_id":85673033
+        }
+    ],
+    "wof:id":1310053103,
+    "wof:lastmodified":1537653854,
+    "wof:name":"Cheung Tien",
+    "wof:parent_id":1108564647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.55367,
+    13.9248,
+    103.55367,
+    13.9248
+],
+  "geometry": {"coordinates":[103.55367,13.9248],"type":"Point"}
+}

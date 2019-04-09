@@ -1,0 +1,70 @@
+{
+  "id": 1225806243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.48222,12.7062,103.48222,12.7062",
+    "geom:latitude":12.7062,
+    "geom:longitude":103.48222,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Thnal Bambaek",
+    "gn:country_code":"KH",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11369174,
+    "gn:latitude":12.7062,
+    "gn:longitude":103.48222,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Thnal Bambaek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Thnal Bambaek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673015,
+        1108564739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11369174
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"1eadd8d8df35dc5874f94581be8fb49e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564739,
+            "locality_id":1225806243,
+            "region_id":85673015
+        }
+    ],
+    "wof:id":1225806243,
+    "wof:lastmodified":1537653980,
+    "wof:name":"Thnal Bambaek",
+    "wof:parent_id":1108564739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.48222,
+    12.7062,
+    103.48222,
+    12.7062
+],
+  "geometry": {"coordinates":[103.48222,12.7062],"type":"Point"}
+}

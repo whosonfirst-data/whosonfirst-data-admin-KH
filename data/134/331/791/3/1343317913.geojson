@@ -1,0 +1,74 @@
+{
+  "id": 1343317913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.13232,13.28649,104.13232,13.28649",
+    "geom:latitude":13.28649,
+    "geom:longitude":104.13232,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Bat Dangkao",
+    "gn:country_code":"KH",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11604892,
+    "gn:latitude":13.28649,
+    "gn:longitude":104.13232,
+    "gn:modification_date":"2017-07-06",
+    "gn:name":"Bat Dangkao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Bat Dangkao"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u178a\u1784\u17d2\u1780\u17c4",
+        "Phum\u012d B\u00e2t D\u00e2ngka\u00f4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673029,
+        1108564843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11604892
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"415e02ba6f90a4c7f5ad9deb9b13b239",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564843,
+            "locality_id":1343317913,
+            "region_id":85673029
+        }
+    ],
+    "wof:id":1343317913,
+    "wof:lastmodified":1537654137,
+    "wof:name":"Bat Dangkao",
+    "wof:parent_id":1108564843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.13232,
+    13.28649,
+    104.13232,
+    13.28649
+],
+  "geometry": {"coordinates":[104.13232000000001,13.28649],"type":"Point"}
+}

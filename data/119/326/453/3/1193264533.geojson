@@ -1,0 +1,79 @@
+{
+  "id": 1193264533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.94116,14.21543,104.94116,14.21543",
+    "geom:latitude":14.21543,
+    "geom:longitude":104.94116,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Choam Ksant",
+    "gn:country_code":"KH",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1831531,
+    "gn:latitude":14.21543,
+    "gn:longitude":104.94116,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ch\u014f\u00e2m Ksant",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum Choam Khsan",
+        "Ch\u014f\u00e2m Khsan",
+        "Choam Ksan",
+        "Ch\u00e9am-Khsan",
+        "Ch\u014f\u00e2m Khsant",
+        "Choam Ksam",
+        "Cheom Ksan",
+        "Cheam Ksan",
+        "Ch\u014f\u00e2m Ksant"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673071,
+        1108564643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1831531,
+        "wk:page":"Cheom_Ksan"
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"8253509f3d7fd3d0cd0318628fa8d76e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564643,
+            "locality_id":1193264533,
+            "region_id":85673071
+        }
+    ],
+    "wof:id":1193264533,
+    "wof:lastmodified":1537653960,
+    "wof:name":"Choam Ksant",
+    "wof:parent_id":1108564643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.94116,
+    14.21543,
+    104.94116,
+    14.21543
+],
+  "geometry": {"coordinates":[104.94116,14.21543],"type":"Point"}
+}

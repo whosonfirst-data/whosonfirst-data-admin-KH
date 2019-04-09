@@ -1,0 +1,78 @@
+{
+  "id": 1276717409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.67243,13.47057,103.67243,13.47057",
+    "geom:latitude":13.47057,
+    "geom:longitude":103.67243,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Tuol Lvieng",
+    "gn:country_code":"KH",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1826924,
+    "gn:latitude":13.47057,
+    "gn:longitude":103.67243,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Tuol Lvieng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Tuol Lvieng"
+    ],
+    "name:khm_x_variant":[
+        "Phum L\u00f4vea",
+        "\u1797\u17bc\u1798\u17b7 \u179b\u17d2\u179c\u17b6"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d L\u00f4vea",
+        "Phum\u012d Lv\u00e9a (2)"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673029,
+        421185505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1826924
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"9ccc2c40dbb1edf1750d96d2bdf4a8a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421185505,
+            "locality_id":1276717409,
+            "region_id":85673029
+        }
+    ],
+    "wof:id":1276717409,
+    "wof:lastmodified":1537653670,
+    "wof:name":"Tuol Lvieng",
+    "wof:parent_id":421185505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.67243,
+    13.47057,
+    103.67243,
+    13.47057
+],
+  "geometry": {"coordinates":[103.67243000000001,13.47057],"type":"Point"}
+}

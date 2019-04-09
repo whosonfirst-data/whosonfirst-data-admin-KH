@@ -1,0 +1,74 @@
+{
+  "id": 1327384787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.9417,13.31378,102.9417,13.31378",
+    "geom:latitude":13.31378,
+    "geom:longitude":102.9417,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Boeng Samrang",
+    "gn:country_code":"KH",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829377,
+    "gn:latitude":13.31378,
+    "gn:longitude":102.9417,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Boeng Samrang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Boeng Samrang"
+    ],
+    "name:und_x_variant":[
+        "Phum Samrong",
+        "Phum\u012d B\u0153\u0306ng S\u00e2mra\u00f4ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673015,
+        1108564615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829377
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"5f640e2451e637ff63463d499e10a81a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564615,
+            "locality_id":1327384787,
+            "region_id":85673015
+        }
+    ],
+    "wof:id":1327384787,
+    "wof:lastmodified":1537653878,
+    "wof:name":"Boeng Samrang",
+    "wof:parent_id":1108564615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.9417,
+    13.31378,
+    102.9417,
+    13.31378
+],
+  "geometry": {"coordinates":[102.9417,13.31378],"type":"Point"}
+}

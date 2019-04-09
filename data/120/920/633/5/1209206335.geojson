@@ -1,0 +1,68 @@
+{
+  "id": 1209206335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.79829,11.8479,104.79829,11.8479",
+    "geom:latitude":11.8479,
+    "geom:longitude":104.79829,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Peam Chumnik",
+    "gn:country_code":"KH",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1826608,
+    "gn:latitude":11.8479,
+    "gn:longitude":104.79829,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Peam Chumnik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Peam Chumnik"
+    ],
+    "name:und_x_variant":[
+        "P\u00e9am Chum Nic",
+        "Phum\u012d P\u00e9am Ch\u016dmnik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1826608
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"0601ed56c180260164ac5a28a0302317",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209206335
+        }
+    ],
+    "wof:id":1209206335,
+    "wof:lastmodified":1537653641,
+    "wof:name":"Peam Chumnik",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.79829,
+    11.8479,
+    104.79829,
+    11.8479
+],
+  "geometry": {"coordinates":[104.79828999999999,11.8479],"type":"Point"}
+}

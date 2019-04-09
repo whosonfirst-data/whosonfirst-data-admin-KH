@@ -1,0 +1,71 @@
+{
+  "id": 1343338071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.2677,13.66431,105.2677,13.66431",
+    "geom:latitude":13.66431,
+    "geom:longitude":105.2677,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Phumi Kngaok",
+    "gn:country_code":"KH",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827533,
+    "gn:latitude":13.66431,
+    "gn:longitude":105.2677,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Knga\u00f4k",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum\u012d Kanga\u00f4k",
+        "Phum\u012d Knga\u00f4k"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673071,
+        1108564633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827533
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"d9a3a0fc7d1b59f16c76004b628a904b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564633,
+            "locality_id":1343338071,
+            "region_id":85673071
+        }
+    ],
+    "wof:id":1343338071,
+    "wof:lastmodified":1537653727,
+    "wof:name":"Phumi Kngaok",
+    "wof:parent_id":1108564633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.2677,
+    13.66431,
+    105.2677,
+    13.66431
+],
+  "geometry": {"coordinates":[105.2677,13.66431],"type":"Point"}
+}

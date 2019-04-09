@@ -1,0 +1,71 @@
+{
+  "id": 1209085127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.45196,11.40862,105.45196,11.40862",
+    "geom:latitude":11.40862,
+    "geom:longitude":105.45196,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Phum Russei Tvea",
+    "gn:country_code":"KH",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825408,
+    "gn:latitude":11.40862,
+    "gn:longitude":105.45196,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Phum R\u016dssei Tv\u00e9a",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum R\u016dssei Tv\u00e9a"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u17ab\u179f\u17d2\u179f\u17b8\u1791\u17d2\u179c\u17b6"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d R\u016dssei Tv\u00e9a",
+        "Phum\u012d R\u0153ssei Tv\u00e9a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825408
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"d7f421fb1bef47d818c776542f061fa4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209085127
+        }
+    ],
+    "wof:id":1209085127,
+    "wof:lastmodified":1537653538,
+    "wof:name":"Phum Russei Tvea",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.45196,
+    11.40862,
+    105.45196,
+    11.40862
+],
+  "geometry": {"coordinates":[105.45196,11.40862],"type":"Point"}
+}

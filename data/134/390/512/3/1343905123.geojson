@@ -1,0 +1,78 @@
+{
+  "id": 1343905123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.23055,13.0573,103.23055,13.0573",
+    "geom:latitude":13.0573,
+    "geom:longitude":103.23055,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Ou Dambang Pir",
+    "gn:country_code":"KH",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1826762,
+    "gn:latitude":13.0573,
+    "gn:longitude":103.23055,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Ou Dambang Pir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Ou Dambang Pir"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u17a2\u17bc\u178a\u17c6\u1794\u1784 \u1796\u17b8\u179a",
+        "Phum \u00d4 D\u00e2mb\u00e2ng Pir"
+    ],
+    "name:und_x_variant":[
+        "Phum Aur Dambang",
+        "Phum\u012d O D\u00e2mb\u00e2ng (2)"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673015,
+        421202239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1826762
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"c753da0fc46416170b74cd65ca22b437",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421202239,
+            "locality_id":1343905123,
+            "region_id":85673015
+        }
+    ],
+    "wof:id":1343905123,
+    "wof:lastmodified":1537653654,
+    "wof:name":"Ou Dambang Pir",
+    "wof:parent_id":421202239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.23055,
+    13.0573,
+    103.23055,
+    13.0573
+],
+  "geometry": {"coordinates":[103.23054999999999,13.0573],"type":"Point"}
+}

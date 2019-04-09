@@ -1,0 +1,73 @@
+{
+  "id": 1276955587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.86394,12.82601,103.86394,12.82601",
+    "geom:latitude":12.82601,
+    "geom:longitude":103.86394,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Phum Kampung Samna",
+    "gn:country_code":"KH",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11535328,
+    "gn:latitude":12.82601,
+    "gn:longitude":103.86394,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Phum K\u00e2mp\u016dng S\u00e2mn\u00e2",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum K\u00e2mp\u016dng S\u00e2mn\u00e2"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1780\u17c6\u1796\u1784\u17cb\u179f\u17c6\u178e\u179a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673023,
+        1108564595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11535328
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"565e7ef6de01e395af67ad1347f91567",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564595,
+            "locality_id":1276955587,
+            "region_id":85673023
+        }
+    ],
+    "wof:id":1276955587,
+    "wof:lastmodified":1537654093,
+    "wof:name":"Phum Kampung Samna",
+    "wof:parent_id":1108564595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.86394,
+    12.82601,
+    103.86394,
+    12.82601
+],
+  "geometry": {"coordinates":[103.86394,12.82601],"type":"Point"}
+}

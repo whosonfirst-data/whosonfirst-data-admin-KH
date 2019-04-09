@@ -1,0 +1,71 @@
+{
+  "id": 1193027407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.54297,12.26142,104.54297,12.26142",
+    "geom:latitude":12.26142,
+    "geom:longitude":104.54297,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Russey Buoch",
+    "gn:country_code":"KH",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825428,
+    "gn:latitude":12.26142,
+    "gn:longitude":104.54297,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Russey Buoch",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum\u012d R\u016dssei Du\u014fch",
+        "Phum\u012d R\u0153ssei Du\u00f4ch"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673047,
+        421198923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825428
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"22de23b7247696249ece323ff6e015e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421198923,
+            "locality_id":1193027407,
+            "region_id":85673047
+        }
+    ],
+    "wof:id":1193027407,
+    "wof:lastmodified":1537653540,
+    "wof:name":"Russey Buoch",
+    "wof:parent_id":421198923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.54297,
+    12.26142,
+    104.54297,
+    12.26142
+],
+  "geometry": {"coordinates":[104.54297,12.26142],"type":"Point"}
+}

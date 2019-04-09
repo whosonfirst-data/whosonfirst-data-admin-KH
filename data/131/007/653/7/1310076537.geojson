@@ -1,0 +1,71 @@
+{
+  "id": 1310076537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.30585,10.89827,105.30585,10.89827",
+    "geom:latitude":10.89827,
+    "geom:longitude":105.30585,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Phumi Chumteav Meas",
+    "gn:country_code":"KH",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828704,
+    "gn:latitude":10.89827,
+    "gn:longitude":105.30585,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Phum\u012d Chumt\u00e9av M\u00e9as",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum\u012d Ch\u016dmt\u00e9av M\u00e9as",
+        "Phum\u012d Chumt\u00e9av M\u00e9as"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673067,
+        1108564755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828704
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"bb84f249c1f414251d1d943935fa418d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564755,
+            "locality_id":1310076537,
+            "region_id":85673067
+        }
+    ],
+    "wof:id":1310076537,
+    "wof:lastmodified":1537653826,
+    "wof:name":"Phumi Chumteav Meas",
+    "wof:parent_id":1108564755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.30585,
+    10.89827,
+    105.30585,
+    10.89827
+],
+  "geometry": {"coordinates":[105.30585000000001,10.89827],"type":"Point"}
+}

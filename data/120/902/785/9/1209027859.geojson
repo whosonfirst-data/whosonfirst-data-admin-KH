@@ -1,0 +1,67 @@
+{
+  "id": 1209027859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.02108,11.17701,105.02108,11.17701",
+    "geom:latitude":11.17701,
+    "geom:longitude":105.02108,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Phum Anlung Cha Khlang",
+    "gn:country_code":"KH",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11504338,
+    "gn:latitude":11.17701,
+    "gn:longitude":105.02108,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Phum \u00c2nl\u016dng Cha Khlang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum \u00c2nl\u016dng Cha Khlang"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u17a2\u1793\u17d2\u179b\u1784\u17cb\u1785\u17b6\u1781\u17d2\u179b\u17b6\u1784"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11504338
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"d50ea96fc320ab0c328aed1ab3f488b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209027859
+        }
+    ],
+    "wof:id":1209027859,
+    "wof:lastmodified":1537654069,
+    "wof:name":"Phum Anlung Cha Khlang",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.02108,
+    11.17701,
+    105.02108,
+    11.17701
+],
+  "geometry": {"coordinates":[105.02108,11.17701],"type":"Point"}
+}

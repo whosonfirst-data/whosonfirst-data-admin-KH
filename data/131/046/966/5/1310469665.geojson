@@ -1,0 +1,77 @@
+{
+  "id": 1310469665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.01682,13.42532,103.01682,13.42532",
+    "geom:latitude":13.42532,
+    "geom:longitude":103.01682,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Thnal Bat",
+    "gn:country_code":"KH",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1823601,
+    "gn:latitude":13.42532,
+    "gn:longitude":103.01682,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Thnal Bat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Thnal Bat"
+    ],
+    "name:khm_x_variant":[
+        "Phum T\u014fl B\u014ft",
+        "\u1797\u17bc\u1798\u17b7 \u178f\u17bb\u179b\u1794\u17bb\u178f"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d T\u014fl B\u014ft"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673011,
+        1108564737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1823601
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"ef7b2566ede1b237cb85eddf7f86fb2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564737,
+            "locality_id":1310469665,
+            "region_id":85673011
+        }
+    ],
+    "wof:id":1310469665,
+    "wof:lastmodified":1537653390,
+    "wof:name":"Thnal Bat",
+    "wof:parent_id":1108564737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.01682,
+    13.42532,
+    103.01682,
+    13.42532
+],
+  "geometry": {"coordinates":[103.01682,13.42532],"type":"Point"}
+}

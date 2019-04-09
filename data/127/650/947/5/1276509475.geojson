@@ -1,0 +1,71 @@
+{
+  "id": 1276509475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.94782,10.79647,104.94782,10.79647",
+    "geom:latitude":10.79647,
+    "geom:longitude":104.94782,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Phumi Romenh",
+    "gn:country_code":"KH",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825314,
+    "gn:latitude":10.79647,
+    "gn:longitude":104.94782,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d R\u00f4m\u00e9nh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Romenh",
+        "Phum\u012d R\u00f4m\u00e9nh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673107,
+        1108564693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825314
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"b9d90a9123a9fd52ef0bd23bd514f743",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564693,
+            "locality_id":1276509475,
+            "region_id":85673107
+        }
+    ],
+    "wof:id":1276509475,
+    "wof:lastmodified":1537653530,
+    "wof:name":"Phumi Romenh",
+    "wof:parent_id":1108564693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.94782,
+    10.79647,
+    104.94782,
+    10.79647
+],
+  "geometry": {"coordinates":[104.94781999999999,10.79647],"type":"Point"}
+}

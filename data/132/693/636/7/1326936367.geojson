@@ -1,0 +1,77 @@
+{
+  "id": 1326936367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.18788,11.16774,104.18788,11.16774",
+    "geom:latitude":11.16774,
+    "geom:longitude":104.18788,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Phum Vatt",
+    "gn:country_code":"KH",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1822868,
+    "gn:latitude":11.16774,
+    "gn:longitude":104.18788,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Phum Vatt",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Vatt"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u179c\u178f\u17d2\u178f"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Vatt",
+        "Phum\u012d V\u00f4tt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673053,
+        1108564765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1822868
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"0f6a8374cdf2470cce3e9e727c62aa3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564765,
+            "locality_id":1326936367,
+            "region_id":85673053
+        }
+    ],
+    "wof:id":1326936367,
+    "wof:lastmodified":1537653341,
+    "wof:name":"Phum Vatt",
+    "wof:parent_id":1108564765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.18788,
+    11.16774,
+    104.18788,
+    11.16774
+],
+  "geometry": {"coordinates":[104.18788000000001,11.16774],"type":"Point"}
+}

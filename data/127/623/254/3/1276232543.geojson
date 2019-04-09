@@ -1,0 +1,70 @@
+{
+  "id": 1276232543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.11019,12.31963,105.11019,12.31963",
+    "geom:latitude":12.31963,
+    "geom:longitude":105.11019,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Phum Tong",
+    "gn:country_code":"KH",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1823602,
+    "gn:latitude":12.31963,
+    "gn:longitude":105.11019,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Phum Tong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum\u012d T\u0153\u0306ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673057,
+        421198921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1823602
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"e31bfab0f9f298a6b19bacbdfff0c9dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421198921,
+            "locality_id":1276232543,
+            "region_id":85673057
+        }
+    ],
+    "wof:id":1276232543,
+    "wof:lastmodified":1537653390,
+    "wof:name":"Phum Tong",
+    "wof:parent_id":421198921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.11019,
+    12.31963,
+    105.11019,
+    12.31963
+],
+  "geometry": {"coordinates":[105.11019,12.31963],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1344158891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.75092,12.29742,104.75092,12.29742",
+    "geom:latitude":12.29742,
+    "geom:longitude":104.75092,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Tumnob",
+    "gn:country_code":"KH",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1823122,
+    "gn:latitude":12.29742,
+    "gn:longitude":104.75092,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Tumnob",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Tumnob"
+    ],
+    "name:und_x_variant":[
+        "Ten Hop",
+        "Phum\u012d T\u016dmn\u016dp",
+        "Phum\u012d Tumn\u00f3b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673047,
+        421188239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1823122
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"7227001b6c6066f73c0490d742c342fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421188239,
+            "locality_id":1344158891,
+            "region_id":85673047
+        }
+    ],
+    "wof:id":1344158891,
+    "wof:lastmodified":1537653358,
+    "wof:name":"Tumnob",
+    "wof:parent_id":421188239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.75092,
+    12.29742,
+    104.75092,
+    12.29742
+],
+  "geometry": {"coordinates":[104.75091999999999,12.29742],"type":"Point"}
+}

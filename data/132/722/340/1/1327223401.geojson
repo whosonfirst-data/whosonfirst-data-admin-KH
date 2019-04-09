@@ -1,0 +1,77 @@
+{
+  "id": 1327223401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.17769,12.45151,106.17769,12.45151",
+    "geom:latitude":12.45151,
+    "geom:longitude":106.17769,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Chrava",
+    "gn:country_code":"KH",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828809,
+    "gn:latitude":12.45151,
+    "gn:longitude":106.17769,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Chrava",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Chr\u00e2va"
+    ],
+    "name:khm_x_variant":[
+        "Chrava",
+        "\u1797\u17bc\u1798\u17b7 \u1785\u17d2\u179a\u179c\u17b6"
+    ],
+    "name:und_x_variant":[
+        "Phum Chravar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673081,
+        1108564631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828809
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"69343f7a7eb1dd484efc3646050c76ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564631,
+            "locality_id":1327223401,
+            "region_id":85673081
+        }
+    ],
+    "wof:id":1327223401,
+    "wof:lastmodified":1537653834,
+    "wof:name":"Chrava",
+    "wof:parent_id":1108564631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.17768999999998,
+    12.45151,
+    106.17768999999998,
+    12.45151
+],
+  "geometry": {"coordinates":[106.17768999999998,12.45151],"type":"Point"}
+}

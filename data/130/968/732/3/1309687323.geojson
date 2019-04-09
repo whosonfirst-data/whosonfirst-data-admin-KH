@@ -1,0 +1,73 @@
+{
+  "id": 1309687323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.79993,11.0198,104.79993,11.0198",
+    "geom:latitude":11.0198,
+    "geom:longitude":104.79993,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Phumi Kampong Barayn",
+    "gn:country_code":"KH",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828327,
+    "gn:latitude":11.0198,
+    "gn:longitude":104.79993,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d K\u00e2mp\u00f3ng Barayn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum Barai",
+        "Baray",
+        "Phum\u012d K\u00e2mp\u00f4ng Baray",
+        "Phum\u012d K\u00e2mp\u00f3ng Barayn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673107,
+        421187977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828327
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"24177a2d8768306e35c00c1b1886d5e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421187977,
+            "locality_id":1309687323,
+            "region_id":85673107
+        }
+    ],
+    "wof:id":1309687323,
+    "wof:lastmodified":1537653796,
+    "wof:name":"Phumi Kampong Barayn",
+    "wof:parent_id":421187977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.79993,
+    11.0198,
+    104.79993,
+    11.0198
+],
+  "geometry": {"coordinates":[104.79993,11.0198],"type":"Point"}
+}

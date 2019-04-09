@@ -1,0 +1,71 @@
+{
+  "id": 1226744449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.07296,11.68047,105.07296,11.68047",
+    "geom:latitude":11.68047,
+    "geom:longitude":105.07296,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Phumi Trapeang Prei",
+    "gn:country_code":"KH",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1823345,
+    "gn:latitude":11.68047,
+    "gn:longitude":105.07296,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Tr\u00e2pe\u0103ng Prei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Trapeang Prey",
+        "Phum\u012d Tr\u00e2pe\u0103ng Prei"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673051,
+        421188351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1823345
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"96b04870491869088327acfed7061204",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421188351,
+            "locality_id":1226744449,
+            "region_id":85673051
+        }
+    ],
+    "wof:id":1226744449,
+    "wof:lastmodified":1537653373,
+    "wof:name":"Phumi Trapeang Prei",
+    "wof:parent_id":421188351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.07296,
+    11.68047,
+    105.07296,
+    11.68047
+],
+  "geometry": {"coordinates":[105.07295999999999,11.68047],"type":"Point"}
+}

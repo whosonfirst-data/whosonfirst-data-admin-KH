@@ -1,0 +1,76 @@
+{
+  "id": 1310061533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.22018,13.22266,104.22018,13.22266",
+    "geom:latitude":13.22266,
+    "geom:longitude":104.22018,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Ruessei Lok",
+    "gn:country_code":"KH",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825423,
+    "gn:latitude":13.22266,
+    "gn:longitude":104.22018,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Ruessei Lok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Ruessei Lok"
+    ],
+    "name:und_x_variant":[
+        "Phum Rosey Lok",
+        "Phum\u012d R\u016dsse L\u00f4k",
+        "Phum\u012d R\u016dssei L\u00f4k",
+        "Phum\u012d R\u0153ssei L\u00f4k"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673029,
+        1108564639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825423
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"ea6194dbfb0e63298b917192c4c2cd99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564639,
+            "locality_id":1310061533,
+            "region_id":85673029
+        }
+    ],
+    "wof:id":1310061533,
+    "wof:lastmodified":1537653540,
+    "wof:name":"Ruessei Lok",
+    "wof:parent_id":1108564639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.22018,
+    13.22266,
+    104.22018,
+    13.22266
+],
+  "geometry": {"coordinates":[104.22018,13.22266],"type":"Point"}
+}

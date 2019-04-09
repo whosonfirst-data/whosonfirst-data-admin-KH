@@ -1,0 +1,78 @@
+{
+  "id": 1259847719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.81955,13.2873,103.81955,13.2873",
+    "geom:latitude":13.2873,
+    "geom:longitude":103.81955,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Phnum Kraom",
+    "gn:country_code":"KH",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1826461,
+    "gn:latitude":13.2873,
+    "gn:longitude":103.81955,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Phnum Kraom",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phnum Kraom"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1797\u17d2\u1793\u17c6\u1780\u17d2\u179a\u17c4\u1798",
+        "Phum Phn\u016dm Kra\u00f4m"
+    ],
+    "name:und_x_variant":[
+        "Phum Phnom Krom",
+        "Phum\u012d Phnum Kra\u00f4m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673029,
+        421204115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1826461
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"e7a317e45e5b71526308169944c848e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421204115,
+            "locality_id":1259847719,
+            "region_id":85673029
+        }
+    ],
+    "wof:id":1259847719,
+    "wof:lastmodified":1537653628,
+    "wof:name":"Phnum Kraom",
+    "wof:parent_id":421204115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.81955,
+    13.2873,
+    103.81955,
+    13.2873
+],
+  "geometry": {"coordinates":[103.81955000000001,13.2873],"type":"Point"}
+}

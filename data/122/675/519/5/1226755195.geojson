@@ -1,0 +1,71 @@
+{
+  "id": 1226755195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.44876,11.75802,104.44876,11.75802",
+    "geom:latitude":11.75802,
+    "geom:longitude":104.44876,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Phumi Anlung Pring",
+    "gn:country_code":"KH",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829764,
+    "gn:latitude":11.75802,
+    "gn:longitude":104.44876,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Phum\u012d \u00c2nl\u016dng Pring",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Prey Nh\u00e9an",
+        "Phum\u012d \u00c2nl\u016dng Pring"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673047,
+        890440787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829764
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"be06df9924ec628d3bd01b1cfce15895",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":890440787,
+            "locality_id":1226755195,
+            "region_id":85673047
+        }
+    ],
+    "wof:id":1226755195,
+    "wof:lastmodified":1537653909,
+    "wof:name":"Phumi Anlung Pring",
+    "wof:parent_id":890440787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.44876,
+    11.75802,
+    104.44876,
+    11.75802
+],
+  "geometry": {"coordinates":[104.44875999999999,11.75802],"type":"Point"}
+}

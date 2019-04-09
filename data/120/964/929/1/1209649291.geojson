@@ -1,0 +1,61 @@
+{
+  "id": 1209649291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.80136,11.73702,105.80136,11.73702",
+    "geom:latitude":11.73702,
+    "geom:longitude":105.80136,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Phumi Trapeang Santey",
+    "gn:country_code":"KH",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1823277,
+    "gn:latitude":11.73702,
+    "gn:longitude":105.80136,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Phum\u012d Tr\u00e2pe\u0103ng S\u00e2ntey",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1823277
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"7dc5d78fa28e3915cf77027927078787",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209649291
+        }
+    ],
+    "wof:id":1209649291,
+    "wof:lastmodified":1536280632,
+    "wof:name":"Phumi Trapeang Santey",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.80136,
+    11.73702,
+    105.80136,
+    11.73702
+],
+  "geometry": {"coordinates":[105.80136,11.73702],"type":"Point"}
+}

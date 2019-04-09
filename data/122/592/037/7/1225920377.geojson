@@ -1,0 +1,75 @@
+{
+  "id": 1225920377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.39143,14.09457,106.39143,14.09457",
+    "geom:latitude":14.09457,
+    "geom:longitude":106.39143,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Kaeng Nhai",
+    "gn:country_code":"KH",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827776,
+    "gn:latitude":14.09457,
+    "gn:longitude":106.39143,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Kaeng Nhai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Kaeng Nhai"
+    ],
+    "name:und_x_variant":[
+        "Ban Kheng Nhay",
+        "Ban Keng Nhay",
+        "Phum\u012d K\u00eang Nhai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673075,
+        1108564835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827776
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"f39299b94a0166426a2db072e9d4c154",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564835,
+            "locality_id":1225920377,
+            "region_id":85673075
+        }
+    ],
+    "wof:id":1225920377,
+    "wof:lastmodified":1537653748,
+    "wof:name":"Kaeng Nhai",
+    "wof:parent_id":1108564835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.39143,
+    14.09457,
+    106.39143,
+    14.09457
+],
+  "geometry": {"coordinates":[106.39143,14.09457],"type":"Point"}
+}

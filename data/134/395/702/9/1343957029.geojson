@@ -1,0 +1,72 @@
+{
+  "id": 1343957029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.15615,12.24779,105.15615,12.24779",
+    "geom:latitude":12.24779,
+    "geom:longitude":105.15615,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Phumi Kanthum",
+    "gn:country_code":"KH",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828048,
+    "gn:latitude":12.24779,
+    "gn:longitude":105.15615,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d K\u00e2nthum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum Ka Thon",
+        "Phum Ka Ton",
+        "Phum\u012d K\u00e2nthum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673057,
+        421198921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828048
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"a143f685a66523f49a7d20929f208879",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421198921,
+            "locality_id":1343957029,
+            "region_id":85673057
+        }
+    ],
+    "wof:id":1343957029,
+    "wof:lastmodified":1537653771,
+    "wof:name":"Phumi Kanthum",
+    "wof:parent_id":421198921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.15615,
+    12.24779,
+    105.15615,
+    12.24779
+],
+  "geometry": {"coordinates":[105.15615,12.24779],"type":"Point"}
+}

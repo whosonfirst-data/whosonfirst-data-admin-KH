@@ -1,0 +1,73 @@
+{
+  "id": 1293839725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.00477,13.38565,104.00477,13.38565",
+    "geom:latitude":13.38565,
+    "geom:longitude":104.00477,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Prasat Pouth",
+    "gn:country_code":"KH",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11604844,
+    "gn:latitude":13.38565,
+    "gn:longitude":104.00477,
+    "gn:modification_date":"2017-07-06",
+    "gn:name":"Prasat Pouth",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Prasat Pouth"
+    ],
+    "name:khm_x_variant":[
+        "\u1794\u17d2\u179a\u17b6\u179f\u17b6\u1791\u1796\u17c4\u1792\u17b7"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673029,
+        421171409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11604844
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"2af0bf4ab2ac4b4eac25a6628bee3f2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421171409,
+            "locality_id":1293839725,
+            "region_id":85673029
+        }
+    ],
+    "wof:id":1293839725,
+    "wof:lastmodified":1537654135,
+    "wof:name":"Prasat Pouth",
+    "wof:parent_id":421171409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.00477,
+    13.38565,
+    104.00477,
+    13.38565
+],
+  "geometry": {"coordinates":[104.00476999999999,13.38565],"type":"Point"}
+}

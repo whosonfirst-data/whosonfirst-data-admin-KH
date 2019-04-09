@@ -1,0 +1,74 @@
+{
+  "id": 1226301707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.2602,10.58118,104.2602,10.58118",
+    "geom:latitude":10.58118,
+    "geom:longitude":104.2602,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Kampong Tnaot",
+    "gn:country_code":"KH",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828189,
+    "gn:latitude":10.58118,
+    "gn:longitude":104.2602,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Kampong Tnaot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Kampong Tnaot"
+    ],
+    "name:und_x_variant":[
+        "Phum Kompong Tnot",
+        "Phum\u012d K\u00e2mp\u00f3ng Tna\u00f4t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673093,
+        1108564883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828189
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"eeaeab2d2068f088675de854826f6b1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564883,
+            "locality_id":1226301707,
+            "region_id":85673093
+        }
+    ],
+    "wof:id":1226301707,
+    "wof:lastmodified":1537653782,
+    "wof:name":"Kampong Tnaot",
+    "wof:parent_id":1108564883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.2602,
+    10.58118,
+    104.2602,
+    10.58118
+],
+  "geometry": {"coordinates":[104.2602,10.58118],"type":"Point"}
+}

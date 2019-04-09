@@ -1,0 +1,70 @@
+{
+  "id": 1310128585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.77035,12.69322,104.77035,12.69322",
+    "geom:latitude":12.69322,
+    "geom:longitude":104.77035,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Khsach Chi Ros",
+    "gn:country_code":"KH",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11476853,
+    "gn:latitude":12.69322,
+    "gn:longitude":104.77035,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Khsach Chi Ros",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Khsach Chi Ros"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673057,
+        421169333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11476853
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"bd0b4331c476e2643ec2dddb78d0f615",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421169333,
+            "locality_id":1310128585,
+            "region_id":85673057
+        }
+    ],
+    "wof:id":1310128585,
+    "wof:lastmodified":1537654034,
+    "wof:name":"Khsach Chi Ros",
+    "wof:parent_id":421169333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.77035,
+    12.69322,
+    104.77035,
+    12.69322
+],
+  "geometry": {"coordinates":[104.77034999999999,12.69322],"type":"Point"}
+}

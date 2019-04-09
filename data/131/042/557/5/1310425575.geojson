@@ -1,0 +1,74 @@
+{
+  "id": 1310425575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.0767,10.93697,103.0767,10.93697",
+    "geom:latitude":10.93697,
+    "geom:longitude":103.0767,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Phum Kaoh Andong Sdach",
+    "gn:country_code":"KH",
+    "gn:dem":-19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828019,
+    "gn:latitude":10.93697,
+    "gn:longitude":103.0767,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Phum Ka\u00f4h \u00c2ndong Sdach",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Ka\u00f4h \u00c2ndong Sdach"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1780\u17c4\u17c7\u17a2\u178e\u17d2\u178a\u17bc\u1784\u179f\u17d2\u178a\u17c1\u1785"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Ka\u00f4h \u00c2ndong Sdach",
+        "Phum\u012d Ka\u00f4h \u00c2ndong Sd\u00e9ch"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828019
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"5c5d3b5b6545a948bc3db16f85e38662",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "locality_id":1310425575,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310425575,
+    "wof:lastmodified":1537653769,
+    "wof:name":"Phum Kaoh Andong Sdach",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.0767,
+    10.93697,
+    103.0767,
+    10.93697
+],
+  "geometry": {"coordinates":[103.0767,10.93697],"type":"Point"}
+}

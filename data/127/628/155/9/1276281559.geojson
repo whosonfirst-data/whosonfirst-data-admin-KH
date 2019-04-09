@@ -1,0 +1,75 @@
+{
+  "id": 1276281559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.25829,13.19092,103.25829,13.19092",
+    "geom:latitude":13.19092,
+    "geom:longitude":103.25829,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Reach Doun Kaev",
+    "gn:country_code":"KH",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825478,
+    "gn:latitude":13.19092,
+    "gn:longitude":103.25829,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Reach Doun Kaev",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Reach Doun Kaev"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d R\u00e9ach Don K\u00eay",
+        "Phum\u012d R\u00e9ach Don K\u00ea",
+        "Phum\u012d R\u00e9ach Don K\u00eav"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673015,
+        421172391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825478
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"018219feb7961a994c4575ad2441509e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421172391,
+            "locality_id":1276281559,
+            "region_id":85673015
+        }
+    ],
+    "wof:id":1276281559,
+    "wof:lastmodified":1537653545,
+    "wof:name":"Reach Doun Kaev",
+    "wof:parent_id":421172391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.25829,
+    13.19092,
+    103.25829,
+    13.19092
+],
+  "geometry": {"coordinates":[103.25829,13.19092],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1242608629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.00575,11.83356,106.00575,11.83356",
+    "geom:latitude":11.83356,
+    "geom:longitude":106.00575,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Memae",
+    "gn:country_code":"KH",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1826902,
+    "gn:latitude":11.83356,
+    "gn:longitude":106.00575,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Memae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Memae"
+    ],
+    "name:und_x_variant":[
+        "Phum Memey",
+        "Phum\u012d M\u00e9may"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        1108804319,
+        421183889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1826902
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"20023c479a26a78364925f7ea82b05a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421183889,
+            "locality_id":1242608629,
+            "region_id":1108804319
+        }
+    ],
+    "wof:id":1242608629,
+    "wof:lastmodified":1537653668,
+    "wof:name":"Memae",
+    "wof:parent_id":421183889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.00575,
+    11.83356,
+    106.00575,
+    11.83356
+],
+  "geometry": {"coordinates":[106.00575000000001,11.83356],"type":"Point"}
+}

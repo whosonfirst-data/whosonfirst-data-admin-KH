@@ -1,0 +1,77 @@
+{
+  "id": 1343948691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.14859,11.45926,103.14859,11.45926",
+    "geom:latitude":11.45926,
+    "geom:longitude":103.14859,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Phum Prek Thma",
+    "gn:country_code":"KH",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825924,
+    "gn:latitude":11.45926,
+    "gn:longitude":103.14859,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Phum Pr\u00eak Thm\u00e2",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Pr\u00eak Thm\u00e2"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1796\u17d2\u179a\u17c2\u1780\u1790\u17d2\u1798"
+    ],
+    "name:und_x_variant":[
+        "Sala Hintoun",
+        "Phum\u012d Pr\u00eak Thm\u00e2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673019,
+        1108564697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825924
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"8b194013275db31597ab36b82628b9bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564697,
+            "locality_id":1343948691,
+            "region_id":85673019
+        }
+    ],
+    "wof:id":1343948691,
+    "wof:lastmodified":1537653577,
+    "wof:name":"Phum Prek Thma",
+    "wof:parent_id":1108564697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.14859,
+    11.45926,
+    103.14859,
+    11.45926
+],
+  "geometry": {"coordinates":[103.14859,11.45926],"type":"Point"}
+}

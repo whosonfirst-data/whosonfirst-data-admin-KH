@@ -1,0 +1,64 @@
+{
+  "id": 1209671627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.42408,13.67749,107.42408,13.67749",
+    "geom:latitude":13.67749,
+    "geom:longitude":107.42408,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Ya Tung",
+    "gn:country_code":"KH",
+    "gn:dem":222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11484023,
+    "gn:latitude":13.67749,
+    "gn:longitude":107.42408,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Ya Tung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Ya Tung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11484023
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"1931ae9122c354f552311269efa9d39c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209671627
+        }
+    ],
+    "wof:id":1209671627,
+    "wof:lastmodified":1537654063,
+    "wof:name":"Ya Tung",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.42408,
+    13.67749,
+    107.42408,
+    13.67749
+],
+  "geometry": {"coordinates":[107.42408,13.67749],"type":"Point"}
+}

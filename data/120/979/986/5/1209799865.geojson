@@ -1,0 +1,67 @@
+{
+  "id": 1209799865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.9245,12.84978,105.9245,12.84978",
+    "geom:latitude":12.84978,
+    "geom:longitude":105.9245,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Phumi Prei",
+    "gn:country_code":"KH",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1826078,
+    "gn:latitude":12.84978,
+    "gn:longitude":105.9245,
+    "gn:modification_date":"1993-12-30",
+    "gn:name":"Phum\u012d Prei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673081,
+        421188051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1826078
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"5c4660785c9bfec07ab298efd6446d64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421188051,
+            "locality_id":1209799865,
+            "region_id":85673081
+        }
+    ],
+    "wof:id":1209799865,
+    "wof:lastmodified":1536391205,
+    "wof:name":"Phumi Prei",
+    "wof:parent_id":421188051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.9245,
+    12.84978,
+    105.9245,
+    12.84978
+],
+  "geometry": {"coordinates":[105.92449999999999,12.84978],"type":"Point"}
+}

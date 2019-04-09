@@ -1,0 +1,70 @@
+{
+  "id": 1192994823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.12859,13.36059,105.12859,13.36059",
+    "geom:latitude":13.36059,
+    "geom:longitude":105.12859,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Rohas",
+    "gn:country_code":"KH",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11481848,
+    "gn:latitude":13.36059,
+    "gn:longitude":105.12859,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Rohas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Rohas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673071,
+        1108564801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11481848
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"0fe538f2d1dbd1634c91cbb3b8ff4b65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564801,
+            "locality_id":1192994823,
+            "region_id":85673071
+        }
+    ],
+    "wof:id":1192994823,
+    "wof:lastmodified":1537654046,
+    "wof:name":"Rohas",
+    "wof:parent_id":1108564801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.12859,
+    13.36059,
+    105.12859,
+    13.36059
+],
+  "geometry": {"coordinates":[105.12859,13.36059],"type":"Point"}
+}

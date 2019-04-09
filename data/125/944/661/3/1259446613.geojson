@@ -1,0 +1,73 @@
+{
+  "id": 1259446613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.5916,14.0859,106.5916,14.0859",
+    "geom:latitude":14.0859,
+    "geom:longitude":106.5916,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Phum Leuslup",
+    "gn:country_code":"KH",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1880869,
+    "gn:latitude":14.0859,
+    "gn:longitude":106.5916,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Phum Leusl\u016dp",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Leusl\u016dp"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u179b\u17be\u179f\u179b\u1794\u17cb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673075,
+        1108564835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1880869
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"188a50d8d68b04cfb57d180632447323",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564835,
+            "locality_id":1259446613,
+            "region_id":85673075
+        }
+    ],
+    "wof:id":1259446613,
+    "wof:lastmodified":1537653965,
+    "wof:name":"Phum Leuslup",
+    "wof:parent_id":1108564835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.5916,
+    14.0859,
+    106.5916,
+    14.0859
+],
+  "geometry": {"coordinates":[106.5916,14.0859],"type":"Point"}
+}

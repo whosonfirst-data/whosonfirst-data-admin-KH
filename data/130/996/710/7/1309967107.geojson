@@ -1,0 +1,77 @@
+{
+  "id": 1309967107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.32873,12.97957,103.32873,12.97957",
+    "geom:latitude":12.97957,
+    "geom:longitude":103.32873,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Kbal Thnal",
+    "gn:country_code":"KH",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827823,
+    "gn:latitude":12.97957,
+    "gn:longitude":103.32873,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kbal Thnal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Kbal Thnal"
+    ],
+    "name:khm_x_variant":[
+        "Phum\u012d Kbal Thn\u00e2l",
+        "\u1797\u17bc\u1798\u17b7 \u1780\u17d2\u1794\u17b6\u179b\u1790\u17d2\u1793\u179b\u17cb"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Kbal Thn\u00e1l"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673015,
+        421202239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827823
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"e85c99c4c5b74e8d23d0a6329af74c13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421202239,
+            "locality_id":1309967107,
+            "region_id":85673015
+        }
+    ],
+    "wof:id":1309967107,
+    "wof:lastmodified":1537653752,
+    "wof:name":"Kbal Thnal",
+    "wof:parent_id":421202239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.32873,
+    12.97957,
+    103.32873,
+    12.97957
+],
+  "geometry": {"coordinates":[103.32872999999999,12.97957],"type":"Point"}
+}

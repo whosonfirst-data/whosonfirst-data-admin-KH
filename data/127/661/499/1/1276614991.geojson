@@ -1,0 +1,74 @@
+{
+  "id": 1276614991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.58694,13.10944,102.58694,13.10944",
+    "geom:latitude":13.10944,
+    "geom:longitude":102.58694,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Phumi Chamkar Kamphaeum",
+    "gn:country_code":"KH",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829227,
+    "gn:latitude":13.10944,
+    "gn:longitude":102.58694,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Ch\u00e2mkar K\u00e2mphaeum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum Ch\u00e2mka K\u00e2mphaeum",
+        "Phum\u012d Ch\u00e2mka K\u00e2mpheum",
+        "Phum\u012d Ch\u00e2mka K\u00e2mphaeum",
+        "Phum Bu K\u00e2nla\u00f4ng",
+        "Phum\u012d Ch\u00e2mkar K\u00e2mphaeum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673015,
+        1108564683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829227
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"debe3ffcb7b440a481ac75c9ab28f88a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564683,
+            "locality_id":1276614991,
+            "region_id":85673015
+        }
+    ],
+    "wof:id":1276614991,
+    "wof:lastmodified":1537653867,
+    "wof:name":"Phumi Chamkar Kamphaeum",
+    "wof:parent_id":1108564683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.58694,
+    13.10944,
+    102.58694,
+    13.10944
+],
+  "geometry": {"coordinates":[102.58694,13.10944],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293444165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.17708,14.31207,104.17708,14.31207",
+    "geom:latitude":14.31207,
+    "geom:longitude":104.17708,
+    "gn:admin1_code":"27",
+    "gn:asciiname":"Ta Bun",
+    "gn:country_code":"KH",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11459440,
+    "gn:latitude":14.31207,
+    "gn:longitude":104.17708,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Ta Bun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Ta Bun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673033,
+        1108564879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11459440
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"eb71271d6524fd97a042b06dd5c8e109",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564879,
+            "locality_id":1293444165,
+            "region_id":85673033
+        }
+    ],
+    "wof:id":1293444165,
+    "wof:lastmodified":1537654019,
+    "wof:name":"Ta Bun",
+    "wof:parent_id":1108564879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.17708,
+    14.31207,
+    104.17708,
+    14.31207
+],
+  "geometry": {"coordinates":[104.17708,14.31207],"type":"Point"}
+}

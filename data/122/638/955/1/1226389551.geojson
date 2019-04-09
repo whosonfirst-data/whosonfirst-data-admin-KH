@@ -1,0 +1,77 @@
+{
+  "id": 1226389551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.37782,12.76389,103.37782,12.76389",
+    "geom:latitude":12.76389,
+    "geom:longitude":103.37782,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Phum Thma Chriev",
+    "gn:country_code":"KH",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1823906,
+    "gn:latitude":12.76389,
+    "gn:longitude":103.37782,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Phum Thm\u00e2 Chri\u0115v",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Thm\u00e2 Chri\u0115v"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1790\u17d2\u1798\u1787\u17d2\u179a\u17b6\u179c"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Thm\u00e2 Chri\u0115v",
+        "Phum\u012d Thm\u00e2 Chr\u00e9av"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673015,
+        1108564739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1823906
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"18f7482df6c9e0394fa238d5f2204e17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564739,
+            "locality_id":1226389551,
+            "region_id":85673015
+        }
+    ],
+    "wof:id":1226389551,
+    "wof:lastmodified":1537653415,
+    "wof:name":"Phum Thma Chriev",
+    "wof:parent_id":1108564739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.37782,
+    12.76389,
+    103.37782,
+    12.76389
+],
+  "geometry": {"coordinates":[103.37782,12.76389],"type":"Point"}
+}

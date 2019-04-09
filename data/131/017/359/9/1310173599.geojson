@@ -1,0 +1,88 @@
+{
+  "id": 1310173599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.97429,13.21218,103.97429,13.21218",
+    "geom:latitude":13.21218,
+    "geom:longitude":103.97429,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Kouk Kdol",
+    "gn:country_code":"KH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827764,
+    "gn:latitude":13.21218,
+    "gn:longitude":103.97429,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Kouk Kdol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kompong Phluk"
+    ],
+    "name:fra_x_preferred":[
+        "Kompong Phhluk"
+    ],
+    "name:khm_x_preferred":[
+        "Kouk Kdol"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1781\u17b6\u1784\u1787\u17be\u1784\u179c\u178f\u17d2\u178f"
+    ],
+    "name:und_x_variant":[
+        "Phum Kompong Phlouk",
+        "Phum\u012d Khang Cheung Vatt",
+        "Kompong Phlok",
+        "Kompong-Phlux",
+        "Phum\u012d Khang Cheung V\u00f4tt",
+        "Kampong Phulk",
+        "Phum Khang Cheung Vatt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673029,
+        421171409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827764
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"a13cebe1588293765d0014907d9c36a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421171409,
+            "locality_id":1310173599,
+            "region_id":85673029
+        }
+    ],
+    "wof:id":1310173599,
+    "wof:lastmodified":1537653747,
+    "wof:name":"Kouk Kdol",
+    "wof:parent_id":421171409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.97429,
+    13.21218,
+    103.97429,
+    13.21218
+],
+  "geometry": {"coordinates":[103.97429,13.21218],"type":"Point"}
+}

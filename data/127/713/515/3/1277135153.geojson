@@ -1,0 +1,70 @@
+{
+  "id": 1277135153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.36566,13.8567,107.36566,13.8567",
+    "geom:latitude":13.8567,
+    "geom:longitude":107.36566,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Tang Chi",
+    "gn:country_code":"KH",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11483931,
+    "gn:latitude":13.8567,
+    "gn:longitude":107.36566,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Tang Chi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Tang Chi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673089,
+        1108564575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11483931
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"0726bb54d556005f838dcc8a5ab343a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564575,
+            "locality_id":1277135153,
+            "region_id":85673089
+        }
+    ],
+    "wof:id":1277135153,
+    "wof:lastmodified":1537654061,
+    "wof:name":"Tang Chi",
+    "wof:parent_id":1108564575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.36566,
+    13.8567,
+    107.36566,
+    13.8567
+],
+  "geometry": {"coordinates":[107.36566000000001,13.8567],"type":"Point"}
+}

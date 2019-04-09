@@ -1,0 +1,78 @@
+{
+  "id": 1344107091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.53753,12.86582,102.53753,12.86582",
+    "geom:latitude":12.86582,
+    "geom:longitude":102.53753,
+    "gn:admin1_code":"30",
+    "gn:asciiname":"Ba Tangsu",
+    "gn:country_code":"KH",
+    "gn:dem":231,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829550,
+    "gn:latitude":12.86582,
+    "gn:longitude":102.53753,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Ba Tangsu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Ba Tangsu"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1794\u178f\u17b6\u17c6\u1784\u179f\u17bc"
+    ],
+    "name:und_x_variant":[
+        "Bar Tang Su",
+        "Phum B\u00e2 T\u0103ng So",
+        "Phum\u012d B\u00e2 T\u0103ng So"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673037,
+        421170109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829550
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"f5049888804e7073727e6ba467e85d46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421170109,
+            "locality_id":1344107091,
+            "region_id":85673037
+        }
+    ],
+    "wof:id":1344107091,
+    "wof:lastmodified":1537653891,
+    "wof:name":"Ba Tangsu",
+    "wof:parent_id":421170109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.53753,
+    12.86582,
+    102.53753,
+    12.86582
+],
+  "geometry": {"coordinates":[102.53753,12.86582],"type":"Point"}
+}

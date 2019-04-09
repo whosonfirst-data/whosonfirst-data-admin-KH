@@ -1,0 +1,73 @@
+{
+  "id": 1260296815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.44431,12.28883,104.44431,12.28883",
+    "geom:latitude":12.28883,
+    "geom:longitude":104.44431,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Phum Prey Preah Sang",
+    "gn:country_code":"KH",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11598956,
+    "gn:latitude":12.28883,
+    "gn:longitude":104.44431,
+    "gn:modification_date":"2017-07-06",
+    "gn:name":"Phum Prey Pre\u0103h S\u00e2ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Prey Pre\u0103h S\u00e2ng"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1796\u17d2\u179a\u17c3\u1796\u17d2\u179a\u17c7\u179f\u1784\u17d2\u1783"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673047,
+        421198923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11598956
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"8341440d4684243165dc89806ad96303",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421198923,
+            "locality_id":1260296815,
+            "region_id":85673047
+        }
+    ],
+    "wof:id":1260296815,
+    "wof:lastmodified":1537654125,
+    "wof:name":"Phum Prey Preah Sang",
+    "wof:parent_id":421198923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.44431,
+    12.28883,
+    104.44431,
+    12.28883
+],
+  "geometry": {"coordinates":[104.44431,12.28883],"type":"Point"}
+}

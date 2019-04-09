@@ -1,0 +1,67 @@
+{
+  "id": 1259614873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.37184,11.87107,106.37184,11.87107",
+    "geom:latitude":11.87107,
+    "geom:longitude":106.37184,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Phum Lovea",
+    "gn:country_code":"KH",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8443043,
+    "gn:latitude":11.87107,
+    "gn:longitude":106.37184,
+    "gn:modification_date":"2016-05-09",
+    "gn:name":"Phum L\u00f4v\u00e9a",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        1108804319,
+        1108564735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8443043
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"dc47b7630edf1d885d62a41dde1f6bf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564735,
+            "locality_id":1259614873,
+            "region_id":1108804319
+        }
+    ],
+    "wof:id":1259614873,
+    "wof:lastmodified":1536669558,
+    "wof:name":"Phum Lovea",
+    "wof:parent_id":1108564735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.37184,
+    11.87107,
+    106.37184,
+    11.87107
+],
+  "geometry": {"coordinates":[106.37184000000001,11.87107],"type":"Point"}
+}

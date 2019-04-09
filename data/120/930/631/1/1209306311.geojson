@@ -1,0 +1,66 @@
+{
+  "id": 1209306311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.70883,11.63426,104.70883,11.63426",
+    "geom:latitude":11.63426,
+    "geom:longitude":104.70883,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Phumi Angk Sduoch",
+    "gn:country_code":"KH",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829891,
+    "gn:latitude":11.63426,
+    "gn:longitude":104.70883,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d \u00c2ngk Sdu\u014fch",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u00c2ng Sanduoch",
+        "Phum\u012d \u00c2ng Sdu\u014fch",
+        "Phum\u012d \u00c2ngk Sdu\u014fch"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829891
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"e587eb18a40aaeb28b3af823af742fc5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209306311
+        }
+    ],
+    "wof:id":1209306311,
+    "wof:lastmodified":1537653922,
+    "wof:name":"Phumi Angk Sduoch",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.70883,
+    11.63426,
+    104.70883,
+    11.63426
+],
+  "geometry": {"coordinates":[104.70883000000001,11.63426],"type":"Point"}
+}

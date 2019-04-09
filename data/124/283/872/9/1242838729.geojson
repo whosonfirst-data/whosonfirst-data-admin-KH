@@ -1,0 +1,70 @@
+{
+  "id": 1242838729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.50714,10.53264,104.50714,10.53264",
+    "geom:latitude":10.53264,
+    "geom:longitude":104.50714,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Boeng Sala Khang Cheung",
+    "gn:country_code":"KH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11459789,
+    "gn:latitude":10.53264,
+    "gn:longitude":104.50714,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Boeng Sala Khang Cheung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Boeng Sala Khang Cheung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673093,
+        1108564675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11459789
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"435979ea41d2b730f3a7f514bfc4e918",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564675,
+            "locality_id":1242838729,
+            "region_id":85673093
+        }
+    ],
+    "wof:id":1242838729,
+    "wof:lastmodified":1537654020,
+    "wof:name":"Boeng Sala Khang Cheung",
+    "wof:parent_id":1108564675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.50714,
+    10.53264,
+    104.50714,
+    10.53264
+],
+  "geometry": {"coordinates":[104.50714000000001,10.53264],"type":"Point"}
+}

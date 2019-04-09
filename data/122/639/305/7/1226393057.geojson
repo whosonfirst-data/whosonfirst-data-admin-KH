@@ -1,0 +1,77 @@
+{
+  "id": 1226393057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.85423,12.86505,102.85423,12.86505",
+    "geom:latitude":12.86505,
+    "geom:longitude":102.85423,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Phum Rumlech",
+    "gn:country_code":"KH",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825255,
+    "gn:latitude":12.86505,
+    "gn:longitude":102.85423,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Phum R\u016dml\u00e9ch",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum R\u016dml\u00e9ch"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u179a\u17bb\u17c6\u179b\u17c1\u1785"
+    ],
+    "name:und_x_variant":[
+        "Phum Sre Rumlich",
+        "Phum\u012d R\u016dml\u00e9ch"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673015,
+        1108564799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825255
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"141b8a17cbe7a80684dfb8a401b709e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564799,
+            "locality_id":1226393057,
+            "region_id":85673015
+        }
+    ],
+    "wof:id":1226393057,
+    "wof:lastmodified":1537653525,
+    "wof:name":"Phum Rumlech",
+    "wof:parent_id":1108564799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.85423,
+    12.86505,
+    102.85423,
+    12.86505
+],
+  "geometry": {"coordinates":[102.85423,12.86505],"type":"Point"}
+}

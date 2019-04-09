@@ -1,0 +1,68 @@
+{
+  "id": 1209482981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.93919,13.44781,102.93919,13.44781",
+    "geom:latitude":13.44781,
+    "geom:longitude":102.93919,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Chamnaom",
+    "gn:country_code":"KH",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829194,
+    "gn:latitude":13.44781,
+    "gn:longitude":102.93919,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Chamnaom",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Chamnaom"
+    ],
+    "name:und_x_variant":[
+        "Chamnom",
+        "Phum\u012d Ch\u00e2mna\u00f4m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829194
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"5830eaf3854b6babfc1c21378b11ebee",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209482981
+        }
+    ],
+    "wof:id":1209482981,
+    "wof:lastmodified":1537653865,
+    "wof:name":"Chamnaom",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.93919,
+    13.44781,
+    102.93919,
+    13.44781
+],
+  "geometry": {"coordinates":[102.93919,13.44781],"type":"Point"}
+}

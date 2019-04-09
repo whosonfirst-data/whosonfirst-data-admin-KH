@@ -1,0 +1,73 @@
+{
+  "id": 1326781375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.39714,12.67419,103.39714,12.67419",
+    "geom:latitude":12.67419,
+    "geom:longitude":103.39714,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Phum Khnach Ampor",
+    "gn:country_code":"KH",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11369147,
+    "gn:latitude":12.67419,
+    "gn:longitude":103.39714,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Phum Khnach \u00c2mp\u00f4r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Khnach \u00c2mp\u00f4r"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1781\u17d2\u1793\u17b6\u1785\u17a2\u17c6\u1796\u179a\u17cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673015,
+        1108564805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11369147
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"4800c36a8c4debc29cdc0301a979cbcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564805,
+            "locality_id":1326781375,
+            "region_id":85673015
+        }
+    ],
+    "wof:id":1326781375,
+    "wof:lastmodified":1537653978,
+    "wof:name":"Phum Khnach Ampor",
+    "wof:parent_id":1108564805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.39714,
+    12.67419,
+    103.39714,
+    12.67419
+],
+  "geometry": {"coordinates":[103.39713999999999,12.67419],"type":"Point"}
+}

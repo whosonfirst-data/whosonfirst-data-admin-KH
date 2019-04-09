@@ -1,0 +1,76 @@
+{
+  "id": 1293423425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.93593,12.05385,105.93593,12.05385",
+    "geom:latitude":12.05385,
+    "geom:longitude":105.93593,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Phum Svay Pak",
+    "gn:country_code":"KH",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1824411,
+    "gn:latitude":12.05385,
+    "gn:longitude":105.93593,
+    "gn:modification_date":"2017-07-05",
+    "gn:name":"Phum Svay Pak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Svay Pak"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u179f\u17d2\u179c\u17b6\u1799\u1794\u17c9\u17b6\u1780"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Svay Pak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        1108804319,
+        1108564653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1824411
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"74ed5e3b67f1cb2156405016daea86a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564653,
+            "locality_id":1293423425,
+            "region_id":1108804319
+        }
+    ],
+    "wof:id":1293423425,
+    "wof:lastmodified":1537653455,
+    "wof:name":"Phum Svay Pak",
+    "wof:parent_id":1108564653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.93593,
+    12.05385,
+    105.93593,
+    12.05385
+],
+  "geometry": {"coordinates":[105.93593,12.05385],"type":"Point"}
+}

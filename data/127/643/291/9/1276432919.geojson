@@ -1,0 +1,70 @@
+{
+  "id": 1276432919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.96973,11.69498,104.96973,11.69498",
+    "geom:latitude":11.69498,
+    "geom:longitude":104.96973,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Puk Ruessei Kandal",
+    "gn:country_code":"KH",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11475207,
+    "gn:latitude":11.69498,
+    "gn:longitude":104.96973,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Puk Ruessei Kandal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Puk Ruessei Kandal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673051,
+        421188351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11475207
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"9a7b7520cbc59c20d379d596a782f69b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421188351,
+            "locality_id":1276432919,
+            "region_id":85673051
+        }
+    ],
+    "wof:id":1276432919,
+    "wof:lastmodified":1537654025,
+    "wof:name":"Puk Ruessei Kandal",
+    "wof:parent_id":421188351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.96973,
+    11.69498,
+    104.96973,
+    11.69498
+],
+  "geometry": {"coordinates":[104.96973,11.69498],"type":"Point"}
+}

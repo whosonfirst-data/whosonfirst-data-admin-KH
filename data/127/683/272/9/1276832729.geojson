@@ -1,0 +1,70 @@
+{
+  "id": 1276832729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.70251,11.42829,105.70251,11.42829",
+    "geom:latitude":11.42829,
+    "geom:longitude":105.70251,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Thnal",
+    "gn:country_code":"KH",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11482197,
+    "gn:latitude":11.42829,
+    "gn:longitude":105.70251,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Thnal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Thnal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673105,
+        1108564797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11482197
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"43160249e488b975f7e4107bfc034ee0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564797,
+            "locality_id":1276832729,
+            "region_id":85673105
+        }
+    ],
+    "wof:id":1276832729,
+    "wof:lastmodified":1537654051,
+    "wof:name":"Thnal",
+    "wof:parent_id":1108564797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.70251,
+    11.42829,
+    105.70251,
+    11.42829
+],
+  "geometry": {"coordinates":[105.70251,11.42829],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1225808389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.06962,11.06415,106.06962,11.06415",
+    "geom:latitude":11.06415,
+    "geom:longitude":106.06962,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Bat Sloek",
+    "gn:country_code":"KH",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11509643,
+    "gn:latitude":11.06415,
+    "gn:longitude":106.06962,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Bat Sloek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Bat Sloek"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1798\u178f\u179f\u17d2\u179b\u17b9\u1780",
+        "Phum B\u00e2t Sloek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673105,
+        1108564617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11509643
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"e92f5a3b332199494e9a5f62de23f71a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564617,
+            "locality_id":1225808389,
+            "region_id":85673105
+        }
+    ],
+    "wof:id":1225808389,
+    "wof:lastmodified":1537654083,
+    "wof:name":"Bat Sloek",
+    "wof:parent_id":1108564617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.06962,
+    11.06415,
+    106.06962,
+    11.06415
+],
+  "geometry": {"coordinates":[106.06962,11.06415],"type":"Point"}
+}

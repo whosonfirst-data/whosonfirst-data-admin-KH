@@ -1,0 +1,79 @@
+{
+  "id": 1326525531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.16792,13.30473,107.16792,13.30473",
+    "geom:latitude":13.30473,
+    "geom:longitude":107.16792,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Peam Chi Miet",
+    "gn:country_code":"KH",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1822077,
+    "gn:latitude":13.30473,
+    "gn:longitude":107.16792,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Peam Chi Miet",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Peam Chi Miet"
+    ],
+    "name:und_x_variant":[
+        "Ban Se Mat",
+        "Sr\u00ea Me\u0103t",
+        "Phum\u012d Sr\u00ea M\u00e1t",
+        "Sre Mat",
+        "Phum Se Mat",
+        "Phum\u012d Sr\u00ea Mo\u0103t",
+        "Sr\u00ea Mo\u0103t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673085,
+        1108564699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1822077
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"1aa35666e6a6611ac3ddeadfe710aed3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564699,
+            "locality_id":1326525531,
+            "region_id":85673085
+        }
+    ],
+    "wof:id":1326525531,
+    "wof:lastmodified":1537653328,
+    "wof:name":"Peam Chi Miet",
+    "wof:parent_id":1108564699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.16792,
+    13.30473,
+    107.16792,
+    13.30473
+],
+  "geometry": {"coordinates":[107.16792,13.30473],"type":"Point"}
+}

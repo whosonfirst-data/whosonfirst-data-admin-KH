@@ -1,0 +1,72 @@
+{
+  "id": 1259446187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.91987,10.98674,105.91987,10.98674",
+    "geom:latitude":10.98674,
+    "geom:longitude":105.91987,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Phumi Angk Ta Mouk",
+    "gn:country_code":"KH",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829885,
+    "gn:latitude":10.98674,
+    "gn:longitude":105.91987,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d \u00c2ngk Ta Mo\u016dk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum Ang Tamok",
+        "Phum\u012d \u00c2ng Ta Mo\u016dk",
+        "Phum\u012d \u00c2ngk Ta Mo\u016dk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673105,
+        1108564865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829885
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"96f2ce3b94e7362ceb13d08784102fad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564865,
+            "locality_id":1259446187,
+            "region_id":85673105
+        }
+    ],
+    "wof:id":1259446187,
+    "wof:lastmodified":1537653921,
+    "wof:name":"Phumi Angk Ta Mouk",
+    "wof:parent_id":1108564865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.91987,
+    10.98674,
+    105.91987,
+    10.98674
+],
+  "geometry": {"coordinates":[105.91987,10.98674],"type":"Point"}
+}

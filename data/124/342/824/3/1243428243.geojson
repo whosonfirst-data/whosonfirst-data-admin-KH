@@ -1,0 +1,67 @@
+{
+  "id": 1243428243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.45267,11.20938,105.45267,11.20938",
+    "geom:latitude":11.20938,
+    "geom:longitude":105.45267,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Phumi Tras",
+    "gn:country_code":"KH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1823165,
+    "gn:latitude":11.20938,
+    "gn:longitude":105.45267,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Phum\u012d Tr\u00e1s",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673067,
+        1108564593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1823165
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"c2298f786786ab9c7a347efa466887c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564593,
+            "locality_id":1243428243,
+            "region_id":85673067
+        }
+    ],
+    "wof:id":1243428243,
+    "wof:lastmodified":1536830786,
+    "wof:name":"Phumi Tras",
+    "wof:parent_id":1108564593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.45267,
+    11.20938,
+    105.45267,
+    11.20938
+],
+  "geometry": {"coordinates":[105.45267,11.20938],"type":"Point"}
+}

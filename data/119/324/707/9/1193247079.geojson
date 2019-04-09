@@ -1,0 +1,70 @@
+{
+  "id": 1193247079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.45095,13.72689,107.45095,13.72689",
+    "geom:latitude":13.72689,
+    "geom:longitude":107.45095,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Pak Touch",
+    "gn:country_code":"KH",
+    "gn:dem":224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11484027,
+    "gn:latitude":13.72689,
+    "gn:longitude":107.45095,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Pak Touch",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Pak Touch"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673089,
+        1108564747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11484027
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"10c62c3a4e6671f9c9c91c18d88abd7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564747,
+            "locality_id":1193247079,
+            "region_id":85673089
+        }
+    ],
+    "wof:id":1193247079,
+    "wof:lastmodified":1537654063,
+    "wof:name":"Pak Touch",
+    "wof:parent_id":1108564747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.45095,
+    13.72689,
+    107.45095,
+    13.72689
+],
+  "geometry": {"coordinates":[107.45095000000001,13.72689],"type":"Point"}
+}

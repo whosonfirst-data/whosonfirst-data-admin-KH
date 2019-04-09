@@ -1,0 +1,77 @@
+{
+  "id": 1360064683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.66894,14.10862,105.66894,14.10862",
+    "geom:latitude":14.10862,
+    "geom:longitude":105.66894,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Kham Keut",
+    "gn:country_code":"KH",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1830915,
+    "gn:latitude":14.10862,
+    "gn:longitude":105.66894,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Kham Keut",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Kham Keut"
+    ],
+    "name:khm_x_variant":[
+        "\u1781\u17b6\u17c6\u1797\u17b9\u178f"
+    ],
+    "name:und_x_variant":[
+        "Srok Kam Keut",
+        "Kh\u0103mph\u0153\u0306t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673071,
+        421187975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1830915
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"b4a80ca6813a0973cc23b7dde4f0158b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421187975,
+            "locality_id":1360064683,
+            "region_id":85673071
+        }
+    ],
+    "wof:id":1360064683,
+    "wof:lastmodified":1537653953,
+    "wof:name":"Kham Keut",
+    "wof:parent_id":421187975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.66894,
+    14.10862,
+    105.66894,
+    14.10862
+],
+  "geometry": {"coordinates":[105.66894000000001,14.10862],"type":"Point"}
+}

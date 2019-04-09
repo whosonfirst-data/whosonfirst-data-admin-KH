@@ -1,0 +1,67 @@
+{
+  "id": 1192965899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.29261,14.09278,103.29261,14.09278",
+    "geom:latitude":14.09278,
+    "geom:longitude":103.29261,
+    "gn:admin1_code":"27",
+    "gn:asciiname":"Phumi Kouk Reang",
+    "gn:country_code":"KH",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827355,
+    "gn:latitude":14.09278,
+    "gn:longitude":103.29261,
+    "gn:modification_date":"2009-05-12",
+    "gn:name":"Phum\u012d Ko\u016dk R\u00e9ang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673033,
+        1108564599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827355
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"8cac865d8f9bf548a2bc0951ae4e5333",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564599,
+            "locality_id":1192965899,
+            "region_id":85673033
+        }
+    ],
+    "wof:id":1192965899,
+    "wof:lastmodified":1536383423,
+    "wof:name":"Phumi Kouk Reang",
+    "wof:parent_id":1108564599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.29261,
+    14.09278,
+    103.29261,
+    14.09278
+],
+  "geometry": {"coordinates":[103.29261,14.09278],"type":"Point"}
+}

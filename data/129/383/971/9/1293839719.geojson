@@ -1,0 +1,76 @@
+{
+  "id": 1293839719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.46091,13.54706,103.46091,13.54706",
+    "geom:latitude":13.54706,
+    "geom:longitude":103.46091,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Phum Kouk Trang",
+    "gn:country_code":"KH",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827304,
+    "gn:latitude":13.54706,
+    "gn:longitude":103.46091,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Phum Ko\u016dk Trang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Ko\u016dk Trang"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1782\u17c4\u1780\u178f\u17d2\u179a\u17b6\u1784"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Ko\u016dk Trang (1)"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673029,
+        421194643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827304
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"5410837a574f879b547280fa20af3467",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421194643,
+            "locality_id":1293839719,
+            "region_id":85673029
+        }
+    ],
+    "wof:id":1293839719,
+    "wof:lastmodified":1537653704,
+    "wof:name":"Phum Kouk Trang",
+    "wof:parent_id":421194643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.46091,
+    13.54706,
+    103.46091,
+    13.54706
+],
+  "geometry": {"coordinates":[103.46091,13.54706],"type":"Point"}
+}

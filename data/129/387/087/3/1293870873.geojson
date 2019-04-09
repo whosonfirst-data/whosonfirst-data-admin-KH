@@ -1,0 +1,78 @@
+{
+  "id": 1293870873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.27348,12.52013,104.27348,12.52013",
+    "geom:latitude":12.52013,
+    "geom:longitude":104.27348,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Trapeang Rumdenh",
+    "gn:country_code":"KH",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1823298,
+    "gn:latitude":12.52013,
+    "gn:longitude":104.27348,
+    "gn:modification_date":"2017-07-05",
+    "gn:name":"Trapeang Rumdenh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Trapeang Rumdenh"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u178f\u17d2\u179a\u1796\u17b6\u17c6\u1784\u179a\u17c6\u178a\u17c1\u1789",
+        "Phum Tr\u00e2pe\u0103ng R\u016dmd\u00e9nh"
+    ],
+    "name:und_x_variant":[
+        "Tr\u00e2peang Romdenh",
+        "Phum\u012d Tr\u00e2pe\u0103ng Rumd\u00e9nh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673023,
+        421203239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1823298
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"8b48f7baed9cfbefd10c936f94adba2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421203239,
+            "locality_id":1293870873,
+            "region_id":85673023
+        }
+    ],
+    "wof:id":1293870873,
+    "wof:lastmodified":1537653370,
+    "wof:name":"Trapeang Rumdenh",
+    "wof:parent_id":421203239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.27348,
+    12.52013,
+    104.27348,
+    12.52013
+],
+  "geometry": {"coordinates":[104.27348000000001,12.52013],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1209064323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.34764,13.06908,104.34764,13.06908",
+    "geom:latitude":13.06908,
+    "geom:longitude":104.34764,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Phum Ta Yon",
+    "gn:country_code":"KH",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1823989,
+    "gn:latitude":13.06908,
+    "gn:longitude":104.34764,
+    "gn:modification_date":"2017-07-05",
+    "gn:name":"Phum Ta Y\u014fn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Ta Y\u014fn"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u178f\u17b6\u1799\u17bb\u1793"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Ta Y\u014fn",
+        "Phum\u012d Ta Y\u016dn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1823989
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"9415e26a9aa4f81e863087ff7c039cd0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209064323
+        }
+    ],
+    "wof:id":1209064323,
+    "wof:lastmodified":1537653421,
+    "wof:name":"Phum Ta Yon",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.34764,
+    13.06908,
+    104.34764,
+    13.06908
+],
+  "geometry": {"coordinates":[104.34764,13.06908],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1209422423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.72415,12.27386,104.72415,12.27386",
+    "geom:latitude":12.27386,
+    "geom:longitude":104.72415,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Kampong Hau",
+    "gn:country_code":"KH",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828300,
+    "gn:latitude":12.27386,
+    "gn:longitude":104.72415,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Kampong Hau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Kampong Hau"
+    ],
+    "name:und_x_variant":[
+        "Kompong Hau",
+        "Phum\u012d K\u00e2mp\u00f3ng Hau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828300
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"4bd617c5f683adfd49c0b344cda177b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209422423
+        }
+    ],
+    "wof:id":1209422423,
+    "wof:lastmodified":1537653794,
+    "wof:name":"Kampong Hau",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.72415,
+    12.27386,
+    104.72415,
+    12.27386
+],
+  "geometry": {"coordinates":[104.72414999999999,12.27386],"type":"Point"}
+}

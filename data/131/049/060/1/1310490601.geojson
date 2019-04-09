@@ -1,0 +1,67 @@
+{
+  "id": 1310490601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.73225,12.37666,106.73225,12.37666",
+    "geom:latitude":12.37666,
+    "geom:longitude":106.73225,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Phumi O Phlah (1)",
+    "gn:country_code":"KH",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1826721,
+    "gn:latitude":12.37666,
+    "gn:longitude":106.73225,
+    "gn:modification_date":"1993-12-30",
+    "gn:name":"Phum\u012d O Phl\u0103h (1)",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673085,
+        1108564667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1826721
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"d488376b44ee162b3df212c358450fd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564667,
+            "locality_id":1310490601,
+            "region_id":85673085
+        }
+    ],
+    "wof:id":1310490601,
+    "wof:lastmodified":1536939157,
+    "wof:name":"Phumi O Phlah (1)",
+    "wof:parent_id":1108564667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.73225,
+    12.37666,
+    106.73225,
+    12.37666
+],
+  "geometry": {"coordinates":[106.73224999999999,12.37666],"type":"Point"}
+}

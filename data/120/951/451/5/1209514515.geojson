@@ -1,0 +1,64 @@
+{
+  "id": 1209514515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.42398,13.07485,105.42398,13.07485",
+    "geom:latitude":13.07485,
+    "geom:longitude":105.42398,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Choam Svay",
+    "gn:country_code":"KH",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11481402,
+    "gn:latitude":13.07485,
+    "gn:longitude":105.42398,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Choam Svay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Choam Svay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11481402
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"93d87663ebd1f00b672b9f5605ad1831",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209514515
+        }
+    ],
+    "wof:id":1209514515,
+    "wof:lastmodified":1537654045,
+    "wof:name":"Choam Svay",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.42398,
+    13.07485,
+    105.42398,
+    13.07485
+],
+  "geometry": {"coordinates":[105.42398,13.07485],"type":"Point"}
+}

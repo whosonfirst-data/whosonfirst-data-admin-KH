@@ -1,0 +1,78 @@
+{
+  "id": 1276945789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.46703,13.82735,103.46703,13.82735",
+    "geom:latitude":13.82735,
+    "geom:longitude":103.46703,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Prei",
+    "gn:country_code":"KH",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1826076,
+    "gn:latitude":13.82735,
+    "gn:longitude":103.46703,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Prei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Prei"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1794\u17d2\u179a\u17b8",
+        "Phum Prei"
+    ],
+    "name:und_x_variant":[
+        "Klang Hay",
+        "Phum\u012d Prei"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673029,
+        1108564847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1826076
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"b1477f2d269b313d260fed2675d92b07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564847,
+            "locality_id":1276945789,
+            "region_id":85673029
+        }
+    ],
+    "wof:id":1276945789,
+    "wof:lastmodified":1537653592,
+    "wof:name":"Prei",
+    "wof:parent_id":1108564847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.46703,
+    13.82735,
+    103.46703,
+    13.82735
+],
+  "geometry": {"coordinates":[103.46702999999999,13.82735],"type":"Point"}
+}

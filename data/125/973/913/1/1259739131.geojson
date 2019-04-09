@@ -1,0 +1,76 @@
+{
+  "id": 1259739131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.83029,13.34236,103.83029,13.34236",
+    "geom:latitude":13.34236,
+    "geom:longitude":103.83029,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Phum Kantrak",
+    "gn:country_code":"KH",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828044,
+    "gn:latitude":13.34236,
+    "gn:longitude":103.83029,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Phum K\u00e2ntr\u00e2k",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum K\u00e2ntr\u00e2k"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1780\u1793\u17d2\u178f\u17d2\u179a\u1780"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d K\u00e2ntr\u00e1k"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673029,
+        421204115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828044
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"135f11a46ea3053d6320067a0266f7ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421204115,
+            "locality_id":1259739131,
+            "region_id":85673029
+        }
+    ],
+    "wof:id":1259739131,
+    "wof:lastmodified":1537653771,
+    "wof:name":"Phum Kantrak",
+    "wof:parent_id":421204115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.83029,
+    13.34236,
+    103.83029,
+    13.34236
+],
+  "geometry": {"coordinates":[103.83029000000001,13.34236],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1326509497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.93136,14.21654,104.93136,14.21654",
+    "geom:latitude":14.21654,
+    "geom:longitude":104.93136,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Phum Stung",
+    "gn:country_code":"KH",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1824517,
+    "gn:latitude":14.21654,
+    "gn:longitude":104.93136,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Phum Stung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum\u012d St\u0153\u0306ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673071,
+        1108564643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1824517
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"6bb2b2b989f7420792e6cbf611838f97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564643,
+            "locality_id":1326509497,
+            "region_id":85673071
+        }
+    ],
+    "wof:id":1326509497,
+    "wof:lastmodified":1537653464,
+    "wof:name":"Phum Stung",
+    "wof:parent_id":1108564643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.93136,
+    14.21654,
+    104.93136,
+    14.21654
+],
+  "geometry": {"coordinates":[104.93136,14.21654],"type":"Point"}
+}

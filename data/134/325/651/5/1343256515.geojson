@@ -1,0 +1,74 @@
+{
+  "id": 1343256515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.75009,11.5095,104.75009,11.5095",
+    "geom:latitude":11.5095,
+    "geom:longitude":104.75009,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Baek Chan",
+    "gn:country_code":"KH",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1830798,
+    "gn:latitude":11.5095,
+    "gn:longitude":104.75009,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Baek Chan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Baek Chan"
+    ],
+    "name:und_x_variant":[
+        "Bek Chan",
+        "Kh\u016dm B\u00eak Chan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673051,
+        1108564577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1830798
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"4d32fa6a7ccda84994c5557eb0993da7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564577,
+            "locality_id":1343256515,
+            "region_id":85673051
+        }
+    ],
+    "wof:id":1343256515,
+    "wof:lastmodified":1537653952,
+    "wof:name":"Baek Chan",
+    "wof:parent_id":1108564577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.75009,
+    11.5095,
+    104.75009,
+    11.5095
+],
+  "geometry": {"coordinates":[104.75009,11.5095],"type":"Point"}
+}

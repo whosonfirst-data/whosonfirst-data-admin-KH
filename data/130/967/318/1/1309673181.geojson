@@ -1,0 +1,74 @@
+{
+  "id": 1309673181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.44699,12.69272,103.44699,12.69272",
+    "geom:latitude":12.69272,
+    "geom:longitude":103.44699,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Roka Chhmoul",
+    "gn:country_code":"KH",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11369166,
+    "gn:latitude":12.69272,
+    "gn:longitude":103.44699,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Roka Chhmoul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Roka Chhmoul"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u179a\u1780\u17b6\u1788\u17d2\u1798\u17c4\u179b",
+        "Phum\u012d R\u00f4ka Chhmo\u016dl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673015,
+        1108564739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11369166
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"6cf828f4f7b41830ea4ae8b8be2f798b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564739,
+            "locality_id":1309673181,
+            "region_id":85673015
+        }
+    ],
+    "wof:id":1309673181,
+    "wof:lastmodified":1537653980,
+    "wof:name":"Roka Chhmoul",
+    "wof:parent_id":1108564739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.44699,
+    12.69272,
+    103.44699,
+    12.69272
+],
+  "geometry": {"coordinates":[103.44699,12.69272],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1260045473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.62085,10.92598,104.62085,10.92598",
+    "geom:latitude":10.92598,
+    "geom:longitude":104.62085,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Phumi Kumsei",
+    "gn:country_code":"KH",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827039,
+    "gn:latitude":10.92598,
+    "gn:longitude":104.62085,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Kumsei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum Komsey",
+        "Phum\u012d Kumsei"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673107,
+        1108564877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827039
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"4d21bc1f7d7689a5b970c9afeef2acc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564877,
+            "locality_id":1260045473,
+            "region_id":85673107
+        }
+    ],
+    "wof:id":1260045473,
+    "wof:lastmodified":1537653681,
+    "wof:name":"Phumi Kumsei",
+    "wof:parent_id":1108564877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.62085,
+    10.92598,
+    104.62085,
+    10.92598
+],
+  "geometry": {"coordinates":[104.62085,10.92598],"type":"Point"}
+}

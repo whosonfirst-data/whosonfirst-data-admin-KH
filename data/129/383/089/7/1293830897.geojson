@@ -1,0 +1,77 @@
+{
+  "id": 1293830897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.16101,13.03781,103.16101,13.03781",
+    "geom:latitude":13.03781,
+    "geom:longitude":103.16101,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Phum Ta Nok",
+    "gn:country_code":"KH",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1824130,
+    "gn:latitude":13.03781,
+    "gn:longitude":103.16101,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Phum Ta N\u014fk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Ta N\u014fk"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u178f\u17b6\u178e\u1780"
+    ],
+    "name:und_x_variant":[
+        "Phum Tanop",
+        "Phum\u012d Ta N\u014fk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673015,
+        421171545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1824130
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"366a92479841a3b78e28e522b4c35da4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421171545,
+            "locality_id":1293830897,
+            "region_id":85673015
+        }
+    ],
+    "wof:id":1293830897,
+    "wof:lastmodified":1537653433,
+    "wof:name":"Phum Ta Nok",
+    "wof:parent_id":421171545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.16101,
+    13.03781,
+    103.16101,
+    13.03781
+],
+  "geometry": {"coordinates":[103.16101,13.03781],"type":"Point"}
+}

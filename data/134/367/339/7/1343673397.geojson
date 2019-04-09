@@ -1,0 +1,71 @@
+{
+  "id": 1343673397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.65022,12.01177,104.65022,12.01177",
+    "geom:latitude":12.01177,
+    "geom:longitude":104.65022,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Phumi Andong Tramung",
+    "gn:country_code":"KH",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829961,
+    "gn:latitude":12.01177,
+    "gn:longitude":104.65022,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d \u00c2ndong Tr\u00e2mung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u00c2ndong Tr\u00e2mang",
+        "Phum\u012d \u00c2ndong Tr\u00e2mung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673047,
+        1108564679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829961
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"9d2aea7f161c1cf7242f779e80cceb46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564679,
+            "locality_id":1343673397,
+            "region_id":85673047
+        }
+    ],
+    "wof:id":1343673397,
+    "wof:lastmodified":1537653928,
+    "wof:name":"Phumi Andong Tramung",
+    "wof:parent_id":1108564679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.65022,
+    12.01177,
+    104.65022,
+    12.01177
+],
+  "geometry": {"coordinates":[104.65022,12.01177],"type":"Point"}
+}

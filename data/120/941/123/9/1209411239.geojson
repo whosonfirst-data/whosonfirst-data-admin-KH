@@ -1,0 +1,73 @@
+{
+  "id": 1209411239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.98642,12.49231,105.98642,12.49231",
+    "geom:latitude":12.49231,
+    "geom:longitude":105.98642,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Saob Leu",
+    "gn:country_code":"KH",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1824987,
+    "gn:latitude":12.49231,
+    "gn:longitude":105.98642,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Saob Leu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Sa\u00f4p Leu"
+    ],
+    "name:khm_x_variant":[
+        "Saob Leu",
+        "\u1797\u17bc\u1798\u17b7 \u179f\u17c4\u1794\u179b\u17be"
+    ],
+    "name:und_x_variant":[
+        "Sop",
+        "Vat Sop",
+        "Phum\u012d Sa\u00f4b Leu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1824987
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"9416b76286f5e663a5a3f7c5cd83be57",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209411239
+        }
+    ],
+    "wof:id":1209411239,
+    "wof:lastmodified":1537653502,
+    "wof:name":"Saob Leu",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.98642,
+    12.49231,
+    105.98642,
+    12.49231
+],
+  "geometry": {"coordinates":[105.98642,12.49231],"type":"Point"}
+}

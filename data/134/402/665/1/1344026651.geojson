@@ -1,0 +1,67 @@
+{
+  "id": 1344026651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.37765,13.97704,107.37765,13.97704",
+    "geom:latitude":13.97704,
+    "geom:longitude":107.37765,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Phumi Ta Lav",
+    "gn:country_code":"KH",
+    "gn:dem":241,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1824243,
+    "gn:latitude":13.97704,
+    "gn:longitude":107.37765,
+    "gn:modification_date":"2009-05-12",
+    "gn:name":"Phum\u012d Ta Lav",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673089,
+        1108564575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1824243
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"098f9567fc25cb42b82b2d90a32efe95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564575,
+            "locality_id":1344026651,
+            "region_id":85673089
+        }
+    ],
+    "wof:id":1344026651,
+    "wof:lastmodified":1536925213,
+    "wof:name":"Phumi Ta Lav",
+    "wof:parent_id":1108564575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.37765,
+    13.97704,
+    107.37765,
+    13.97704
+],
+  "geometry": {"coordinates":[107.37765,13.97704],"type":"Point"}
+}

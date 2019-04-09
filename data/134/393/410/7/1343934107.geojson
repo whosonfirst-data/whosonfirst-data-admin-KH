@@ -1,0 +1,67 @@
+{
+  "id": 1343934107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.88075,13.29868,105.88075,13.29868",
+    "geom:latitude":13.29868,
+    "geom:longitude":105.88075,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Phumi Salong",
+    "gn:country_code":"KH",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825191,
+    "gn:latitude":13.29868,
+    "gn:longitude":105.88075,
+    "gn:modification_date":"1993-12-30",
+    "gn:name":"Phum\u012d Sal\u014fng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673075,
+        1108564833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825191
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"89258f47529125a86a32843ed3f21a27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564833,
+            "locality_id":1343934107,
+            "region_id":85673075
+        }
+    ],
+    "wof:id":1343934107,
+    "wof:lastmodified":1537055684,
+    "wof:name":"Phumi Salong",
+    "wof:parent_id":1108564833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.88075,
+    13.29868,
+    105.88075,
+    13.29868
+],
+  "geometry": {"coordinates":[105.88075000000001,13.29868],"type":"Point"}
+}

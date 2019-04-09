@@ -1,0 +1,67 @@
+{
+  "id": 1209073945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.05464,13.39109,103.05464,13.39109",
+    "geom:latitude":13.39109,
+    "geom:longitude":103.05464,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Phum Kouk Tonleap",
+    "gn:country_code":"KH",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11374111,
+    "gn:latitude":13.39109,
+    "gn:longitude":103.05464,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Phum Ko\u016dk T\u00f4nl\u00e9ap",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Ko\u016dk T\u00f4nl\u00e9ap"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1782\u17c4\u1780\u1791\u1793\u17d2\u179b\u17b6\u1794"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11374111
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"5f4a56e35ede2b444df23a77090b1778",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209073945
+        }
+    ],
+    "wof:id":1209073945,
+    "wof:lastmodified":1537653988,
+    "wof:name":"Phum Kouk Tonleap",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.05464,
+    13.39109,
+    103.05464,
+    13.39109
+],
+  "geometry": {"coordinates":[103.05464000000001,13.39109],"type":"Point"}
+}

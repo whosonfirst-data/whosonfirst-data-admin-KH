@@ -1,0 +1,74 @@
+{
+  "id": 1309876661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.36884,11.52787,105.36884,11.52787",
+    "geom:latitude":11.52787,
+    "geom:longitude":105.36884,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Ta Kao",
+    "gn:country_code":"KH",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1823523,
+    "gn:latitude":11.52787,
+    "gn:longitude":105.36884,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Ta Kao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Ta Kao"
+    ],
+    "name:und_x_variant":[
+        "Phum Trakor",
+        "Phum\u012d Tr\u00e2ka\u00f4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673067,
+        1108564791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1823523
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"ccdbd58ce9667c7842a33954f62368e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564791,
+            "locality_id":1309876661,
+            "region_id":85673067
+        }
+    ],
+    "wof:id":1309876661,
+    "wof:lastmodified":1537653384,
+    "wof:name":"Ta Kao",
+    "wof:parent_id":1108564791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.36884,
+    11.52787,
+    105.36884,
+    11.52787
+],
+  "geometry": {"coordinates":[105.36884000000001,11.52787],"type":"Point"}
+}

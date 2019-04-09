@@ -1,0 +1,72 @@
+{
+  "id": 1276983393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.12777,12.18356,105.12777,12.18356",
+    "geom:latitude":12.18356,
+    "geom:longitude":105.12777,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Phumi Prakham",
+    "gn:country_code":"KH",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1826225,
+    "gn:latitude":12.18356,
+    "gn:longitude":105.12777,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Pr\u00e2kh\u00e2m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Prakham",
+        "Phum Pa Kham",
+        "Phum\u012d Pr\u00e2kh\u00e2m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673041,
+        421195831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1826225
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"137ec77eb827c59fe6df5790cabe1081",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421195831,
+            "locality_id":1276983393,
+            "region_id":85673041
+        }
+    ],
+    "wof:id":1276983393,
+    "wof:lastmodified":1537653605,
+    "wof:name":"Phumi Prakham",
+    "wof:parent_id":421195831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.12777,
+    12.18356,
+    105.12777,
+    12.18356
+],
+  "geometry": {"coordinates":[105.12777,12.18356],"type":"Point"}
+}

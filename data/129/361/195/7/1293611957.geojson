@@ -1,0 +1,72 @@
+{
+  "id": 1293611957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.16281,12.47397,105.16281,12.47397",
+    "geom:latitude":12.47397,
+    "geom:longitude":105.16281,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Phumi Balangk Tuol",
+    "gn:country_code":"KH",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829683,
+    "gn:latitude":12.47397,
+    "gn:longitude":105.16281,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Bal\u0103ngk Tu\u014fl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum Toul",
+        "Phum Bal\u0103ng Tu\u014fl",
+        "Phum\u012d Bal\u0103ngk Tu\u014fl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673057,
+        421198921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829683
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"e74da95830c8f601b1fc2edc03fffd76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421198921,
+            "locality_id":1293611957,
+            "region_id":85673057
+        }
+    ],
+    "wof:id":1293611957,
+    "wof:lastmodified":1537653902,
+    "wof:name":"Phumi Balangk Tuol",
+    "wof:parent_id":421198921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.16281,
+    12.47397,
+    105.16281,
+    12.47397
+],
+  "geometry": {"coordinates":[105.16280999999999,12.47397],"type":"Point"}
+}

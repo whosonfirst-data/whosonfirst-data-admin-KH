@@ -1,0 +1,78 @@
+{
+  "id": 1276678397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.10219,11.28226,103.10219,11.28226",
+    "geom:latitude":11.28226,
+    "geom:longitude":103.10219,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Phum Prek Khsach Toch",
+    "gn:country_code":"KH",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1826017,
+    "gn:latitude":11.28226,
+    "gn:longitude":103.10219,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Phum Pr\u00eak Khs\u0103ch Toch",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Pr\u00eak Khs\u0103ch Toch"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1796\u17d2\u179a\u17c2\u1780\u1781\u17d2\u179f\u17b6\u1785\u17cb\u178f\u17bc\u1785"
+    ],
+    "name:und_x_variant":[
+        "Prek Krasat Tauch",
+        "Prek Kraast Tauch",
+        "Phum\u012d Pr\u00eak Khs\u0103ch Toch"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673019,
+        1108564697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1826017
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"5d81c5bb8e877f29475fe4f01c17b82c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564697,
+            "locality_id":1276678397,
+            "region_id":85673019
+        }
+    ],
+    "wof:id":1276678397,
+    "wof:lastmodified":1537653586,
+    "wof:name":"Phum Prek Khsach Toch",
+    "wof:parent_id":1108564697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.10219,
+    11.28226,
+    103.10219,
+    11.28226
+],
+  "geometry": {"coordinates":[103.10218999999999,11.28226],"type":"Point"}
+}

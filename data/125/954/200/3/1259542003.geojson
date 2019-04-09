@@ -1,0 +1,72 @@
+{
+  "id": 1259542003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.9476,11.5486,104.9476,11.5486",
+    "geom:latitude":11.5486,
+    "geom:longitude":104.9476,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Phumi Kaoh Norea",
+    "gn:country_code":"KH",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827967,
+    "gn:latitude":11.5486,
+    "gn:longitude":104.9476,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Phum\u012d Ka\u00f4h N\u00f4r\u00e9a",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Koh Norea",
+        "Kas Norea",
+        "Phum\u012d Ka\u00f4h N\u00f4r\u00e9a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673063,
+        1108564629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827967
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"1fe213c47a270ba420ccbe50cb991779",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564629,
+            "locality_id":1259542003,
+            "region_id":85673063
+        }
+    ],
+    "wof:id":1259542003,
+    "wof:lastmodified":1537653764,
+    "wof:name":"Phumi Kaoh Norea",
+    "wof:parent_id":1108564629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.9476,
+    11.5486,
+    104.9476,
+    11.5486
+],
+  "geometry": {"coordinates":[104.94759999999999,11.5486],"type":"Point"}
+}

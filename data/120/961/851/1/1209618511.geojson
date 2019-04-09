@@ -1,0 +1,61 @@
+{
+  "id": 1209618511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.10406,12.10052,105.10406,12.10052",
+    "geom:latitude":12.10052,
+    "geom:longitude":105.10406,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Phumi Tnaot Bak",
+    "gn:country_code":"KH",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1823683,
+    "gn:latitude":12.10052,
+    "gn:longitude":105.10406,
+    "gn:modification_date":"1993-12-30",
+    "gn:name":"Phum\u012d Tna\u00f4t B\u0103k",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1823683
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"121e36dcfe048fcf7ad4f34ff7d3348e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209618511
+        }
+    ],
+    "wof:id":1209618511,
+    "wof:lastmodified":1536281602,
+    "wof:name":"Phumi Tnaot Bak",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.10406,
+    12.10052,
+    105.10406,
+    12.10052
+],
+  "geometry": {"coordinates":[105.10406,12.10052],"type":"Point"}
+}

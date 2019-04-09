@@ -1,0 +1,78 @@
+{
+  "id": 1326998407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.76525,13.48955,103.76525,13.48955",
+    "geom:latitude":13.48955,
+    "geom:longitude":103.76525,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Doun Kaev",
+    "gn:country_code":"KH",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828483,
+    "gn:latitude":13.48955,
+    "gn:longitude":103.76525,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Doun Kaev",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Doun Kaev"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u178a\u17bc\u1793\u1780\u17c2\u179c",
+        "Phum Don K\u00eav"
+    ],
+    "name:und_x_variant":[
+        "Da\u00fbn K\u00eav",
+        "Phum\u012d Don K\u00eav"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673029,
+        421185505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828483
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"d301e5c016d7ed9468674e2fd9aa1dc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421185505,
+            "locality_id":1326998407,
+            "region_id":85673029
+        }
+    ],
+    "wof:id":1326998407,
+    "wof:lastmodified":1537653809,
+    "wof:name":"Doun Kaev",
+    "wof:parent_id":421185505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.76525,
+    13.48955,
+    103.76525,
+    13.48955
+],
+  "geometry": {"coordinates":[103.76524999999999,13.48955],"type":"Point"}
+}

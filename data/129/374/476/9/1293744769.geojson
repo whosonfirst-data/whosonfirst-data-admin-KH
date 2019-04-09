@@ -1,0 +1,76 @@
+{
+  "id": 1293744769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.45402,12.57949,103.45402,12.57949",
+    "geom:latitude":12.57949,
+    "geom:longitude":103.45402,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Prey Tralach",
+    "gn:country_code":"KH",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1822612,
+    "gn:latitude":12.57949,
+    "gn:longitude":103.45402,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Prey Tr\u00e2lach",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "\u1796\u17d2\u179a\u17c3\u178f\u17d2\u179a\u17a1\u17b6\u1785"
+    ],
+    "name:und_x_variant":[
+        "Phum Prey Tralach",
+        "Khum Prey Tralach",
+        "Prey Tr\u00e2lach"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673015,
+        1108564805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1822612,
+        "wk:page":"Prey_Tralach"
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"2f8fe6d686f4d352b73fb63571f5e145",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564805,
+            "locality_id":1293744769,
+            "region_id":85673015
+        }
+    ],
+    "wof:id":1293744769,
+    "wof:lastmodified":1537653333,
+    "wof:name":"Prey Tralach",
+    "wof:parent_id":1108564805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.45402,
+    12.57949,
+    103.45402,
+    12.57949
+],
+  "geometry": {"coordinates":[103.45402,12.57949],"type":"Point"}
+}

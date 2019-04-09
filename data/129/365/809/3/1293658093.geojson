@@ -1,0 +1,73 @@
+{
+  "id": 1293658093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.82212,11.46379,104.82212,11.46379",
+    "geom:latitude":11.46379,
+    "geom:longitude":104.82212,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Pong Tuek",
+    "gn:country_code":"KH",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1826363,
+    "gn:latitude":11.46379,
+    "gn:longitude":104.82212,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Pong Tuek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Pong Tuek"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d P\u00f4ng T\u0153\u0306k"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673063,
+        1108564661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1826363
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"1971cfae7126592ba6a2d4c626281a80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564661,
+            "locality_id":1293658093,
+            "region_id":85673063
+        }
+    ],
+    "wof:id":1293658093,
+    "wof:lastmodified":1537653618,
+    "wof:name":"Pong Tuek",
+    "wof:parent_id":1108564661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.82212,
+    11.46379,
+    104.82212,
+    11.46379
+],
+  "geometry": {"coordinates":[104.82212,11.46379],"type":"Point"}
+}

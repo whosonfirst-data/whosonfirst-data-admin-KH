@@ -1,0 +1,77 @@
+{
+  "id": 1226292973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.5851,12.87985,102.5851,12.87985",
+    "geom:latitude":12.87985,
+    "geom:longitude":102.5851,
+    "gn:admin1_code":"30",
+    "gn:asciiname":"Ta Ngen Leu",
+    "gn:country_code":"KH",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1941975,
+    "gn:latitude":12.87985,
+    "gn:longitude":102.5851,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Ta Ngen Leu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Ta Ngen Leu"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u178f\u17b6\u1784\u17c2\u1793\u1790\u17d2\u1798\u17b8"
+    ],
+    "name:und_x_variant":[
+        "Phum Ta Ng\u00ean Thmei",
+        "Phum\u012d Ta Ng\u00ean Thmei"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673037,
+        421170109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1941975
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"e9d4c9cb386adfae023d46ab407237e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421170109,
+            "locality_id":1226292973,
+            "region_id":85673037
+        }
+    ],
+    "wof:id":1226292973,
+    "wof:lastmodified":1537653966,
+    "wof:name":"Ta Ngen Leu",
+    "wof:parent_id":421170109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.5851,
+    12.87985,
+    102.5851,
+    12.87985
+],
+  "geometry": {"coordinates":[102.5851,12.87985],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226331267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.33432,12.539,107.33432,12.539",
+    "geom:latitude":12.539,
+    "geom:longitude":107.33432,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Puradaet",
+    "gn:country_code":"KH",
+    "gn:dem":497,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11531571,
+    "gn:latitude":12.539,
+    "gn:longitude":107.33432,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Puradaet",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Puradaet"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673085,
+        1108564757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11531571
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"1cbea8c6b8ab853e3d3e272bcfe45416",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564757,
+            "locality_id":1226331267,
+            "region_id":85673085
+        }
+    ],
+    "wof:id":1226331267,
+    "wof:lastmodified":1537654091,
+    "wof:name":"Puradaet",
+    "wof:parent_id":1108564757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.33432,
+    12.539,
+    107.33432,
+    12.539
+],
+  "geometry": {"coordinates":[107.33432000000001,12.539],"type":"Point"}
+}

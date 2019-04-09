@@ -1,0 +1,77 @@
+{
+  "id": 1276210099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.35258,11.45468,105.35258,11.45468",
+    "geom:latitude":11.45468,
+    "geom:longitude":105.35258,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Baray",
+    "gn:country_code":"KH",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829570,
+    "gn:latitude":11.45468,
+    "gn:longitude":105.35258,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Baray",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Baray"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1794\u17b6\u179a\u17b6\u1799"
+    ],
+    "name:und_x_variant":[
+        "Phum Barai",
+        "Phum\u012d Baray"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673067,
+        1108564789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829570
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"805cad8a617a3030995ddeb65fb862d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564789,
+            "locality_id":1276210099,
+            "region_id":85673067
+        }
+    ],
+    "wof:id":1276210099,
+    "wof:lastmodified":1537653893,
+    "wof:name":"Baray",
+    "wof:parent_id":1108564789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.35258,
+    11.45468,
+    105.35258,
+    11.45468
+],
+  "geometry": {"coordinates":[105.35258,11.45468],"type":"Point"}
+}

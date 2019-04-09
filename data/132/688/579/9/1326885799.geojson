@@ -1,0 +1,70 @@
+{
+  "id": 1326885799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.86242,13.69796,102.86242,13.69796",
+    "geom:latitude":13.69796,
+    "geom:longitude":102.86242,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Roka",
+    "gn:country_code":"KH",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11423672,
+    "gn:latitude":13.69796,
+    "gn:longitude":102.86242,
+    "gn:modification_date":"2017-01-07",
+    "gn:name":"Roka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Roka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673011,
+        421198129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11423672
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"80a306231c1b979304731e5da23ff7b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421198129,
+            "locality_id":1326885799,
+            "region_id":85673011
+        }
+    ],
+    "wof:id":1326885799,
+    "wof:lastmodified":1537654000,
+    "wof:name":"Roka",
+    "wof:parent_id":421198129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.86242,
+    13.69796,
+    102.86242,
+    13.69796
+],
+  "geometry": {"coordinates":[102.86242,13.69796],"type":"Point"}
+}

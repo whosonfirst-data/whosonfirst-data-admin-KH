@@ -1,0 +1,71 @@
+{
+  "id": 1209887065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.55895,11.37762,105.55895,11.37762",
+    "geom:latitude":11.37762,
+    "geom:longitude":105.55895,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Phumi Prey Ropeak",
+    "gn:country_code":"KH",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825697,
+    "gn:latitude":11.37762,
+    "gn:longitude":105.55895,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Prey R\u00f4pe\u0103k",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum Prey Lopeak",
+        "Phum\u012d Prey R\u00f4pe\u0103k"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673067,
+        1108564729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825697
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"8db5a177d0067786d1b52b67ea6ab848",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564729,
+            "locality_id":1209887065,
+            "region_id":85673067
+        }
+    ],
+    "wof:id":1209887065,
+    "wof:lastmodified":1537653559,
+    "wof:name":"Phumi Prey Ropeak",
+    "wof:parent_id":1108564729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.55895,
+    11.37762,
+    105.55895,
+    11.37762
+],
+  "geometry": {"coordinates":[105.55895,11.37762],"type":"Point"}
+}

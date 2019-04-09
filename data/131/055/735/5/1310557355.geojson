@@ -1,0 +1,78 @@
+{
+  "id": 1310557355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.90593,13.32417,103.90593,13.32417",
+    "geom:latitude":13.32417,
+    "geom:longitude":103.90593,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Bos Kralanh",
+    "gn:country_code":"KH",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829319,
+    "gn:latitude":13.32417,
+    "gn:longitude":103.90593,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Bos Kralanh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Bos Kralanh"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1794\u17bb\u179f\u1780\u17d2\u179a\u17a1\u17b6\u1789\u17cb",
+        "Phum B\u014fs Kralanh"
+    ],
+    "name:und_x_variant":[
+        "Bos Kralach",
+        "Phum\u012d B\u014fs Kr\u00e2l\u0103nh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673029,
+        421204115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829319
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"b84ff79d4df8d432bdf424c755edbf92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421204115,
+            "locality_id":1310557355,
+            "region_id":85673029
+        }
+    ],
+    "wof:id":1310557355,
+    "wof:lastmodified":1537653874,
+    "wof:name":"Bos Kralanh",
+    "wof:parent_id":421204115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.90593,
+    13.32417,
+    103.90593,
+    13.32417
+],
+  "geometry": {"coordinates":[103.90593,13.32417],"type":"Point"}
+}

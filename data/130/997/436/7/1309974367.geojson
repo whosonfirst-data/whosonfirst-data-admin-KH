@@ -1,0 +1,71 @@
+{
+  "id": 1309974367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.66185,13.9058,103.66185,13.9058",
+    "geom:latitude":13.9058,
+    "geom:longitude":103.66185,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Phumi Thlok",
+    "gn:country_code":"KH",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1823923,
+    "gn:latitude":13.9058,
+    "gn:longitude":103.66185,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Thl\u00f4k",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Thlok",
+        "Phum\u012d Thl\u00f4k"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673029,
+        1108564847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1823923
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"95898e10cd05b69f155af04a1e969e40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564847,
+            "locality_id":1309974367,
+            "region_id":85673029
+        }
+    ],
+    "wof:id":1309974367,
+    "wof:lastmodified":1537653416,
+    "wof:name":"Phumi Thlok",
+    "wof:parent_id":1108564847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.66185,
+    13.9058,
+    103.66185,
+    13.9058
+],
+  "geometry": {"coordinates":[103.66185,13.9058],"type":"Point"}
+}

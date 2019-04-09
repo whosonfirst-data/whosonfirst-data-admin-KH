@@ -1,0 +1,67 @@
+{
+  "id": 1310280933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.75901,11.15664,105.75901,11.15664",
+    "geom:latitude":11.15664,
+    "geom:longitude":105.75901,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Phumi Sang Kdei",
+    "gn:country_code":"KH",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825042,
+    "gn:latitude":11.15664,
+    "gn:longitude":105.75901,
+    "gn:modification_date":"1993-12-30",
+    "gn:name":"Phum\u012d S\u00e2ng Kdei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673105,
+        1108564861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825042
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"0f0b5183699914adca8ed53e191161d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564861,
+            "locality_id":1310280933,
+            "region_id":85673105
+        }
+    ],
+    "wof:id":1310280933,
+    "wof:lastmodified":1536743130,
+    "wof:name":"Phumi Sang Kdei",
+    "wof:parent_id":1108564861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.75901,
+    11.15664,
+    105.75901,
+    11.15664
+],
+  "geometry": {"coordinates":[105.75901,11.15664],"type":"Point"}
+}

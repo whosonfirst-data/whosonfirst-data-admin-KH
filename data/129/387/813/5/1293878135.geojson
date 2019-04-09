@@ -1,0 +1,72 @@
+{
+  "id": 1293878135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.2057,11.96742,106.2057,11.96742",
+    "geom:latitude":11.96742,
+    "geom:longitude":106.2057,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Phumi Kampong Damrei",
+    "gn:country_code":"KH",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828304,
+    "gn:latitude":11.96742,
+    "gn:longitude":106.2057,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d K\u00e2mp\u00f3ng D\u00e2mrei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum Kompong Damrey",
+        "Kompong Damrey",
+        "Phum\u012d K\u00e2mp\u00f3ng D\u00e2mrei"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673081,
+        1108564635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828304
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"bab595b749fa8e8a78bfd33348c51199",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564635,
+            "locality_id":1293878135,
+            "region_id":85673081
+        }
+    ],
+    "wof:id":1293878135,
+    "wof:lastmodified":1537653794,
+    "wof:name":"Phumi Kampong Damrei",
+    "wof:parent_id":1108564635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.2057,
+    11.96742,
+    106.2057,
+    11.96742
+],
+  "geometry": {"coordinates":[106.20569999999999,11.96742],"type":"Point"}
+}

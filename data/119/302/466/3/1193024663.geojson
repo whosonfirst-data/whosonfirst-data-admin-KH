@@ -1,0 +1,70 @@
+{
+  "id": 1193024663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.16713,12.03291,105.16713,12.03291",
+    "geom:latitude":12.03291,
+    "geom:longitude":105.16713,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Me Meang",
+    "gn:country_code":"KH",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11478714,
+    "gn:latitude":12.03291,
+    "gn:longitude":105.16713,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Me Meang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Me Meang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673041,
+        1108564783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11478714
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"71dccc9a435c5af2afbc1af4aa589304",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564783,
+            "locality_id":1193024663,
+            "region_id":85673041
+        }
+    ],
+    "wof:id":1193024663,
+    "wof:lastmodified":1537654043,
+    "wof:name":"Me Meang",
+    "wof:parent_id":1108564783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.16713,
+    12.03291,
+    105.16713,
+    12.03291
+],
+  "geometry": {"coordinates":[105.16713,12.03291],"type":"Point"}
+}

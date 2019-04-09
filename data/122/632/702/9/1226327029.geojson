@@ -1,0 +1,71 @@
+{
+  "id": 1226327029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.98333,12.82369,105.98333,12.82369",
+    "geom:latitude":12.82369,
+    "geom:longitude":105.98333,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Phumi Kampong Cheung Peat",
+    "gn:country_code":"KH",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828312,
+    "gn:latitude":12.82369,
+    "gn:longitude":105.98333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d K\u00e2mp\u00f3ng Cheung P\u00e9at",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum Ch\u0153ung Peat",
+        "Phum\u012d K\u00e2mp\u00f3ng Cheung P\u00e9at"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673081,
+        421188051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828312
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"f1d00a6a582b0076e6295a4d70d23f46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421188051,
+            "locality_id":1226327029,
+            "region_id":85673081
+        }
+    ],
+    "wof:id":1226327029,
+    "wof:lastmodified":1537653795,
+    "wof:name":"Phumi Kampong Cheung Peat",
+    "wof:parent_id":421188051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.98333,
+    12.82369,
+    105.98333,
+    12.82369
+],
+  "geometry": {"coordinates":[105.98333,12.82369],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243214533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.36093,13.38548,102.36093,13.38548",
+    "geom:latitude":13.38548,
+    "geom:longitude":102.36093,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Andoung Pir",
+    "gn:country_code":"KH",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11411824,
+    "gn:latitude":13.38548,
+    "gn:longitude":102.36093,
+    "gn:modification_date":"2017-01-07",
+    "gn:name":"Andoung Pir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Andoung Pir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673015,
+        1108564761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11411824
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"0ee828527aadaf017fd41a24bb62836e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564761,
+            "locality_id":1243214533,
+            "region_id":85673015
+        }
+    ],
+    "wof:id":1243214533,
+    "wof:lastmodified":1537653997,
+    "wof:name":"Andoung Pir",
+    "wof:parent_id":1108564761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.36093,
+    13.38548,
+    102.36093,
+    13.38548
+],
+  "geometry": {"coordinates":[102.36093,13.38548],"type":"Point"}
+}

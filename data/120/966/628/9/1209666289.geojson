@@ -1,0 +1,71 @@
+{
+  "id": 1209666289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.80793,10.72621,103.80793,10.72621",
+    "geom:latitude":10.72621,
+    "geom:longitude":103.80793,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Veal Thum",
+    "gn:country_code":"KH",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1822902,
+    "gn:latitude":10.72621,
+    "gn:longitude":103.80793,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Veal Thum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Veal Thum"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u179c\u17b6\u179b\u1792\u17c6"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d V\u00e9al Thom",
+        "Phum\u012d V\u00e9al Thum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1822902
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"47380eafdaefec5ca917fd8a987fcc68",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209666289
+        }
+    ],
+    "wof:id":1209666289,
+    "wof:lastmodified":1537653343,
+    "wof:name":"Veal Thum",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.80793,
+    10.72621,
+    103.80793,
+    10.72621
+],
+  "geometry": {"coordinates":[103.80793,10.72621],"type":"Point"}
+}

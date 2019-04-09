@@ -1,0 +1,74 @@
+{
+  "id": 1260037847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.71071,13.49252,103.71071,13.49252",
+    "geom:latitude":13.49252,
+    "geom:longitude":103.71071,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Phum Don Tro",
+    "gn:country_code":"KH",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828439,
+    "gn:latitude":13.49252,
+    "gn:longitude":103.71071,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Phum Don Tr\u00f4",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Don Tr\u00f4"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u178a\u17bc\u1793\u1791\u17d2\u179a",
+        "Phum\u012d Don Tr\u00f4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673029,
+        421185505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828439
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"be9cc97d8e0189c541e71145c8f348d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421185505,
+            "locality_id":1260037847,
+            "region_id":85673029
+        }
+    ],
+    "wof:id":1260037847,
+    "wof:lastmodified":1537653806,
+    "wof:name":"Phum Don Tro",
+    "wof:parent_id":421185505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.71071,
+    13.49252,
+    103.71071,
+    13.49252
+],
+  "geometry": {"coordinates":[103.71071000000001,13.49252],"type":"Point"}
+}

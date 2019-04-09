@@ -1,0 +1,67 @@
+{
+  "id": 1193036333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.15622,12.42072,107.15622,12.42072",
+    "geom:latitude":12.42072,
+    "geom:longitude":107.15622,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Phumi Pu Kle (1)",
+    "gn:country_code":"KH",
+    "gn:dem":682,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825540,
+    "gn:latitude":12.42072,
+    "gn:longitude":107.15622,
+    "gn:modification_date":"1993-12-30",
+    "gn:name":"Phum\u012d Pu Kl\u00e9 (1)",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673085,
+        421188055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825540
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"48718b38313d30f6b4eb6fae6c1e9b56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421188055,
+            "locality_id":1193036333,
+            "region_id":85673085
+        }
+    ],
+    "wof:id":1193036333,
+    "wof:lastmodified":1536380649,
+    "wof:name":"Phumi Pu Kle (1)",
+    "wof:parent_id":421188055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.15622,
+    12.42072,
+    107.15622,
+    12.42072
+],
+  "geometry": {"coordinates":[107.15622,12.42072],"type":"Point"}
+}

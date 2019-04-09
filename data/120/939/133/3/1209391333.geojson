@@ -1,0 +1,66 @@
+{
+  "id": 1209391333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.65574,14.01695,104.65574,14.01695",
+    "geom:latitude":14.01695,
+    "geom:longitude":104.65574,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Phumi Anhchang",
+    "gn:country_code":"KH",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829871,
+    "gn:latitude":14.01695,
+    "gn:longitude":104.65574,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d \u00c2nhch\u0103ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum\u012d \u00c2nche\u0103ng",
+        "Phum\u012d \u00c2nhche\u0103ng",
+        "Phum\u012d \u00c2nhch\u0103ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829871
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"03ef835d543440804fc15fe83a2e9488",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209391333
+        }
+    ],
+    "wof:id":1209391333,
+    "wof:lastmodified":1537653920,
+    "wof:name":"Phumi Anhchang",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.65574,
+    14.01695,
+    104.65574,
+    14.01695
+],
+  "geometry": {"coordinates":[104.65573999999999,14.01695],"type":"Point"}
+}

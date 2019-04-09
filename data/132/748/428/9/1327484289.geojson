@@ -1,0 +1,74 @@
+{
+  "id": 1327484289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.2381,13.1534,103.2381,13.1534",
+    "geom:latitude":13.1534,
+    "geom:longitude":103.2381,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Phum O Totoeng",
+    "gn:country_code":"KH",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1826658,
+    "gn:latitude":13.1534,
+    "gn:longitude":103.2381,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Phum O T\u00f4t\u0153\u0306ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum O T\u00f4t\u0153\u0306ng"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u17a2\u1791\u1791\u17b9\u1784",
+        "Phum\u012d O T\u00f4t\u0153\u0306ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673015,
+        421172391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1826658
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"7cc97802efffca7c48e8b2a5a3033283",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421172391,
+            "locality_id":1327484289,
+            "region_id":85673015
+        }
+    ],
+    "wof:id":1327484289,
+    "wof:lastmodified":1537653646,
+    "wof:name":"Phum O Totoeng",
+    "wof:parent_id":421172391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.2381,
+    13.1534,
+    103.2381,
+    13.1534
+],
+  "geometry": {"coordinates":[103.2381,13.1534],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1327480755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.14301,12.92224,103.14301,12.92224",
+    "geom:latitude":12.92224,
+    "geom:longitude":103.14301,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Khum Kantu",
+    "gn:country_code":"KH",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1831055,
+    "gn:latitude":12.92224,
+    "gn:longitude":103.14301,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Khum Kantu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum\u012d Kantoe",
+        "Khum Kantu",
+        "K\u00e2nt\u0153"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673015,
+        1108564597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1831055
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"7dacc2dbc4869e3f7e48dd56202f3e6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564597,
+            "locality_id":1327480755,
+            "region_id":85673015
+        }
+    ],
+    "wof:id":1327480755,
+    "wof:lastmodified":1537653956,
+    "wof:name":"Khum Kantu",
+    "wof:parent_id":1108564597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.14301,
+    12.92224,
+    103.14301,
+    12.92224
+],
+  "geometry": {"coordinates":[103.14301,12.92224],"type":"Point"}
+}

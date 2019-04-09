@@ -1,0 +1,67 @@
+{
+  "id": 1193143209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.18032,11.41358,104.18032,11.41358",
+    "geom:latitude":11.41358,
+    "geom:longitude":104.18032,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Phumi Prey Trach",
+    "gn:country_code":"KH",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825595,
+    "gn:latitude":11.41358,
+    "gn:longitude":104.18032,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Phum\u012d Prey Trach",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673053,
+        1108564765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825595
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"534387af65279182708c76bf13769cf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564765,
+            "locality_id":1193143209,
+            "region_id":85673053
+        }
+    ],
+    "wof:id":1193143209,
+    "wof:lastmodified":1536364467,
+    "wof:name":"Phumi Prey Trach",
+    "wof:parent_id":1108564765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.18032,
+    11.41358,
+    104.18032,
+    11.41358
+],
+  "geometry": {"coordinates":[104.18031999999999,11.41358],"type":"Point"}
+}

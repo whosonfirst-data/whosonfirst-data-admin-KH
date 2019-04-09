@@ -1,0 +1,77 @@
+{
+  "id": 1326717373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.9511,12.53622,103.9511,12.53622",
+    "geom:latitude":12.53622,
+    "geom:longitude":103.9511,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Krang Ta Saen",
+    "gn:country_code":"KH",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827206,
+    "gn:latitude":12.53622,
+    "gn:longitude":103.9511,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Krang Ta Saen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Krang Ta Saen"
+    ],
+    "name:khm_x_variant":[
+        "Phum Kr\u00e2ng Kr\u00e2s\u0103ng"
+    ],
+    "name:und_x_variant":[
+        "Kr\u0103ng Tasen",
+        "Phum\u012d Kr\u0103ng Kr\u00e2s\u0103ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673023,
+        1108564795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827206
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"b7b8d74cabed258082f097865a21099c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564795,
+            "locality_id":1326717373,
+            "region_id":85673023
+        }
+    ],
+    "wof:id":1326717373,
+    "wof:lastmodified":1537653695,
+    "wof:name":"Krang Ta Saen",
+    "wof:parent_id":1108564795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.9511,
+    12.53622,
+    103.9511,
+    12.53622
+],
+  "geometry": {"coordinates":[103.9511,12.53622],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1276333487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.90019,12.64895,104.90019,12.64895",
+    "geom:latitude":12.64895,
+    "geom:longitude":104.90019,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Srayov Tboung",
+    "gn:country_code":"KH",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1824682,
+    "gn:latitude":12.64895,
+    "gn:longitude":104.90019,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Srayov Tboung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Srayov Tboung"
+    ],
+    "name:und_x_variant":[
+        "Srayau",
+        "Phum\u012d Sr\u00e2yov",
+        "Phum\u012d Sr\u00e2yuv"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673057,
+        421180491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1824682
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"5a2f2e4a67ef3c211fba54b5b822a9d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421180491,
+            "locality_id":1276333487,
+            "region_id":85673057
+        }
+    ],
+    "wof:id":1276333487,
+    "wof:lastmodified":1537653477,
+    "wof:name":"Srayov Tboung",
+    "wof:parent_id":421180491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.90019,
+    12.64895,
+    104.90019,
+    12.64895
+],
+  "geometry": {"coordinates":[104.90018999999999,12.64895],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1193114353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.8017,12.69081,103.8017,12.69081",
+    "geom:latitude":12.69081,
+    "geom:longitude":103.8017,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Robang Romeas",
+    "gn:country_code":"KH",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825451,
+    "gn:latitude":12.69081,
+    "gn:longitude":103.8017,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Robang Romeas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Robang Romeas"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u179a\u1794\u1784\u179a\u1798\u17b6\u179f",
+        "Phum R\u00f4b\u00e2ng R\u00f4m\u00e9as"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d R\u00f4b\u00e2ng R\u00f4m\u00e9as"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673023,
+        1108564595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825451
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"1cd16930ab558e5adfab568022696d37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564595,
+            "locality_id":1193114353,
+            "region_id":85673023
+        }
+    ],
+    "wof:id":1193114353,
+    "wof:lastmodified":1537653543,
+    "wof:name":"Robang Romeas",
+    "wof:parent_id":1108564595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.8017,
+    12.69081,
+    103.8017,
+    12.69081
+],
+  "geometry": {"coordinates":[103.8017,12.69081],"type":"Point"}
+}

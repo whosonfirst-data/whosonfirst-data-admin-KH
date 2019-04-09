@@ -1,0 +1,73 @@
+{
+  "id": 1326929645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.78128,12.9223,104.78128,12.9223",
+    "geom:latitude":12.9223,
+    "geom:longitude":104.78128,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Phumi Nipech",
+    "gn:country_code":"KH",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1826789,
+    "gn:latitude":12.9223,
+    "gn:longitude":104.78128,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d N\u012dp\u00e9ch",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum Ny Peich",
+        "Ny Pech",
+        "My Pech",
+        "Phum\u012d N\u012dp\u00e9ch"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673057,
+        421169333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1826789
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"9b63604b7acec808af6a970a38c5ac18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421169333,
+            "locality_id":1326929645,
+            "region_id":85673057
+        }
+    ],
+    "wof:id":1326929645,
+    "wof:lastmodified":1537653657,
+    "wof:name":"Phumi Nipech",
+    "wof:parent_id":421169333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.78128,
+    12.9223,
+    104.78128,
+    12.9223
+],
+  "geometry": {"coordinates":[104.78128,12.9223],"type":"Point"}
+}

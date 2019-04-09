@@ -1,0 +1,67 @@
+{
+  "id": 1242885687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.81839,11.93133,104.81839,11.93133",
+    "geom:latitude":11.93133,
+    "geom:longitude":104.81839,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Phumi Chantor",
+    "gn:country_code":"KH",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829142,
+    "gn:latitude":11.93133,
+    "gn:longitude":104.81839,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Phum\u012d Ch\u00e2nt\u00f4r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673047,
+        1108564679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829142
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"24d5c03ff27a3b6ee48229277f4c0faf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564679,
+            "locality_id":1242885687,
+            "region_id":85673047
+        }
+    ],
+    "wof:id":1242885687,
+    "wof:lastmodified":1536617678,
+    "wof:name":"Phumi Chantor",
+    "wof:parent_id":1108564679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.81839,
+    11.93133,
+    104.81839,
+    11.93133
+],
+  "geometry": {"coordinates":[104.81838999999999,11.93133],"type":"Point"}
+}

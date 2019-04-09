@@ -1,0 +1,74 @@
+{
+  "id": 1344143971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.88514,12.63448,103.88514,12.63448",
+    "geom:latitude":12.63448,
+    "geom:longitude":103.88514,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Phteah Pring",
+    "gn:country_code":"KH",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11538789,
+    "gn:latitude":12.63448,
+    "gn:longitude":103.88514,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Phteah Pring",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phteah Pring"
+    ],
+    "name:khm_x_variant":[
+        "Phum Phte\u0103h Pay",
+        "\u1797\u17bc\u1798\u17b7 \u1795\u17d2\u1791\u17c7\u1794\u17b6\u1799"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673023,
+        1108564595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11538789
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"0787af82b3ba8a7f54fcb7266df62e8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564595,
+            "locality_id":1344143971,
+            "region_id":85673023
+        }
+    ],
+    "wof:id":1344143971,
+    "wof:lastmodified":1537654097,
+    "wof:name":"Phteah Pring",
+    "wof:parent_id":1108564595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.88514,
+    12.63448,
+    103.88514,
+    12.63448
+],
+  "geometry": {"coordinates":[103.88514000000001,12.63448],"type":"Point"}
+}

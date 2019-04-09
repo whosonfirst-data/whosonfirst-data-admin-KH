@@ -1,0 +1,79 @@
+{
+  "id": 1326986029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.71562,13.60127,103.71562,13.60127",
+    "geom:latitude":13.60127,
+    "geom:longitude":103.71562,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Nokor Pheas Muoy",
+    "gn:country_code":"KH",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1826788,
+    "gn:latitude":13.60127,
+    "gn:longitude":103.71562,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Nokor Pheas Muoy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Nokor Pheas Muoy"
+    ],
+    "name:khm_x_variant":[
+        "Phum N\u00f4k\u00f4r Ph\u00e9as",
+        "\u1797\u17bc\u1798\u17b7 \u1793\u1782\u179a\u1797\u17b6\u179f"
+    ],
+    "name:und_x_variant":[
+        "Ankor Pias",
+        "Nokor Pheas",
+        "Phum\u012d N\u00f4k\u00f4r Ph\u00e9as"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673029,
+        1108564583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1826788
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"f8e5d5930669e8e5438f314e9e89a3cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564583,
+            "locality_id":1326986029,
+            "region_id":85673029
+        }
+    ],
+    "wof:id":1326986029,
+    "wof:lastmodified":1537653657,
+    "wof:name":"Nokor Pheas Muoy",
+    "wof:parent_id":1108564583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.71562,
+    13.60127,
+    103.71562,
+    13.60127
+],
+  "geometry": {"coordinates":[103.71562,13.60127],"type":"Point"}
+}

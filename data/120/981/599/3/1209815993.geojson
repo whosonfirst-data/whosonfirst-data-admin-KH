@@ -1,0 +1,79 @@
+{
+  "id": 1209815993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.47242,11.74106,104.47242,11.74106",
+    "geom:latitude":11.74106,
+    "geom:longitude":104.47242,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Krang Pou",
+    "gn:country_code":"KH",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1824157,
+    "gn:latitude":11.74106,
+    "gn:longitude":104.47242,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Krang Pou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Krang Pou"
+    ],
+    "name:khm_x_variant":[
+        "Phum T\u0103ng Po\u016d",
+        "\u1797\u17bc\u1798\u17b7 \u178f\u17b6\u17c6\u1784\u1796\u17c4\u1792\u17b7"
+    ],
+    "name:und_x_variant":[
+        "Vat Teang Po",
+        "Phum\u012d T\u0103ng Po\u016d",
+        "Phum\u012d T\u0103ng Po\u016dth\u012d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673053,
+        1108564873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1824157
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"edf3bec29c8f47729f4eab43b899d00f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564873,
+            "locality_id":1209815993,
+            "region_id":85673053
+        }
+    ],
+    "wof:id":1209815993,
+    "wof:lastmodified":1537653435,
+    "wof:name":"Krang Pou",
+    "wof:parent_id":1108564873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.47242,
+    11.74106,
+    104.47242,
+    11.74106
+],
+  "geometry": {"coordinates":[104.47242,11.74106],"type":"Point"}
+}

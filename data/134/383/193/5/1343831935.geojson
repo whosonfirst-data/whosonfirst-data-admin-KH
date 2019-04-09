@@ -1,0 +1,71 @@
+{
+  "id": 1343831935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.53328,10.62501,104.53328,10.62501",
+    "geom:latitude":10.62501,
+    "geom:longitude":104.53328,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Phumi Prey Kiet",
+    "gn:country_code":"KH",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825792,
+    "gn:latitude":10.62501,
+    "gn:longitude":104.53328,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Prey Ki\u0115t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum Prey Kit",
+        "Phum\u012d Prey Ki\u0115t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673093,
+        1108564601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825792
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"9ce9a69141d22246445179ae96ca2722",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564601,
+            "locality_id":1343831935,
+            "region_id":85673093
+        }
+    ],
+    "wof:id":1343831935,
+    "wof:lastmodified":1537653566,
+    "wof:name":"Phumi Prey Kiet",
+    "wof:parent_id":1108564601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.53328,
+    10.62501,
+    104.53328,
+    10.62501
+],
+  "geometry": {"coordinates":[104.53328,10.62501],"type":"Point"}
+}

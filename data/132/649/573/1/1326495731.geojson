@@ -1,0 +1,73 @@
+{
+  "id": 1326495731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.86579,10.9655,104.86579,10.9655",
+    "geom:latitude":10.9655,
+    "geom:longitude":104.86579,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Phumi Kbal Pouthi",
+    "gn:country_code":"KH",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827835,
+    "gn:latitude":10.9655,
+    "gn:longitude":104.86579,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Kbal Po\u016dth\u012d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phkbal Pou",
+        "Phum Kbal Po",
+        "Phum Khal Po",
+        "Phum\u012d Kbal Po\u016dth\u012d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673107,
+        1108564881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827835
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"7cc71e01405d6e1638fd6bf942c409c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564881,
+            "locality_id":1326495731,
+            "region_id":85673107
+        }
+    ],
+    "wof:id":1326495731,
+    "wof:lastmodified":1537653754,
+    "wof:name":"Phumi Kbal Pouthi",
+    "wof:parent_id":1108564881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.86579,
+    10.9655,
+    104.86579,
+    10.9655
+],
+  "geometry": {"coordinates":[104.86579,10.9655],"type":"Point"}
+}

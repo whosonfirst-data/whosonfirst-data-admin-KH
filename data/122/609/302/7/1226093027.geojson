@@ -1,0 +1,70 @@
+{
+  "id": 1226093027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.72404,10.58322,103.72404,10.58322",
+    "geom:latitude":10.58322,
+    "geom:longitude":103.72404,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Ou Ta Sek",
+    "gn:country_code":"KH",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11424852,
+    "gn:latitude":10.58322,
+    "gn:longitude":103.72404,
+    "gn:modification_date":"2017-01-07",
+    "gn:name":"Ou Ta Sek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Ou Ta Sek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673101,
+        421188243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11424852
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"3e8c587dfabdccbf9144741af953f28f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421188243,
+            "locality_id":1226093027,
+            "region_id":85673101
+        }
+    ],
+    "wof:id":1226093027,
+    "wof:lastmodified":1537654004,
+    "wof:name":"Ou Ta Sek",
+    "wof:parent_id":421188243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.72404,
+    10.58322,
+    103.72404,
+    10.58322
+],
+  "geometry": {"coordinates":[103.72404,10.58322],"type":"Point"}
+}

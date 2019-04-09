@@ -1,0 +1,71 @@
+{
+  "id": 1226265425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.58716,12.95046,104.58716,12.95046",
+    "geom:latitude":12.95046,
+    "geom:longitude":104.58716,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Phumi Ta Char",
+    "gn:country_code":"KH",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1824305,
+    "gn:latitude":12.95046,
+    "gn:longitude":104.58716,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Ta Ch\u00e2r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum\u012d Ta Ch\u00e2",
+        "Phum\u012d Ta Ch\u00e2r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673057,
+        1108564849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1824305
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"3afaf3cf6a40719ae2df9ce6ced272d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564849,
+            "locality_id":1226265425,
+            "region_id":85673057
+        }
+    ],
+    "wof:id":1226265425,
+    "wof:lastmodified":1537653446,
+    "wof:name":"Phumi Ta Char",
+    "wof:parent_id":1108564849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.58716,
+    12.95046,
+    104.58716,
+    12.95046
+],
+  "geometry": {"coordinates":[104.58716,12.95046],"type":"Point"}
+}

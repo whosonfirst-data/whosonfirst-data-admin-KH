@@ -1,0 +1,71 @@
+{
+  "id": 1259969579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.97153,12.73348,105.97153,12.73348",
+    "geom:latitude":12.73348,
+    "geom:longitude":105.97153,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Phumi Kaoh Sam",
+    "gn:country_code":"KH",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827948,
+    "gn:latitude":12.73348,
+    "gn:longitude":105.97153,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Ka\u00f4h S\u00e2m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum Kas Sam Thom",
+        "Phum\u012d Ka\u00f4h S\u00e2m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673081,
+        421188051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827948
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"13cb9b039fd2e145bf056edc3d2cf4c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421188051,
+            "locality_id":1259969579,
+            "region_id":85673081
+        }
+    ],
+    "wof:id":1259969579,
+    "wof:lastmodified":1537653763,
+    "wof:name":"Phumi Kaoh Sam",
+    "wof:parent_id":421188051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.97153,
+    12.73348,
+    105.97153,
+    12.73348
+],
+  "geometry": {"coordinates":[105.97153,12.73348],"type":"Point"}
+}

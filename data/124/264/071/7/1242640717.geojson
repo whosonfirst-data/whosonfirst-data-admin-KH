@@ -1,0 +1,71 @@
+{
+  "id": 1242640717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.83008,11.35412,105.83008,11.35412",
+    "geom:latitude":11.35412,
+    "geom:longitude":105.83008,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Phumi Chea Theach",
+    "gn:country_code":"KH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829088,
+    "gn:latitude":11.35412,
+    "gn:longitude":105.83008,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Ch\u00e9a Th\u00e9ach",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chea Theach",
+        "Phum\u012d Ch\u00e9a Th\u00e9ach"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673105,
+        1108564797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829088
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"81f64f0fe6acff5169cdd193de20a7f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564797,
+            "locality_id":1242640717,
+            "region_id":85673105
+        }
+    ],
+    "wof:id":1242640717,
+    "wof:lastmodified":1537653857,
+    "wof:name":"Phumi Chea Theach",
+    "wof:parent_id":1108564797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.83008,
+    11.35412,
+    105.83008,
+    11.35412
+],
+  "geometry": {"coordinates":[105.83008,11.35412],"type":"Point"}
+}

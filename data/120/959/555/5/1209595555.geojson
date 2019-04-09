@@ -1,0 +1,72 @@
+{
+  "id": 1209595555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.76389,12.61979,103.76389,12.61979",
+    "geom:latitude":12.61979,
+    "geom:longitude":103.76389,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Prey Phdau",
+    "gn:country_code":"KH",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1826489,
+    "gn:latitude":12.61979,
+    "gn:longitude":103.76389,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Prey Phdau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Prey Phdau"
+    ],
+    "name:khm_x_variant":[
+        "Phum Phn\u014fu",
+        "\u1797\u17bc\u1798\u17b7 \u1797\u17d2\u1793\u17c5"
+    ],
+    "name:und_x_variant":[
+        "P\u2019um Pnou",
+        "Phum\u012d Phn\u014fu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1826489
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"91b59d0dc221beed33659ffbd3430235",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209595555
+        }
+    ],
+    "wof:id":1209595555,
+    "wof:lastmodified":1537653630,
+    "wof:name":"Prey Phdau",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.76389,
+    12.61979,
+    103.76389,
+    12.61979
+],
+  "geometry": {"coordinates":[103.76389,12.61979],"type":"Point"}
+}

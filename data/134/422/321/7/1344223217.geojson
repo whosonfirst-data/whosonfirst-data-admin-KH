@@ -1,0 +1,70 @@
+{
+  "id": 1344223217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.63444,11.18545,105.63444,11.18545",
+    "geom:latitude":11.18545,
+    "geom:longitude":105.63444,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Beoung Ray Nord",
+    "gn:country_code":"KH",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829388,
+    "gn:latitude":11.18545,
+    "gn:longitude":105.63444,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Beoung Ray Nord",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum\u012d B\u0153\u0306ng Rai Khang Cheung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673105,
+        1108564861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829388
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"efee80471c0958f8d447b54b27198b70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564861,
+            "locality_id":1344223217,
+            "region_id":85673105
+        }
+    ],
+    "wof:id":1344223217,
+    "wof:lastmodified":1537653879,
+    "wof:name":"Beoung Ray Nord",
+    "wof:parent_id":1108564861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.63443999999998,
+    11.18545,
+    105.63443999999998,
+    11.18545
+],
+  "geometry": {"coordinates":[105.63443999999998,11.18545],"type":"Point"}
+}

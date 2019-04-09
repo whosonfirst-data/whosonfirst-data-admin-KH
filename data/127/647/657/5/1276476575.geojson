@@ -1,0 +1,73 @@
+{
+  "id": 1276476575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.96399,13.03463,104.96399,13.03463",
+    "geom:latitude":13.03463,
+    "geom:longitude":104.96399,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Srae",
+    "gn:country_code":"KH",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1824680,
+    "gn:latitude":13.03463,
+    "gn:longitude":104.96399,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Srae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Srae"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Sr\u00ea"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673057,
+        1108564773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1824680
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"6cd2539dda7f773a774c1ba6bc93aa4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564773,
+            "locality_id":1276476575,
+            "region_id":85673057
+        }
+    ],
+    "wof:id":1276476575,
+    "wof:lastmodified":1537653477,
+    "wof:name":"Srae",
+    "wof:parent_id":1108564773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.96399,
+    13.03463,
+    104.96399,
+    13.03463
+],
+  "geometry": {"coordinates":[104.96399,13.03463],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1276180237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.7385,13.42459,103.7385,13.42459",
+    "geom:latitude":13.42459,
+    "geom:longitude":103.7385,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Phum Dong Sva",
+    "gn:country_code":"KH",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828492,
+    "gn:latitude":13.42459,
+    "gn:longitude":103.7385,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Phum Dong Sva",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Dong Sva"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u178a\u17bc\u1784\u179f\u17d2\u179c\u17b6"
+    ],
+    "name:und_x_variant":[
+        "Phum Daung Sva",
+        "Phum\u012d Dong Sva"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673029,
+        421185505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828492
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"6172fdd27e31620da448b19de6555f1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421185505,
+            "locality_id":1276180237,
+            "region_id":85673029
+        }
+    ],
+    "wof:id":1276180237,
+    "wof:lastmodified":1537653810,
+    "wof:name":"Phum Dong Sva",
+    "wof:parent_id":421185505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.7385,
+    13.42459,
+    103.7385,
+    13.42459
+],
+  "geometry": {"coordinates":[103.7385,13.42459],"type":"Point"}
+}

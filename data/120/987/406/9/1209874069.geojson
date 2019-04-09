@@ -1,0 +1,77 @@
+{
+  "id": 1209874069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.39757,13.16517,104.39757,13.16517",
+    "geom:latitude":13.16517,
+    "geom:longitude":104.39757,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Chey Bour",
+    "gn:country_code":"KH",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829078,
+    "gn:latitude":13.16517,
+    "gn:longitude":104.39757,
+    "gn:modification_date":"2017-07-05",
+    "gn:name":"Chey Bour",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Chey Bour"
+    ],
+    "name:khm_x_variant":[
+        "Phum Ch\u00e9k B\u014fs",
+        "\u1797\u17bc\u1798\u17b7 \u1785\u17c1\u1780\u1794\u179f"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Ch\u00e9k B\u014fs"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673029,
+        1108564639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829078
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"2c421c440c01589afd3ad8af861a8476",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564639,
+            "locality_id":1209874069,
+            "region_id":85673029
+        }
+    ],
+    "wof:id":1209874069,
+    "wof:lastmodified":1537653856,
+    "wof:name":"Chey Bour",
+    "wof:parent_id":1108564639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.39757,
+    13.16517,
+    104.39757,
+    13.16517
+],
+  "geometry": {"coordinates":[104.39757,13.16517],"type":"Point"}
+}

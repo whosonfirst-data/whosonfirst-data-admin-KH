@@ -1,0 +1,73 @@
+{
+  "id": 1344044427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.90203,12.64849,103.90203,12.64849",
+    "geom:latitude":12.64849,
+    "geom:longitude":103.90203,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Phum Yeay Moan",
+    "gn:country_code":"KH",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11538798,
+    "gn:latitude":12.64849,
+    "gn:longitude":103.90203,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Phum Y\u00e9ay Mo\u00e2n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Y\u00e9ay Mo\u00e2n"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1799\u17b6\u1799\u1798\u17b6\u1793\u17cb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673023,
+        1108564687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11538798
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"5e4cc08b72d29d25e12a7eeef01a5b6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564687,
+            "locality_id":1344044427,
+            "region_id":85673023
+        }
+    ],
+    "wof:id":1344044427,
+    "wof:lastmodified":1537654098,
+    "wof:name":"Phum Yeay Moan",
+    "wof:parent_id":1108564687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.90203,
+    12.64849,
+    103.90203,
+    12.64849
+],
+  "geometry": {"coordinates":[103.90203,12.64849],"type":"Point"}
+}

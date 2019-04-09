@@ -1,0 +1,70 @@
+{
+  "id": 1326490941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.58288,12.92918,102.58288,12.92918",
+    "geom:latitude":12.92918,
+    "geom:longitude":102.58288,
+    "gn:admin1_code":"30",
+    "gn:asciiname":"Thnal Totueng",
+    "gn:country_code":"KH",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11338458,
+    "gn:latitude":12.92918,
+    "gn:longitude":102.58288,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Thnal Totueng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Thnal Totueng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673037,
+        1108564815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11338458
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"690c7bc0d3ea153b14f65ba1c0896c8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564815,
+            "locality_id":1326490941,
+            "region_id":85673037
+        }
+    ],
+    "wof:id":1326490941,
+    "wof:lastmodified":1537653970,
+    "wof:name":"Thnal Totueng",
+    "wof:parent_id":1108564815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.58288,
+    12.92918,
+    102.58288,
+    12.92918
+],
+  "geometry": {"coordinates":[102.58288,12.92918],"type":"Point"}
+}

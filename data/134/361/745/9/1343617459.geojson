@@ -1,0 +1,77 @@
+{
+  "id": 1343617459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.79125,13.8522,103.79125,13.8522",
+    "geom:latitude":13.8522,
+    "geom:longitude":103.79125,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Kanhchan Run",
+    "gn:country_code":"KH",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827482,
+    "gn:latitude":13.8522,
+    "gn:longitude":103.79125,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Kanhchan Run",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Kanhchan Run"
+    ],
+    "name:khm_x_variant":[
+        "Phum Kom Phlaeup"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Kom Phlaeup",
+        "Phum\u012d Kom Phlaeub"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673029,
+        421200833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827482
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"f54259289516567e1d4507221a854394",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421200833,
+            "locality_id":1343617459,
+            "region_id":85673029
+        }
+    ],
+    "wof:id":1343617459,
+    "wof:lastmodified":1537653723,
+    "wof:name":"Kanhchan Run",
+    "wof:parent_id":421200833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.79125,
+    13.8522,
+    103.79125,
+    13.8522
+],
+  "geometry": {"coordinates":[103.79125000000001,13.8522],"type":"Point"}
+}

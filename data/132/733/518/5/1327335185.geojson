@@ -1,0 +1,76 @@
+{
+  "id": 1327335185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.48028,12.12799,104.48028,12.12799",
+    "geom:latitude":12.12799,
+    "geom:longitude":104.48028,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Phum Prek Sambuo",
+    "gn:country_code":"KH",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825961,
+    "gn:latitude":12.12799,
+    "gn:longitude":104.48028,
+    "gn:modification_date":"2017-07-05",
+    "gn:name":"Phum Pr\u00eak S\u00e2mbu\u014f",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Pr\u00eak S\u00e2mbu\u014f"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1796\u17d2\u179a\u17c2\u1780\u179f\u17c6\u1794\u17bd"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Pr\u00eak S\u00e2mbu\u014f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673047,
+        1108564885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825961
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"7aac176f35c5a0e8cb288a6a26e8d6fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564885,
+            "locality_id":1327335185,
+            "region_id":85673047
+        }
+    ],
+    "wof:id":1327335185,
+    "wof:lastmodified":1537653580,
+    "wof:name":"Phum Prek Sambuo",
+    "wof:parent_id":1108564885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.48028,
+    12.12799,
+    104.48028,
+    12.12799
+],
+  "geometry": {"coordinates":[104.48027999999999,12.12799],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1343894429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.36948,11.77301,106.36948,11.77301",
+    "geom:latitude":11.77301,
+    "geom:longitude":106.36948,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Khmuor",
+    "gn:country_code":"KH",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11482742,
+    "gn:latitude":11.77301,
+    "gn:longitude":106.36948,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Khmuor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Khmuor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        1108804319,
+        1108564735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11482742
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"8bf11d3b983326c6bfc74cdc59dabe2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564735,
+            "locality_id":1343894429,
+            "region_id":1108804319
+        }
+    ],
+    "wof:id":1343894429,
+    "wof:lastmodified":1537654056,
+    "wof:name":"Khmuor",
+    "wof:parent_id":1108564735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.36948,
+    11.77301,
+    106.36948,
+    11.77301
+],
+  "geometry": {"coordinates":[106.36948,11.77301],"type":"Point"}
+}

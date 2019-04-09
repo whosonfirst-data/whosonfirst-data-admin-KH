@@ -1,0 +1,70 @@
+{
+  "id": 1343914163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.82103,13.61869,106.82103,13.61869",
+    "geom:latitude":13.61869,
+    "geom:longitude":106.82103,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Kam Bak",
+    "gn:country_code":"KH",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11518568,
+    "gn:latitude":13.61869,
+    "gn:longitude":106.82103,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Kam Bak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Kam Bak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673089,
+        1108564717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11518568
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"f30c08ff49734cf4a61142e07f91edbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564717,
+            "locality_id":1343914163,
+            "region_id":85673089
+        }
+    ],
+    "wof:id":1343914163,
+    "wof:lastmodified":1537654089,
+    "wof:name":"Kam Bak",
+    "wof:parent_id":1108564717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.82103,
+    13.61869,
+    106.82103,
+    13.61869
+],
+  "geometry": {"coordinates":[106.82102999999999,13.61869],"type":"Point"}
+}

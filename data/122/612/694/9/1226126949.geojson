@@ -1,0 +1,74 @@
+{
+  "id": 1226126949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.86726,12.2522,105.86726,12.2522",
+    "geom:latitude":12.2522,
+    "geom:longitude":105.86726,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Khsach Andaet",
+    "gn:country_code":"KH",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11507490,
+    "gn:latitude":12.2522,
+    "gn:longitude":105.86726,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Khsach Andaet",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Khsach Andaet"
+    ],
+    "name:khm_x_variant":[
+        "Phum Pr\u00eak S\u00e2mra\u00f4ng",
+        "\u1797\u17bc\u1798\u17b7 \u1796\u17d2\u179a\u17c2\u1780\u179f\u17c6\u179a\u17c4\u1784"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673081,
+        1108564635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11507490
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"b283feb22362310e9a8b563adac209a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564635,
+            "locality_id":1226126949,
+            "region_id":85673081
+        }
+    ],
+    "wof:id":1226126949,
+    "wof:lastmodified":1537654077,
+    "wof:name":"Khsach Andaet",
+    "wof:parent_id":1108564635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.86726000000002,
+    12.2522,
+    105.86726000000002,
+    12.2522
+],
+  "geometry": {"coordinates":[105.86726000000002,12.2522],"type":"Point"}
+}

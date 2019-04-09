@@ -1,0 +1,71 @@
+{
+  "id": 1243490881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.78736,11.85304,105.78736,11.85304",
+    "geom:latitude":11.85304,
+    "geom:longitude":105.78736,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Phumi Andaot",
+    "gn:country_code":"KH",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1830007,
+    "gn:latitude":11.85304,
+    "gn:longitude":105.78736,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Phum\u012d \u00c2nda\u00f4t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum Andot",
+        "Phum\u012d \u00c2nda\u00f4t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        1108804319,
+        421183889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1830007
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"ab1f33861fcabaf3a2d07ede7810dfd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421183889,
+            "locality_id":1243490881,
+            "region_id":1108804319
+        }
+    ],
+    "wof:id":1243490881,
+    "wof:lastmodified":1537653931,
+    "wof:name":"Phumi Andaot",
+    "wof:parent_id":421183889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.78736,
+    11.85304,
+    105.78736,
+    11.85304
+],
+  "geometry": {"coordinates":[105.78736000000001,11.85304],"type":"Point"}
+}

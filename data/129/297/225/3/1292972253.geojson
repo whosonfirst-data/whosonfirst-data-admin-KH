@@ -1,0 +1,70 @@
+{
+  "id": 1292972253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.77468,13.71712,104.77468,13.71712",
+    "geom:latitude":13.71712,
+    "geom:longitude":104.77468,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Baribour",
+    "gn:country_code":"KH",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11502540,
+    "gn:latitude":13.71712,
+    "gn:longitude":104.77468,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Baribour",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Baribour"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673071,
+        421194859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11502540
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"751fc88424dc01c035a78a67511ab9f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421194859,
+            "locality_id":1292972253,
+            "region_id":85673071
+        }
+    ],
+    "wof:id":1292972253,
+    "wof:lastmodified":1537654065,
+    "wof:name":"Baribour",
+    "wof:parent_id":421194859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.77468,
+    13.71712,
+    104.77468,
+    13.71712
+],
+  "geometry": {"coordinates":[104.77468,13.71712],"type":"Point"}
+}

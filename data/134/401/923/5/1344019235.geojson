@@ -1,0 +1,70 @@
+{
+  "id": 1344019235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.44144,13.09343,102.44144,13.09343",
+    "geom:latitude":13.09343,
+    "geom:longitude":102.44144,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Doung",
+    "gn:country_code":"KH",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11320727,
+    "gn:latitude":13.09343,
+    "gn:longitude":102.44144,
+    "gn:modification_date":"2017-01-06",
+    "gn:name":"Doung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Doung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673015,
+        1108564683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11320727
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"2cd0ab3f1061d7d3119f5ba9b48fd98b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564683,
+            "locality_id":1344019235,
+            "region_id":85673015
+        }
+    ],
+    "wof:id":1344019235,
+    "wof:lastmodified":1537653968,
+    "wof:name":"Doung",
+    "wof:parent_id":1108564683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.44144,
+    13.09343,
+    102.44144,
+    13.09343
+],
+  "geometry": {"coordinates":[102.44144,13.09343],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1193028819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.16687,12.14278,105.16687,12.14278",
+    "geom:latitude":12.14278,
+    "geom:longitude":105.16687,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Thma Koul",
+    "gn:country_code":"KH",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11478697,
+    "gn:latitude":12.14278,
+    "gn:longitude":105.16687,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Thma Koul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Thma Koul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673041,
+        1108564783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11478697
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"0c44e880506323d49f2675f3772d5bf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564783,
+            "locality_id":1193028819,
+            "region_id":85673041
+        }
+    ],
+    "wof:id":1193028819,
+    "wof:lastmodified":1537654043,
+    "wof:name":"Thma Koul",
+    "wof:parent_id":1108564783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.16687,
+    12.14278,
+    105.16687,
+    12.14278
+],
+  "geometry": {"coordinates":[105.16687,12.14278],"type":"Point"}
+}

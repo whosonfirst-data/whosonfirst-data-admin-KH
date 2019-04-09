@@ -1,0 +1,81 @@
+{
+  "id": 1259820241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.7463,12.2469,105.7463,12.2469",
+    "geom:latitude":12.2469,
+    "geom:longitude":105.7463,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Phum Chong Phum",
+    "gn:country_code":"KH",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828869,
+    "gn:latitude":12.2469,
+    "gn:longitude":105.7463,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Phum Ch\u014fng Phum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Ch\u014fng Phum"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1785\u17bb\u1784\u1797\u17bc\u1798\u17b7",
+        "Phum Ti Prampir"
+    ],
+    "name:und_x_variant":[
+        "Khum Ruear Khnor",
+        "Phum\u012d Ch\u014fng Phum",
+        "Khum Rocar Khnor Krom",
+        "Khum Rocar Khnor",
+        "Phum\u012d Ch\u014fng Phum\u012d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        1108804319,
+        1108564719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828869
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"334cf64f3059f853c8422db81215a5cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564719,
+            "locality_id":1259820241,
+            "region_id":1108804319
+        }
+    ],
+    "wof:id":1259820241,
+    "wof:lastmodified":1537653838,
+    "wof:name":"Phum Chong Phum",
+    "wof:parent_id":1108564719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.7463,
+    12.2469,
+    105.7463,
+    12.2469
+],
+  "geometry": {"coordinates":[105.74630000000001,12.2469],"type":"Point"}
+}

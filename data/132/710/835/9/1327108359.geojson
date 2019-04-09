@@ -1,0 +1,71 @@
+{
+  "id": 1327108359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.22352,11.63002,105.22352,11.63002",
+    "geom:latitude":11.63002,
+    "geom:longitude":105.22352,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Phumi Me Loung",
+    "gn:country_code":"KH",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1826904,
+    "gn:latitude":11.63002,
+    "gn:longitude":105.22352,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d M\u00e9 Lo\u016dng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wat Melong",
+        "Phum\u012d M\u00e9 Lo\u016dng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673067,
+        1108564753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1826904
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"aa2be5194b90e523c51869f80d731f48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564753,
+            "locality_id":1327108359,
+            "region_id":85673067
+        }
+    ],
+    "wof:id":1327108359,
+    "wof:lastmodified":1537653668,
+    "wof:name":"Phumi Me Loung",
+    "wof:parent_id":1108564753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.22352,
+    11.63002,
+    105.22352,
+    11.63002
+],
+  "geometry": {"coordinates":[105.22351999999999,11.63002],"type":"Point"}
+}

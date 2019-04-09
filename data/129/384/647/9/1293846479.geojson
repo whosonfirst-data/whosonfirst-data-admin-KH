@@ -1,0 +1,73 @@
+{
+  "id": 1293846479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.95871,11.16166,104.95871,11.16166",
+    "geom:latitude":11.16166,
+    "geom:longitude":104.95871,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Prey Lvea",
+    "gn:country_code":"KH",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1822624,
+    "gn:latitude":11.16166,
+    "gn:longitude":104.95871,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Prey Lv\u00e9a",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum\u012d Prey L\u00f4v\u00e9a",
+        "Prey Lovea",
+        "Phum Prey Lovea",
+        "Prey Lv\u00e9a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673107,
+        1108564787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1822624
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"14eb5cb4bf24831769aab91d0e5de52e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564787,
+            "locality_id":1293846479,
+            "region_id":85673107
+        }
+    ],
+    "wof:id":1293846479,
+    "wof:lastmodified":1537653334,
+    "wof:name":"Prey Lvea",
+    "wof:parent_id":1108564787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.95871,
+    11.16166,
+    104.95871,
+    11.16166
+],
+  "geometry": {"coordinates":[104.95871,11.16166],"type":"Point"}
+}

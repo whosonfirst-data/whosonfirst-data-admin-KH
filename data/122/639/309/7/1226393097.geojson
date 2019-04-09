@@ -1,0 +1,76 @@
+{
+  "id": 1226393097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.84904,12.51553,102.84904,12.51553",
+    "geom:latitude":12.51553,
+    "geom:longitude":102.84904,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Tuk Sohk",
+    "gn:country_code":"KH",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1823613,
+    "gn:latitude":12.51553,
+    "gn:longitude":102.84904,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Tuk Sohk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum T\u0153\u0306k S\u014fk"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1791\u17b9\u1780\u179f\u17bb\u1780"
+    ],
+    "name:und_x_variant":[
+        "Phum Tuk Sok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673015,
+        421196403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1823613
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"10d33a217ced5e4112540ec448346ad9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421196403,
+            "locality_id":1226393097,
+            "region_id":85673015
+        }
+    ],
+    "wof:id":1226393097,
+    "wof:lastmodified":1537653391,
+    "wof:name":"Tuk Sohk",
+    "wof:parent_id":421196403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.84904,
+    12.51553,
+    102.84904,
+    12.51553
+],
+  "geometry": {"coordinates":[102.84904,12.51553],"type":"Point"}
+}

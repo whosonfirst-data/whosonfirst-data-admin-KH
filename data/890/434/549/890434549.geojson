@@ -1,0 +1,196 @@
+{
+  "id": 890434549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.9683,13.52586,105.9683,13.52586",
+    "geom:latitude":13.52586,
+    "geom:longitude":105.9683,
+    "gn:country":"KH",
+    "gn:fcode":"PPLA",
+    "gn:pop":25000,
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0633\u062a\u0648\u0646\u063a \u062a\u0631\u064a\u0646\u063a"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09cd\u099f\u09be\u0982 \u099f\u09cd\u09b0\u09c7\u0982"
+    ],
+    "name:chi_x_preferred":[
+        "\u4e0a\u4e01"
+    ],
+    "name:dan_x_preferred":[
+        "Stung Treng"
+    ],
+    "name:dut_x_preferred":[
+        "Stoeng Treng"
+    ],
+    "name:eng_x_preferred":[
+        "Stung Treng"
+    ],
+    "name:fin_x_preferred":[
+        "Stung Treng"
+    ],
+    "name:fra_x_historical":[
+        "Stung-treng"
+    ],
+    "name:fra_x_preferred":[
+        "Stung-treng"
+    ],
+    "name:fre_x_preferred":[
+        "Stung Treng"
+    ],
+    "name:ger_x_preferred":[
+        "Stung Treng"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a3\u03c4\u03b1\u03bd\u03b3\u03ba \u03a4\u03c1\u03b5\u03bd\u03b3\u03ba"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab8\u0acd\u0a9f\u0a82\u0a97 \u0a9f\u0acd\u0ab0\u0aa8\u0acd\u0a97"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u0941\u0902\u0917 \u091f\u094d\u0930\u0947\u0902\u0917"
+    ],
+    "name:ind_x_preferred":[
+        "Stung Treng"
+    ],
+    "name:ita_x_preferred":[
+        "Stung Treng"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b9\u30c8\u30a5\u30f3\u30c8\u30ec\u30f3"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb8\u0ccd\u0c9f\u0cc1\u0c82\u0c97\u0ccd \u0c9f\u0ccd\u0cb0\u0cc6\u0c82\u0c97\u0ccd"
+    ],
+    "name:kor_x_preferred":[
+        "\uc2a4\ud241\ud2b8\ub81d"
+    ],
+    "name:lav_x_preferred":[
+        "Stoengtrenga"
+    ],
+    "name:lit_x_preferred":[
+        "Stung Trengas"
+    ],
+    "name:mar_x_preferred":[
+        "\u0938\u094d\u091f\u0941\u0928\u094d\u0917 \u091f\u0947\u0928\u094d\u0917"
+    ],
+    "name:may_x_preferred":[
+        "Stung Treng"
+    ],
+    "name:nob_x_preferred":[
+        "Stung Treng"
+    ],
+    "name:nor_x_preferred":[
+        "Stung Treng"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0633\u062a\u0648\u0646\u06af\u200c\u062a\u0631\u0646\u06af"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0633\u0679\u0648\u0646\u06af \u062a\u0631\u06cc\u0646\u06af"
+    ],
+    "name:pol_x_preferred":[
+        "Stoeng Treng"
+    ],
+    "name:por_x_preferred":[
+        "Stung Treng"
+    ],
+    "name:rum_x_preferred":[
+        "Stung Treng"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u044b\u043d\u0433\u0442\u0440\u0430\u0435\u043d\u0433"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc3\u0dca\u0da7\u0db1\u0dca\u0d9c\u0dca \u0da7\u0dca\u200d\u0dbb\u0dda\u0db1\u0dca\u0d9c\u0dca"
+    ],
+    "name:spa_x_preferred":[
+        "Stud Treng"
+    ],
+    "name:swe_x_preferred":[
+        "Stung Treng"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb8\u0bcd\u0b9f\u0bc1\u0b99\u0bcd \u0b9f\u0bcd\u0bb0\u0bc6\u0b99\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c38\u0c41\u0c02\u0c17\u0c4d \u0c1f\u0c4d\u0c30\u0c47o\u0c17\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2a\u0e15\u0e36\u0e07\u0e40\u0e15\u0e23\u0e07"
+    ],
+    "name:tur_x_preferred":[
+        "Stunt Treng"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0442\u0456\u043d\u0433\u0442\u0440\u0430\u0435\u043d\u0433"
+    ],
+    "name:unk_x_variant":[
+        "Stung Treng"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u062a\u0648\u0646\u062c \u062a\u0631\u06cc\u0646\u062c"
+    ],
+    "name:vie_x_preferred":[
+        "Stung Treng"
+    ],
+    "name:war_x_preferred":[
+        "Stung Treng"
+    ],
+    "qs:name":"St\u0153\u0306ng Tr\u00eang",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673075,
+        421200835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1822029,
+        "gp:id":1028616,
+        "qs:id":136969,
+        "wd:id":"Q10859501"
+    },
+    "wof:country":"KH",
+    "wof:created":1469052030,
+    "wof:geomhash":"1cee89b89051af435064b4656edea6dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421200835,
+            "locality_id":890434549,
+            "region_id":85673075
+        }
+    ],
+    "wof:id":890434549,
+    "wof:lastmodified":1514468956,
+    "wof:name":"St\u0153\u0306ng Tr\u00eang",
+    "wof:parent_id":421200835,
+    "wof:placetype":"locality",
+    "wof:population":25000,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.9683,
+    13.52586,
+    105.9683,
+    13.52586
+],
+  "geometry": {"coordinates":[105.9683,13.52586],"type":"Point"}
+}

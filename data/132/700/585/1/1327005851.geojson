@@ -1,0 +1,74 @@
+{
+  "id": 1327005851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.8215,11.51914,105.8215,11.51914",
+    "geom:latitude":11.51914,
+    "geom:longitude":105.8215,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Boeng",
+    "gn:country_code":"KH",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829366,
+    "gn:latitude":11.51914,
+    "gn:longitude":105.8215,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Boeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Boeng"
+    ],
+    "name:und_x_variant":[
+        "Phum Bang",
+        "Phum\u012d B\u0153\u0306ng Tasu\u014fs"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673105,
+        1108564797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829366
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"9f8555c2a0b4eca9e0e0876e59de2b30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564797,
+            "locality_id":1327005851,
+            "region_id":85673105
+        }
+    ],
+    "wof:id":1327005851,
+    "wof:lastmodified":1537653877,
+    "wof:name":"Boeng",
+    "wof:parent_id":1108564797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.8215,
+    11.51914,
+    105.8215,
+    11.51914
+],
+  "geometry": {"coordinates":[105.8215,11.51914],"type":"Point"}
+}

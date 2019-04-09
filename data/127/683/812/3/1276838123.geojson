@@ -1,0 +1,77 @@
+{
+  "id": 1276838123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.73065,13.537,103.73065,13.537",
+    "geom:latitude":13.537,
+    "geom:longitude":103.73065,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Phum Kaek Tum",
+    "gn:country_code":"KH",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827779,
+    "gn:latitude":13.537,
+    "gn:longitude":103.73065,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Phum K\u00e2\u00eak T\u016dm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum K\u00e2\u00eak T\u016dm"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1780\u17d2\u17a2\u17c2\u1780\u1791\u17bb\u17c6"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d K\u00e2\u00eak T\u016dm",
+        "Phum\u012d K\u2019\u00eak T\u016dm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673029,
+        421185505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827779
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"20d95a715a22bd5ebab895e052e39949",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421185505,
+            "locality_id":1276838123,
+            "region_id":85673029
+        }
+    ],
+    "wof:id":1276838123,
+    "wof:lastmodified":1537653748,
+    "wof:name":"Phum Kaek Tum",
+    "wof:parent_id":421185505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.73065,
+    13.537,
+    103.73065,
+    13.537
+],
+  "geometry": {"coordinates":[103.73065,13.537],"type":"Point"}
+}

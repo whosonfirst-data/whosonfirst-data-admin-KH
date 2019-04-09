@@ -1,0 +1,67 @@
+{
+  "id": 1243575415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.05449,11.67239,105.05449,11.67239",
+    "geom:latitude":11.67239,
+    "geom:longitude":105.05449,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Phumi Thmei",
+    "gn:country_code":"KH",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1823818,
+    "gn:latitude":11.67239,
+    "gn:longitude":105.05449,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Phum\u012d Thmei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673051,
+        421188351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1823818
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"6722d62e0c960ccf402c2a68ca76e396",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421188351,
+            "locality_id":1243575415,
+            "region_id":85673051
+        }
+    ],
+    "wof:id":1243575415,
+    "wof:lastmodified":1536617570,
+    "wof:name":"Phumi Thmei",
+    "wof:parent_id":421188351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.05449,
+    11.67239,
+    105.05449,
+    11.67239
+],
+  "geometry": {"coordinates":[105.05449,11.67239],"type":"Point"}
+}

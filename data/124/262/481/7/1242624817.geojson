@@ -1,0 +1,78 @@
+{
+  "id": 1242624817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.81584,10.71714,103.81584,10.71714",
+    "geom:latitude":10.71714,
+    "geom:longitude":103.81584,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Veal Renh",
+    "gn:country_code":"KH",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1822915,
+    "gn:latitude":10.71714,
+    "gn:longitude":103.81584,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Veal Renh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Veal Renh"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u179c\u17b6\u179b\u179a\u17c1\u1789",
+        "Phum V\u00e9al R\u00e9nh"
+    ],
+    "name:und_x_variant":[
+        "V\u00e9al R\u00e9nh",
+        "Phum\u012d V\u00e9al R\u00e9nh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673101,
+        421188243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1822915
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"461a210425fa761f8a6fb4441946cf09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421188243,
+            "locality_id":1242624817,
+            "region_id":85673101
+        }
+    ],
+    "wof:id":1242624817,
+    "wof:lastmodified":1537653344,
+    "wof:name":"Veal Renh",
+    "wof:parent_id":421188243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.81584,
+    10.71714,
+    103.81584,
+    10.71714
+],
+  "geometry": {"coordinates":[103.81583999999999,10.71714],"type":"Point"}
+}

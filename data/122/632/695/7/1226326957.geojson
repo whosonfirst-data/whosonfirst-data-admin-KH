@@ -1,0 +1,77 @@
+{
+  "id": 1226326957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.00555,12.72261,106.00555,12.72261",
+    "geom:latitude":12.72261,
+    "geom:longitude":106.00555,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Char Tnaol",
+    "gn:country_code":"KH",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829112,
+    "gn:latitude":12.72261,
+    "gn:longitude":106.00555,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Char Tnaol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Cha Thna\u00f4l"
+    ],
+    "name:khm_x_variant":[
+        "Char Tnaol",
+        "\u1797\u17bc\u1798\u17b7 \u1785\u17b6\u1790\u17d2\u1793\u17c4\u179b"
+    ],
+    "name:und_x_variant":[
+        "Phum Cha Thnol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673081,
+        421188051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829112
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"addec533e43dc4651871942262508407",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421188051,
+            "locality_id":1226326957,
+            "region_id":85673081
+        }
+    ],
+    "wof:id":1226326957,
+    "wof:lastmodified":1537653859,
+    "wof:name":"Char Tnaol",
+    "wof:parent_id":421188051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.00555,
+    12.72261,
+    106.00555,
+    12.72261
+],
+  "geometry": {"coordinates":[106.00555,12.72261],"type":"Point"}
+}

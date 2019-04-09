@@ -1,0 +1,73 @@
+{
+  "id": 1292951579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.28693,12.8842,103.28693,12.8842",
+    "geom:latitude":12.8842,
+    "geom:longitude":103.28693,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Phum Kon Prom",
+    "gn:country_code":"KH",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11349776,
+    "gn:latitude":12.8842,
+    "gn:longitude":103.28693,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Phum Kon Pr\u014fm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Kon Pr\u014fm"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1780\u17bc\u1793\u1796\u17d2\u179a\u17bb\u17c6"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673015,
+        1108564711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11349776
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"2bd7948dbb5c7d00a89ed74a4c3d86af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564711,
+            "locality_id":1292951579,
+            "region_id":85673015
+        }
+    ],
+    "wof:id":1292951579,
+    "wof:lastmodified":1537653973,
+    "wof:name":"Phum Kon Prom",
+    "wof:parent_id":1108564711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.28693,
+    12.8842,
+    103.28693,
+    12.8842
+],
+  "geometry": {"coordinates":[103.28693,12.8842],"type":"Point"}
+}

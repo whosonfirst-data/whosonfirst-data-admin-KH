@@ -1,0 +1,72 @@
+{
+  "id": 1209692407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.90018,13.60112,104.90018,13.60112",
+    "geom:latitude":13.60112,
+    "geom:longitude":104.90018,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Saen Kong",
+    "gn:country_code":"KH",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1822228,
+    "gn:latitude":13.60112,
+    "gn:longitude":104.90018,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Saen Kong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Saen Kong"
+    ],
+    "name:khm_x_variant":[
+        "\u179f\u17c2\u1793\u1782\u1784\u17cb"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d S\u00ean K\u016dng",
+        "S\u00ean K\u016dng",
+        "S\u00ean K\u00f3ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1822228
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"b26e45c2bb8184c3387ab2b3a8608018",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209692407
+        }
+    ],
+    "wof:id":1209692407,
+    "wof:lastmodified":1537653330,
+    "wof:name":"Saen Kong",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.90018,
+    13.60112,
+    104.90018,
+    13.60112
+],
+  "geometry": {"coordinates":[104.90018000000001,13.60112],"type":"Point"}
+}

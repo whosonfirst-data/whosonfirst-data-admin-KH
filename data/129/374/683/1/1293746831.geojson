@@ -1,0 +1,72 @@
+{
+  "id": 1293746831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.82669,11.20314,105.82669,11.20314",
+    "geom:latitude":11.20314,
+    "geom:longitude":105.82669,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Phumi Khla Ngoab",
+    "gn:country_code":"KH",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827731,
+    "gn:latitude":11.20314,
+    "gn:longitude":105.82669,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Khla Ngo\u0103b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum Khla Ng\u00e9ap",
+        "Phum\u012d Khla Ng\u00f4\u0103n",
+        "Phum\u012d Khla Ngo\u0103b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673105,
+        1108564807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827731
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"b4a32637c2eb00b6a96e9d2eb905e81c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564807,
+            "locality_id":1293746831,
+            "region_id":85673105
+        }
+    ],
+    "wof:id":1293746831,
+    "wof:lastmodified":1537653744,
+    "wof:name":"Phumi Khla Ngoab",
+    "wof:parent_id":1108564807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.82669,
+    11.20314,
+    105.82669,
+    11.20314
+],
+  "geometry": {"coordinates":[105.82669,11.20314],"type":"Point"}
+}

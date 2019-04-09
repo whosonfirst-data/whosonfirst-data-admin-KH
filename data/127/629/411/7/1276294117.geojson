@@ -1,0 +1,70 @@
+{
+  "id": 1276294117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.70378,11.219,104.70378,11.219",
+    "geom:latitude":11.219,
+    "geom:longitude":104.70378,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Tram Tbal",
+    "gn:country_code":"KH",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11459964,
+    "gn:latitude":11.219,
+    "gn:longitude":104.70378,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Tram Tbal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Tram Tbal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673107,
+        1108564613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11459964
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"a319d42c7096e61aea5fbdbed97c579e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564613,
+            "locality_id":1276294117,
+            "region_id":85673107
+        }
+    ],
+    "wof:id":1276294117,
+    "wof:lastmodified":1537654021,
+    "wof:name":"Tram Tbal",
+    "wof:parent_id":1108564613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.70378,
+    11.219,
+    104.70378,
+    11.219
+],
+  "geometry": {"coordinates":[104.70377999999999,11.219],"type":"Point"}
+}

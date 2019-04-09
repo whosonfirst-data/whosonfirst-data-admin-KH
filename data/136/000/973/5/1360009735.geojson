@@ -1,0 +1,77 @@
+{
+  "id": 1360009735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.44638,11.57899,104.44638,11.57899",
+    "geom:latitude":11.57899,
+    "geom:longitude":104.44638,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Chumpu Proeks",
+    "gn:country_code":"KH",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828713,
+    "gn:latitude":11.57899,
+    "gn:longitude":104.44638,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Chumpu Proeks",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Chumpu Proeks"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1787\u17c6\u1796\u17bc\u1796\u17d2\u179a\u17b9\u1780",
+        "Phum Ch\u016dmpu Pr\u0153\u0306k"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Chumpu Pr\u0153\u0306k"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673053,
+        421177965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828713
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"c3c16989aeb9bdd9da5ba6bdf56af20e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421177965,
+            "locality_id":1360009735,
+            "region_id":85673053
+        }
+    ],
+    "wof:id":1360009735,
+    "wof:lastmodified":1537653826,
+    "wof:name":"Chumpu Proeks",
+    "wof:parent_id":421177965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.44638,
+    11.57899,
+    104.44638,
+    11.57899
+],
+  "geometry": {"coordinates":[104.44638,11.57899],"type":"Point"}
+}

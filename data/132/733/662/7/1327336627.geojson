@@ -1,0 +1,72 @@
+{
+  "id": 1327336627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.45,12.2,105.45,12.2",
+    "geom:latitude":12.2,
+    "geom:longitude":105.45,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Phumi Ta Kai",
+    "gn:cc2":"KH",
+    "gn:country_code":"KH",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1824279,
+    "gn:latitude":12.2,
+    "gn:longitude":105.45,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Ta Kai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum Ka Kay",
+        "Phum\u012d Ta Kai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673041,
+        1108564853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1824279
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"9acef83177384042e8b656451090a1f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564853,
+            "locality_id":1327336627,
+            "region_id":85673041
+        }
+    ],
+    "wof:id":1327336627,
+    "wof:lastmodified":1537653444,
+    "wof:name":"Phumi Ta Kai",
+    "wof:parent_id":1108564853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.45,
+    12.2,
+    105.45,
+    12.2
+],
+  "geometry": {"coordinates":[105.45,12.2],"type":"Point"}
+}

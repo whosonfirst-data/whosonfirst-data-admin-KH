@@ -1,0 +1,70 @@
+{
+  "id": 1260206319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.97534,12.64461,104.97534,12.64461",
+    "geom:latitude":12.64461,
+    "geom:longitude":104.97534,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Chey Chumneah",
+    "gn:country_code":"KH",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11476848,
+    "gn:latitude":12.64461,
+    "gn:longitude":104.97534,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Chey Chumneah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Chey Chumneah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673057,
+        1108564829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11476848
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"f76e32aa79802c66d76a2eab8ed688b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564829,
+            "locality_id":1260206319,
+            "region_id":85673057
+        }
+    ],
+    "wof:id":1260206319,
+    "wof:lastmodified":1537654034,
+    "wof:name":"Chey Chumneah",
+    "wof:parent_id":1108564829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.97534,
+    12.64461,
+    104.97534,
+    12.64461
+],
+  "geometry": {"coordinates":[104.97534,12.64461],"type":"Point"}
+}

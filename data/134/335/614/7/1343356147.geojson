@@ -1,0 +1,73 @@
+{
+  "id": 1343356147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.0204,11.78859,105.0204,11.78859",
+    "geom:latitude":11.78859,
+    "geom:longitude":105.0204,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Khum Svay Romiet",
+    "gn:country_code":"KH",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1830706,
+    "gn:latitude":11.78859,
+    "gn:longitude":105.0204,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kh\u016dm Svay R\u00f4mi\u0115t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Svay Romiet",
+        "Phum\u012d Svay R\u00f4mi\u0115t",
+        "Svai Romiet",
+        "Kh\u016dm Svay R\u00f4mi\u0115t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673051,
+        421188351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1830706
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"f1b014696f4b027a2bea8879f6cb09a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421188351,
+            "locality_id":1343356147,
+            "region_id":85673051
+        }
+    ],
+    "wof:id":1343356147,
+    "wof:lastmodified":1537653943,
+    "wof:name":"Khum Svay Romiet",
+    "wof:parent_id":421188351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.0204,
+    11.78859,
+    105.0204,
+    11.78859
+],
+  "geometry": {"coordinates":[105.0204,11.78859],"type":"Point"}
+}

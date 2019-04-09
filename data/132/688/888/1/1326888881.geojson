@@ -1,0 +1,71 @@
+{
+  "id": 1326888881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.94085,11.49504,104.94085,11.49504",
+    "geom:latitude":11.49504,
+    "geom:longitude":104.94085,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Phumi Prek Ta Long",
+    "gn:country_code":"KH",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825935,
+    "gn:latitude":11.49504,
+    "gn:longitude":104.94085,
+    "gn:modification_date":"2012-10-07",
+    "gn:name":"Phum\u012d Pr\u00eak Ta L\u014fng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vat Prek Pra",
+        "Phum\u012d Pr\u00eak Ta L\u014fng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673063,
+        1108564733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825935
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"b555520ca90f8560f2de2c88f405767b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564733,
+            "locality_id":1326888881,
+            "region_id":85673063
+        }
+    ],
+    "wof:id":1326888881,
+    "wof:lastmodified":1537653578,
+    "wof:name":"Phumi Prek Ta Long",
+    "wof:parent_id":1108564733,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.94085,
+    11.49504,
+    104.94085,
+    11.49504
+],
+  "geometry": {"coordinates":[104.94085,11.49504],"type":"Point"}
+}

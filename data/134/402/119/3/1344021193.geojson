@@ -1,0 +1,71 @@
+{
+  "id": 1344021193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.84324,11.37688,105.84324,11.37688",
+    "geom:latitude":11.37688,
+    "geom:longitude":105.84324,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Phumi Bos Kokir",
+    "gn:country_code":"KH",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829320,
+    "gn:latitude":11.37688,
+    "gn:longitude":105.84324,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Phum\u012d B\u014fs K\u00f4kir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum\u012d B\u014fs K\u00f4ki",
+        "Phum\u012d B\u014fs K\u00f4kir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673105,
+        1108564797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829320
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"98227a550b888ee01c2838dac52be15e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564797,
+            "locality_id":1344021193,
+            "region_id":85673105
+        }
+    ],
+    "wof:id":1344021193,
+    "wof:lastmodified":1537653874,
+    "wof:name":"Phumi Bos Kokir",
+    "wof:parent_id":1108564797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.84324,
+    11.37688,
+    105.84324,
+    11.37688
+],
+  "geometry": {"coordinates":[105.84323999999999,11.37688],"type":"Point"}
+}

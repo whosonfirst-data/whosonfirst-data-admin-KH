@@ -1,0 +1,77 @@
+{
+  "id": 1292906495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.33455,12.32907,105.33455,12.32907",
+    "geom:latitude":12.32907,
+    "geom:longitude":105.33455,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Spueu",
+    "gn:country_code":"KH",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1824740,
+    "gn:latitude":12.32907,
+    "gn:longitude":105.33455,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Spueu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Spueu"
+    ],
+    "name:und_x_variant":[
+        "Speu",
+        "Khum Speu",
+        "Prasat Speu",
+        "Khum de Speu",
+        "Phum\u012d Sp\u0153 Tbong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673041,
+        1108564621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1824740
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"93624e147aabea2d27985aaa740406ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564621,
+            "locality_id":1292906495,
+            "region_id":85673041
+        }
+    ],
+    "wof:id":1292906495,
+    "wof:lastmodified":1537653482,
+    "wof:name":"Spueu",
+    "wof:parent_id":1108564621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.33455,
+    12.32907,
+    105.33455,
+    12.32907
+],
+  "geometry": {"coordinates":[105.33454999999999,12.32907],"type":"Point"}
+}

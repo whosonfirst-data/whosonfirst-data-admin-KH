@@ -1,0 +1,74 @@
+{
+  "id": 1327126083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.97865,11.71436,104.97865,11.71436",
+    "geom:latitude":11.71436,
+    "geom:longitude":104.97865,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Krouch Saeuc",
+    "gn:country_code":"KH",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827062,
+    "gn:latitude":11.71436,
+    "gn:longitude":104.97865,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Krouch Saeuc",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Krouch Saeuc"
+    ],
+    "name:und_x_variant":[
+        "Kroch Soch",
+        "Phum\u012d Kroch Saeuch"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673051,
+        421188351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827062
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"82a7b2e83df2b84e35e67780466cff07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421188351,
+            "locality_id":1327126083,
+            "region_id":85673051
+        }
+    ],
+    "wof:id":1327126083,
+    "wof:lastmodified":1537653683,
+    "wof:name":"Krouch Saeuc",
+    "wof:parent_id":421188351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.97865,
+    11.71436,
+    104.97865,
+    11.71436
+],
+  "geometry": {"coordinates":[104.97865,11.71436],"type":"Point"}
+}

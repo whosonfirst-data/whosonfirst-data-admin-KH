@@ -1,0 +1,78 @@
+{
+  "id": 1277138017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.03597,13.36596,103.03597,13.36596",
+    "geom:latitude":13.36596,
+    "geom:longitude":103.03597,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Boeng Pring",
+    "gn:country_code":"KH",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829390,
+    "gn:latitude":13.36596,
+    "gn:longitude":103.03597,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Boeng Pring",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Boeng Pring"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1794\u17b9\u1784\u1796\u17d2\u179a\u17b8\u1784",
+        "Phum B\u0153\u0306ng Pring"
+    ],
+    "name:und_x_variant":[
+        "Phum Pring",
+        "Phum\u012d B\u0153\u0306ng Pring"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673015,
+        1108564871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829390
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"7ebc0a0987a43244ab02ad7d811c44cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564871,
+            "locality_id":1277138017,
+            "region_id":85673015
+        }
+    ],
+    "wof:id":1277138017,
+    "wof:lastmodified":1537653879,
+    "wof:name":"Boeng Pring",
+    "wof:parent_id":1108564871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.03597,
+    13.36596,
+    103.03597,
+    13.36596
+],
+  "geometry": {"coordinates":[103.03597000000001,13.36596],"type":"Point"}
+}

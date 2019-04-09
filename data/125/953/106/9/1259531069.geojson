@@ -1,0 +1,70 @@
+{
+  "id": 1259531069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.04587,14.28826,104.04587,14.28826",
+    "geom:latitude":14.28826,
+    "geom:longitude":104.04587,
+    "gn:admin1_code":"27",
+    "gn:asciiname":"Tuek Chob",
+    "gn:country_code":"KH",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11458604,
+    "gn:latitude":14.28826,
+    "gn:longitude":104.04587,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Tuek Chob",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Tuek Chob"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673033,
+        1108564589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11458604
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"e37f7ab7d827119311a221b9ab9b46c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564589,
+            "locality_id":1259531069,
+            "region_id":85673033
+        }
+    ],
+    "wof:id":1259531069,
+    "wof:lastmodified":1537654018,
+    "wof:name":"Tuek Chob",
+    "wof:parent_id":1108564589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.04587,
+    14.28826,
+    104.04587,
+    14.28826
+],
+  "geometry": {"coordinates":[104.04586999999999,14.28826],"type":"Point"}
+}

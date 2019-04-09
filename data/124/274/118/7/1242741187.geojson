@@ -1,0 +1,70 @@
+{
+  "id": 1242741187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.7806,11.16669,105.7806,11.16669",
+    "geom:latitude":11.16669,
+    "geom:longitude":105.7806,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Ba Krong",
+    "gn:country_code":"KH",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11482104,
+    "gn:latitude":11.16669,
+    "gn:longitude":105.7806,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Ba Krong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Ba Krong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673105,
+        1108564807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11482104
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"3a1a32138495666af7b7f903d6dd0063",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564807,
+            "locality_id":1242741187,
+            "region_id":85673105
+        }
+    ],
+    "wof:id":1242741187,
+    "wof:lastmodified":1537654048,
+    "wof:name":"Ba Krong",
+    "wof:parent_id":1108564807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.7806,
+    11.16669,
+    105.7806,
+    11.16669
+],
+  "geometry": {"coordinates":[105.78060000000001,11.16669],"type":"Point"}
+}

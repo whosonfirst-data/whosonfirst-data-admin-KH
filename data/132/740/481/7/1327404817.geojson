@@ -1,0 +1,71 @@
+{
+  "id": 1327404817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.34551,11.1797,105.34551,11.1797",
+    "geom:latitude":11.1797,
+    "geom:longitude":105.34551,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Phumi Kruos",
+    "gn:country_code":"KH",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827050,
+    "gn:latitude":11.1797,
+    "gn:longitude":105.34551,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Phum\u012d Kru\u00f4s",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum Kros",
+        "Phum\u012d Kru\u00f4s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673067,
+        1108564775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827050
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"4facff616f03d975dae9485f948b1448",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564775,
+            "locality_id":1327404817,
+            "region_id":85673067
+        }
+    ],
+    "wof:id":1327404817,
+    "wof:lastmodified":1537653682,
+    "wof:name":"Phumi Kruos",
+    "wof:parent_id":1108564775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.34551,
+    11.1797,
+    105.34551,
+    11.1797
+],
+  "geometry": {"coordinates":[105.34551,11.1797],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1209790873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.71971,10.99796,104.71971,10.99796",
+    "geom:latitude":10.99796,
+    "geom:longitude":104.71971,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Phumi Angk Ta Nu",
+    "gn:country_code":"KH",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829884,
+    "gn:latitude":10.99796,
+    "gn:longitude":104.71971,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d \u00c2ngk Ta Nu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum Angtanay",
+        "Phum\u012d \u00c2ng Ta Nu",
+        "Phum\u012d \u00c2ngk Ta Nu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673107,
+        1108564877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829884
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"10d54eb64f27cd84be3b8fe1775c9475",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564877,
+            "locality_id":1209790873,
+            "region_id":85673107
+        }
+    ],
+    "wof:id":1209790873,
+    "wof:lastmodified":1537653921,
+    "wof:name":"Phumi Angk Ta Nu",
+    "wof:parent_id":1108564877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.71971,
+    10.99796,
+    104.71971,
+    10.99796
+],
+  "geometry": {"coordinates":[104.71971000000001,10.99796],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243214499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.46214,12.84429,103.46214,12.84429",
+    "geom:latitude":12.84429,
+    "geom:longitude":103.46214,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Suosdei",
+    "gn:country_code":"KH",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11349852,
+    "gn:latitude":12.84429,
+    "gn:longitude":103.46214,
+    "gn:modification_date":"2017-01-06",
+    "gn:name":"Suosdei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Suosdei"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673015,
+        1108564739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11349852
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"86f356b6a74f2ee60e4bcbc106fffbd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564739,
+            "locality_id":1243214499,
+            "region_id":85673015
+        }
+    ],
+    "wof:id":1243214499,
+    "wof:lastmodified":1537653978,
+    "wof:name":"Suosdei",
+    "wof:parent_id":1108564739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.46214,
+    12.84429,
+    103.46214,
+    12.84429
+],
+  "geometry": {"coordinates":[103.46214000000001,12.84429],"type":"Point"}
+}

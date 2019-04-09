@@ -1,0 +1,73 @@
+{
+  "id": 1276524887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.16375,12.53109,104.16375,12.53109",
+    "geom:latitude":12.53109,
+    "geom:longitude":104.16375,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Phumi Chrolong (2)",
+    "gn:country_code":"KH",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828762,
+    "gn:latitude":12.53109,
+    "gn:longitude":104.16375,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Chr\u00f4l\u00f4ng (2)",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum\u012d Ch Chr\u00f4l\u00f4ng (2)",
+        "Chralong",
+        "Chrelong",
+        "Phum\u012d Chr\u00f4l\u00f4ng (2)"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673023,
+        421203239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828762
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"5a0961b8cdc99f6f754f51510553ff33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421203239,
+            "locality_id":1276524887,
+            "region_id":85673023
+        }
+    ],
+    "wof:id":1276524887,
+    "wof:lastmodified":1537653831,
+    "wof:name":"Phumi Chrolong (2)",
+    "wof:parent_id":421203239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.16375,
+    12.53109,
+    104.16375,
+    12.53109
+],
+  "geometry": {"coordinates":[104.16374999999999,12.53109],"type":"Point"}
+}

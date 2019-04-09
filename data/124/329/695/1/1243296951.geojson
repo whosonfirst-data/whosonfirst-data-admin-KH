@@ -1,0 +1,73 @@
+{
+  "id": 1243296951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.1688,11.4304,104.1688,11.4304",
+    "geom:latitude":11.4304,
+    "geom:longitude":104.1688,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Prey Kahiech",
+    "gn:country_code":"KH",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825645,
+    "gn:latitude":11.4304,
+    "gn:longitude":104.1688,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Prey Kahiech",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Prey Kahiech"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Prey Ta Hi\u0115ch"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673053,
+        1108564765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825645
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"1849b9056007918b55a92281d926ece2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564765,
+            "locality_id":1243296951,
+            "region_id":85673053
+        }
+    ],
+    "wof:id":1243296951,
+    "wof:lastmodified":1537653556,
+    "wof:name":"Prey Kahiech",
+    "wof:parent_id":1108564765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.1688,
+    11.4304,
+    104.1688,
+    11.4304
+],
+  "geometry": {"coordinates":[104.1688,11.4304],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209062147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.12072,13.10008,104.12072,13.10008",
+    "geom:latitude":13.10008,
+    "geom:longitude":104.12072,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Ta Chranieng",
+    "gn:country_code":"KH",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11456853,
+    "gn:latitude":13.10008,
+    "gn:longitude":104.12072,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Ta Chranieng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Ta Chranieng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11456853
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"f7d0c72acd309bb35acd77bf786db2b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209062147
+        }
+    ],
+    "wof:id":1209062147,
+    "wof:lastmodified":1537654017,
+    "wof:name":"Ta Chranieng",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.12072,
+    13.10008,
+    104.12072,
+    13.10008
+],
+  "geometry": {"coordinates":[104.12072000000001,13.10008],"type":"Point"}
+}

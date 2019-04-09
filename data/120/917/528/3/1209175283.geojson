@@ -1,0 +1,67 @@
+{
+  "id": 1209175283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.54812,12.71283,103.54812,12.71283",
+    "geom:latitude":12.71283,
+    "geom:longitude":103.54812,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Kalaom Phluk",
+    "gn:country_code":"KH",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827248,
+    "gn:latitude":12.71283,
+    "gn:longitude":103.54812,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Kalaom Phluk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Kalaom Phluk"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Kr\u00e2la\u00f4m Phl\u016dk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827248
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"86a52a1abe29fa52d812d9cb3ce7aad9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209175283
+        }
+    ],
+    "wof:id":1209175283,
+    "wof:lastmodified":1537653698,
+    "wof:name":"Kalaom Phluk",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.54812,
+    12.71283,
+    103.54812,
+    12.71283
+],
+  "geometry": {"coordinates":[103.54812,12.71283],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293376243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.30368,13.62617,105.30368,13.62617",
+    "geom:latitude":13.62617,
+    "geom:longitude":105.30368,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Phumi Khsang",
+    "gn:country_code":"KH",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827611,
+    "gn:latitude":13.62617,
+    "gn:longitude":105.30368,
+    "gn:modification_date":"1993-12-30",
+    "gn:name":"Phum\u012d Khs\u00e2ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673071,
+        1108564633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827611
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"67bfee7124168b3edf01c237095deecd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564633,
+            "locality_id":1293376243,
+            "region_id":85673071
+        }
+    ],
+    "wof:id":1293376243,
+    "wof:lastmodified":1536947785,
+    "wof:name":"Phumi Khsang",
+    "wof:parent_id":1108564633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.30368,
+    13.62617,
+    105.30368,
+    13.62617
+],
+  "geometry": {"coordinates":[105.30368,13.62617],"type":"Point"}
+}

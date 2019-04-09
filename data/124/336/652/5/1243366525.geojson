@@ -1,0 +1,74 @@
+{
+  "id": 1243366525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.41986,12.27324,105.41986,12.27324",
+    "geom:latitude":12.27324,
+    "geom:longitude":105.41986,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Soupheas",
+    "gn:country_code":"KH",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1824775,
+    "gn:latitude":12.27324,
+    "gn:longitude":105.41986,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Soupheas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Soupheas"
+    ],
+    "name:und_x_variant":[
+        "So Pheas",
+        "Phum\u012d Soph\u00e9as"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673041,
+        1108564853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1824775
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"6b2a44a467328b0f516d53e30edfedf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564853,
+            "locality_id":1243366525,
+            "region_id":85673041
+        }
+    ],
+    "wof:id":1243366525,
+    "wof:lastmodified":1537653485,
+    "wof:name":"Soupheas",
+    "wof:parent_id":1108564853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.41986,
+    12.27324,
+    105.41986,
+    12.27324
+],
+  "geometry": {"coordinates":[105.41986,12.27324],"type":"Point"}
+}

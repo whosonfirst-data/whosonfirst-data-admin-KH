@@ -1,0 +1,78 @@
+{
+  "id": 1242842207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.23469,13.76098,103.23469,13.76098",
+    "geom:latitude":13.76098,
+    "geom:longitude":103.23469,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Kouk Ta Sokh",
+    "gn:country_code":"KH",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1824029,
+    "gn:latitude":13.76098,
+    "gn:longitude":103.23469,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Kouk Ta Sokh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum\u012d Ta Pho"
+    ],
+    "name:khm_x_variant":[
+        "Kouk Ta Sokh",
+        "Phum Ta Pho",
+        "\u1797\u17bc\u1798\u17b7 \u178f\u17b6\u179f\u17bb\u1780"
+    ],
+    "name:und_x_variant":[
+        "Tasok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673011,
+        1108564763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1824029
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"cca969a24fd18f177d05c73e44ec5dbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564763,
+            "locality_id":1242842207,
+            "region_id":85673011
+        }
+    ],
+    "wof:id":1242842207,
+    "wof:lastmodified":1537653424,
+    "wof:name":"Kouk Ta Sokh",
+    "wof:parent_id":1108564763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.23469,
+    13.76098,
+    103.23469,
+    13.76098
+],
+  "geometry": {"coordinates":[103.23469,13.76098],"type":"Point"}
+}

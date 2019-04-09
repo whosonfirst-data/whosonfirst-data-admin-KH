@@ -1,0 +1,74 @@
+{
+  "id": 1242868555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.29242,12.24329,106.29242,12.24329",
+    "geom:latitude":12.24329,
+    "geom:longitude":106.29242,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Doun Mea",
+    "gn:country_code":"KH",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828475,
+    "gn:latitude":12.24329,
+    "gn:longitude":106.29242,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Doun Mea",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Doun Mea"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u178a\u17bc\u1793\u1798\u17b6",
+        "Phum Don M\u00e9a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673081,
+        1108564841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828475
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"f81320517acacc1cfade8b196239a28c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564841,
+            "locality_id":1242868555,
+            "region_id":85673081
+        }
+    ],
+    "wof:id":1242868555,
+    "wof:lastmodified":1537653808,
+    "wof:name":"Doun Mea",
+    "wof:parent_id":1108564841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.29242,
+    12.24329,
+    106.29242,
+    12.24329
+],
+  "geometry": {"coordinates":[106.29242000000001,12.24329],"type":"Point"}
+}

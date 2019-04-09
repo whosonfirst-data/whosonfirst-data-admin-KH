@@ -1,0 +1,73 @@
+{
+  "id": 1276394785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.35106,13.31191,104.35106,13.31191",
+    "geom:latitude":13.31191,
+    "geom:longitude":104.35106,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Prey Chhkar",
+    "gn:country_code":"KH",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825858,
+    "gn:latitude":13.31191,
+    "gn:longitude":104.35106,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Prey Chhkar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Prey Chhkar"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Prey Chhka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673029,
+        1108564639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825858
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"d780c27fbeca2016a09c631e632cafaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564639,
+            "locality_id":1276394785,
+            "region_id":85673029
+        }
+    ],
+    "wof:id":1276394785,
+    "wof:lastmodified":1537653571,
+    "wof:name":"Prey Chhkar",
+    "wof:parent_id":1108564639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.35106,
+    13.31191,
+    104.35106,
+    13.31191
+],
+  "geometry": {"coordinates":[104.35106,13.31191],"type":"Point"}
+}

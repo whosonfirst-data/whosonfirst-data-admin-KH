@@ -1,0 +1,73 @@
+{
+  "id": 1259348457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.80081,10.63789,104.80081,10.63789",
+    "geom:latitude":10.63789,
+    "geom:longitude":104.80081,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Prey Ampok",
+    "gn:country_code":"KH",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825896,
+    "gn:latitude":10.63789,
+    "gn:longitude":104.80081,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Prey Ampok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Prey Ampok"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Prey \u00c2mp\u00f4k"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673107,
+        1108564709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825896
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"ab6aec8191224ef9ec39dbe956235770",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564709,
+            "locality_id":1259348457,
+            "region_id":85673107
+        }
+    ],
+    "wof:id":1259348457,
+    "wof:lastmodified":1537653574,
+    "wof:name":"Prey Ampok",
+    "wof:parent_id":1108564709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.80081,
+    10.63789,
+    104.80081,
+    10.63789
+],
+  "geometry": {"coordinates":[104.80081,10.63789],"type":"Point"}
+}

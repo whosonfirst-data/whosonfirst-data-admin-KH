@@ -1,0 +1,77 @@
+{
+  "id": 1344026265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.94189,13.60872,103.94189,13.60872",
+    "geom:latitude":13.60872,
+    "geom:longitude":103.94189,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Phum Rohal",
+    "gn:country_code":"KH",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825403,
+    "gn:latitude":13.60872,
+    "gn:longitude":103.94189,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Phum R\u00f4h\u0103l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum R\u00f4h\u0103l"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u179a\u17a0\u17b6\u179b\u17cb"
+    ],
+    "name:und_x_variant":[
+        "Phum Lohal",
+        "Phum\u012d R\u00f4h\u0103l"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673029,
+        1108564603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825403
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"dd1cefde48b9bb0688d77ce3b8635b22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564603,
+            "locality_id":1344026265,
+            "region_id":85673029
+        }
+    ],
+    "wof:id":1344026265,
+    "wof:lastmodified":1537653537,
+    "wof:name":"Phum Rohal",
+    "wof:parent_id":1108564603,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.94189,
+    13.60872,
+    103.94189,
+    13.60872
+],
+  "geometry": {"coordinates":[103.94189,13.60872],"type":"Point"}
+}

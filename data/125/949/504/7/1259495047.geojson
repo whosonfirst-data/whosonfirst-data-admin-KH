@@ -1,0 +1,74 @@
+{
+  "id": 1259495047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.82235,11.92383,104.82235,11.92383",
+    "geom:latitude":11.92383,
+    "geom:longitude":104.82235,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Khla Krohuem",
+    "gn:country_code":"KH",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827737,
+    "gn:latitude":11.92383,
+    "gn:longitude":104.82235,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Khla Krohuem",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Khla Krohuem"
+    ],
+    "name:und_x_variant":[
+        "Khla Krahim",
+        "Phum\u012d Khla Kr\u00f4h\u0153\u0306m Kaeut"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673047,
+        1108564679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827737
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"1e75ee4ed4d483fcb25ed107b38d6c5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564679,
+            "locality_id":1259495047,
+            "region_id":85673047
+        }
+    ],
+    "wof:id":1259495047,
+    "wof:lastmodified":1537653745,
+    "wof:name":"Khla Krohuem",
+    "wof:parent_id":1108564679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.82235,
+    11.92383,
+    104.82235,
+    11.92383
+],
+  "geometry": {"coordinates":[104.82235,11.92383],"type":"Point"}
+}

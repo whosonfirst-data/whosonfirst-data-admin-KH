@@ -1,0 +1,70 @@
+{
+  "id": 1344103985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.39465,13.42439,102.39465,13.42439",
+    "geom:latitude":13.42439,
+    "geom:longitude":102.39465,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Veal Vong",
+    "gn:country_code":"KH",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11411716,
+    "gn:latitude":13.42439,
+    "gn:longitude":102.39465,
+    "gn:modification_date":"2017-01-07",
+    "gn:name":"Veal Vong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Veal Vong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673015,
+        1108564817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11411716
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"c7f79a35303a3d80fba63e5f07a4c49c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564817,
+            "locality_id":1344103985,
+            "region_id":85673015
+        }
+    ],
+    "wof:id":1344103985,
+    "wof:lastmodified":1537653996,
+    "wof:name":"Veal Vong",
+    "wof:parent_id":1108564817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.39465,
+    13.42439,
+    102.39465,
+    13.42439
+],
+  "geometry": {"coordinates":[102.39465,13.42439],"type":"Point"}
+}

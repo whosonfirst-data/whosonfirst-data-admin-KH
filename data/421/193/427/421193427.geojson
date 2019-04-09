@@ -1,0 +1,75 @@
+{
+  "id": 421193427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.024246,12.481749,106.024246,12.481749",
+    "geom:latitude":12.481749,
+    "geom:longitude":106.024246,
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Kracheh",
+    "qs:name_adm0":"Cambodia",
+    "qs:name_adm1":"Krachen",
+    "qs:photos":801,
+    "qs:photos_1k":162,
+    "qs:photos_9k":4,
+    "qs:photos_9r":6,
+    "qs:photos_all":801,
+    "qs:photos_sr":9,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":895409,
+    "qs:woe_adm0":23424776,
+    "qs:woe_id":1028482,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673081,
+        421188049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1028482,
+        "qs:id":895409
+    },
+    "wof:country":"KH",
+    "wof:created":1459009770,
+    "wof:geomhash":"026252068bd0c85084d655968f794f0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421188049,
+            "locality_id":421193427,
+            "region_id":85673081
+        }
+    ],
+    "wof:id":421193427,
+    "wof:lastmodified":1499930110,
+    "wof:name":"Kracheh",
+    "wof:parent_id":421188049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.024246,
+    12.481749,
+    106.024246,
+    12.481749
+],
+  "geometry": {"coordinates":[106.02424600000001,12.481749],"type":"Point"}
+}

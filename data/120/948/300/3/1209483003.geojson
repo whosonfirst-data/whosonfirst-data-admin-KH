@@ -1,0 +1,70 @@
+{
+  "id": 1209483003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.0824,13.41911,103.0824,13.41911",
+    "geom:latitude":13.41911,
+    "geom:longitude":103.0824,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Phum Thngan Tret",
+    "gn:country_code":"KH",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1823740,
+    "gn:latitude":13.41911,
+    "gn:longitude":103.0824,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Phum Thng\u0103n Tr\u00e9t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Thng\u0103n Tr\u00e9t"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1790\u17d2\u1784\u17b6\u1793\u17cb\u1791\u17d2\u179a\u17c1\u178f"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Thng\u0103n Tr\u00e9t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1823740
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"10f877d03fd511a7a6481075cccf948c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209483003
+        }
+    ],
+    "wof:id":1209483003,
+    "wof:lastmodified":1537653402,
+    "wof:name":"Phum Thngan Tret",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.0824,
+    13.41911,
+    103.0824,
+    13.41911
+],
+  "geometry": {"coordinates":[103.08240000000001,13.41911],"type":"Point"}
+}

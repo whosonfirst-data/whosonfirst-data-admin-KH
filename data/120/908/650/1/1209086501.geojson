@@ -1,0 +1,64 @@
+{
+  "id": 1209086501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.86495,12.44573,103.86495,12.44573",
+    "geom:latitude":12.44573,
+    "geom:longitude":103.86495,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Tuol Kruos",
+    "gn:country_code":"KH",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11441572,
+    "gn:latitude":12.44573,
+    "gn:longitude":103.86495,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Tuol Kruos",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Tuol Kruos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11441572
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"61110a63cfbdffa2502b2cf4db6f91ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209086501
+        }
+    ],
+    "wof:id":1209086501,
+    "wof:lastmodified":1537654006,
+    "wof:name":"Tuol Kruos",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.86495,
+    12.44573,
+    103.86495,
+    12.44573
+],
+  "geometry": {"coordinates":[103.86494999999999,12.44573],"type":"Point"}
+}

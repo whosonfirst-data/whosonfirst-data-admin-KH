@@ -1,0 +1,70 @@
+{
+  "id": 1260335171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.25339,13.02537,103.25339,13.02537",
+    "geom:latitude":13.02537,
+    "geom:longitude":103.25339,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Samraong Kaong",
+    "gn:country_code":"KH",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11424661,
+    "gn:latitude":13.02537,
+    "gn:longitude":103.25339,
+    "gn:modification_date":"2017-01-07",
+    "gn:name":"Samraong Kaong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Samraong Kaong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673015,
+        421202239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11424661
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"f2a3d95e2bb74e1b3492e94f0f591033",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421202239,
+            "locality_id":1260335171,
+            "region_id":85673015
+        }
+    ],
+    "wof:id":1260335171,
+    "wof:lastmodified":1537654003,
+    "wof:name":"Samraong Kaong",
+    "wof:parent_id":421202239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.25339,
+    13.02537,
+    103.25339,
+    13.02537
+],
+  "geometry": {"coordinates":[103.25339,13.02537],"type":"Point"}
+}

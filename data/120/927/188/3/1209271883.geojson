@@ -1,0 +1,64 @@
+{
+  "id": 1209271883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.93432,13.39132,102.93432,13.39132",
+    "geom:latitude":13.39132,
+    "geom:longitude":102.93432,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Ou Soea",
+    "gn:country_code":"KH",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11416946,
+    "gn:latitude":13.39132,
+    "gn:longitude":102.93432,
+    "gn:modification_date":"2017-01-07",
+    "gn:name":"Ou Soea",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Ou Soea"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11416946
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"a94fef19b77ada7e1b621831ead07dfe",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209271883
+        }
+    ],
+    "wof:id":1209271883,
+    "wof:lastmodified":1537653998,
+    "wof:name":"Ou Soea",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.93432,
+    13.39132,
+    102.93432,
+    13.39132
+],
+  "geometry": {"coordinates":[102.93432,13.39132],"type":"Point"}
+}

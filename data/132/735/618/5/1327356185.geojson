@@ -1,0 +1,71 @@
+{
+  "id": 1327356185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.27493,12.59181,105.27493,12.59181",
+    "geom:latitude":12.59181,
+    "geom:longitude":105.27493,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Dang Kda",
+    "gn:country_code":"KH",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1831347,
+    "gn:latitude":12.59181,
+    "gn:longitude":105.27493,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"D\u00e2ng Kda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum Dang Kda",
+        "D\u00e2ng Kda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673057,
+        1108564829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1831347
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"288be809594c30c150de6f47db0e9778",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564829,
+            "locality_id":1327356185,
+            "region_id":85673057
+        }
+    ],
+    "wof:id":1327356185,
+    "wof:lastmodified":1537653958,
+    "wof:name":"Dang Kda",
+    "wof:parent_id":1108564829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.27493,
+    12.59181,
+    105.27493,
+    12.59181
+],
+  "geometry": {"coordinates":[105.27493,12.59181],"type":"Point"}
+}

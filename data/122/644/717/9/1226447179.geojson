@@ -1,0 +1,72 @@
+{
+  "id": 1226447179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.04442,12.83884,105.04442,12.83884",
+    "geom:latitude":12.83884,
+    "geom:longitude":105.04442,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Phumi Pouthi Tret",
+    "gn:country_code":"KH",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1826257,
+    "gn:latitude":12.83884,
+    "gn:longitude":105.04442,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Po\u016dth\u012d Tr\u00e9t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum Potrie",
+        "Phum\u012d Po\u016d Tr\u00e9t",
+        "Phum\u012d Po\u016dth\u012d Tr\u00e9t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673057,
+        421182521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1826257
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"86f4665b555e1ce856e214274851b152",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421182521,
+            "locality_id":1226447179,
+            "region_id":85673057
+        }
+    ],
+    "wof:id":1226447179,
+    "wof:lastmodified":1537653608,
+    "wof:name":"Phumi Pouthi Tret",
+    "wof:parent_id":421182521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.04442,
+    12.83884,
+    105.04442,
+    12.83884
+],
+  "geometry": {"coordinates":[105.04442,12.83884],"type":"Point"}
+}

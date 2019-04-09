@@ -1,0 +1,75 @@
+{
+  "id": 1193003903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.54576,11.653,103.54576,11.653",
+    "geom:latitude":11.653,
+    "geom:longitude":103.54576,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Triet",
+    "gn:country_code":"KH",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1823139,
+    "gn:latitude":11.653,
+    "gn:longitude":103.54576,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Triet",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Triet"
+    ],
+    "name:und_x_variant":[
+        "Triek",
+        "Phum Triek",
+        "Phum\u012d Tri\u0115t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673019,
+        421194857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1823139
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"cb9d651e24b77488be5d996ccd1ae91b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421194857,
+            "locality_id":1193003903,
+            "region_id":85673019
+        }
+    ],
+    "wof:id":1193003903,
+    "wof:lastmodified":1537653359,
+    "wof:name":"Triet",
+    "wof:parent_id":421194857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.54576,
+    11.653,
+    103.54576,
+    11.653
+],
+  "geometry": {"coordinates":[103.54576,11.653],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1243082711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.61909,12.7622,103.61909,12.7622",
+    "geom:latitude":12.7622,
+    "geom:longitude":103.61909,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Phumi Tuol Teahean",
+    "gn:country_code":"KH",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1822988,
+    "gn:latitude":12.7622,
+    "gn:longitude":103.61909,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Tu\u014fl T\u00e9ah\u00e9an",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "P\u2019um Tuol T\u00e9ahean",
+        "Phum\u012d Tu\u014fl T\u00e9ah\u00e9an"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673015,
+        1108564739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1822988
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"47e3fd7b5b3b6544403e315ffbd150ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564739,
+            "locality_id":1243082711,
+            "region_id":85673015
+        }
+    ],
+    "wof:id":1243082711,
+    "wof:lastmodified":1537653348,
+    "wof:name":"Phumi Tuol Teahean",
+    "wof:parent_id":1108564739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.61909,
+    12.7622,
+    103.61909,
+    12.7622
+],
+  "geometry": {"coordinates":[103.61909,12.7622],"type":"Point"}
+}

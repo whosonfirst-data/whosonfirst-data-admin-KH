@@ -1,0 +1,73 @@
+{
+  "id": 1343449975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.45876,12.58309,106.45876,12.58309",
+    "geom:latitude":12.58309,
+    "geom:longitude":106.45876,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Phum Toek",
+    "gn:country_code":"KH",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1823643,
+    "gn:latitude":12.58309,
+    "gn:longitude":106.45876,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Phum T\u0153\u0306k",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum T\u0153\u0306k"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1791\u17b9\u1780"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673085,
+        1108564667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1823643
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"aac222bd9855c657300e5f623d8acbf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564667,
+            "locality_id":1343449975,
+            "region_id":85673085
+        }
+    ],
+    "wof:id":1343449975,
+    "wof:lastmodified":1537653394,
+    "wof:name":"Phum Toek",
+    "wof:parent_id":1108564667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.45876,
+    12.58309,
+    106.45876,
+    12.58309
+],
+  "geometry": {"coordinates":[106.45876,12.58309],"type":"Point"}
+}

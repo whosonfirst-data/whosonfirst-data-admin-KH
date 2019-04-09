@@ -1,0 +1,61 @@
+{
+  "id": 1209376003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.86313,13.25048,102.86313,13.25048",
+    "geom:latitude":13.25048,
+    "geom:longitude":102.86313,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Phumi O Chik",
+    "gn:country_code":"KH",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1826768,
+    "gn:latitude":13.25048,
+    "gn:longitude":102.86313,
+    "gn:modification_date":"2009-05-11",
+    "gn:name":"Phum\u012d O Chik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1826768
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"3152db4ad3a874ef25b1bb8301200c19",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209376003
+        }
+    ],
+    "wof:id":1209376003,
+    "wof:lastmodified":1536288949,
+    "wof:name":"Phumi O Chik",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.86313,
+    13.25048,
+    102.86313,
+    13.25048
+],
+  "geometry": {"coordinates":[102.86313,13.25048],"type":"Point"}
+}

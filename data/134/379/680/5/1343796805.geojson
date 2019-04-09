@@ -1,0 +1,71 @@
+{
+  "id": 1343796805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.8012,11.75424,105.8012,11.75424",
+    "geom:latitude":11.75424,
+    "geom:longitude":105.8012,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Phumi Prey Samraeuy",
+    "gn:country_code":"KH",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825678,
+    "gn:latitude":11.75424,
+    "gn:longitude":105.8012,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Phum\u012d Prey S\u00e2mraeuy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum Srey Chhm\u0153ung",
+        "Phum\u012d Prey S\u00e2mraeuy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        1108804319,
+        421183889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825678
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"9a47b72ac0bcc66fab1f62d6c5414076",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421183889,
+            "locality_id":1343796805,
+            "region_id":1108804319
+        }
+    ],
+    "wof:id":1343796805,
+    "wof:lastmodified":1537653558,
+    "wof:name":"Phumi Prey Samraeuy",
+    "wof:parent_id":421183889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.8012,
+    11.75424,
+    105.8012,
+    11.75424
+],
+  "geometry": {"coordinates":[105.80119999999999,11.75424],"type":"Point"}
+}

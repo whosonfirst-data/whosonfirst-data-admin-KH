@@ -1,0 +1,71 @@
+{
+  "id": 1344244067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.75797,12.30141,103.75797,12.30141",
+    "geom:latitude":12.30141,
+    "geom:longitude":103.75797,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Phumi Rokat Thum",
+    "gn:country_code":"KH",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825358,
+    "gn:latitude":12.30141,
+    "gn:longitude":103.75797,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d R\u00f4kat Thum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum\u012d R\u00f4kat Thom",
+        "Phum\u012d R\u00f4kat Thum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673023,
+        1108564759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825358
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"e794d523558a1b72bbe2dc56576fea9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564759,
+            "locality_id":1344244067,
+            "region_id":85673023
+        }
+    ],
+    "wof:id":1344244067,
+    "wof:lastmodified":1537653533,
+    "wof:name":"Phumi Rokat Thum",
+    "wof:parent_id":1108564759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.75797,
+    12.30141,
+    103.75797,
+    12.30141
+],
+  "geometry": {"coordinates":[103.75797,12.30141],"type":"Point"}
+}

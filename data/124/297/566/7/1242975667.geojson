@@ -1,0 +1,67 @@
+{
+  "id": 1242975667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.5519,12.6052,104.5519,12.6052",
+    "geom:latitude":12.6052,
+    "geom:longitude":104.5519,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Phumi O Reang",
+    "gn:country_code":"KH",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1826701,
+    "gn:latitude":12.6052,
+    "gn:longitude":104.5519,
+    "gn:modification_date":"1993-12-30",
+    "gn:name":"Phum\u012d O Re\u0103ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673057,
+        421169333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1826701
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"98e2c33cb8346216dc7b191d8d433961",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421169333,
+            "locality_id":1242975667,
+            "region_id":85673057
+        }
+    ],
+    "wof:id":1242975667,
+    "wof:lastmodified":1536986422,
+    "wof:name":"Phumi O Reang",
+    "wof:parent_id":421169333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.5519,
+    12.6052,
+    104.5519,
+    12.6052
+],
+  "geometry": {"coordinates":[104.5519,12.6052],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293886983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.22289,11.86688,105.22289,11.86688",
+    "geom:latitude":11.86688,
+    "geom:longitude":105.22289,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Phum Sya Beng Veng",
+    "gn:country_code":"KH",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1824336,
+    "gn:latitude":11.86688,
+    "gn:longitude":105.22289,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Phum Sya Beng Veng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum\u012d Sya B\u0153\u0306ng V\u00eang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673041,
+        1108564845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1824336
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"8e281eb94325893de333e5159ff623b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564845,
+            "locality_id":1293886983,
+            "region_id":85673041
+        }
+    ],
+    "wof:id":1293886983,
+    "wof:lastmodified":1537653449,
+    "wof:name":"Phum Sya Beng Veng",
+    "wof:parent_id":1108564845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.22289,
+    11.86688,
+    105.22289,
+    11.86688
+],
+  "geometry": {"coordinates":[105.22289000000001,11.86688],"type":"Point"}
+}

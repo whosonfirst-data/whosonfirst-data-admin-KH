@@ -1,0 +1,71 @@
+{
+  "id": 1343460479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.51809,12.35379,104.51809,12.35379",
+    "geom:latitude":12.35379,
+    "geom:longitude":104.51809,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Phumi Bes Phe",
+    "gn:country_code":"KH",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829486,
+    "gn:latitude":12.35379,
+    "gn:longitude":104.51809,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d B\u00eas Ph\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum\u012d B\u00e9h Ph\u00e9",
+        "Phum\u012d B\u00eas Ph\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673047,
+        421202235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829486
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"9078cab8d195547d7589ff9f7cde9661",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421202235,
+            "locality_id":1343460479,
+            "region_id":85673047
+        }
+    ],
+    "wof:id":1343460479,
+    "wof:lastmodified":1537653886,
+    "wof:name":"Phumi Bes Phe",
+    "wof:parent_id":421202235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.51809,
+    12.35379,
+    104.51809,
+    12.35379
+],
+  "geometry": {"coordinates":[104.51809,12.35379],"type":"Point"}
+}

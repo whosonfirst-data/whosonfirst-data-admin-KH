@@ -1,0 +1,71 @@
+{
+  "id": 1259358137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.85625,10.86324,104.85625,10.86324",
+    "geom:latitude":10.86324,
+    "geom:longitude":104.85625,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Phumi Dong Khpos",
+    "gn:country_code":"KH",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828497,
+    "gn:latitude":10.86324,
+    "gn:longitude":104.85625,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Dong Khp\u00f3s",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum\u012d Dong Khpu\u014fs",
+        "Phum\u012d Dong Khp\u00f3s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673107,
+        1108564619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828497
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"8d649af75909539c22e7bf4729875b9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564619,
+            "locality_id":1259358137,
+            "region_id":85673107
+        }
+    ],
+    "wof:id":1259358137,
+    "wof:lastmodified":1537653810,
+    "wof:name":"Phumi Dong Khpos",
+    "wof:parent_id":1108564619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.85625,
+    10.86324,
+    104.85625,
+    10.86324
+],
+  "geometry": {"coordinates":[104.85625,10.86324],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226805395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.75124,13.57836,106.75124,13.57836",
+    "geom:latitude":13.57836,
+    "geom:longitude":106.75124,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Trapeang Chrees",
+    "gn:country_code":"KH",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11518572,
+    "gn:latitude":13.57836,
+    "gn:longitude":106.75124,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Trapeang Chrees",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Trapeang Chrees"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673089,
+        1108564717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11518572
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"8b0002ad471c4c584cde449530c444a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564717,
+            "locality_id":1226805395,
+            "region_id":85673089
+        }
+    ],
+    "wof:id":1226805395,
+    "wof:lastmodified":1537654089,
+    "wof:name":"Trapeang Chrees",
+    "wof:parent_id":1108564717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.75124,
+    13.57836,
+    106.75124,
+    13.57836
+],
+  "geometry": {"coordinates":[106.75124,13.57836],"type":"Point"}
+}

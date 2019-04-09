@@ -1,0 +1,74 @@
+{
+  "id": 1326694571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.53756,10.48359,104.53756,10.48359",
+    "geom:latitude":10.48359,
+    "geom:longitude":104.53756,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Kaoh Tnaot",
+    "gn:country_code":"KH",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827924,
+    "gn:latitude":10.48359,
+    "gn:longitude":104.53756,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Kaoh Tnaot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Kaoh Tnaot"
+    ],
+    "name:und_x_variant":[
+        "Phum Kos Thnot",
+        "Phum\u012d Ka\u00f4h Tna\u00f4t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673093,
+        1108564675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827924
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"ed6faa8d14daab00bfefef19a2a59f4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564675,
+            "locality_id":1326694571,
+            "region_id":85673093
+        }
+    ],
+    "wof:id":1326694571,
+    "wof:lastmodified":1537653761,
+    "wof:name":"Kaoh Tnaot",
+    "wof:parent_id":1108564675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.53756,
+    10.48359,
+    104.53756,
+    10.48359
+],
+  "geometry": {"coordinates":[104.53756,10.48359],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1276719625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.59682,13.48606,103.59682,13.48606",
+    "geom:latitude":13.48606,
+    "geom:longitude":103.59682,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Trakiet",
+    "gn:country_code":"KH",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1823522,
+    "gn:latitude":13.48606,
+    "gn:longitude":103.59682,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Trakiet",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Trakiet"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u178f\u17d2\u179a\u1782\u17c0\u178f",
+        "Phum Tr\u00e2ki\u0115t"
+    ],
+    "name:und_x_variant":[
+        "Tra Ki\u00e9t",
+        "Phum\u012d Tr\u00e2ki\u0115t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673029,
+        421185505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1823522
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"7000a844c8c9637ba3a201fa853b9fd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421185505,
+            "locality_id":1276719625,
+            "region_id":85673029
+        }
+    ],
+    "wof:id":1276719625,
+    "wof:lastmodified":1537653384,
+    "wof:name":"Trakiet",
+    "wof:parent_id":421185505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.59682,
+    13.48606,
+    103.59682,
+    13.48606
+],
+  "geometry": {"coordinates":[103.59681999999999,13.48606],"type":"Point"}
+}

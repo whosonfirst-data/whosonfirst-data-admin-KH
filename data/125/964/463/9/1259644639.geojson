@@ -1,0 +1,70 @@
+{
+  "id": 1259644639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.64569,13.2783,102.64569,13.2783",
+    "geom:latitude":13.2783,
+    "geom:longitude":102.64569,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Anlong Sdei",
+    "gn:country_code":"KH",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11418352,
+    "gn:latitude":13.2783,
+    "gn:longitude":102.64569,
+    "gn:modification_date":"2017-01-07",
+    "gn:name":"Anlong Sdei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Anlong Sdei"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673015,
+        1108564761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11418352
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"ea9f1b30657c4dc1cf82dcc426807ab3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564761,
+            "locality_id":1259644639,
+            "region_id":85673015
+        }
+    ],
+    "wof:id":1259644639,
+    "wof:lastmodified":1537654000,
+    "wof:name":"Anlong Sdei",
+    "wof:parent_id":1108564761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.64569,
+    13.2783,
+    102.64569,
+    13.2783
+],
+  "geometry": {"coordinates":[102.64569,13.2783],"type":"Point"}
+}

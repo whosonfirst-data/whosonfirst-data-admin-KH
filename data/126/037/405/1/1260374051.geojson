@@ -1,0 +1,74 @@
+{
+  "id": 1260374051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.3193,11.24771,105.3193,11.24771",
+    "geom:latitude":11.24771,
+    "geom:longitude":105.3193,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Stueng Slout",
+    "gn:country_code":"KH",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1824498,
+    "gn:latitude":11.24771,
+    "gn:longitude":105.3193,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Stueng Slout",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Stueng Slout"
+    ],
+    "name:und_x_variant":[
+        "Phum Stung Slot",
+        "Phum\u012d St\u0153\u0306ng Slot"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673067,
+        421191397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1824498
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"d2d57388518e4c93e034e57f6ed7b7c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421191397,
+            "locality_id":1260374051,
+            "region_id":85673067
+        }
+    ],
+    "wof:id":1260374051,
+    "wof:lastmodified":1537653462,
+    "wof:name":"Stueng Slout",
+    "wof:parent_id":421191397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.3193,
+    11.24771,
+    105.3193,
+    11.24771
+],
+  "geometry": {"coordinates":[105.3193,11.24771],"type":"Point"}
+}

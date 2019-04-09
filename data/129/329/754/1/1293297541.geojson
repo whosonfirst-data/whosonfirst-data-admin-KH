@@ -1,0 +1,71 @@
+{
+  "id": 1293297541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.86352,12.77923,104.86352,12.77923",
+    "geom:latitude":12.77923,
+    "geom:longitude":104.86352,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Trapeang Rosey",
+    "gn:country_code":"KH",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1823313,
+    "gn:latitude":12.77923,
+    "gn:longitude":104.86352,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Trapeang Rosey",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum\u012d Tr\u00e2pe\u0103ng R\u016dssei",
+        "Phum\u012d Tr\u00e2pe\u0103ng R\u0153ssei"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673057,
+        421169333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1823313
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"cc45b344ef5d459707a81491181b6577",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421169333,
+            "locality_id":1293297541,
+            "region_id":85673057
+        }
+    ],
+    "wof:id":1293297541,
+    "wof:lastmodified":1537653371,
+    "wof:name":"Trapeang Rosey",
+    "wof:parent_id":421169333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.86352,
+    12.77923,
+    104.86352,
+    12.77923
+],
+  "geometry": {"coordinates":[104.86351999999999,12.77923],"type":"Point"}
+}

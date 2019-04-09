@@ -1,0 +1,78 @@
+{
+  "id": 1243156551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.75403,12.29012,105.75403,12.29012",
+    "geom:latitude":12.29012,
+    "geom:longitude":105.75403,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Boeng Rey",
+    "gn:country_code":"KH",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829381,
+    "gn:latitude":12.29012,
+    "gn:longitude":105.75403,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Boeng Rey",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Boeng Rey"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1794\u17b9\u1784\u179a\u17c3",
+        "Phum B\u0153\u0306ng Rey"
+    ],
+    "name:und_x_variant":[
+        "Phum Bangrey",
+        "Phum\u012d B\u0153\u0306ng Rey"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673081,
+        1108564781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829381
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"96c84b45e35f6f75a46891c2fbfb6710",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564781,
+            "locality_id":1243156551,
+            "region_id":85673081
+        }
+    ],
+    "wof:id":1243156551,
+    "wof:lastmodified":1537653878,
+    "wof:name":"Boeng Rey",
+    "wof:parent_id":1108564781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.75403,
+    12.29012,
+    105.75403,
+    12.29012
+],
+  "geometry": {"coordinates":[105.75403,12.29012],"type":"Point"}
+}

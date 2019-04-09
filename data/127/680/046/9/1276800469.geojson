@@ -1,0 +1,71 @@
+{
+  "id": 1276800469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.64979,11.62963,104.64979,11.62963",
+    "geom:latitude":11.62963,
+    "geom:longitude":104.64979,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Phumi Pong Toek",
+    "gn:country_code":"KH",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1826361,
+    "gn:latitude":11.62963,
+    "gn:longitude":104.64979,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d P\u00f4ng T\u0153\u0306k",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum P\u00f4ngt\u00f9k",
+        "Phum\u012d P\u00f4ng T\u0153\u0306k"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673053,
+        421177965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1826361
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"ce8c71f55b65b5474be439b3e97f986f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421177965,
+            "locality_id":1276800469,
+            "region_id":85673053
+        }
+    ],
+    "wof:id":1276800469,
+    "wof:lastmodified":1537653618,
+    "wof:name":"Phumi Pong Toek",
+    "wof:parent_id":421177965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.64979,
+    11.62963,
+    104.64979,
+    11.62963
+],
+  "geometry": {"coordinates":[104.64979,11.62963],"type":"Point"}
+}

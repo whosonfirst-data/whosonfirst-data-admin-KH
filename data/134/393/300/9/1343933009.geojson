@@ -1,0 +1,72 @@
+{
+  "id": 1343933009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.72217,11.02815,104.72217,11.02815",
+    "geom:latitude":11.02815,
+    "geom:longitude":104.72217,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Phumi Angk Tachan",
+    "gn:country_code":"KH",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829886,
+    "gn:latitude":11.02815,
+    "gn:longitude":104.72217,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d \u00c2ngk Tach\u0103n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum Ang Tachey",
+        "Phum\u012d \u00c2ng Tachan",
+        "Phum\u012d \u00c2ngk Tach\u0103n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673107,
+        1108564877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829886
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"ee340b701a64d35faab3b65ea7ddb4e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564877,
+            "locality_id":1343933009,
+            "region_id":85673107
+        }
+    ],
+    "wof:id":1343933009,
+    "wof:lastmodified":1537653922,
+    "wof:name":"Phumi Angk Tachan",
+    "wof:parent_id":1108564877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.72217,
+    11.02815,
+    104.72217,
+    11.02815
+],
+  "geometry": {"coordinates":[104.72217000000001,11.02815],"type":"Point"}
+}

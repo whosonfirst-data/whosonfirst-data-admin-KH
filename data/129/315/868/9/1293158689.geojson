@@ -1,0 +1,75 @@
+{
+  "id": 1293158689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.19371,13.56495,104.19371,13.56495",
+    "geom:latitude":13.56495,
+    "geom:longitude":104.19371,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Sangkae Lak",
+    "gn:country_code":"KH",
+    "gn:dem":355,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825030,
+    "gn:latitude":13.56495,
+    "gn:longitude":104.19371,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Sangkae Lak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Sangkae Lak"
+    ],
+    "name:und_x_variant":[
+        "Phum Sang Kelak",
+        "Phum\u012d S\u00e2ngk\u00ea Lerk",
+        "Phum\u012d S\u00e2ngk\u00ea Le\u0103k"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673029,
+        421200831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825030
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"56e86ed852f9238f0492bff9dc9e309a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421200831,
+            "locality_id":1293158689,
+            "region_id":85673029
+        }
+    ],
+    "wof:id":1293158689,
+    "wof:lastmodified":1537653505,
+    "wof:name":"Sangkae Lak",
+    "wof:parent_id":421200831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.19371,
+    13.56495,
+    104.19371,
+    13.56495
+],
+  "geometry": {"coordinates":[104.19371,13.56495],"type":"Point"}
+}

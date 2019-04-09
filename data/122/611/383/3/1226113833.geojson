@@ -1,0 +1,71 @@
+{
+  "id": 1226113833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.62012,13.85851,105.62012,13.85851",
+    "geom:latitude":13.85851,
+    "geom:longitude":105.62012,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Phumi Pra",
+    "gn:country_code":"KH",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1826249,
+    "gn:latitude":13.85851,
+    "gn:longitude":105.62012,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Pra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Anlong Pra",
+        "Phum\u012d Pra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673075,
+        1108564869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1826249
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"00a6c89aeff9b1715fda246de31e38a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564869,
+            "locality_id":1226113833,
+            "region_id":85673075
+        }
+    ],
+    "wof:id":1226113833,
+    "wof:lastmodified":1537653607,
+    "wof:name":"Phumi Pra",
+    "wof:parent_id":1108564869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.62012,
+    13.85851,
+    105.62012,
+    13.85851
+],
+  "geometry": {"coordinates":[105.62012,13.85851],"type":"Point"}
+}

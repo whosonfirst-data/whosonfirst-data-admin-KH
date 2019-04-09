@@ -1,0 +1,70 @@
+{
+  "id": 1293544713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.10972,14.1114,103.10972,14.1114",
+    "geom:latitude":14.1114,
+    "geom:longitude":103.10972,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Kouk Samraong Lech",
+    "gn:country_code":"KH",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11531755,
+    "gn:latitude":14.1114,
+    "gn:longitude":103.10972,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Kouk Samraong Lech",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Kouk Samraong Lech"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673011,
+        421203293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11531755
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"4a1471fc41b154c8447e759b369b25ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421203293,
+            "locality_id":1293544713,
+            "region_id":85673011
+        }
+    ],
+    "wof:id":1293544713,
+    "wof:lastmodified":1537654092,
+    "wof:name":"Kouk Samraong Lech",
+    "wof:parent_id":421203293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.10972,
+    14.1114,
+    103.10972,
+    14.1114
+],
+  "geometry": {"coordinates":[103.10972,14.1114],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1276201967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.99564,11.00627,105.99564,11.00627",
+    "geom:latitude":11.00627,
+    "geom:longitude":105.99564,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Svay Ta Yean",
+    "gn:country_code":"KH",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1830705,
+    "gn:latitude":11.00627,
+    "gn:longitude":105.99564,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Svay Ta Yean",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Svay Ta Yean"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Svay Ta Y\u00e9an",
+        "Phum Svay Tay\u00e9an",
+        "Svay Tayean",
+        "Kh\u016dm Svay Ta Y\u00e9an"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673105,
+        1108564671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1830705
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"5d3d08bf793884776490b151ec7bb4e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564671,
+            "locality_id":1276201967,
+            "region_id":85673105
+        }
+    ],
+    "wof:id":1276201967,
+    "wof:lastmodified":1537653943,
+    "wof:name":"Svay Ta Yean",
+    "wof:parent_id":1108564671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.99564,
+    11.00627,
+    105.99564,
+    11.00627
+],
+  "geometry": {"coordinates":[105.99563999999999,11.00627],"type":"Point"}
+}

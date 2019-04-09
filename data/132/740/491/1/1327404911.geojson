@@ -1,0 +1,71 @@
+{
+  "id": 1327404911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.34825,11.11494,105.34825,11.11494",
+    "geom:latitude":11.11494,
+    "geom:longitude":105.34825,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Phumi Roliek",
+    "gn:country_code":"KH",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825345,
+    "gn:latitude":11.11494,
+    "gn:longitude":105.34825,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d R\u00f4li\u0115k",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum\u012d R\u00f4l\u00e9ak",
+        "Phum\u012d R\u00f4li\u0115k"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673067,
+        1108564775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825345
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"a6583da54b785399a8cf4425ff262cf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564775,
+            "locality_id":1327404911,
+            "region_id":85673067
+        }
+    ],
+    "wof:id":1327404911,
+    "wof:lastmodified":1537653533,
+    "wof:name":"Phumi Roliek",
+    "wof:parent_id":1108564775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.34825,
+    11.11494,
+    105.34825,
+    11.11494
+],
+  "geometry": {"coordinates":[105.34824999999999,11.11494],"type":"Point"}
+}

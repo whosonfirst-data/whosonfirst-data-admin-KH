@@ -1,0 +1,74 @@
+{
+  "id": 1259356747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.46792,11.4018,105.46792,11.4018",
+    "geom:latitude":11.4018,
+    "geom:longitude":105.46792,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Phum Bot Kong",
+    "gn:country_code":"KH",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829297,
+    "gn:latitude":11.4018,
+    "gn:longitude":105.46792,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Phum Bot K\u00f4ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Bot K\u00f4ng"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1794\u17bc\u178f\u1782\u1784",
+        "Phum\u012d Bot K\u00f4ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673067,
+        1108564859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829297
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"6c20855afad32ca457d67e58b63e0dcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564859,
+            "locality_id":1259356747,
+            "region_id":85673067
+        }
+    ],
+    "wof:id":1259356747,
+    "wof:lastmodified":1537653872,
+    "wof:name":"Phum Bot Kong",
+    "wof:parent_id":1108564859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.46792,
+    11.4018,
+    105.46792,
+    11.4018
+],
+  "geometry": {"coordinates":[105.46792000000001,11.4018],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1259539829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.95175,13.83958,106.95175,13.83958",
+    "geom:latitude":13.83958,
+    "geom:longitude":106.95175,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Phumi Kalai Thum",
+    "gn:country_code":"KH",
+    "gn:dem":232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828380,
+    "gn:latitude":13.83958,
+    "gn:longitude":106.95175,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Kalai Thum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum\u012d Kalai Thom",
+        "Phum\u012d Kalai Thum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673089,
+        1108564743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828380
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"9a33a61e6b8a33d0adc989b10caf46c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564743,
+            "locality_id":1259539829,
+            "region_id":85673089
+        }
+    ],
+    "wof:id":1259539829,
+    "wof:lastmodified":1537653801,
+    "wof:name":"Phumi Kalai Thum",
+    "wof:parent_id":1108564743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.95175,
+    13.83958,
+    106.95175,
+    13.83958
+],
+  "geometry": {"coordinates":[106.95175,13.83958],"type":"Point"}
+}

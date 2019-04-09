@@ -1,0 +1,71 @@
+{
+  "id": 1225909871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.98656,10.84925,104.98656,10.84925",
+    "geom:latitude":10.84925,
+    "geom:longitude":104.98656,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Phumi Anlong Tien",
+    "gn:country_code":"KH",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829779,
+    "gn:latitude":10.84925,
+    "gn:longitude":104.98656,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d \u00c2nl\u00f3ng Ti\u0115n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum\u012d \u00c2nl\u016dng Ti\u0115n",
+        "Phum\u012d \u00c2nl\u00f3ng Ti\u0115n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673107,
+        1108564619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829779
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"ae4179fec2153bf442d2706f30aef813",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564619,
+            "locality_id":1225909871,
+            "region_id":85673107
+        }
+    ],
+    "wof:id":1225909871,
+    "wof:lastmodified":1537653911,
+    "wof:name":"Phumi Anlong Tien",
+    "wof:parent_id":1108564619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.98656,
+    10.84925,
+    104.98656,
+    10.84925
+],
+  "geometry": {"coordinates":[104.98656,10.84925],"type":"Point"}
+}

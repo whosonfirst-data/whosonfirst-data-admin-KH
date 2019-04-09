@@ -1,0 +1,78 @@
+{
+  "id": 1259856617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.86713,12.62126,103.86713,12.62126",
+    "geom:latitude":12.62126,
+    "geom:longitude":103.86713,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Phum Svay Sa",
+    "gn:country_code":"KH",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1824379,
+    "gn:latitude":12.62126,
+    "gn:longitude":103.86713,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Phum Svay S\u00e2",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Svay S\u00e2"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u179f\u17d2\u179c\u17b6\u1799\u179f\u179a"
+    ],
+    "name:und_x_variant":[
+        "P\u2019um Svay Sar",
+        "Phum\u012d Svay S\u00e2",
+        "Phum\u012d Svay S\u00e2r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673023,
+        1108564595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1824379
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"212e08e54c043709b228e9d47de0832b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564595,
+            "locality_id":1259856617,
+            "region_id":85673023
+        }
+    ],
+    "wof:id":1259856617,
+    "wof:lastmodified":1537653452,
+    "wof:name":"Phum Svay Sa",
+    "wof:parent_id":1108564595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.86713,
+    12.62126,
+    103.86713,
+    12.62126
+],
+  "geometry": {"coordinates":[103.86713,12.62126],"type":"Point"}
+}

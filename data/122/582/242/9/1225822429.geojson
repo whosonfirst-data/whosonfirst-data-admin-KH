@@ -1,0 +1,71 @@
+{
+  "id": 1225822429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.64108,12.6879,103.64108,12.6879",
+    "geom:latitude":12.6879,
+    "geom:longitude":103.64108,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Phumi Tuol Khmaoch",
+    "gn:country_code":"KH",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1823063,
+    "gn:latitude":12.6879,
+    "gn:longitude":103.64108,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Tu\u014fl Khma\u00f4ch",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "P\u2019um Tuol Khmoch",
+        "Phum\u012d Tu\u014fl Khma\u00f4ch"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673023,
+        1108564595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1823063
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"1b05b20776d30d89718f6a9c58e6469b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564595,
+            "locality_id":1225822429,
+            "region_id":85673023
+        }
+    ],
+    "wof:id":1225822429,
+    "wof:lastmodified":1537653354,
+    "wof:name":"Phumi Tuol Khmaoch",
+    "wof:parent_id":1108564595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.64108,
+    12.6879,
+    103.64108,
+    12.6879
+],
+  "geometry": {"coordinates":[103.64108,12.6879],"type":"Point"}
+}

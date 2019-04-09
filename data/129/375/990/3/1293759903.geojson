@@ -1,0 +1,70 @@
+{
+  "id": 1293759903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.88983,13.47069,105.88983,13.47069",
+    "geom:latitude":13.47069,
+    "geom:longitude":105.88983,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Phum Pongtek",
+    "gn:country_code":"KH",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1823642,
+    "gn:latitude":13.47069,
+    "gn:longitude":105.88983,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Phum Pongtek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum\u012d T\u0153\u0306k"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673075,
+        1108564869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1823642
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"1a1bdb1ba7bde4dcb2963767e3fb66b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564869,
+            "locality_id":1293759903,
+            "region_id":85673075
+        }
+    ],
+    "wof:id":1293759903,
+    "wof:lastmodified":1537653394,
+    "wof:name":"Phum Pongtek",
+    "wof:parent_id":1108564869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.88983,
+    13.47069,
+    105.88983,
+    13.47069
+],
+  "geometry": {"coordinates":[105.88983,13.47069],"type":"Point"}
+}

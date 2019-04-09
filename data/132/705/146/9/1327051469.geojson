@@ -1,0 +1,74 @@
+{
+  "id": 1327051469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.87214,11.36536,104.87214,11.36536",
+    "geom:latitude":11.36536,
+    "geom:longitude":104.87214,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Boeng Khyang",
+    "gn:country_code":"KH",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829434,
+    "gn:latitude":11.36536,
+    "gn:longitude":104.87214,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Boeng Khyang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Boeng Khyang"
+    ],
+    "name:und_x_variant":[
+        "Beng Khyang",
+        "Phum\u012d B\u0153\u0306ng Khyang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673051,
+        1108564685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829434
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"1823c559c80b4d7b6ff98d7d833e1b6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564685,
+            "locality_id":1327051469,
+            "region_id":85673051
+        }
+    ],
+    "wof:id":1327051469,
+    "wof:lastmodified":1537653882,
+    "wof:name":"Boeng Khyang",
+    "wof:parent_id":1108564685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.87214,
+    11.36536,
+    104.87214,
+    11.36536
+],
+  "geometry": {"coordinates":[104.87214,11.36536],"type":"Point"}
+}

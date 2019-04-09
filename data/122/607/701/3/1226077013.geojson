@@ -1,0 +1,70 @@
+{
+  "id": 1226077013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.81405,12.71243,104.81405,12.71243",
+    "geom:latitude":12.71243,
+    "geom:longitude":104.81405,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Bou Pueng",
+    "gn:country_code":"KH",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11476850,
+    "gn:latitude":12.71243,
+    "gn:longitude":104.81405,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Bou Pueng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Bou Pueng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673057,
+        421169333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11476850
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"17e2f69cfa7186b8021f7a446754f184",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421169333,
+            "locality_id":1226077013,
+            "region_id":85673057
+        }
+    ],
+    "wof:id":1226077013,
+    "wof:lastmodified":1537654034,
+    "wof:name":"Bou Pueng",
+    "wof:parent_id":421169333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.81405,
+    12.71243,
+    104.81405,
+    12.71243
+],
+  "geometry": {"coordinates":[104.81404999999999,12.71243],"type":"Point"}
+}

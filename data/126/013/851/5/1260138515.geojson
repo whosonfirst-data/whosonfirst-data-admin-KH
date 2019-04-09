@@ -1,0 +1,70 @@
+{
+  "id": 1260138515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.17586,13.51226,107.17586,13.51226",
+    "geom:latitude":13.51226,
+    "geom:longitude":107.17586,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Seda",
+    "gn:country_code":"KH",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11484213,
+    "gn:latitude":13.51226,
+    "gn:longitude":107.17586,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Seda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Seda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673089,
+        1108564723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11484213
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"a6a51a29c7adb5896c5817b9bb7868f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564723,
+            "locality_id":1260138515,
+            "region_id":85673089
+        }
+    ],
+    "wof:id":1260138515,
+    "wof:lastmodified":1537654064,
+    "wof:name":"Seda",
+    "wof:parent_id":1108564723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.17586,
+    13.51226,
+    107.17586,
+    13.51226
+],
+  "geometry": {"coordinates":[107.17586,13.51226],"type":"Point"}
+}

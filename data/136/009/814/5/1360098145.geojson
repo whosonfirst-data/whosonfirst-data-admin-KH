@@ -1,0 +1,73 @@
+{
+  "id": 1360098145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.35685,11.93762,105.35685,11.93762",
+    "geom:latitude":11.93762,
+    "geom:longitude":105.35685,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Phumi Chamkar Samseb",
+    "gn:country_code":"KH",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829212,
+    "gn:latitude":11.93762,
+    "gn:longitude":105.35685,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Ch\u00e2mkar Sams\u0115b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum Chamka Sam Sap",
+        "Phumi Ch\u00e2mkar Sams\u0153\u0306p",
+        "Phum Chamka Samsep",
+        "Phum\u012d Ch\u00e2mkar Sams\u0115b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673041,
+        421205043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829212
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"c475c8792d4ff59a9b29af305c19e79f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421205043,
+            "locality_id":1360098145,
+            "region_id":85673041
+        }
+    ],
+    "wof:id":1360098145,
+    "wof:lastmodified":1537653866,
+    "wof:name":"Phumi Chamkar Samseb",
+    "wof:parent_id":421205043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.35685,
+    11.93762,
+    105.35685,
+    11.93762
+],
+  "geometry": {"coordinates":[105.35684999999999,11.93762],"type":"Point"}
+}

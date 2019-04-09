@@ -1,0 +1,74 @@
+{
+  "id": 1259744251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.20381,13.14356,103.20381,13.14356",
+    "geom:latitude":13.14356,
+    "geom:longitude":103.20381,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Kdol Don Taev",
+    "gn:country_code":"KH",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828449,
+    "gn:latitude":13.14356,
+    "gn:longitude":103.20381,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Kdol Don Taev",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Kdol Don Taev"
+    ],
+    "name:khm_x_variant":[
+        "Phum\u012d Don T\u00e9av",
+        "\u1797\u17bc\u1798\u17b7 \u178a\u17bc\u1793\u1791\u17b6\u179c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673015,
+        421171545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828449
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"ee69aaee1ef10c75960a17d5df4f1a83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421171545,
+            "locality_id":1259744251,
+            "region_id":85673015
+        }
+    ],
+    "wof:id":1259744251,
+    "wof:lastmodified":1537653807,
+    "wof:name":"Kdol Don Taev",
+    "wof:parent_id":421171545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.20381,
+    13.14356,
+    103.20381,
+    13.14356
+],
+  "geometry": {"coordinates":[103.20381,13.14356],"type":"Point"}
+}

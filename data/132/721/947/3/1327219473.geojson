@@ -1,0 +1,77 @@
+{
+  "id": 1327219473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.26397,11.37422,103.26397,11.37422",
+    "geom:latitude":11.37422,
+    "geom:longitude":103.26397,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Phum Chrang Khpuos",
+    "gn:country_code":"KH",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828817,
+    "gn:latitude":11.37422,
+    "gn:longitude":103.26397,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Phum Chr\u0103ng Khpu\u014fs",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Chr\u0103ng Khpu\u014fs"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1785\u17d2\u179a\u17b6\u17c6\u1784\u1781\u17d2\u1796\u179f\u17cb"
+    ],
+    "name:und_x_variant":[
+        "Phumi Chrang Khpuos",
+        "Phum\u012d Chr\u0103ng Khp\u00f3s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673019,
+        1108564697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828817
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"32ad751bddaeb2e6d20926850b3b43a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564697,
+            "locality_id":1327219473,
+            "region_id":85673019
+        }
+    ],
+    "wof:id":1327219473,
+    "wof:lastmodified":1537653834,
+    "wof:name":"Phum Chrang Khpuos",
+    "wof:parent_id":1108564697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.26397,
+    11.37422,
+    103.26397,
+    11.37422
+],
+  "geometry": {"coordinates":[103.26397,11.37422],"type":"Point"}
+}

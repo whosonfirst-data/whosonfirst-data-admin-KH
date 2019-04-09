@@ -1,0 +1,71 @@
+{
+  "id": 1243512399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.34675,13.37961,104.34675,13.37961",
+    "geom:latitude":13.37961,
+    "geom:longitude":104.34675,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Phumi Sapv Bang",
+    "gn:country_code":"KH",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1824979,
+    "gn:latitude":13.37961,
+    "gn:longitude":104.34675,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d S\u00e2pv B\u00e2ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum\u012d S\u00e2p B\u00e2ng",
+        "Phum\u012d S\u00e2pv B\u00e2ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673029,
+        1108564639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1824979
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"be3d1834208c2f3ff74ff55defed69f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564639,
+            "locality_id":1243512399,
+            "region_id":85673029
+        }
+    ],
+    "wof:id":1243512399,
+    "wof:lastmodified":1537653501,
+    "wof:name":"Phumi Sapv Bang",
+    "wof:parent_id":1108564639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.34675,
+    13.37961,
+    104.34675,
+    13.37961
+],
+  "geometry": {"coordinates":[104.34675,13.37961],"type":"Point"}
+}

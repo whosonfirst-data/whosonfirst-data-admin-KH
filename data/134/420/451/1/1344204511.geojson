@@ -1,0 +1,67 @@
+{
+  "id": 1344204511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.31681,13.22281,103.31681,13.22281",
+    "geom:latitude":13.22281,
+    "geom:longitude":103.31681,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Phumi O Ta Pek",
+    "gn:country_code":"KH",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1826672,
+    "gn:latitude":13.22281,
+    "gn:longitude":103.31681,
+    "gn:modification_date":"2009-05-11",
+    "gn:name":"Phum\u012d O Ta P\u00eak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673015,
+        421172391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1826672
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"062c467bf403aced9d195a1a5ad2f167",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421172391,
+            "locality_id":1344204511,
+            "region_id":85673015
+        }
+    ],
+    "wof:id":1344204511,
+    "wof:lastmodified":1536667836,
+    "wof:name":"Phumi O Ta Pek",
+    "wof:parent_id":421172391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.31681,
+    13.22281,
+    103.31681,
+    13.22281
+],
+  "geometry": {"coordinates":[103.31681,13.22281],"type":"Point"}
+}

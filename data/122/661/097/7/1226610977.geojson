@@ -1,0 +1,71 @@
+{
+  "id": 1226610977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.85393,10.68217,104.85393,10.68217",
+    "geom:latitude":10.68217,
+    "geom:longitude":104.85393,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Phumi Tuol Svay",
+    "gn:country_code":"KH",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1822999,
+    "gn:latitude":10.68217,
+    "gn:longitude":104.85393,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Tu\u014fl Svay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum Trapeang Tuol Svai",
+        "Phum\u012d Tu\u014fl Svay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673107,
+        1108564693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1822999
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"1f41c4b3a144d79f8a517da6b5fa3a61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564693,
+            "locality_id":1226610977,
+            "region_id":85673107
+        }
+    ],
+    "wof:id":1226610977,
+    "wof:lastmodified":1537653349,
+    "wof:name":"Phumi Tuol Svay",
+    "wof:parent_id":1108564693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.85393,
+    10.68217,
+    104.85393,
+    10.68217
+],
+  "geometry": {"coordinates":[104.85393000000001,10.68217],"type":"Point"}
+}

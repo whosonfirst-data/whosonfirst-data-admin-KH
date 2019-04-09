@@ -1,0 +1,68 @@
+{
+  "id": 1209536939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.97595,11.53525,104.97595,11.53525",
+    "geom:latitude":11.53525,
+    "geom:longitude":104.97595,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Veal Sbov",
+    "gn:country_code":"KH",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1830690,
+    "gn:latitude":11.53525,
+    "gn:longitude":104.97595,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Veal Sbov",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Veal Sbov"
+    ],
+    "name:und_x_variant":[
+        "Veal Sb\u00f4u",
+        "Kh\u016dm V\u00e9al Sbov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1830690
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"b4c01d9339d1210d2af745f24f64f626",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209536939
+        }
+    ],
+    "wof:id":1209536939,
+    "wof:lastmodified":1537653942,
+    "wof:name":"Veal Sbov",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.97595,
+    11.53525,
+    104.97595,
+    11.53525
+],
+  "geometry": {"coordinates":[104.97595,11.53525],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1242645029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.95046,14.1551,102.95046,14.1551",
+    "geom:latitude":14.1551,
+    "geom:longitude":102.95046,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Dang Reaek",
+    "gn:country_code":"KH",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11340262,
+    "gn:latitude":14.1551,
+    "gn:longitude":102.95046,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Dang Reaek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Dang Reaek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673011,
+        421203293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11340262
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"c1d6dd1dece4f1efa82f5846803cc9d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421203293,
+            "locality_id":1242645029,
+            "region_id":85673011
+        }
+    ],
+    "wof:id":1242645029,
+    "wof:lastmodified":1537653972,
+    "wof:name":"Dang Reaek",
+    "wof:parent_id":421203293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.95046,
+    14.1551,
+    102.95046,
+    14.1551
+],
+  "geometry": {"coordinates":[102.95046000000001,14.1551],"type":"Point"}
+}

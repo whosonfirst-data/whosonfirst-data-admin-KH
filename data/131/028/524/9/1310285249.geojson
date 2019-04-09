@@ -1,0 +1,70 @@
+{
+  "id": 1310285249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.65194,12.74761,103.65194,12.74761",
+    "geom:latitude":12.74761,
+    "geom:longitude":103.65194,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Srah Run",
+    "gn:country_code":"KH",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11446542,
+    "gn:latitude":12.74761,
+    "gn:longitude":103.65194,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Srah Run",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Srah Run"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673023,
+        1108564595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11446542
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"94b1b683795b5a43126c50e8fefb1a12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564595,
+            "locality_id":1310285249,
+            "region_id":85673023
+        }
+    ],
+    "wof:id":1310285249,
+    "wof:lastmodified":1537654007,
+    "wof:name":"Srah Run",
+    "wof:parent_id":1108564595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.65194,
+    12.74761,
+    103.65194,
+    12.74761
+],
+  "geometry": {"coordinates":[103.65194,12.74761],"type":"Point"}
+}

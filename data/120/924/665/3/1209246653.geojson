@@ -1,0 +1,70 @@
+{
+  "id": 1209246653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.44611,12.53168,104.44611,12.53168",
+    "geom:latitude":12.53168,
+    "geom:longitude":104.44611,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Phum Phat Sanday",
+    "gn:country_code":"KH",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1826546,
+    "gn:latitude":12.53168,
+    "gn:longitude":104.44611,
+    "gn:modification_date":"2017-07-05",
+    "gn:name":"Phum Phat S\u00e2nday",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Phat S\u00e2nday"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1795\u17b6\u178f\u17cb\u179f\u1793\u17d2\u178f\u17b6\u1799"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Ph\u0103t S\u00e2nday (2)"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1826546
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"e85f8322c360767155d70e0e1385001c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209246653
+        }
+    ],
+    "wof:id":1209246653,
+    "wof:lastmodified":1537653636,
+    "wof:name":"Phum Phat Sanday",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.44611,
+    12.53168,
+    104.44611,
+    12.53168
+],
+  "geometry": {"coordinates":[104.44611,12.53168],"type":"Point"}
+}

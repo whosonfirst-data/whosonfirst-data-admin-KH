@@ -1,0 +1,70 @@
+{
+  "id": 1327370305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.15222,11.87485,106.15222,11.87485",
+    "geom:latitude":11.87485,
+    "geom:longitude":106.15222,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Sangkae Thmei",
+    "gn:country_code":"KH",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11482774,
+    "gn:latitude":11.87485,
+    "gn:longitude":106.15222,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Sangkae Thmei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Sangkae Thmei"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        1108804319,
+        1108564735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11482774
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"dbd3205c87173be87f4e9bdc19cc6b33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564735,
+            "locality_id":1327370305,
+            "region_id":1108804319
+        }
+    ],
+    "wof:id":1327370305,
+    "wof:lastmodified":1537654057,
+    "wof:name":"Sangkae Thmei",
+    "wof:parent_id":1108564735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.15222,
+    11.87485,
+    106.15222,
+    11.87485
+],
+  "geometry": {"coordinates":[106.15222,11.87485],"type":"Point"}
+}

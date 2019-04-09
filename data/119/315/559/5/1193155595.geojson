@@ -1,0 +1,67 @@
+{
+  "id": 1193155595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.88943,13.38858,102.88943,13.38858",
+    "geom:latitude":13.38858,
+    "geom:longitude":102.88943,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Phumi Tuol O Bek",
+    "gn:country_code":"KH",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1823040,
+    "gn:latitude":13.38858,
+    "gn:longitude":102.88943,
+    "gn:modification_date":"1993-12-30",
+    "gn:name":"Phum\u012d Tu\u014fl O B\u00eak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673011,
+        1108564737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1823040
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"aff168cb306e0cb25c8c964b8350aabc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564737,
+            "locality_id":1193155595,
+            "region_id":85673011
+        }
+    ],
+    "wof:id":1193155595,
+    "wof:lastmodified":1536373580,
+    "wof:name":"Phumi Tuol O Bek",
+    "wof:parent_id":1108564737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.88943,
+    13.38858,
+    102.88943,
+    13.38858
+],
+  "geometry": {"coordinates":[102.88943,13.38858],"type":"Point"}
+}

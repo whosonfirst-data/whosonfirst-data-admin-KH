@@ -1,0 +1,67 @@
+{
+  "id": 1293783045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.35964,13.18167,105.35964,13.18167",
+    "geom:latitude":13.18167,
+    "geom:longitude":105.35964,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Phumi Choam Pra'ab",
+    "gn:country_code":"KH",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828905,
+    "gn:latitude":13.18167,
+    "gn:longitude":105.35964,
+    "gn:modification_date":"1993-12-30",
+    "gn:name":"Phum\u012d Ch\u014f\u00e2m Pr\u00e2\u2019\u00e1b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673057,
+        421188047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828905
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"99285357e638e69beb05865ca1155860",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421188047,
+            "locality_id":1293783045,
+            "region_id":85673057
+        }
+    ],
+    "wof:id":1293783045,
+    "wof:lastmodified":1536856817,
+    "wof:name":"Phumi Choam Pra'ab",
+    "wof:parent_id":421188047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.35963999999998,
+    13.18167,
+    105.35963999999998,
+    13.18167
+],
+  "geometry": {"coordinates":[105.35963999999998,13.18167],"type":"Point"}
+}

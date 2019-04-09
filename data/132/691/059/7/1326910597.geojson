@@ -1,0 +1,73 @@
+{
+  "id": 1326910597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.05517,12.52659,104.05517,12.52659",
+    "geom:latitude":12.52659,
+    "geom:longitude":104.05517,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Tnaot Chum",
+    "gn:country_code":"KH",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1823674,
+    "gn:latitude":12.52659,
+    "gn:longitude":104.05517,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Tnaot Chum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Tnaot Chum"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Tna\u00f4t Ch\u016dm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673023,
+        421203239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1823674
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"5eb9b6a0a8ae4d04e9fd9f68254de80e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421203239,
+            "locality_id":1326910597,
+            "region_id":85673023
+        }
+    ],
+    "wof:id":1326910597,
+    "wof:lastmodified":1537653396,
+    "wof:name":"Tnaot Chum",
+    "wof:parent_id":421203239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.05517,
+    12.52659,
+    104.05517,
+    12.52659
+],
+  "geometry": {"coordinates":[104.05517,12.52659],"type":"Point"}
+}

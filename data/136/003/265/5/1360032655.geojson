@@ -1,0 +1,70 @@
+{
+  "id": 1360032655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.62552,10.7299,103.62552,10.7299",
+    "geom:latitude":10.7299,
+    "geom:longitude":103.62552,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Mondol Pir",
+    "gn:country_code":"KH",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11424856,
+    "gn:latitude":10.7299,
+    "gn:longitude":103.62552,
+    "gn:modification_date":"2017-01-07",
+    "gn:name":"Mondol Pir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Mondol Pir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673101,
+        1108564851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11424856
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"9ccb00e25ac37eb8c9c90cac8a1cbf48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564851,
+            "locality_id":1360032655,
+            "region_id":85673101
+        }
+    ],
+    "wof:id":1360032655,
+    "wof:lastmodified":1537654004,
+    "wof:name":"Mondol Pir",
+    "wof:parent_id":1108564851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.62552,
+    10.7299,
+    103.62552,
+    10.7299
+],
+  "geometry": {"coordinates":[103.62551999999999,10.7299],"type":"Point"}
+}

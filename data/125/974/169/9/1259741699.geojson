@@ -1,0 +1,70 @@
+{
+  "id": 1259741699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.89139,11.46702,104.89139,11.46702",
+    "geom:latitude":11.46702,
+    "geom:longitude":104.89139,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Spean Thma",
+    "gn:country_code":"KH",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11459812,
+    "gn:latitude":11.46702,
+    "gn:longitude":104.89139,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Spean Thma",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Spean Thma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673063,
+        1108564661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11459812
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"3aced5b0fdbd0ecc1a1d2e29765bd1b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564661,
+            "locality_id":1259741699,
+            "region_id":85673063
+        }
+    ],
+    "wof:id":1259741699,
+    "wof:lastmodified":1537654020,
+    "wof:name":"Spean Thma",
+    "wof:parent_id":1108564661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.89139,
+    11.46702,
+    104.89139,
+    11.46702
+],
+  "geometry": {"coordinates":[104.89139,11.46702],"type":"Point"}
+}

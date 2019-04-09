@@ -1,0 +1,72 @@
+{
+  "id": 1260355423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.62356,11.17534,105.62356,11.17534",
+    "geom:latitude":11.17534,
+    "geom:longitude":105.62356,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Phum Russey Chou",
+    "gn:country_code":"KH",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825431,
+    "gn:latitude":11.17534,
+    "gn:longitude":105.62356,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Phum Russey Chou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum\u012d R\u016dssei Chu\u014fr",
+        "Phum\u012d R\u00f4m\u00e9as Chh\u00f4r",
+        "Phum\u012d R\u0153ssei Chu\u014fr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673105,
+        1108564861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825431
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"05d9710957430c685a147a3718db624a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564861,
+            "locality_id":1260355423,
+            "region_id":85673105
+        }
+    ],
+    "wof:id":1260355423,
+    "wof:lastmodified":1537653540,
+    "wof:name":"Phum Russey Chou",
+    "wof:parent_id":1108564861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.62356,
+    11.17534,
+    105.62356,
+    11.17534
+],
+  "geometry": {"coordinates":[105.62356,11.17534],"type":"Point"}
+}

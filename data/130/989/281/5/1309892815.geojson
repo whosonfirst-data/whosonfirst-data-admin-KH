@@ -1,0 +1,78 @@
+{
+  "id": 1309892815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.22728,12.30251,103.22728,12.30251",
+    "geom:latitude":12.30251,
+    "geom:longitude":103.22728,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Phum Samlanh Tapri",
+    "gn:country_code":"KH",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825151,
+    "gn:latitude":12.30251,
+    "gn:longitude":103.22728,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Phum S\u00e2mlanh Tapri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum S\u00e2mlanh Tapri"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u179f\u17c6\u17a1\u17b6\u1789\u17cb\u178f\u17b6\u1796\u17d2\u179a\u17b8"
+    ],
+    "name:und_x_variant":[
+        "Phum Samlanh Thom",
+        "Phum Samlanh Thpri",
+        "Phum\u012d S\u00e2ml\u0103nh Tapri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673023,
+        1108564889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825151
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"d0e404688a5c4229ec5d2d42bb159799",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564889,
+            "locality_id":1309892815,
+            "region_id":85673023
+        }
+    ],
+    "wof:id":1309892815,
+    "wof:lastmodified":1537653516,
+    "wof:name":"Phum Samlanh Tapri",
+    "wof:parent_id":1108564889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.22728,
+    12.30251,
+    103.22728,
+    12.30251
+],
+  "geometry": {"coordinates":[103.22727999999999,12.30251],"type":"Point"}
+}

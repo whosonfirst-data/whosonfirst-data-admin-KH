@@ -1,0 +1,74 @@
+{
+  "id": 1226225479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.61213,11.40354,105.61213,11.40354",
+    "geom:latitude":11.40354,
+    "geom:longitude":105.61213,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Ampil Toul",
+    "gn:country_code":"KH",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1830031,
+    "gn:latitude":11.40354,
+    "gn:longitude":105.61213,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Ampil Toul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Ampil Toul"
+    ],
+    "name:und_x_variant":[
+        "Phum Ampil Tuol",
+        "Phum\u012d \u00c2mp\u012dl To\u016dl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673067,
+        1108564729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1830031
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"626fab567a387a5582c38888e00f3b23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564729,
+            "locality_id":1226225479,
+            "region_id":85673067
+        }
+    ],
+    "wof:id":1226225479,
+    "wof:lastmodified":1537653933,
+    "wof:name":"Ampil Toul",
+    "wof:parent_id":1108564729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.61213,
+    11.40354,
+    105.61213,
+    11.40354
+],
+  "geometry": {"coordinates":[105.61212999999999,11.40354],"type":"Point"}
+}

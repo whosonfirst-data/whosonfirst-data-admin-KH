@@ -1,0 +1,70 @@
+{
+  "id": 1243122965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.74239,13.11799,102.74239,13.11799",
+    "geom:latitude":13.11799,
+    "geom:longitude":102.74239,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Sras Tuek Thmei",
+    "gn:country_code":"KH",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11417838,
+    "gn:latitude":13.11799,
+    "gn:longitude":102.74239,
+    "gn:modification_date":"2017-01-07",
+    "gn:name":"Sras Tuek Thmei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Sras Tuek Thmei"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673015,
+        1108564683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11417838
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"23a99c9fb9ca3b298192eedc674ddd2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564683,
+            "locality_id":1243122965,
+            "region_id":85673015
+        }
+    ],
+    "wof:id":1243122965,
+    "wof:lastmodified":1537653999,
+    "wof:name":"Sras Tuek Thmei",
+    "wof:parent_id":1108564683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.74239,
+    13.11799,
+    102.74239,
+    13.11799
+],
+  "geometry": {"coordinates":[102.74239,13.11799],"type":"Point"}
+}

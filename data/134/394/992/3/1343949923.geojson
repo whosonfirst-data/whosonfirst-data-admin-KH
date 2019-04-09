@@ -1,0 +1,81 @@
+{
+  "id": 1343949923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.05722,11.12421,105.05722,11.12421",
+    "geom:latitude":11.12421,
+    "geom:longitude":105.05722,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Koah Thum",
+    "gn:country_code":"KH",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1822644,
+    "gn:latitude":11.12421,
+    "gn:longitude":105.05722,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Koah Thum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Koah Thum"
+    ],
+    "name:khm_x_variant":[
+        "\u1796\u17d2\u179a\u17c2\u1780\u1790\u17d2\u1798"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Pr\u00eak Thmei",
+        "Prek T\u2019mei",
+        "Phum Prek Thmey",
+        "Prek Thmey",
+        "Prey Thmey",
+        "Pr\u00eak Thmei"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673051,
+        1108564703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1822644
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"d765cc9750cf457d14da89f08ab52919",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564703,
+            "locality_id":1343949923,
+            "region_id":85673051
+        }
+    ],
+    "wof:id":1343949923,
+    "wof:lastmodified":1537653334,
+    "wof:name":"Koah Thum",
+    "wof:parent_id":1108564703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.05722,
+    11.12421,
+    105.05722,
+    11.12421
+],
+  "geometry": {"coordinates":[105.05722,11.12421],"type":"Point"}
+}

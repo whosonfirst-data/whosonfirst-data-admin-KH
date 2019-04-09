@@ -1,0 +1,76 @@
+{
+  "id": 1309861191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.95932,13.66663,102.95932,13.66663",
+    "geom:latitude":13.66663,
+    "geom:longitude":102.95932,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Mkak",
+    "gn:country_code":"KH",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1826880,
+    "gn:latitude":13.66663,
+    "gn:longitude":102.95932,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Mkak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Mkak"
+    ],
+    "name:und_x_variant":[
+        "Phum Makak",
+        "Phum\u012d M\u00f4kak",
+        "Khum Makak",
+        "Phum\u012d Mk\u0103k"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673011,
+        421170329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1826880
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"960c3915667e4a94f6b306eae88c7630",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421170329,
+            "locality_id":1309861191,
+            "region_id":85673011
+        }
+    ],
+    "wof:id":1309861191,
+    "wof:lastmodified":1537653666,
+    "wof:name":"Mkak",
+    "wof:parent_id":421170329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.95932,
+    13.66663,
+    102.95932,
+    13.66663
+],
+  "geometry": {"coordinates":[102.95932000000001,13.66663],"type":"Point"}
+}

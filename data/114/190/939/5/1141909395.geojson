@@ -1,0 +1,546 @@
+{
+  "id": 1141909395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.914688621,11.5519759886,104.914688621,11.5519759886",
+    "geom:latitude":11.551976,
+    "geom:longitude":104.914689,
+    "iso:country":"KH",
+    "lbl:latitude":11.551976,
+    "lbl:longitude":104.914689,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ace_x_preferred":[
+        "Phnom Penh"
+    ],
+    "name:afr_x_preferred":[
+        "Phnom Penh"
+    ],
+    "name:alb_x_preferred":[
+        "Phnom Penh"
+    ],
+    "name:amh_x_preferred":[
+        "\u1355\u1296\u121d \u1354\u1295"
+    ],
+    "name:ara_x_preferred":[
+        "\u0628\u0646\u0648\u0645 \u0628\u0646\u0647"
+    ],
+    "name:arg_x_preferred":[
+        "Phnom Penh"
+    ],
+    "name:arm_x_preferred":[
+        "\u054a\u0576\u0578\u0574\u057a\u0565\u0576"
+    ],
+    "name:ast_x_preferred":[
+        "Nom Pen"
+    ],
+    "name:azb_x_preferred":[
+        "\u067e\u0646\u0648\u0645\u200c\u067e\u0646"
+    ],
+    "name:aze_x_preferred":[
+        "Pnompen"
+    ],
+    "name:baq_x_preferred":[
+        "Phnom Penh"
+    ],
+    "name:bcl_x_preferred":[
+        "Phnom Penh"
+    ],
+    "name:bel_x_preferred":[
+        "\u041f\u043d\u0430\u043c\u043f\u0435\u043d\u044c"
+    ],
+    "name:ben_x_preferred":[
+        "\u09aa\u09cd\u200c\u09a8\u09ae \u09aa\u09c7\u09a8"
+    ],
+    "name:bjn_x_preferred":[
+        "Phnum P\u00e9ny"
+    ],
+    "name:bos_x_preferred":[
+        "Phnom Penh"
+    ],
+    "name:bre_x_preferred":[
+        "Phnom Penh"
+    ],
+    "name:bul_x_preferred":[
+        "\u041f\u043d\u043e\u043c \u041f\u0435\u043d"
+    ],
+    "name:bur_x_preferred":[
+        "\u1016\u1014\u103d\u1019\u103a\u1038\u1015\u1004\u103a\u1019\u103c\u102d\u102f\u1037"
+    ],
+    "name:bxr_x_preferred":[
+        "\u041f\u043d\u043e\u043c\u043f\u0435\u043d\u044c"
+    ],
+    "name:cat_x_preferred":[
+        "Phnom Penh"
+    ],
+    "name:cdo_x_preferred":[
+        "Phnom Penh"
+    ],
+    "name:che_x_preferred":[
+        "\u041f\u043d\u043e\u043c\u043f\u0435\u043d\u044c"
+    ],
+    "name:chi_x_preferred":[
+        "\u91d1\u8fb9"
+    ],
+    "name:ckb_x_preferred":[
+        "\u067e\u0646\u06c6\u0645 \u067e\u06ce\u0646"
+    ],
+    "name:cze_x_preferred":[
+        "Phnompenh"
+    ],
+    "name:dan_x_preferred":[
+        "Phnom Penh"
+    ],
+    "name:dut_x_preferred":[
+        "Phnom-Penh"
+    ],
+    "name:eng_x_preferred":[
+        "Phnom Penh"
+    ],
+    "name:epo_x_preferred":[
+        "Pnom-Peno"
+    ],
+    "name:est_x_preferred":[
+        "Phnom Penh"
+    ],
+    "name:fin_x_preferred":[
+        "Phnom Penh"
+    ],
+    "name:fre_x_preferred":[
+        "Phnom Penh"
+    ],
+    "name:frp_x_preferred":[
+        "Phnom Penh"
+    ],
+    "name:fry_x_preferred":[
+        "Pnom Pen"
+    ],
+    "name:geo_x_preferred":[
+        "\u10de\u10dc\u10dd\u10db\u10de\u10d4\u10dc\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Phnom Penh"
+    ],
+    "name:gla_x_preferred":[
+        "Phnom Penh"
+    ],
+    "name:gle_x_preferred":[
+        "Phnom Penh"
+    ],
+    "name:glg_x_preferred":[
+        "Phnom Penh"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a0\u03bd\u03bf\u03bc \u03a0\u03b5\u03bd"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aaa\u0aa8\u0abe\u0aae \u0aaa\u0ac7\u0aa8\u0acd\u0ab9"
+    ],
+    "name:hak_x_preferred":[
+        "Phnom Penh"
+    ],
+    "name:hat_x_preferred":[
+        "Phnom Penh"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05e0\u05d5\u05dd \u05e4\u05df"
+    ],
+    "name:hif_x_preferred":[
+        "Phnom Penh"
+    ],
+    "name:hin_x_preferred":[
+        "\u0928\u093e\u092e\u092a\u0947\u0928\u094d\u0939"
+    ],
+    "name:hrv_x_preferred":[
+        "Phnom Penh"
+    ],
+    "name:hun_x_preferred":[
+        "Phnompen"
+    ],
+    "name:ice_x_preferred":[
+        "Phnom Penh"
+    ],
+    "name:ido_x_preferred":[
+        "Phnom Penh"
+    ],
+    "name:ile_x_preferred":[
+        "Phnom Penh"
+    ],
+    "name:ilo_x_preferred":[
+        "Phnom Penh"
+    ],
+    "name:ind_x_preferred":[
+        "Phnom Penh"
+    ],
+    "name:ita_x_preferred":[
+        "Phnom Penh"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d7\u30ce\u30f3\u30da\u30f3"
+    ],
+    "name:kaa_x_preferred":[
+        "Pnompen"
+    ],
+    "name:kan_x_preferred":[
+        "\u0ca8\u0ccb\u0cae\u0ccd \u0cab\u0cc6\u0ca8\u0ccd"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041f\u043d\u043e\u043c\u043f\u0435\u043d\u044c"
+    ],
+    "name:khm_x_preferred":[
+        "\u1797\u17d2\u1793\u17c6\u1796\u17c1\u1789"
+    ],
+    "name:kir_x_preferred":[
+        "\u041f\u043d\u043e\u043c\u043f\u0435\u043d\u044c"
+    ],
+    "name:kor_x_preferred":[
+        "\ud504\ub188\ud39c"
+    ],
+    "name:lao_x_preferred":[
+        "\u0e9e\u0eb0\u0e99\u0ebb\u0ea1\u0ec0\u0e9b\u0eb1\u0e99"
+    ],
+    "name:lat_x_preferred":[
+        "Phnom Penh"
+    ],
+    "name:lav_x_preferred":[
+        "Pnompe\u0146a"
+    ],
+    "name:lit_x_preferred":[
+        "Pnompenis"
+    ],
+    "name:lmo_x_preferred":[
+        "Phnom Penh"
+    ],
+    "name:lrc_x_preferred":[
+        "\u067e\u0646\u0648\u0645 \u067e\u0646"
+    ],
+    "name:ltz_x_preferred":[
+        "Phnom Penh"
+    ],
+    "name:lzh_x_preferred":[
+        "\u91d1\u908a"
+    ],
+    "name:mac_x_preferred":[
+        "\u041f\u043d\u043e\u043c \u041f\u0435\u043d"
+    ],
+    "name:mai_x_preferred":[
+        "\u092a\u0947\u0928\u094b\u092e \u092a\u0947\u0928\u094d\u0939"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d28\u0d4b\u0d02 \u0d2a\u0d46\u0d7b"
+    ],
+    "name:mar_x_preferred":[
+        "\u092a\u0928\u0949\u092e \u092a\u0947\u0928"
+    ],
+    "name:may_x_preferred":[
+        "Phnom Penh"
+    ],
+    "name:mlg_x_preferred":[
+        "Phnom Penh"
+    ],
+    "name:mon_x_preferred":[
+        "\u041f\u043d\u043e\u043c\u043f\u0435\u043d\u044c"
+    ],
+    "name:nah_x_preferred":[
+        "Phnom Penh"
+    ],
+    "name:nan_x_preferred":[
+        "Phnom Penh"
+    ],
+    "name:nep_x_preferred":[
+        "\u092a\u0947\u0928\u094b\u092e \u092a\u0947\u0928\u094d\u0939"
+    ],
+    "name:nno_x_preferred":[
+        "Phnom Penh"
+    ],
+    "name:nob_x_preferred":[
+        "Phnom Penh"
+    ],
+    "name:nov_x_preferred":[
+        "Phnom Penh"
+    ],
+    "name:oci_x_preferred":[
+        "Phnom Penh"
+    ],
+    "name:oss_x_preferred":[
+        "\u041f\u043d\u043e\u043c\u043f\u0435\u043d\u044c"
+    ],
+    "name:pam_x_preferred":[
+        "Phnom Penh"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a2a\u0a28\u0a3e\u0a2e \u0a2a\u0a48\u0a28"
+    ],
+    "name:pap_x_preferred":[
+        "Phnom Penh"
+    ],
+    "name:per_x_preferred":[
+        "\u067e\u0646\u0648\u0645\u200c\u067e\u0646"
+    ],
+    "name:pms_x_preferred":[
+        "Phnom Penh"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0641\u0646\u0648\u0645 \u067e\u0646"
+    ],
+    "name:pol_x_preferred":[
+        "Phnom Penh"
+    ],
+    "name:por_x_preferred":[
+        "Phnom Penh"
+    ],
+    "name:que_x_preferred":[
+        "Phnom Penh"
+    ],
+    "name:rum_x_preferred":[
+        "Phnom Penh"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043d\u043e\u043c\u043f\u0435\u043d\u044c"
+    ],
+    "name:sah_x_preferred":[
+        "\u041f\u043d\u043e\u043c \u041f\u044d\u043d\u044c"
+    ],
+    "name:scn_x_preferred":[
+        "Phnom Penh"
+    ],
+    "name:sco_x_preferred":[
+        "Phnom Penh"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db1\u0ddc\u0db8\u0dca \u0db4\u0dd9\u0db1\u0dca"
+    ],
+    "name:slo_x_preferred":[
+        "Phnom P\u00e9nh"
+    ],
+    "name:slv_x_preferred":[
+        "Phnom Penh"
+    ],
+    "name:sna_x_preferred":[
+        "Phnom Penh"
+    ],
+    "name:som_x_preferred":[
+        "Phnom Penh"
+    ],
+    "name:spa_x_preferred":[
+        "Nom Pen"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u043d\u043e\u043c \u041f\u0435\u043d"
+    ],
+    "name:swa_x_preferred":[
+        "Phnom Penh"
+    ],
+    "name:swe_x_preferred":[
+        "Phnom Penh"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bc1\u0ba9\u0bcb\u0bae\u0bcd \u0baa\u0bc6\u0ba9\u0bcd"
+    ],
+    "name:tat_x_preferred":[
+        "Pnompen"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2b\u0c4d\u0c28\u0c4b\u0c02 \u0c2a\u0c46\u0c28\u0c4d"
+    ],
+    "name:tgk_x_preferred":[
+        "\u041f\u043d\u043e\u043c\u043f\u0435\u043d"
+    ],
+    "name:tgl_x_preferred":[
+        "Phnom Penh"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e1e\u0e19\u0e21\u0e40\u0e1b\u0e0d"
+    ],
+    "name:tib_x_preferred":[
+        "\u0f55\u0f7c\u0f58\u0f0b\u0f55\u0f7a\u0f53\u0f0d"
+    ],
+    "name:tuk_x_preferred":[
+        "Fnom-Penh"
+    ],
+    "name:tur_x_preferred":[
+        "Phnom Penh"
+    ],
+    "name:uig_x_preferred":[
+        "\u0641\u0646\u0648\u0645 \u067e\u06d0\u0646"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043d\u043e\u043c\u043f\u0435\u043d\u044c"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u0646\u0648\u0645 \u067e\u0646"
+    ],
+    "name:uzb_x_preferred":[
+        "Pnompen"
+    ],
+    "name:vep_x_preferred":[
+        "Pnompen'"
+    ],
+    "name:vie_x_preferred":[
+        "Phn\u00f4m P\u00eanh"
+    ],
+    "name:vol_x_preferred":[
+        "Phnum P\u00e9nh"
+    ],
+    "name:war_x_preferred":[
+        "Phnom Penh"
+    ],
+    "name:wel_x_preferred":[
+        "Phnom Penh"
+    ],
+    "name:wuu_x_preferred":[
+        "\u91d1\u8fb9"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10de\u10dc\u10dd\u10db\u10de\u10d4\u10dc\u10d8"
+    ],
+    "name:yor_x_preferred":[
+        "Phnom Penh"
+    ],
+    "name:yue_x_preferred":[
+        "\u91d1\u908a"
+    ],
+    "ne:ADM0CAP":1.0,
+    "ne:ADM0NAME":"Cambodia",
+    "ne:ADM0_A3":"KHM",
+    "ne:ADM1NAME":"Phnom Penh",
+    "ne:ADMIN1_COD":0,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":0,
+    "ne:CHECKME":5,
+    "ne:CITYALT":"Phnom Penh",
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":null,
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Admin-0 capital",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPLC",
+    "ne:GEONAMEID":1821306,
+    "ne:GEONAMESNO":"GeoNames match general.",
+    "ne:GN_ASCII":"Phnom Penh",
+    "ne:GN_POP":1573544,
+    "ne:GTOPO30":16.0,
+    "ne:ISO_A2":"KH",
+    "ne:LABELRANK":8,
+    "ne:LATITUDE":11.55003,
+    "ne:LONGITUDE":104.916634,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"Phnom Penh",
+    "ne:MAX_AREAKM":464.0,
+    "ne:MAX_AREAMI":179.0,
+    "ne:MAX_BBXMAX":105.0,
+    "ne:MAX_BBXMIN":104.441667,
+    "ne:MAX_BBYMAX":11.691667,
+    "ne:MAX_BBYMIN":11.291667,
+    "ne:MAX_NATSCA":100.0,
+    "ne:MAX_PERKM":703.0,
+    "ne:MAX_PERMI":437.0,
+    "ne:MAX_POP10":1551977,
+    "ne:MAX_POP20":1551977,
+    "ne:MAX_POP300":1551977,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":1551977,
+    "ne:MEAN_BBXC":104.78577,
+    "ne:MEAN_BBYC":11.488418,
+    "ne:MEGACITY":1,
+    "ne:MEGANAME":"Phnum Penh",
+    "ne:MIN_AREAKM":464.0,
+    "ne:MIN_AREAMI":179.0,
+    "ne:MIN_BBXMAX":105.0,
+    "ne:MIN_BBXMIN":104.441667,
+    "ne:MIN_BBYMAX":11.691667,
+    "ne:MIN_BBYMIN":11.291667,
+    "ne:MIN_PERKM":703.0,
+    "ne:MIN_PERMI":437.0,
+    "ne:NAME":"Phnom Penh",
+    "ne:NAMEALT":"Phnum Penh",
+    "ne:NAMEASCII":"Phnom Penh",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":110,
+    "ne:NOTE":null,
+    "ne:POP1950":364,
+    "ne:POP1955":376,
+    "ne:POP1960":389,
+    "ne:POP1965":436,
+    "ne:POP1970":900,
+    "ne:POP1975":100,
+    "ne:POP1980":238,
+    "ne:POP1985":427,
+    "ne:POP1990":615,
+    "ne:POP1995":836,
+    "ne:POP2000":1160,
+    "ne:POP2005":1363,
+    "ne:POP2010":1466,
+    "ne:POP2015":1651,
+    "ne:POP2020":2028,
+    "ne:POP2025":2457,
+    "ne:POP2050":2911,
+    "ne:POP_MAX":1466000,
+    "ne:POP_MIN":1466000,
+    "ne:POP_OTHER":1604086,
+    "ne:RANK_MAX":12,
+    "ne:RANK_MIN":12,
+    "ne:SCALERANK":3,
+    "ne:SOV0NAME":"Cambodia",
+    "ne:SOV_A3":"KHM",
+    "ne:TIMEZONE":"Asia/Phnom_Penh",
+    "ne:UN_ADM0":"Cambodia",
+    "ne:UN_FID":5,
+    "ne:UN_LAT":11.56,
+    "ne:UN_LONG":104.91,
+    "ne:WORLDCITY":0,
+    "ne:min_zoom":5.0,
+    "reversegeo:latitude":11.551976,
+    "reversegeo:longitude":104.914689,
+    "src:geom":"naturalearth",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673063,
+        1108564625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q1850"
+    },
+    "wof:country":"KH",
+    "wof:created":1499131073,
+    "wof:geomhash":"5754ef4cfc68f604f8627fd982cbab28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564625,
+            "locality_id":1141909395,
+            "region_id":85673063
+        }
+    ],
+    "wof:id":1141909395,
+    "wof:lastmodified":1534379374,
+    "wof:name":"Phnom Penh",
+    "wof:parent_id":1108564625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[
+        1125853197
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.91468862118643,
+    11.55197598855841,
+    104.91468862118643,
+    11.55197598855841
+],
+  "geometry": {"coordinates":[104.91468862118643,11.55197598855841],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1243036293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.03379,13.3091,104.03379,13.3091",
+    "geom:latitude":13.3091,
+    "geom:longitude":104.03379,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Anlong Pir",
+    "gn:country_code":"KH",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829823,
+    "gn:latitude":13.3091,
+    "gn:longitude":104.03379,
+    "gn:modification_date":"2017-07-05",
+    "gn:name":"Anlong Pir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Anlong Pir"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u17a2\u1793\u17d2\u179b\u1784\u17cb\u1796\u17b8\u179a",
+        "Phum \u00c2nl\u016dng Pir"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d \u00c2nl\u00f3ng Pir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673029,
+        421171409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829823
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"9ca26dfc1866f24d0e6ab2838ca86e61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421171409,
+            "locality_id":1243036293,
+            "region_id":85673029
+        }
+    ],
+    "wof:id":1243036293,
+    "wof:lastmodified":1537653915,
+    "wof:name":"Anlong Pir",
+    "wof:parent_id":421171409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.03379,
+    13.3091,
+    104.03379,
+    13.3091
+],
+  "geometry": {"coordinates":[104.03379,13.3091],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1209171997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.72937,13.44238,103.72937,13.44238",
+    "geom:latitude":13.44238,
+    "geom:longitude":103.72937,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Phum Thmei",
+    "gn:country_code":"KH",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1823806,
+    "gn:latitude":13.44238,
+    "gn:longitude":103.72937,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Phum Thmei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Thmei"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1790\u17d2\u1798\u17b8"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Thmei (1)"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1823806
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"cffccbef1b2242d2ccab4924cd0de0c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209171997
+        }
+    ],
+    "wof:id":1209171997,
+    "wof:lastmodified":1537653407,
+    "wof:name":"Phum Thmei",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.72937,
+    13.44238,
+    103.72937,
+    13.44238
+],
+  "geometry": {"coordinates":[103.72937,13.44238],"type":"Point"}
+}

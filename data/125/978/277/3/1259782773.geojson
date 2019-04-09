@@ -1,0 +1,67 @@
+{
+  "id": 1259782773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.96355,13.06151,104.96355,13.06151",
+    "geom:latitude":13.06151,
+    "geom:longitude":104.96355,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Phumi Depo",
+    "gn:country_code":"KH",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828537,
+    "gn:latitude":13.06151,
+    "gn:longitude":104.96355,
+    "gn:modification_date":"1993-12-30",
+    "gn:name":"Phum\u012d D\u00e9po",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673071,
+        1108564801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828537
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"3024e98e4d26fb2f001a0a8b8ec54f69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564801,
+            "locality_id":1259782773,
+            "region_id":85673071
+        }
+    ],
+    "wof:id":1259782773,
+    "wof:lastmodified":1536924907,
+    "wof:name":"Phumi Depo",
+    "wof:parent_id":1108564801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.96355,
+    13.06151,
+    104.96355,
+    13.06151
+],
+  "geometry": {"coordinates":[104.96355,13.06151],"type":"Point"}
+}

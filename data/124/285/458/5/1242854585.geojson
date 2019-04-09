@@ -1,0 +1,73 @@
+{
+  "id": 1242854585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.91313,12.66209,103.91313,12.66209",
+    "geom:latitude":12.66209,
+    "geom:longitude":103.91313,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Phum Boeng Ben",
+    "gn:country_code":"KH",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11538810,
+    "gn:latitude":12.66209,
+    "gn:longitude":103.91313,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Phum B\u0153\u0306ng B\u0115n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum B\u0153\u0306ng B\u0115n"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1794\u17b9\u1784\u1794\u17b7\u1793"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673023,
+        1108564687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11538810
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"f7bf3e8a2a01a1737ac13df486bc1d9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564687,
+            "locality_id":1242854585,
+            "region_id":85673023
+        }
+    ],
+    "wof:id":1242854585,
+    "wof:lastmodified":1537654098,
+    "wof:name":"Phum Boeng Ben",
+    "wof:parent_id":1108564687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.91313,
+    12.66209,
+    103.91313,
+    12.66209
+],
+  "geometry": {"coordinates":[103.91313,12.66209],"type":"Point"}
+}

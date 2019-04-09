@@ -1,0 +1,67 @@
+{
+  "id": 1276266675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.68499,12.25648,105.68499,12.25648",
+    "geom:latitude":12.25648,
+    "geom:longitude":105.68499,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Phumi Chong Thnal",
+    "gn:country_code":"KH",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828856,
+    "gn:latitude":12.25648,
+    "gn:longitude":105.68499,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Phum\u012d Ch\u014fng Thn\u00e1l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        1108804319,
+        1108564719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828856
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"36156c3afe05d3489fc70967e5a47d03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564719,
+            "locality_id":1276266675,
+            "region_id":1108804319
+        }
+    ],
+    "wof:id":1276266675,
+    "wof:lastmodified":1536866608,
+    "wof:name":"Phumi Chong Thnal",
+    "wof:parent_id":1108564719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.68498999999998,
+    12.25648,
+    105.68498999999998,
+    12.25648
+],
+  "geometry": {"coordinates":[105.68498999999998,12.25648],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1276966391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.75133,12.63078,103.75133,12.63078",
+    "geom:latitude":12.63078,
+    "geom:longitude":103.75133,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Prey Damrei",
+    "gn:country_code":"KH",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825839,
+    "gn:latitude":12.63078,
+    "gn:longitude":103.75133,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Prey Damrei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Prey Damrei"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1796\u17d2\u179a\u17c3\u178a\u17c6\u179a\u17b8",
+        "Phum Prey D\u00e2mrei"
+    ],
+    "name:und_x_variant":[
+        "P\u2019um Pr\u0115i P\u2019dau",
+        "Phum\u012d Prey D\u00e2mrei"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673023,
+        1108564595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825839
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"fc12c49104ad6dd778573209287e8bcc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564595,
+            "locality_id":1276966391,
+            "region_id":85673023
+        }
+    ],
+    "wof:id":1276966391,
+    "wof:lastmodified":1537653570,
+    "wof:name":"Prey Damrei",
+    "wof:parent_id":1108564595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.75133,
+    12.63078,
+    103.75133,
+    12.63078
+],
+  "geometry": {"coordinates":[103.75133,12.63078],"type":"Point"}
+}

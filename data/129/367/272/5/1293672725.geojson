@@ -1,0 +1,67 @@
+{
+  "id": 1293672725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.26667,11.1,106.26667,11.1",
+    "geom:latitude":11.1,
+    "geom:longitude":106.26667,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Phumi A Lang",
+    "gn:country_code":"KH",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1830070,
+    "gn:latitude":11.1,
+    "gn:longitude":106.26667,
+    "gn:modification_date":"1993-12-30",
+    "gn:name":"Phum\u012d A Lang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680589,
+        1108781945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1830070
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"e89e87bf8eff017ea0ce460bff18ecab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781945,
+            "locality_id":1293672725,
+            "region_id":85680589
+        }
+    ],
+    "wof:id":1293672725,
+    "wof:lastmodified":1537016557,
+    "wof:name":"Phumi A Lang",
+    "wof:parent_id":1108781945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.26667,
+    11.1,
+    106.26667,
+    11.1
+],
+  "geometry": {"coordinates":[106.26667,11.1],"type":"Point"}
+}

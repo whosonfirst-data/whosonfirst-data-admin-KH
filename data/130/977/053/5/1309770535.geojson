@@ -1,0 +1,71 @@
+{
+  "id": 1309770535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.20379,10.61516,104.20379,10.61516",
+    "geom:latitude":10.61516,
+    "geom:longitude":104.20379,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Phumi Krang",
+    "gn:country_code":"KH",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827239,
+    "gn:latitude":10.61516,
+    "gn:longitude":104.20379,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Kr\u0103ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum Krang",
+        "Phum\u012d Kr\u0103ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673093,
+        1108564883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827239
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"e33b96d03930ac3f84ebdd2b5740918c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564883,
+            "locality_id":1309770535,
+            "region_id":85673093
+        }
+    ],
+    "wof:id":1309770535,
+    "wof:lastmodified":1537653698,
+    "wof:name":"Phumi Krang",
+    "wof:parent_id":1108564883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.20379,
+    10.61516,
+    104.20379,
+    10.61516
+],
+  "geometry": {"coordinates":[104.20379,10.61516],"type":"Point"}
+}

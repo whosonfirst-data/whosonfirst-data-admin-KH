@@ -1,0 +1,75 @@
+{
+  "id": 1243147445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.86899,11.33906,104.86899,11.33906",
+    "geom:latitude":11.33906,
+    "geom:longitude":104.86899,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Pot Sar",
+    "gn:country_code":"KH",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1825486,
+    "gn:latitude":11.33906,
+    "gn:longitude":104.86899,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Pot Sar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Pot Sar"
+    ],
+    "name:und_x_variant":[
+        "Kh\u016dm P\u016dth S\u00e2",
+        "P\u00fbt Sas",
+        "Phum\u012d P\u016dtth S\u00e2r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673107,
+        1108564613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1825486
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"f03253fbb22577e540a9a4bfaff845c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564613,
+            "locality_id":1243147445,
+            "region_id":85673107
+        }
+    ],
+    "wof:id":1243147445,
+    "wof:lastmodified":1537653545,
+    "wof:name":"Pot Sar",
+    "wof:parent_id":1108564613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.86899,
+    11.33906,
+    104.86899,
+    11.33906
+],
+  "geometry": {"coordinates":[104.86899,11.33906],"type":"Point"}
+}

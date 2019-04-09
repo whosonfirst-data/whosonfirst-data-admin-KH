@@ -1,0 +1,70 @@
+{
+  "id": 1293243139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.47913,12.78358,103.47913,12.78358",
+    "geom:latitude":12.78358,
+    "geom:longitude":103.47913,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Chrey Pir",
+    "gn:country_code":"KH",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11349855,
+    "gn:latitude":12.78358,
+    "gn:longitude":103.47913,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Chrey Pir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Chrey Pir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673015,
+        1108564739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11349855
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"527d7134d2f34f80568e923b986ceaea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564739,
+            "locality_id":1293243139,
+            "region_id":85673015
+        }
+    ],
+    "wof:id":1293243139,
+    "wof:lastmodified":1537653978,
+    "wof:name":"Chrey Pir",
+    "wof:parent_id":1108564739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.47913,
+    12.78358,
+    103.47913,
+    12.78358
+],
+  "geometry": {"coordinates":[103.47913,12.78358],"type":"Point"}
+}

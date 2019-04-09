@@ -1,0 +1,79 @@
+{
+  "id": 1310668573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.04777,13.85389,103.04777,13.85389",
+    "geom:latitude":13.85389,
+    "geom:longitude":103.04777,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Kouk Khpos",
+    "gn:country_code":"KH",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827401,
+    "gn:latitude":13.85389,
+    "gn:longitude":103.04777,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Kouk Khpos",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Kouk Khpos"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1782\u17c4\u1780\u1781\u17d2\u1796\u179f\u17cb",
+        "Phum Ko\u016dk Khpu\u014fs"
+    ],
+    "name:und_x_variant":[
+        "Phum Ampil Prong",
+        "Phum\u012d Ko\u016dk Khpu\u014fs",
+        "Phum\u012d Ko\u016dk Khp\u00f3s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673011,
+        421181961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827401
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"b6f4fdb26e4e259d0284c114a581ae9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421181961,
+            "locality_id":1310668573,
+            "region_id":85673011
+        }
+    ],
+    "wof:id":1310668573,
+    "wof:lastmodified":1537653715,
+    "wof:name":"Kouk Khpos",
+    "wof:parent_id":421181961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.04777,
+    13.85389,
+    103.04777,
+    13.85389
+],
+  "geometry": {"coordinates":[103.04777,13.85389],"type":"Point"}
+}

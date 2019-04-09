@@ -1,0 +1,74 @@
+{
+  "id": 1276419991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.86796,13.62745,104.86796,13.62745",
+    "geom:latitude":13.62745,
+    "geom:longitude":104.86796,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Boeng",
+    "gn:country_code":"KH",
+    "gn:dem":103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829475,
+    "gn:latitude":13.62745,
+    "gn:longitude":104.86796,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Boeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Boeng"
+    ],
+    "name:khm_x_variant":[
+        "Phum\u012d B\u0153\u0306ng",
+        "\u1797\u17bc\u1798\u17b7 \u1794\u17b9\u1784"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673071,
+        1108564827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829475
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"539474b720ccc0a5092b327a4cf4c972",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564827,
+            "locality_id":1276419991,
+            "region_id":85673071
+        }
+    ],
+    "wof:id":1276419991,
+    "wof:lastmodified":1537653885,
+    "wof:name":"Boeng",
+    "wof:parent_id":1108564827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.86796,
+    13.62745,
+    104.86796,
+    13.62745
+],
+  "geometry": {"coordinates":[104.86796,13.62745],"type":"Point"}
+}

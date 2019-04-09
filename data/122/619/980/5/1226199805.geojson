@@ -1,0 +1,76 @@
+{
+  "id": 1226199805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.12564,13.48717,103.12564,13.48717",
+    "geom:latitude":13.48717,
+    "geom:longitude":103.12564,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Phum Barang",
+    "gn:country_code":"KH",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829572,
+    "gn:latitude":13.48717,
+    "gn:longitude":103.12564,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Phum Bar\u0103ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Bar\u0103ng"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1794\u17b6\u179a\u17b6\u17c6\u1784"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d Bar\u0103ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673011,
+        1108564737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829572
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"9743cdffcf41b9df90c67a7ad3162b97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564737,
+            "locality_id":1226199805,
+            "region_id":85673011
+        }
+    ],
+    "wof:id":1226199805,
+    "wof:lastmodified":1537653893,
+    "wof:name":"Phum Barang",
+    "wof:parent_id":1108564737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.12564,
+    13.48717,
+    103.12564,
+    13.48717
+],
+  "geometry": {"coordinates":[103.12564,13.48717],"type":"Point"}
+}

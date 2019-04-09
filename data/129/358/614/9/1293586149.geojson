@@ -1,0 +1,77 @@
+{
+  "id": 1293586149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.06311,11.10439,105.06311,11.10439",
+    "geom:latitude":11.10439,
+    "geom:longitude":105.06311,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Phum Chrouy Takev Leu",
+    "gn:country_code":"KH",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828739,
+    "gn:latitude":11.10439,
+    "gn:longitude":105.06311,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Phum Chro\u016dy Tak\u00eav Leu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Chro\u016dy Tak\u00eav Leu"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1787\u17d2\u179a\u17c4\u1799\u178f\u17b6\u1780\u17c2\u179c\u179b\u17be"
+    ],
+    "name:und_x_variant":[
+        "Wat Chroi Takeo",
+        "Phum\u012d Chro\u016dy Tak\u00eav Leu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673051,
+        1108564703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828739
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"8d6370d4feff75f9227c075031397321",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564703,
+            "locality_id":1293586149,
+            "region_id":85673051
+        }
+    ],
+    "wof:id":1293586149,
+    "wof:lastmodified":1537653829,
+    "wof:name":"Phum Chrouy Takev Leu",
+    "wof:parent_id":1108564703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.06311,
+    11.10439,
+    105.06311,
+    11.10439
+],
+  "geometry": {"coordinates":[105.06310999999999,11.10439],"type":"Point"}
+}

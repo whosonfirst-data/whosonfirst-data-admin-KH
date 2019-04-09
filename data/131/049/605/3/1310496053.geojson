@@ -1,0 +1,77 @@
+{
+  "id": 1310496053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.06923,12.49231,106.06923,12.49231",
+    "geom:latitude":12.49231,
+    "geom:longitude":106.06923,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Kapou",
+    "gn:country_code":"KH",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827901,
+    "gn:latitude":12.49231,
+    "gn:longitude":106.06923,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Kapou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Kapou"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1780\u17b6\u1794\u17c9\u17bc\u179a"
+    ],
+    "name:und_x_variant":[
+        "Phum Kapo",
+        "Phum\u012d Kapor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673081,
+        421188049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827901
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"b07079bdbc509562052c04fe5f008895",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421188049,
+            "locality_id":1310496053,
+            "region_id":85673081
+        }
+    ],
+    "wof:id":1310496053,
+    "wof:lastmodified":1537653759,
+    "wof:name":"Kapou",
+    "wof:parent_id":421188049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.06923,
+    12.49231,
+    106.06923,
+    12.49231
+],
+  "geometry": {"coordinates":[106.06923,12.49231],"type":"Point"}
+}

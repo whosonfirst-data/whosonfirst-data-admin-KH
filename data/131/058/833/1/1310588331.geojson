@@ -1,0 +1,76 @@
+{
+  "id": 1310588331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.75719,12.51869,103.75719,12.51869",
+    "geom:latitude":12.51869,
+    "geom:longitude":103.75719,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Phum Danghak",
+    "gn:country_code":"KH",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828591,
+    "gn:latitude":12.51869,
+    "gn:longitude":103.75719,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Phum D\u00e2ngh\u00e2k",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum D\u00e2ngh\u00e2k"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u178a\u1784\u17d2\u17a0\u1780\u17cb"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d D\u00e2ngh\u00e1k (2)"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673023,
+        1108564595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828591
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"d3685feed99a24527ac0caaa38c27ded",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564595,
+            "locality_id":1310588331,
+            "region_id":85673023
+        }
+    ],
+    "wof:id":1310588331,
+    "wof:lastmodified":1537653817,
+    "wof:name":"Phum Danghak",
+    "wof:parent_id":1108564595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.75719,
+    12.51869,
+    103.75719,
+    12.51869
+],
+  "geometry": {"coordinates":[103.75718999999999,12.51869],"type":"Point"}
+}

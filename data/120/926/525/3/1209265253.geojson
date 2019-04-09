@@ -1,0 +1,67 @@
+{
+  "id": 1209265253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.4314,12.88688,103.4314,12.88688",
+    "geom:latitude":12.88688,
+    "geom:longitude":103.4314,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Phum Tuol Thngan",
+    "gn:country_code":"KH",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11349821,
+    "gn:latitude":12.88688,
+    "gn:longitude":103.4314,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Phum Tu\u014fl Thngan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Tu\u014fl Thngan"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1791\u17bd\u179b\u1790\u17d2\u1784\u17b6\u1793\u17cb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11349821
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"fbafd382ee7250cf49cba5782b5a57b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209265253
+        }
+    ],
+    "wof:id":1209265253,
+    "wof:lastmodified":1537653976,
+    "wof:name":"Phum Tuol Thngan",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.4314,
+    12.88688,
+    103.4314,
+    12.88688
+],
+  "geometry": {"coordinates":[103.4314,12.88688],"type":"Point"}
+}

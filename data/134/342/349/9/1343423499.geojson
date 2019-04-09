@@ -1,0 +1,72 @@
+{
+  "id": 1343423499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.99143,11.142,104.99143,11.142",
+    "geom:latitude":11.142,
+    "geom:longitude":104.99143,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Phumi Sedthei",
+    "gn:country_code":"KH",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1824917,
+    "gn:latitude":11.142,
+    "gn:longitude":104.99143,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d S\u00e9dthei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum Sethey",
+        "Phum\u012d S\u00eathei",
+        "Phum\u012d S\u00e9dthei"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673107,
+        1108564787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1824917
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"bc50b77325e3d88ef3c7eb9ee217d90c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564787,
+            "locality_id":1343423499,
+            "region_id":85673107
+        }
+    ],
+    "wof:id":1343423499,
+    "wof:lastmodified":1537653495,
+    "wof:name":"Phumi Sedthei",
+    "wof:parent_id":1108564787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.99143,
+    11.142,
+    104.99143,
+    11.142
+],
+  "geometry": {"coordinates":[104.99142999999999,11.142],"type":"Point"}
+}

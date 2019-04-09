@@ -1,0 +1,67 @@
+{
+  "id": 1242832297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.66505,13.90075,103.66505,13.90075",
+    "geom:latitude":13.90075,
+    "geom:longitude":103.66505,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Phumi Kouk Andong",
+    "gn:country_code":"KH",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827437,
+    "gn:latitude":13.90075,
+    "gn:longitude":103.66505,
+    "gn:modification_date":"2009-05-12",
+    "gn:name":"Phum\u012d Ko\u016dk \u00c2ndong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673029,
+        1108564847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827437
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"29aa16c3e78283b0f6d11f58cbf1fbf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564847,
+            "locality_id":1242832297,
+            "region_id":85673029
+        }
+    ],
+    "wof:id":1242832297,
+    "wof:lastmodified":1536697172,
+    "wof:name":"Phumi Kouk Andong",
+    "wof:parent_id":1108564847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.66505,
+    13.90075,
+    103.66505,
+    13.90075
+],
+  "geometry": {"coordinates":[103.66504999999999,13.90075],"type":"Point"}
+}

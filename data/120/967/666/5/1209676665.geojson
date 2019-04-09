@@ -1,0 +1,65 @@
+{
+  "id": 1209676665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.31942,13.35438,103.31942,13.35438",
+    "geom:latitude":13.35438,
+    "geom:longitude":103.31942,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Phumi Barmei",
+    "gn:country_code":"KH",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829555,
+    "gn:latitude":13.35438,
+    "gn:longitude":103.31942,
+    "gn:modification_date":"2016-04-10",
+    "gn:name":"Phum\u012d B\u00e2rmei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum Barmey",
+        "Phum\u012d B\u00e2rmei"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829555
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"2e79fa04de3750040c01290ecfe00d36",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209676665
+        }
+    ],
+    "wof:id":1209676665,
+    "wof:lastmodified":1537653891,
+    "wof:name":"Phumi Barmei",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.31942,
+    13.35438,
+    103.31942,
+    13.35438
+],
+  "geometry": {"coordinates":[103.31941999999999,13.35438],"type":"Point"}
+}

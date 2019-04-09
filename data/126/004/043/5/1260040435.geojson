@@ -1,0 +1,70 @@
+{
+  "id": 1260040435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.71994,13.05738,102.71994,13.05738",
+    "geom:latitude":13.05738,
+    "geom:longitude":102.71994,
+    "gn:admin1_code":"30",
+    "gn:asciiname":"Ou Donta Leu",
+    "gn:country_code":"KH",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11417842,
+    "gn:latitude":13.05738,
+    "gn:longitude":102.71994,
+    "gn:modification_date":"2017-01-07",
+    "gn:name":"Ou Donta Leu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Ou Donta Leu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673037,
+        1108564815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11417842
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"f5f54d49d5e399f7e6afea75c28ad46a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564815,
+            "locality_id":1260040435,
+            "region_id":85673037
+        }
+    ],
+    "wof:id":1260040435,
+    "wof:lastmodified":1537653999,
+    "wof:name":"Ou Donta Leu",
+    "wof:parent_id":1108564815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.71994,
+    13.05738,
+    102.71994,
+    13.05738
+],
+  "geometry": {"coordinates":[102.71993999999999,13.05738],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1259583661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.59278,11.12275,104.59278,11.12275",
+    "geom:latitude":11.12275,
+    "geom:longitude":104.59278,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Phumi Dei Kraham",
+    "gn:country_code":"KH",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828548,
+    "gn:latitude":11.12275,
+    "gn:longitude":104.59278,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Dei Kr\u00e2h\u00e2m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum Dey Kraham",
+        "Phum\u012d Dei Kr\u00e2h\u00e2m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673053,
+        1108564609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828548
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"e94d77edf77fb6014d86cd107783b81e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564609,
+            "locality_id":1259583661,
+            "region_id":85673053
+        }
+    ],
+    "wof:id":1259583661,
+    "wof:lastmodified":1537653814,
+    "wof:name":"Phumi Dei Kraham",
+    "wof:parent_id":1108564609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.59278,
+    11.12275,
+    104.59278,
+    11.12275
+],
+  "geometry": {"coordinates":[104.59278,11.12275],"type":"Point"}
+}

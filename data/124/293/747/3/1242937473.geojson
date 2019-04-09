@@ -1,0 +1,67 @@
+{
+  "id": 1242937473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.51953,10.46809,104.51953,10.46809",
+    "geom:latitude":10.46809,
+    "geom:longitude":104.51953,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Phumi Anlong Pring",
+    "gn:country_code":"KH",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829821,
+    "gn:latitude":10.46809,
+    "gn:longitude":104.51953,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Phum\u012d \u00c2nl\u00f3ng Pring",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673093,
+        1108564675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829821
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"8ff32b87a689b57e2c6ddf0ec146f818",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564675,
+            "locality_id":1242937473,
+            "region_id":85673093
+        }
+    ],
+    "wof:id":1242937473,
+    "wof:lastmodified":1537040766,
+    "wof:name":"Phumi Anlong Pring",
+    "wof:parent_id":1108564675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.51953,
+    10.46809,
+    104.51953,
+    10.46809
+],
+  "geometry": {"coordinates":[104.51953,10.46809],"type":"Point"}
+}

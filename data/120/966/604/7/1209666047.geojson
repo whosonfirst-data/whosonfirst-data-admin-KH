@@ -1,0 +1,70 @@
+{
+  "id": 1209666047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.45625,12.69562,103.45625,12.69562",
+    "geom:latitude":12.69562,
+    "geom:longitude":103.45625,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Phum O Veng",
+    "gn:country_code":"KH",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1826655,
+    "gn:latitude":12.69562,
+    "gn:longitude":103.45625,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Phum O V\u00eang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum O V\u00eang"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u17a2\u17bc\u179c\u17c2\u1784"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d O V\u00eang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1826655
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"cdd7533ac5d9507ae9fc953b9d5a9c48",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209666047
+        }
+    ],
+    "wof:id":1209666047,
+    "wof:lastmodified":1537653646,
+    "wof:name":"Phum O Veng",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.45625,
+    12.69562,
+    103.45625,
+    12.69562
+],
+  "geometry": {"coordinates":[103.45625,12.69562],"type":"Point"}
+}

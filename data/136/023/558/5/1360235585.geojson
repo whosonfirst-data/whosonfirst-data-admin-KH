@@ -1,0 +1,67 @@
+{
+  "id": 1360235585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.51188,12.68866,103.51188,12.68866",
+    "geom:latitude":12.68866,
+    "geom:longitude":103.51188,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Phumi Khmaoch Sneng",
+    "gn:country_code":"KH",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827703,
+    "gn:latitude":12.68866,
+    "gn:longitude":103.51188,
+    "gn:modification_date":"2009-05-11",
+    "gn:name":"Phum\u012d Khma\u00f4ch Sn\u00eang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673015,
+        1108564739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827703
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"dec876a9e36386a7c92121d8dfba8baf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564739,
+            "locality_id":1360235585,
+            "region_id":85673015
+        }
+    ],
+    "wof:id":1360235585,
+    "wof:lastmodified":1536729089,
+    "wof:name":"Phumi Khmaoch Sneng",
+    "wof:parent_id":1108564739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.51188,
+    12.68866,
+    103.51188,
+    12.68866
+],
+  "geometry": {"coordinates":[103.51188,12.68866],"type":"Point"}
+}

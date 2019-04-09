@@ -1,0 +1,68 @@
+{
+  "id": 1209316417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.77511,12.4151,104.77511,12.4151",
+    "geom:latitude":12.4151,
+    "geom:longitude":104.77511,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Chranouk",
+    "gn:country_code":"KH",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1823927,
+    "gn:latitude":12.4151,
+    "gn:longitude":104.77511,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Chranouk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Chranouk"
+    ],
+    "name:und_x_variant":[
+        "Chranok",
+        "Phum\u012d Thl\u00f4k"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1823927
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"c38cc0903effb817e8ef122751616857",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209316417
+        }
+    ],
+    "wof:id":1209316417,
+    "wof:lastmodified":1537653416,
+    "wof:name":"Chranouk",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.77511,
+    12.4151,
+    104.77511,
+    12.4151
+],
+  "geometry": {"coordinates":[104.77511,12.4151],"type":"Point"}
+}

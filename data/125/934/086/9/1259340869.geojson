@@ -1,0 +1,75 @@
+{
+  "id": 1259340869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.81715,13.51569,103.81715,13.51569",
+    "geom:latitude":13.51569,
+    "geom:longitude":103.81715,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Svay Chek",
+    "gn:country_code":"KH",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1824447,
+    "gn:latitude":13.51569,
+    "gn:longitude":103.81715,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Svay Chek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Svay Chek"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u179f\u17d2\u179c\u17b6\u1799\u1785\u17c1\u1780",
+        "Phum\u012d Svay Ch\u00e9k",
+        "Phum Svay Ch\u00e9k"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673029,
+        1108564585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1824447
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"96ff56638b11fb53e9e48783257e8f23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564585,
+            "locality_id":1259340869,
+            "region_id":85673029
+        }
+    ],
+    "wof:id":1259340869,
+    "wof:lastmodified":1537653459,
+    "wof:name":"Svay Chek",
+    "wof:parent_id":1108564585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.81715,
+    13.51569,
+    103.81715,
+    13.51569
+],
+  "geometry": {"coordinates":[103.81715,13.51569],"type":"Point"}
+}

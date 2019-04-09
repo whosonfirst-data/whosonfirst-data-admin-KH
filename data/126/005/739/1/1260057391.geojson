@@ -1,0 +1,71 @@
+{
+  "id": 1260057391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.01922,12.52561,104.01922,12.52561",
+    "geom:latitude":12.52561,
+    "geom:longitude":104.01922,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Phumi Tnaot Bat",
+    "gn:country_code":"KH",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1823681,
+    "gn:latitude":12.52561,
+    "gn:longitude":104.01922,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Tna\u00f4t Bat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sa Tom",
+        "Phum\u012d Tna\u00f4t Bat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673023,
+        421203239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1823681
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"291f2557f8bb9b9085c32a93fa8b6386",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421203239,
+            "locality_id":1260057391,
+            "region_id":85673023
+        }
+    ],
+    "wof:id":1260057391,
+    "wof:lastmodified":1537653397,
+    "wof:name":"Phumi Tnaot Bat",
+    "wof:parent_id":421203239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.01922,
+    12.52561,
+    104.01922,
+    12.52561
+],
+  "geometry": {"coordinates":[104.01922,12.52561],"type":"Point"}
+}

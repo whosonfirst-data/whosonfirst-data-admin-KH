@@ -1,0 +1,71 @@
+{
+  "id": 1209370187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.25618,13.70249,103.25618,13.70249",
+    "geom:latitude":13.70249,
+    "geom:longitude":103.25618,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Phum Banchet Bos",
+    "gn:country_code":"KH",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829652,
+    "gn:latitude":13.70249,
+    "gn:longitude":103.25618,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Phum B\u00e2nch\u0115t Bos",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum B\u00e2nch\u0115t Bos"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1794\u1789\u17d2\u1785\u17b7\u178f\u1794\u17bb\u179f"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d B\u00e2nch\u0115t Bos",
+        "Phum\u012d B\u00e2nhch\u0115t B\u014fs"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829652
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"7af25cb7d4effc095599cad573e56f2a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209370187
+        }
+    ],
+    "wof:id":1209370187,
+    "wof:lastmodified":1537653900,
+    "wof:name":"Phum Banchet Bos",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.25618,
+    13.70249,
+    103.25618,
+    13.70249
+],
+  "geometry": {"coordinates":[103.25618,13.70249],"type":"Point"}
+}

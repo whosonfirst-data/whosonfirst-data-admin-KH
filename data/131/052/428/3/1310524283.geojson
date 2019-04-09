@@ -1,0 +1,71 @@
+{
+  "id": 1310524283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.94437,12.57201,104.94437,12.57201",
+    "geom:latitude":12.57201,
+    "geom:longitude":104.94437,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Phumi Pongror",
+    "gn:country_code":"KH",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1826383,
+    "gn:latitude":12.57201,
+    "gn:longitude":104.94437,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d P\u00f4ngr\u00f4r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum\u012d P\u016dngr\u00f4",
+        "Phum\u012d P\u00f4ngr\u00f4r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673057,
+        1108564829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1826383
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"fee82d812f36080dd251ae850444c5b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564829,
+            "locality_id":1310524283,
+            "region_id":85673057
+        }
+    ],
+    "wof:id":1310524283,
+    "wof:lastmodified":1537653620,
+    "wof:name":"Phumi Pongror",
+    "wof:parent_id":1108564829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.94437,
+    12.57201,
+    104.94437,
+    12.57201
+],
+  "geometry": {"coordinates":[104.94437000000001,12.57201],"type":"Point"}
+}

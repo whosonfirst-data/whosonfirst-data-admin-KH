@@ -1,0 +1,78 @@
+{
+  "id": 1310360817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.14818,13.60643,103.14818,13.60643",
+    "geom:latitude":13.60643,
+    "geom:longitude":103.14818,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Phum Paoy Thach",
+    "gn:country_code":"KH",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1826627,
+    "gn:latitude":13.60643,
+    "gn:longitude":103.14818,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Phum Pa\u00f4y Thach",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum Pa\u00f4y Thach"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1794\u17c9\u17c4\u1799\u178f\u17d2\u179a\u17b6\u1785"
+    ],
+    "name:und_x_variant":[
+        "Poy Trach",
+        "Phum\u012d Pa\u00f4y Thach",
+        "Phum\u012d Pa\u00f4y Trach"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673011,
+        421183973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1826627
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"127539be09c53533c6fcee484f89a8c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421183973,
+            "locality_id":1310360817,
+            "region_id":85673011
+        }
+    ],
+    "wof:id":1310360817,
+    "wof:lastmodified":1537653643,
+    "wof:name":"Phum Paoy Thach",
+    "wof:parent_id":421183973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.14818,
+    13.60643,
+    103.14818,
+    13.60643
+],
+  "geometry": {"coordinates":[103.14818,13.60643],"type":"Point"}
+}

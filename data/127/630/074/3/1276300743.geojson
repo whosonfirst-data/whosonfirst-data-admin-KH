@@ -1,0 +1,70 @@
+{
+  "id": 1276300743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.19368,13.66664,107.19368,13.66664",
+    "geom:latitude":13.66664,
+    "geom:longitude":107.19368,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Nhol",
+    "gn:country_code":"KH",
+    "gn:dem":288,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11484207,
+    "gn:latitude":13.66664,
+    "gn:longitude":107.19368,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Nhol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Nhol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673089,
+        1108564607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11484207
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"ef864b4a35445985708d49871e6d3b88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564607,
+            "locality_id":1276300743,
+            "region_id":85673089
+        }
+    ],
+    "wof:id":1276300743,
+    "wof:lastmodified":1537654064,
+    "wof:name":"Nhol",
+    "wof:parent_id":1108564607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.19368,
+    13.66664,
+    107.19368,
+    13.66664
+],
+  "geometry": {"coordinates":[107.19368,13.66664],"type":"Point"}
+}

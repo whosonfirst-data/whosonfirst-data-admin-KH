@@ -1,0 +1,64 @@
+{
+  "id": 1209586663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.37972,10.94772,105.37972,10.94772",
+    "geom:latitude":10.94772,
+    "geom:longitude":105.37972,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Ampil",
+    "gn:country_code":"KH",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11477945,
+    "gn:latitude":10.94772,
+    "gn:longitude":105.37972,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Ampil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Ampil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11477945
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"2ed8d685036c8d12c4807d8cb1a5c98b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209586663
+        }
+    ],
+    "wof:id":1209586663,
+    "wof:lastmodified":1537654038,
+    "wof:name":"Ampil",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.37972,
+    10.94772,
+    105.37972,
+    10.94772
+],
+  "geometry": {"coordinates":[105.37972000000001,10.94772],"type":"Point"}
+}

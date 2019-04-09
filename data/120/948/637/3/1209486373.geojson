@@ -1,0 +1,64 @@
+{
+  "id": 1209486373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.27492,10.94508,105.27492,10.94508",
+    "geom:latitude":10.94508,
+    "geom:longitude":105.27492,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Tuol Sang",
+    "gn:country_code":"KH",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11477908,
+    "gn:latitude":10.94508,
+    "gn:longitude":105.27492,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Tuol Sang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Tuol Sang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11477908
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"ae1e1697ebd49f4a8c724f520898f041",
+    "wof:hierarchy":[
+        {
+            "country_id":85632359,
+            "locality_id":1209486373
+        }
+    ],
+    "wof:id":1209486373,
+    "wof:lastmodified":1537654038,
+    "wof:name":"Tuol Sang",
+    "wof:parent_id":85632359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.27492,
+    10.94508,
+    105.27492,
+    10.94508
+],
+  "geometry": {"coordinates":[105.27491999999999,10.94508],"type":"Point"}
+}

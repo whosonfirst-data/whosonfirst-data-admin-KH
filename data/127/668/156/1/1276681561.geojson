@@ -1,0 +1,74 @@
+{
+  "id": 1276681561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.25474,12.73811,104.25474,12.73811",
+    "geom:latitude":12.73811,
+    "geom:longitude":104.25474,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Peam Bang",
+    "gn:country_code":"KH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1830180,
+    "gn:latitude":12.73811,
+    "gn:longitude":104.25474,
+    "gn:modification_date":"2017-07-05",
+    "gn:name":"P\u00e9am Bang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "\u1796\u17b6\u1798\u1794\u17b6\u1784"
+    ],
+    "name:und_x_variant":[
+        "P\u00e9am Bang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673057,
+        1108564849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1830180,
+        "wk:page":"Peam_Bang"
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"5a41e1c6496d5b23fbcca6a3fd8f85da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564849,
+            "locality_id":1276681561,
+            "region_id":85673057
+        }
+    ],
+    "wof:id":1276681561,
+    "wof:lastmodified":1537653937,
+    "wof:name":"Peam Bang",
+    "wof:parent_id":1108564849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.25474,
+    12.73811,
+    104.25474,
+    12.73811
+],
+  "geometry": {"coordinates":[104.25474,12.73811],"type":"Point"}
+}

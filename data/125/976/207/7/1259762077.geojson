@@ -1,0 +1,75 @@
+{
+  "id": 1259762077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.53472,11.35323,105.53472,11.35323",
+    "geom:latitude":11.35323,
+    "geom:longitude":105.53472,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Yeang Touch",
+    "gn:country_code":"KH",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1822836,
+    "gn:latitude":11.35323,
+    "gn:longitude":105.53472,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Yeang Touch",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Yeang Touch"
+    ],
+    "name:und_x_variant":[
+        "Phum Yeang",
+        "Phum\u012d Y\u00e9ang Thom",
+        "Phum\u012d Y\u00e9ang Thum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673067,
+        1108564729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1822836
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"883bc72edbf2b7138fcf88edde626eed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564729,
+            "locality_id":1259762077,
+            "region_id":85673067
+        }
+    ],
+    "wof:id":1259762077,
+    "wof:lastmodified":1537653338,
+    "wof:name":"Yeang Touch",
+    "wof:parent_id":1108564729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.53472,
+    11.35323,
+    105.53472,
+    11.35323
+],
+  "geometry": {"coordinates":[105.53471999999999,11.35323],"type":"Point"}
+}

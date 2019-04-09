@@ -1,0 +1,72 @@
+{
+  "id": 1292966315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.8235,10.74251,104.8235,10.74251",
+    "geom:latitude":10.74251,
+    "geom:longitude":104.8235,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Phumi Leak Chas",
+    "gn:country_code":"KH",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1826994,
+    "gn:latitude":10.74251,
+    "gn:longitude":104.8235,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Le\u0103k Ch\u0103s",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum Leak Chhak",
+        "Phum\u012d Lerk Chas",
+        "Phum\u012d Le\u0103k Ch\u0103s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673107,
+        1108564709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1826994
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"d4082543e410501222eff9690334addb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564709,
+            "locality_id":1292966315,
+            "region_id":85673107
+        }
+    ],
+    "wof:id":1292966315,
+    "wof:lastmodified":1537653677,
+    "wof:name":"Phumi Leak Chas",
+    "wof:parent_id":1108564709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.8235,
+    10.74251,
+    104.8235,
+    10.74251
+],
+  "geometry": {"coordinates":[104.8235,10.74251],"type":"Point"}
+}

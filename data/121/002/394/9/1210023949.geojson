@@ -1,0 +1,67 @@
+{
+  "id": 1210023949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.32353,11.95033,104.32353,11.95033",
+    "geom:latitude":11.95033,
+    "geom:longitude":104.32353,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Phumi Krasang Doh Laeung",
+    "gn:country_code":"KH",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1827108,
+    "gn:latitude":11.95033,
+    "gn:longitude":104.32353,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Phum\u012d Kr\u00e2s\u0103ng D\u014fh Laeung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673047,
+        1108564885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1827108
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"8bb074f3778e4d09b8db7c9dd50b0fbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564885,
+            "locality_id":1210023949,
+            "region_id":85673047
+        }
+    ],
+    "wof:id":1210023949,
+    "wof:lastmodified":1536391589,
+    "wof:name":"Phumi Krasang Doh Laeung",
+    "wof:parent_id":1108564885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.32353,
+    11.95033,
+    104.32353,
+    11.95033
+],
+  "geometry": {"coordinates":[104.32353000000001,11.95033],"type":"Point"}
+}

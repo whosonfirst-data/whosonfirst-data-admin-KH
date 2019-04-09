@@ -1,0 +1,76 @@
+{
+  "id": 1309679795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.08664,13.43678,103.08664,13.43678",
+    "geom:latitude":13.43678,
+    "geom:longitude":103.08664,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Phum Ampil Toek",
+    "gn:country_code":"KH",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1830032,
+    "gn:latitude":13.43678,
+    "gn:longitude":103.08664,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Phum \u00c2mp\u012dl T\u0153\u0306k",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum \u00c2mp\u012dl T\u0153\u0306k"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u17a2\u17c6\u1796\u17b7\u179b\u1791\u17b9\u1780"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d \u00c2mp\u012dl T\u0153\u0306k"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673011,
+        1108564737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1830032
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"f719ae3197899a26343278353d56b9d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564737,
+            "locality_id":1309679795,
+            "region_id":85673011
+        }
+    ],
+    "wof:id":1309679795,
+    "wof:lastmodified":1537653933,
+    "wof:name":"Phum Ampil Toek",
+    "wof:parent_id":1108564737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.08664,
+    13.43678,
+    103.08664,
+    13.43678
+],
+  "geometry": {"coordinates":[103.08664,13.43678],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1310584613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.26068,11.18445,105.26068,11.18445",
+    "geom:latitude":11.18445,
+    "geom:longitude":105.26068,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Preaek Krabau",
+    "gn:country_code":"KH",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11478007,
+    "gn:latitude":11.18445,
+    "gn:longitude":105.26068,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Preaek Krabau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Preaek Krabau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673067,
+        1108564755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11478007
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"4b1070407abe2eb94e2daf45320b3947",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564755,
+            "locality_id":1310584613,
+            "region_id":85673067
+        }
+    ],
+    "wof:id":1310584613,
+    "wof:lastmodified":1537654039,
+    "wof:name":"Preaek Krabau",
+    "wof:parent_id":1108564755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.26068,
+    11.18445,
+    105.26068,
+    11.18445
+],
+  "geometry": {"coordinates":[105.26067999999999,11.18445],"type":"Point"}
+}

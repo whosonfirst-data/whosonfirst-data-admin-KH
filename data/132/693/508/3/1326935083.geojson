@@ -1,0 +1,67 @@
+{
+  "id": 1326935083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.89151,12.41111,104.89151,12.41111",
+    "geom:latitude":12.41111,
+    "geom:longitude":104.89151,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Phumi Prachau",
+    "gn:country_code":"KH",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1826241,
+    "gn:latitude":12.41111,
+    "gn:longitude":104.89151,
+    "gn:modification_date":"1993-12-30",
+    "gn:name":"Phum\u012d Pr\u00e2chau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673057,
+        421198921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1826241
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"275e89fa6cd057393a73403a8ff86250",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421198921,
+            "locality_id":1326935083,
+            "region_id":85673057
+        }
+    ],
+    "wof:id":1326935083,
+    "wof:lastmodified":1536900680,
+    "wof:name":"Phumi Prachau",
+    "wof:parent_id":421198921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.89151,
+    12.41111,
+    104.89151,
+    12.41111
+],
+  "geometry": {"coordinates":[104.89151,12.41111],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1343863115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.22145,12.78275,104.22145,12.78275",
+    "geom:latitude":12.78275,
+    "geom:longitude":104.22145,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Phumi Pech Chakrei",
+    "gn:country_code":"KH",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1826567,
+    "gn:latitude":12.78275,
+    "gn:longitude":104.22145,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d P\u00e9ch Ch\u00e2krei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Prek Chikreng",
+        "Phum\u012d P\u00e9ch Ch\u00f4krei",
+        "Phum\u012d P\u00e9ch Ch\u00e2krei"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673057,
+        1108564849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1826567
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"726aaf744e5afdf030fdb18aa98cbd4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564849,
+            "locality_id":1343863115,
+            "region_id":85673057
+        }
+    ],
+    "wof:id":1343863115,
+    "wof:lastmodified":1537653638,
+    "wof:name":"Phumi Pech Chakrei",
+    "wof:parent_id":1108564849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.22145,
+    12.78275,
+    104.22145,
+    12.78275
+],
+  "geometry": {"coordinates":[104.22145,12.78275],"type":"Point"}
+}

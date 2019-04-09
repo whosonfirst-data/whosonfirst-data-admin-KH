@@ -1,0 +1,78 @@
+{
+  "id": 1243525499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.35624,11.28025,105.35624,11.28025",
+    "geom:latitude":11.28025,
+    "geom:longitude":105.35624,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Ta Ngaeuy",
+    "gn:country_code":"KH",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1823705,
+    "gn:latitude":11.28025,
+    "gn:longitude":105.35624,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Ta Ngaeuy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum\u012d Tita Ng\u0115uy"
+    ],
+    "name:khm_x_variant":[
+        "Ta Ngaeuy",
+        "Phum Tita Ng\u0115uy",
+        "\u1797\u17bc\u1798\u17b7 \u1791\u17b8\u178f\u17b6\u1784\u17be\u1799"
+    ],
+    "name:und_x_variant":[
+        "Phum Tytang\u0153uil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673067,
+        1108564593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1823705
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"85a317d8602ea38e7b39221e763b4863",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564593,
+            "locality_id":1243525499,
+            "region_id":85673067
+        }
+    ],
+    "wof:id":1243525499,
+    "wof:lastmodified":1537653399,
+    "wof:name":"Ta Ngaeuy",
+    "wof:parent_id":1108564593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.35624,
+    11.28025,
+    105.35624,
+    11.28025
+],
+  "geometry": {"coordinates":[105.35624,11.28025],"type":"Point"}
+}

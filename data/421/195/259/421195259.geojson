@@ -1,0 +1,82 @@
+{
+  "id": 421195259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.51349,13.34962,103.51349,13.34962",
+    "geom:latitude":13.34962,
+    "geom:longitude":103.51349,
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:khm_x_preferred":[
+        "Phum Chheu Kamau"
+    ],
+    "name:unk_x_variant":[
+        "Phum Choeu Khmao"
+    ],
+    "qs:gn_country":"KH",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1829020,
+    "qs:gn_pop":0,
+    "qs:name":"Phum Choeu Khmau",
+    "qs:name_adm0":"Cambodia",
+    "qs:name_adm1":"Batdambang",
+    "qs:photos":39,
+    "qs:photos_1k":8,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":39,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":137004,
+    "qs:woe_adm0":23424776,
+    "qs:woe_id":1028512,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673015,
+        421172391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829020,
+        "gp:id":1028512,
+        "qs:id":137004
+    },
+    "wof:country":"KH",
+    "wof:created":1459009837,
+    "wof:geomhash":"35cc341761d44ba307fa31111696c119",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421172391,
+            "locality_id":421195259,
+            "region_id":85673015
+        }
+    ],
+    "wof:id":421195259,
+    "wof:lastmodified":1501222445,
+    "wof:name":"Phum Choeu Khmau",
+    "wof:parent_id":421172391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.51349,
+    13.34962,
+    103.51349,
+    13.34962
+],
+  "geometry": {"coordinates":[103.51349,13.34962],"type":"Point"}
+}

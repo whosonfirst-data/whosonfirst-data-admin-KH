@@ -1,0 +1,78 @@
+{
+  "id": 1343798095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.9139,12.08335,105.9139,12.08335",
+    "geom:latitude":12.08335,
+    "geom:longitude":105.9139,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Phum Andong Longieng",
+    "gn:country_code":"KH",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1829983,
+    "gn:latitude":12.08335,
+    "gn:longitude":105.9139,
+    "gn:modification_date":"2017-07-05",
+    "gn:name":"Phum \u00c2ndong L\u00f4ngi\u0115ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Phum \u00c2ndong L\u00f4ngi\u0115ng"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u17a2\u178e\u17d2\u178a\u17bc\u1784\u179b\u17d2\u1784\u17c0\u1784"
+    ],
+    "name:und_x_variant":[
+        "Phum\u012d \u00c2ndong L\u00f4ngi\u0115ng",
+        "Phum \u00c2ndong Rongeang",
+        "Phum\u012d \u00c2ndong Lngi\u0115ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        1108804319,
+        1108564653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1829983
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"fb456f86228109464c47ec87804e9aa6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564653,
+            "locality_id":1343798095,
+            "region_id":1108804319
+        }
+    ],
+    "wof:id":1343798095,
+    "wof:lastmodified":1537653930,
+    "wof:name":"Phum Andong Longieng",
+    "wof:parent_id":1108564653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.9139,
+    12.08335,
+    105.9139,
+    12.08335
+],
+  "geometry": {"coordinates":[105.9139,12.08335],"type":"Point"}
+}

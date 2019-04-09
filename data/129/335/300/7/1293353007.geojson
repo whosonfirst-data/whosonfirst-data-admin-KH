@@ -1,0 +1,71 @@
+{
+  "id": 1293353007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.87683,10.74382,104.87683,10.74382",
+    "geom:latitude":10.74382,
+    "geom:longitude":104.87683,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Phumi Srama",
+    "gn:country_code":"KH",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1824710,
+    "gn:latitude":10.74382,
+    "gn:longitude":104.87683,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Sr\u00e2m\u00e2",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum Sramor",
+        "Phum\u012d Sr\u00e2m\u00e2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673107,
+        1108564693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1824710
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"5fde8f6baa63f049ab8d71d910e6ac17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564693,
+            "locality_id":1293353007,
+            "region_id":85673107
+        }
+    ],
+    "wof:id":1293353007,
+    "wof:lastmodified":1537653479,
+    "wof:name":"Phumi Srama",
+    "wof:parent_id":1108564693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.87683,
+    10.74382,
+    104.87683,
+    10.74382
+],
+  "geometry": {"coordinates":[104.87683,10.74382],"type":"Point"}
+}

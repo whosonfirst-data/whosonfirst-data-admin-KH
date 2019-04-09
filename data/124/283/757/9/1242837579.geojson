@@ -1,0 +1,79 @@
+{
+  "id": 1242837579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.1196,11.00165,106.1196,11.00165",
+    "geom:latitude":11.00165,
+    "geom:longitude":106.1196,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Chrak Ruessei",
+    "gn:country_code":"KH",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828832,
+    "gn:latitude":11.00165,
+    "gn:longitude":106.1196,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Chrak Ruessei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Chrak Ruessei"
+    ],
+    "name:khm_x_variant":[
+        "\u1797\u17bc\u1798\u17b7 \u1785\u17d2\u179a\u1780\u17ab\u179f\u17d2\u179f\u17b8",
+        "Phum Chr\u00e2k R\u016dssei"
+    ],
+    "name:und_x_variant":[
+        "Xom Ch\u00e8n Rosey",
+        "Phumi Chr\u00e2k R\u016dssei",
+        "Phum\u012d Chr\u00e2k R\u0153ssei"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673105,
+        1108564617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828832
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"8be8c53de1e535f09fe2367bd7d200d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564617,
+            "locality_id":1242837579,
+            "region_id":85673105
+        }
+    ],
+    "wof:id":1242837579,
+    "wof:lastmodified":1537653835,
+    "wof:name":"Chrak Ruessei",
+    "wof:parent_id":1108564617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.1196,
+    11.00165,
+    106.1196,
+    11.00165
+],
+  "geometry": {"coordinates":[106.11960000000001,11.00165],"type":"Point"}
+}

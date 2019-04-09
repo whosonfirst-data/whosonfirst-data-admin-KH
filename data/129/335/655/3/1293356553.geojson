@@ -1,0 +1,67 @@
+{
+  "id": 1293356553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.72383,11.2151,105.72383,11.2151",
+    "geom:latitude":11.2151,
+    "geom:longitude":105.72383,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Phumi Don Tong",
+    "gn:country_code":"KH",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1828443,
+    "gn:latitude":11.2151,
+    "gn:longitude":105.72383,
+    "gn:modification_date":"1993-12-30",
+    "gn:name":"Phum\u012d Don T\u00f4ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673105,
+        1108564861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1828443
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"a2def53b30ce9b8b17c7adcc7f98f21a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564861,
+            "locality_id":1293356553,
+            "region_id":85673105
+        }
+    ],
+    "wof:id":1293356553,
+    "wof:lastmodified":1536975398,
+    "wof:name":"Phumi Don Tong",
+    "wof:parent_id":1108564861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.72383,
+    11.2151,
+    105.72383,
+    11.2151
+],
+  "geometry": {"coordinates":[105.72383000000001,11.2151],"type":"Point"}
+}

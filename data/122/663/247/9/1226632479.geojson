@@ -1,0 +1,70 @@
+{
+  "id": 1226632479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.81039,13.82095,104.81039,13.82095",
+    "geom:latitude":13.82095,
+    "geom:longitude":104.81039,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Thnal Baek",
+    "gn:country_code":"KH",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11477552,
+    "gn:latitude":13.82095,
+    "gn:longitude":104.81039,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Thnal Baek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Thnal Baek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673071,
+        421194859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11477552
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"df78520b2bc05b828149ae6f6b3ae265",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":421194859,
+            "locality_id":1226632479,
+            "region_id":85673071
+        }
+    ],
+    "wof:id":1226632479,
+    "wof:lastmodified":1537654036,
+    "wof:name":"Thnal Baek",
+    "wof:parent_id":421194859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.81039,
+    13.82095,
+    104.81039,
+    13.82095
+],
+  "geometry": {"coordinates":[104.81039,13.82095],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1309891229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.08635,11.21224,103.08635,11.21224",
+    "geom:latitude":11.21224,
+    "geom:longitude":103.08635,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Phumi Yeay Sen",
+    "gn:country_code":"KH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1822833,
+    "gn:latitude":11.21224,
+    "gn:longitude":103.08635,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Phum\u012d Y\u00e9ay S\u00ean",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yeai Sen",
+        "Yen Sen",
+        "Phum\u012d Y\u00e9ay S\u00ean"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1822833
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"4cd6e5582f9ba742947c0af0461ab858",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1309891229,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1309891229,
+    "wof:lastmodified":1537653337,
+    "wof:name":"Phumi Yeay Sen",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.08635,
+    11.21224,
+    103.08635,
+    11.21224
+],
+  "geometry": {"coordinates":[103.08635,11.21224],"type":"Point"}
+}

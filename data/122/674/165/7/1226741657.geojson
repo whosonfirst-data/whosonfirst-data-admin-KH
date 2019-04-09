@@ -1,0 +1,70 @@
+{
+  "id": 1226741657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.71324,11.50936,104.71324,11.50936",
+    "geom:latitude":11.50936,
+    "geom:longitude":104.71324,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Peuk",
+    "gn:country_code":"KH",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11475440,
+    "gn:latitude":11.50936,
+    "gn:longitude":104.71324,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Peuk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Phnom_Penh",
+    "iso:country":"KH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:khm_x_preferred":[
+        "Peuk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632359,
+        85673051,
+        1108564577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11475440
+    },
+    "wof:country":"KH",
+    "wof:geomhash":"dc7b1ac8f99050e26df588d1a67c128c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632359,
+            "county_id":1108564577,
+            "locality_id":1226741657,
+            "region_id":85673051
+        }
+    ],
+    "wof:id":1226741657,
+    "wof:lastmodified":1537654031,
+    "wof:name":"Peuk",
+    "wof:parent_id":1108564577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.71324,
+    11.50936,
+    104.71324,
+    11.50936
+],
+  "geometry": {"coordinates":[104.71324,11.50936],"type":"Point"}
+}
