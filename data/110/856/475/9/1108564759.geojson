@@ -10,6 +10,12 @@
     "geom:latitude":12.178412,
     "geom:longitude":103.823278,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Phnum Kravanh District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":12.164023,
     "lbl:longitude":103.828894,
     "meso:admin_1":"Pursat",
@@ -78,7 +84,7 @@
         }
     ],
     "wof:id":1108564759,
-    "wof:lastmodified":1536615225,
+    "wof:lastmodified":1553718170,
     "wof:name":"Phnum Kravanh",
     "wof:parent_id":85673023,
     "wof:placetype":"county",

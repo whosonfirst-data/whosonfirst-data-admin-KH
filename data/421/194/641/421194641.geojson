@@ -10,6 +10,12 @@
     "geom:latitude":14.051057,
     "geom:longitude":106.855276,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Veun Sai District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":14.024007,
     "lbl:longitude":106.896656,
     "meso:admin_1":"Ratanak Kiri",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":421194641,
-    "wof:lastmodified":1536616115,
+    "wof:lastmodified":1553717530,
     "wof:name":"Veun Sai",
     "wof:parent_id":85673089,
     "wof:placetype":"county",

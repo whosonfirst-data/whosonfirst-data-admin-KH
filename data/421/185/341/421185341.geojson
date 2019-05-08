@@ -10,6 +10,12 @@
     "geom:latitude":13.682566,
     "geom:longitude":107.030404,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Ban Lung District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":13.685784,
     "lbl:longitude":107.030398,
     "meso:admin_1":"Ratanak Kiri",
@@ -143,7 +149,7 @@
         }
     ],
     "wof:id":421185341,
-    "wof:lastmodified":1536616029,
+    "wof:lastmodified":1553717436,
     "wof:name":"Ban Lung",
     "wof:parent_id":85673089,
     "wof:placetype":"county",

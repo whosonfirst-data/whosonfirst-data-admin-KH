@@ -10,6 +10,12 @@
     "geom:latitude":13.057167,
     "geom:longitude":103.410873,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Sangkae District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":13.08184,
     "lbl:longitude":103.415198,
     "meso:admin_1":"Battambang",
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":421202239,
-    "wof:lastmodified":1536616143,
+    "wof:lastmodified":1553717559,
     "wof:name":"Sangkae",
     "wof:parent_id":85673015,
     "wof:placetype":"county",

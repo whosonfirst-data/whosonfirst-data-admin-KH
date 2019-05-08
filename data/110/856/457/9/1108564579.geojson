@@ -10,6 +10,12 @@
     "geom:latitude":10.992661,
     "geom:longitude":104.95091,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Angkor Borei District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":11.021187,
     "lbl:longitude":104.934497,
     "meso:admin_1":"Takeo",
@@ -87,7 +93,7 @@
         }
     ],
     "wof:id":1108564579,
-    "wof:lastmodified":1536615221,
+    "wof:lastmodified":1553718166,
     "wof:name":"Angkor Borei",
     "wof:parent_id":85673107,
     "wof:placetype":"county",

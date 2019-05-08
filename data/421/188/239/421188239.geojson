@@ -10,6 +10,12 @@
     "geom:latitude":12.431188,
     "geom:longitude":104.707458,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Kampong Leaeng District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":12.43393,
     "lbl:longitude":104.721114,
     "meso:admin_1":"Kampong Chhnang",
@@ -102,7 +108,7 @@
         }
     ],
     "wof:id":421188239,
-    "wof:lastmodified":1536616051,
+    "wof:lastmodified":1553717464,
     "wof:name":"Kampong Leaeng",
     "wof:parent_id":85673047,
     "wof:placetype":"county",

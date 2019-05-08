@@ -10,6 +10,12 @@
     "geom:latitude":11.129617,
     "geom:longitude":104.771509,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Samraong District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":11.136646,
     "lbl:longitude":104.77151,
     "meso:admin_1":"Takeo",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1108564825,
-    "wof:lastmodified":1536615227,
+    "wof:lastmodified":1553718171,
     "wof:name":"Samraong",
     "wof:parent_id":85673107,
     "wof:placetype":"county",

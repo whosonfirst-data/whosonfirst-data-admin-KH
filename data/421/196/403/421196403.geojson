@@ -10,6 +10,12 @@
     "geom:latitude":12.59745,
     "geom:longitude":102.85582,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Samlout District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":12.590902,
     "lbl:longitude":102.860092,
     "meso:admin_1":"Battambang",
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":421196403,
-    "wof:lastmodified":1536616122,
+    "wof:lastmodified":1553717537,
     "wof:name":"Samlout",
     "wof:parent_id":85673015,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033177,
-    "geom:area_square_m":403183145.146154,
+    "geom:area_square_m":403183145.145855,
     "geom:bbox":"104.509363625,10.527323,104.716815627,10.7761334233",
     "geom:latitude":10.639268,
     "geom:longitude":104.602567,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Banteay Meas District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":10.626079,
     "lbl:longitude":104.600595,
     "meso:admin_1":"Kampot",
@@ -84,7 +90,7 @@
         }
     ],
     "wof:id":1108564601,
-    "wof:lastmodified":1553816453,
+    "wof:lastmodified":1555037626,
     "wof:name":"Banteay Meas",
     "wof:parent_id":85673093,
     "wof:placetype":"county",

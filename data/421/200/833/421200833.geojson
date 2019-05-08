@@ -10,6 +10,12 @@
     "geom:latitude":13.845861,
     "geom:longitude":103.916689,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Varin District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":13.837683,
     "lbl:longitude":103.94238,
     "meso:admin_1":"Siemreap",
@@ -112,7 +118,7 @@
         }
     ],
     "wof:id":421200833,
-    "wof:lastmodified":1536616137,
+    "wof:lastmodified":1553717552,
     "wof:name":"Varin",
     "wof:parent_id":85673029,
     "wof:placetype":"county",

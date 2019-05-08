@@ -10,6 +10,12 @@
     "geom:latitude":13.517773,
     "geom:longitude":106.751193,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Koun Mom District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":13.571205,
     "lbl:longitude":106.729668,
     "meso:admin_1":"Ratanak Kiri",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1108564717,
-    "wof:lastmodified":1536615224,
+    "wof:lastmodified":1553718169,
     "wof:name":"Koun Mom",
     "wof:parent_id":85673089,
     "wof:placetype":"county",

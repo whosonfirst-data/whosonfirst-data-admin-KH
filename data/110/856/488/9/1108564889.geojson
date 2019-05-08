@@ -10,6 +10,12 @@
     "geom:latitude":12.243463,
     "geom:longitude":103.133725,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Veal Veaeng District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":12.216481,
     "lbl:longitude":103.167186,
     "meso:admin_1":"Pursat",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1108564889,
-    "wof:lastmodified":1536615228,
+    "wof:lastmodified":1553718173,
     "wof:name":"Veal Veaeng",
     "wof:parent_id":85673023,
     "wof:placetype":"county",

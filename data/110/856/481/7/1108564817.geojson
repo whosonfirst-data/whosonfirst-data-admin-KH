@@ -10,6 +10,12 @@
     "geom:latitude":13.418901,
     "geom:longitude":102.527369,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Sampov Lun District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":13.417975,
     "lbl:longitude":102.527316,
     "meso:admin_1":"Battambang",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108564817,
-    "wof:lastmodified":1536615227,
+    "wof:lastmodified":1553718171,
     "wof:name":"Sampov Lun",
     "wof:parent_id":85673015,
     "wof:placetype":"county",

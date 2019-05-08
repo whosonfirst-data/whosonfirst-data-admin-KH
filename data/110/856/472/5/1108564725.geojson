@@ -10,6 +10,12 @@
     "geom:latitude":11.524527,
     "geom:longitude":105.122137,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Lvea Aem District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":11.577224,
     "lbl:longitude":105.065359,
     "meso:admin_1":"Kandal",
@@ -78,7 +84,7 @@
         }
     ],
     "wof:id":1108564725,
-    "wof:lastmodified":1536615224,
+    "wof:lastmodified":1553718170,
     "wof:name":"Lvea Aem",
     "wof:parent_id":85673051,
     "wof:placetype":"county",

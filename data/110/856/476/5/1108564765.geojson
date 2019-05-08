@@ -10,6 +10,12 @@
     "geom:latitude":11.311042,
     "geom:longitude":104.236786,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Phnum Sruoch District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":11.30722,
     "lbl:longitude":104.240899,
     "meso:admin_1":"Kampong Speu",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1108564765,
-    "wof:lastmodified":1536615225,
+    "wof:lastmodified":1553718170,
     "wof:name":"Phnum Sruoch",
     "wof:parent_id":85673053,
     "wof:placetype":"county",

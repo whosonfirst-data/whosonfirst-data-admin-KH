@@ -10,6 +10,12 @@
     "geom:latitude":11.353857,
     "geom:longitude":105.316553,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Peam Ro District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":11.384742,
     "lbl:longitude":105.322241,
     "meso:admin_1":"Prey Veng",
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":421191397,
-    "wof:lastmodified":1536616095,
+    "wof:lastmodified":1553717505,
     "wof:name":"Peam Ro",
     "wof:parent_id":85673067,
     "wof:placetype":"county",

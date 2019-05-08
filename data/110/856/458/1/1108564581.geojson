@@ -10,6 +10,12 @@
     "geom:latitude":10.805706,
     "geom:longitude":104.631882,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Angkor Chey District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":10.822571,
     "lbl:longitude":104.633377,
     "meso:admin_1":"Kampot",
@@ -81,7 +87,7 @@
         }
     ],
     "wof:id":1108564581,
-    "wof:lastmodified":1536615221,
+    "wof:lastmodified":1553718166,
     "wof:name":"Angkor Chey",
     "wof:parent_id":85673093,
     "wof:placetype":"county",

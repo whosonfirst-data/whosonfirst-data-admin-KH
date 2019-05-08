@@ -10,6 +10,12 @@
     "geom:latitude":11.477568,
     "geom:longitude":105.3358,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Prey Veng District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":11.479926,
     "lbl:longitude":105.325875,
     "meso:admin_1":"Prey Veng",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1108564789,
-    "wof:lastmodified":1536615226,
+    "wof:lastmodified":1553718171,
     "wof:name":"Prey Veng",
     "wof:parent_id":85673067,
     "wof:placetype":"county",

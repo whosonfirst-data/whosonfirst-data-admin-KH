@@ -10,6 +10,12 @@
     "geom:latitude":13.080231,
     "geom:longitude":104.835702,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Prasat Ballangk District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":13.064054,
     "lbl:longitude":104.813043,
     "meso:admin_1":"Kampong Thom",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108564773,
-    "wof:lastmodified":1536615226,
+    "wof:lastmodified":1553718171,
     "wof:name":"Prasat Ballangk",
     "wof:parent_id":85673057,
     "wof:placetype":"county",

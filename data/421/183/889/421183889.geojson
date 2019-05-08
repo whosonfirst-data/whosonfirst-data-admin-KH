@@ -10,6 +10,12 @@
     "geom:latitude":11.760296,
     "geom:longitude":105.861713,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Ponhea Kraek District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":11.768281,
     "lbl:longitude":105.85895,
     "meso:admin_1":"Tboung Khmum",
@@ -109,7 +115,7 @@
         }
     ],
     "wof:id":421183889,
-    "wof:lastmodified":1536616015,
+    "wof:lastmodified":1553717420,
     "wof:name":"Ponhea Kraek",
     "wof:parent_id":1108804319,
     "wof:placetype":"county",

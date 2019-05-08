@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.132517,
-    "geom:area_square_m":1599950625.658169,
+    "geom:area_square_m":1599950625.657952,
     "geom:bbox":"103.991753432,12.1991617077,104.391268847,12.7276785005",
     "geom:latitude":12.467397,
     "geom:longitude":104.186757,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Krakor District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":12.459213,
     "lbl:longitude":104.186784,
     "meso:admin_1":"Pursat",
@@ -107,7 +113,7 @@
         }
     ],
     "wof:id":421203239,
-    "wof:lastmodified":1553816389,
+    "wof:lastmodified":1555037051,
     "wof:name":"Krakor",
     "wof:parent_id":85673023,
     "wof:placetype":"county",

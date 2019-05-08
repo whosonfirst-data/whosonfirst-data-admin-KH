@@ -10,6 +10,12 @@
     "geom:latitude":12.505466,
     "geom:longitude":107.16902,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Saen Monourom District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":12.502935,
     "lbl:longitude":107.179409,
     "meso:admin_1":"Mondul Kiri",
@@ -143,7 +149,7 @@
         }
     ],
     "wof:id":421188055,
-    "wof:lastmodified":1536616047,
+    "wof:lastmodified":1553717459,
     "wof:name":"Saen Monourom",
     "wof:parent_id":85673085,
     "wof:placetype":"county",

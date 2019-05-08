@@ -10,6 +10,12 @@
     "geom:latitude":13.305878,
     "geom:longitude":105.815005,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Siem Bouk District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":13.22289,
     "lbl:longitude":105.859188,
     "meso:admin_1":"Stung Treng",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1108564833,
-    "wof:lastmodified":1536615227,
+    "wof:lastmodified":1553718172,
     "wof:name":"Siem Bouk",
     "wof:parent_id":85673075,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":11.975616,
     "geom:longitude":105.65546,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Tboung Khmum District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":12.055033,
     "lbl:longitude":105.611375,
     "meso:admin_1":"Tboung Khmum",
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":421183891,
-    "wof:lastmodified":1536616015,
+    "wof:lastmodified":1553717420,
     "wof:name":"Tboung Khmum",
     "wof:parent_id":1108804319,
     "wof:placetype":"county",

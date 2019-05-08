@@ -10,6 +10,12 @@
     "geom:latitude":11.752898,
     "geom:longitude":103.493504,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Thma Bang District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":11.773933,
     "lbl:longitude":103.519041,
     "meso:admin_1":"Koh Kong",
@@ -102,7 +108,7 @@
         }
     ],
     "wof:id":421194857,
-    "wof:lastmodified":1536616117,
+    "wof:lastmodified":1553717531,
     "wof:name":"Thma Bang",
     "wof:parent_id":85673019,
     "wof:placetype":"county",

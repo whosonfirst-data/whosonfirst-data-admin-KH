@@ -10,6 +10,12 @@
     "geom:latitude":12.4389,
     "geom:longitude":106.735038,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Kaev Seima District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":12.492092,
     "lbl:longitude":106.682863,
     "meso:admin_1":"Mondul Kiri",
@@ -78,7 +84,7 @@
         }
     ],
     "wof:id":1108564667,
-    "wof:lastmodified":1536615223,
+    "wof:lastmodified":1553718168,
     "wof:name":"Kaev Seima",
     "wof:parent_id":85673085,
     "wof:placetype":"county",

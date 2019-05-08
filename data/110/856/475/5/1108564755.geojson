@@ -10,6 +10,12 @@
     "geom:latitude":11.011685,
     "geom:longitude":105.268944,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Peam Chor District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":10.99458,
     "lbl:longitude":105.260738,
     "meso:admin_1":"Prey Veng",
@@ -78,7 +84,7 @@
         }
     ],
     "wof:id":1108564755,
-    "wof:lastmodified":1536615225,
+    "wof:lastmodified":1553718170,
     "wof:name":"Peam Chor",
     "wof:parent_id":85673067,
     "wof:placetype":"county",

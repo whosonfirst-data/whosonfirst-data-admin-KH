@@ -10,6 +10,12 @@
     "geom:latitude":11.93402,
     "geom:longitude":105.669475,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Suong District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":11.934826,
     "lbl:longitude":105.66849,
     "meso:admin_1":"Tboung Khmum",
@@ -86,7 +92,7 @@
         }
     ],
     "wof:id":1108564855,
-    "wof:lastmodified":1536615228,
+    "wof:lastmodified":1555220363,
     "wof:name":"Suong",
     "wof:parent_id":-1,
     "wof:placetype":"county",

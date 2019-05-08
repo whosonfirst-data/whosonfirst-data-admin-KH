@@ -10,6 +10,12 @@
     "geom:latitude":13.68211,
     "geom:longitude":106.067869,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Stueng Traeng District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":13.802331,
     "lbl:longitude":106.100662,
     "meso:admin_1":"Stung Treng",
@@ -103,7 +109,7 @@
         }
     ],
     "wof:id":421200835,
-    "wof:lastmodified":1536616137,
+    "wof:lastmodified":1553717552,
     "wof:name":"Stueng Traeng",
     "wof:parent_id":85673075,
     "wof:placetype":"county",

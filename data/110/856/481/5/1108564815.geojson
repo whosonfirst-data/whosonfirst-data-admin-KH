@@ -10,6 +10,12 @@
     "geom:latitude":12.981576,
     "geom:longitude":102.640453,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Sala Krau District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":12.978534,
     "lbl:longitude":102.664836,
     "meso:admin_1":"Pailin",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1108564815,
-    "wof:lastmodified":1536615226,
+    "wof:lastmodified":1553718171,
     "wof:name":"Sala Krau",
     "wof:parent_id":85673037,
     "wof:placetype":"county",

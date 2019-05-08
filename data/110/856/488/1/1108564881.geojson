@@ -10,6 +10,12 @@
     "geom:latitude":10.883601,
     "geom:longitude":104.802374,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Treang District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":10.854949,
     "lbl:longitude":104.778731,
     "meso:admin_1":"Takeo",
@@ -78,7 +84,7 @@
         }
     ],
     "wof:id":1108564881,
-    "wof:lastmodified":1536615228,
+    "wof:lastmodified":1553718173,
     "wof:name":"Treang",
     "wof:parent_id":85673107,
     "wof:placetype":"county",

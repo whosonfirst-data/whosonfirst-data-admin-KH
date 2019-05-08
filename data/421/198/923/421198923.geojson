@@ -10,6 +10,12 @@
     "geom:latitude":12.215608,
     "geom:longitude":104.60263,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Rolea B'ier District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":12.222675,
     "lbl:longitude":104.588596,
     "meso:admin_1":"Kampong Chhnang",
@@ -107,7 +113,7 @@
         }
     ],
     "wof:id":421198923,
-    "wof:lastmodified":1536616130,
+    "wof:lastmodified":1553717543,
     "wof:name":"Rolea B'ier",
     "wof:parent_id":85673047,
     "wof:placetype":"county",

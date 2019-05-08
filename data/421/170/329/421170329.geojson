@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02258,
-    "geom:area_square_m":271357985.948435,
+    "geom:area_square_m":271357985.948467,
     "geom:bbox":"102.870447312,13.5112213476,103.083093949,13.7167059259",
     "geom:latitude":13.61301,
     "geom:longitude":102.967086,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Serei Saophoan District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":13.607655,
     "lbl:longitude":102.974312,
     "meso:admin_1":"Banteay Meanchey",
@@ -113,7 +119,7 @@
         }
     ],
     "wof:id":421170329,
-    "wof:lastmodified":1553816360,
+    "wof:lastmodified":1555037160,
     "wof:name":"Serei Saophoan",
     "wof:parent_id":85673011,
     "wof:placetype":"county",

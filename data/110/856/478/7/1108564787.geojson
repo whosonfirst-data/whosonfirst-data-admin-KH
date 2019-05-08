@@ -10,6 +10,12 @@
     "geom:latitude":11.145531,
     "geom:longitude":104.930095,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Prey Kabbas District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":11.150123,
     "lbl:longitude":104.931849,
     "meso:admin_1":"Takeo",
@@ -78,7 +84,7 @@
         }
     ],
     "wof:id":1108564787,
-    "wof:lastmodified":1536615226,
+    "wof:lastmodified":1553718171,
     "wof:name":"Prey Kabbas",
     "wof:parent_id":85673107,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":11.467083,
     "geom:longitude":104.494875,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Samraong Tong District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":11.370636,
     "lbl:longitude":104.509737,
     "meso:admin_1":"Kampong Speu",
@@ -78,7 +84,7 @@
         }
     ],
     "wof:id":1108564819,
-    "wof:lastmodified":1536615227,
+    "wof:lastmodified":1553718171,
     "wof:name":"Samraong Tong",
     "wof:parent_id":85673053,
     "wof:placetype":"county",

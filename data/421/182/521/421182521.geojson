@@ -10,6 +10,12 @@
     "geom:latitude":12.864726,
     "geom:longitude":105.141322,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Prasat Sambour District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":12.85459,
     "lbl:longitude":105.138478,
     "meso:admin_1":"Kampong Thom",
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":421182521,
-    "wof:lastmodified":1536615987,
+    "wof:lastmodified":1553717386,
     "wof:name":"Prasat Sambour",
     "wof:parent_id":85673057,
     "wof:placetype":"county",

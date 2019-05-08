@@ -10,6 +10,12 @@
     "geom:latitude":10.906036,
     "geom:longitude":106.103439,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Chantrea District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":10.94221,
     "lbl:longitude":106.095771,
     "meso:admin_1":"Svay Rieng",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1108564627,
-    "wof:lastmodified":1536615222,
+    "wof:lastmodified":1553718167,
     "wof:name":"Chantrea",
     "wof:parent_id":85673105,
     "wof:placetype":"county",

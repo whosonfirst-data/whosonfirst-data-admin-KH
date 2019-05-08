@@ -10,6 +10,12 @@
     "geom:latitude":11.768469,
     "geom:longitude":104.800915,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Ponhea Lueu District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":11.769618,
     "lbl:longitude":104.802304,
     "meso:admin_1":"Kandal",
@@ -106,7 +112,7 @@
         }
     ],
     "wof:id":421188235,
-    "wof:lastmodified":1536616050,
+    "wof:lastmodified":1553717464,
     "wof:name":"Ponhea Lueu",
     "wof:parent_id":85673051,
     "wof:placetype":"county",

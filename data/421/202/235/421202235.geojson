@@ -10,6 +10,12 @@
     "geom:latitude":12.422453,
     "geom:longitude":104.461909,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Baribour District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":12.424363,
     "lbl:longitude":104.4641,
     "meso:admin_1":"Kampong Chhnang",
@@ -110,7 +116,7 @@
         }
     ],
     "wof:id":421202235,
-    "wof:lastmodified":1536616143,
+    "wof:lastmodified":1553717559,
     "wof:name":"Baribour",
     "wof:parent_id":85673047,
     "wof:placetype":"county",

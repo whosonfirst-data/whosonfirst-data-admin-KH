@@ -10,6 +10,12 @@
     "geom:latitude":11.088449,
     "geom:longitude":105.084028,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Kaoh Thum District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":11.060404,
     "lbl:longitude":105.075406,
     "meso:admin_1":"Kandal",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1108564703,
-    "wof:lastmodified":1536615224,
+    "wof:lastmodified":1553718169,
     "wof:name":"Kaoh Thum",
     "wof:parent_id":85673051,
     "wof:placetype":"county",

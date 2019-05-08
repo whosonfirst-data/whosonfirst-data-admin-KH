@@ -10,6 +10,12 @@
     "geom:latitude":10.769398,
     "geom:longitude":103.683483,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Stueng Hav District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":10.842578,
     "lbl:longitude":103.741171,
     "meso:admin_1":"Preah Sihanouk",
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":1108564851,
-    "wof:lastmodified":1536615227,
+    "wof:lastmodified":1553718172,
     "wof:name":"Stueng Hav",
     "wof:parent_id":85673101,
     "wof:placetype":"county",

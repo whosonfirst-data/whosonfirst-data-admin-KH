@@ -10,6 +10,12 @@
     "geom:latitude":14.157946,
     "geom:longitude":103.998165,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Anlong Veaeng District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":14.159131,
     "lbl:longitude":103.998152,
     "meso:admin_1":"Oddar Meanchey",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1108564589,
-    "wof:lastmodified":1536615221,
+    "wof:lastmodified":1553718167,
     "wof:name":"Anlong Veaeng",
     "wof:parent_id":85673033,
     "wof:placetype":"county",

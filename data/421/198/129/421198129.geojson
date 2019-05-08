@@ -10,6 +10,12 @@
     "geom:latitude":13.643907,
     "geom:longitude":102.808217,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Ou Chrov District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":13.668854,
     "lbl:longitude":102.829154,
     "meso:admin_1":"Banteay Meanchey",
@@ -111,7 +117,7 @@
         }
     ],
     "wof:id":421198129,
-    "wof:lastmodified":1536616126,
+    "wof:lastmodified":1553717541,
     "wof:name":"Ou Chrov",
     "wof:parent_id":85673011,
     "wof:placetype":"county",

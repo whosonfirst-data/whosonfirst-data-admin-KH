@@ -10,6 +10,12 @@
     "geom:latitude":12.268291,
     "geom:longitude":105.287797,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Chamkar Leu District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":12.271594,
     "lbl:longitude":105.277875,
     "meso:admin_1":"Kampong Cham",
@@ -81,7 +87,7 @@
         }
     ],
     "wof:id":1108564621,
-    "wof:lastmodified":1536615222,
+    "wof:lastmodified":1553718167,
     "wof:name":"Chamkar Leu",
     "wof:parent_id":85673041,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":11.694186,
     "geom:longitude":105.035902,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Khsach Kandal District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":11.694866,
     "lbl:longitude":105.035915,
     "meso:admin_1":"Kandal",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":421188351,
-    "wof:lastmodified":1536616051,
+    "wof:lastmodified":1553717465,
     "wof:name":"Khsach Kandal",
     "wof:parent_id":85673051,
     "wof:placetype":"county",

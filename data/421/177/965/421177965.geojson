@@ -10,6 +10,12 @@
     "geom:latitude":11.668923,
     "geom:longitude":104.612517,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Odongk District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":11.63705,
     "lbl:longitude":104.609996,
     "meso:admin_1":"Kampong Speu",
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":421177965,
-    "wof:lastmodified":1536615962,
+    "wof:lastmodified":1553717370,
     "wof:name":"Odongk",
     "wof:parent_id":85673053,
     "wof:placetype":"county",

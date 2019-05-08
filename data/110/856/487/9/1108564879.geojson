@@ -10,6 +10,12 @@
     "geom:latitude":14.168111,
     "geom:longitude":104.308264,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Trapeang Prasat District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":14.16825,
     "lbl:longitude":104.308247,
     "meso:admin_1":"Oddar Meanchey",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108564879,
-    "wof:lastmodified":1536615228,
+    "wof:lastmodified":1553718173,
     "wof:name":"Trapeang Prasat",
     "wof:parent_id":85673033,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":12.617602,
     "geom:longitude":104.855834,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Stueng Saen District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":12.611676,
     "lbl:longitude":104.857794,
     "meso:admin_1":"Kampong Thom",
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":421180491,
-    "wof:lastmodified":1536615966,
+    "wof:lastmodified":1553717376,
     "wof:name":"Stueng Saen",
     "wof:parent_id":85673057,
     "wof:placetype":"county",

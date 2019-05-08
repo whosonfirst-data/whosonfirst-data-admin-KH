@@ -10,6 +10,12 @@
     "geom:latitude":13.425065,
     "geom:longitude":107.081545,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Lumphat District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":13.449681,
     "lbl:longitude":107.077476,
     "meso:admin_1":"Ratanak Kiri",
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":1108564723,
-    "wof:lastmodified":1536615224,
+    "wof:lastmodified":1553718170,
     "wof:name":"Lumphat",
     "wof:parent_id":85673089,
     "wof:placetype":"county",

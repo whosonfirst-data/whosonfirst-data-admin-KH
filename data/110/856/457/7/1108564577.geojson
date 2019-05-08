@@ -10,6 +10,12 @@
     "geom:latitude":11.551936,
     "geom:longitude":104.71041,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Angk Snuol District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":11.491321,
     "lbl:longitude":104.701335,
     "meso:admin_1":"Kandal",
@@ -78,7 +84,7 @@
         }
     ],
     "wof:id":1108564577,
-    "wof:lastmodified":1536615221,
+    "wof:lastmodified":1553718166,
     "wof:name":"Angk Snuol",
     "wof:parent_id":85673051,
     "wof:placetype":"county",

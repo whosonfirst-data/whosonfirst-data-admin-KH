@@ -10,6 +10,12 @@
     "geom:latitude":12.260312,
     "geom:longitude":104.678423,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Kampong Chhnang District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":12.252085,
     "lbl:longitude":104.681905,
     "meso:admin_1":"Kampong Chhnang",
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":421202559,
-    "wof:lastmodified":1536616148,
+    "wof:lastmodified":1553717562,
     "wof:name":"Kampong Chhnang",
     "wof:parent_id":85673047,
     "wof:placetype":"county",

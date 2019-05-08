@@ -10,6 +10,12 @@
     "geom:latitude":11.095465,
     "geom:longitude":105.535191,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Kampong Trabaek District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":11.096663,
     "lbl:longitude":105.537126,
     "meso:admin_1":"Prey Veng",
@@ -103,7 +109,7 @@
         }
     ],
     "wof:id":421202305,
-    "wof:lastmodified":1536616145,
+    "wof:lastmodified":1553717559,
     "wof:name":"Kampong Trabaek",
     "wof:parent_id":85673067,
     "wof:placetype":"county",

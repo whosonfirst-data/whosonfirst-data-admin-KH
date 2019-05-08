@@ -10,6 +10,12 @@
     "geom:latitude":10.982942,
     "geom:longitude":104.4341,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Chum Kiri District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":10.974276,
     "lbl:longitude":104.441701,
     "meso:admin_1":"Kampot",
@@ -81,7 +87,7 @@
         }
     ],
     "wof:id":1108564651,
-    "wof:lastmodified":1536615223,
+    "wof:lastmodified":1553718167,
     "wof:name":"Chum Kiri",
     "wof:parent_id":85673093,
     "wof:placetype":"county",

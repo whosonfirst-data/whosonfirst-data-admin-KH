@@ -10,6 +10,12 @@
     "geom:latitude":11.095251,
     "geom:longitude":105.809745,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Svay Rieng District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":11.096293,
     "lbl:longitude":105.808585,
     "meso:admin_1":"Svay Rieng",
@@ -78,7 +84,7 @@
         }
     ],
     "wof:id":1108564863,
-    "wof:lastmodified":1536615228,
+    "wof:lastmodified":1553718172,
     "wof:name":"Svay Rieng",
     "wof:parent_id":85673105,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":13.673978,
     "geom:longitude":105.787696,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Thala Barivat District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":13.674409,
     "lbl:longitude":105.787693,
     "meso:admin_1":"Stung Treng",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1108564869,
-    "wof:lastmodified":1536615228,
+    "wof:lastmodified":1553718172,
     "wof:name":"Thala Barivat",
     "wof:parent_id":85673075,
     "wof:placetype":"county",

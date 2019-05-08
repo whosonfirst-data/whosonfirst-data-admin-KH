@@ -10,6 +10,12 @@
     "geom:latitude":13.574999,
     "geom:longitude":104.014591,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Banteay Srei District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":13.576489,
     "lbl:longitude":104.004269,
     "meso:admin_1":"Siemreap",
@@ -78,7 +84,7 @@
         }
     ],
     "wof:id":1108564603,
-    "wof:lastmodified":1536615221,
+    "wof:lastmodified":1553718167,
     "wof:name":"Banteay Srei",
     "wof:parent_id":85673029,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":14.175847,
     "geom:longitude":106.422343,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Siem Pang District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":14.179753,
     "lbl:longitude":106.42989,
     "meso:admin_1":"Stung Treng",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1108564835,
-    "wof:lastmodified":1536615227,
+    "wof:lastmodified":1553718172,
     "wof:name":"Siem Pang",
     "wof:parent_id":85673075,
     "wof:placetype":"county",

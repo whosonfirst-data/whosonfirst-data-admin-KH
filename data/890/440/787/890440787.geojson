@@ -12,6 +12,12 @@
     "gn:country":"KH",
     "gp:adm0":23424776,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Sameakki Mean Chey District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":11.873054,
     "lbl:longitude":104.553248,
     "meso:admin_1":"Kampong Chhnang",
@@ -101,7 +107,7 @@
         }
     ],
     "wof:id":890440787,
-    "wof:lastmodified":1536617384,
+    "wof:lastmodified":1553717602,
     "wof:name":"Sameakki Mean Chey",
     "wof:parent_id":85673047,
     "wof:placetype":"county",

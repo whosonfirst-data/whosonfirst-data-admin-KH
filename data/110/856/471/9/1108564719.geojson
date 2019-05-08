@@ -10,6 +10,12 @@
     "geom:latitude":12.195984,
     "geom:longitude":105.676666,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Krouch Chhmar District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":12.209254,
     "lbl:longitude":105.673695,
     "meso:admin_1":"Tboung Khmum",
@@ -78,7 +84,7 @@
         }
     ],
     "wof:id":1108564719,
-    "wof:lastmodified":1536615224,
+    "wof:lastmodified":1553718169,
     "wof:name":"Krouch Chhmar",
     "wof:parent_id":1108804319,
     "wof:placetype":"county",

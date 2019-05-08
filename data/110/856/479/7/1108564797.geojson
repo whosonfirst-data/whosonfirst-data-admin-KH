@@ -10,6 +10,12 @@
     "geom:latitude":11.425382,
     "geom:longitude":105.77071,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Romeas Haek District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":11.425548,
     "lbl:longitude":105.773111,
     "meso:admin_1":"Svay Rieng",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1108564797,
-    "wof:lastmodified":1536615226,
+    "wof:lastmodified":1553718171,
     "wof:name":"Romeas Haek",
     "wof:parent_id":85673105,
     "wof:placetype":"county",

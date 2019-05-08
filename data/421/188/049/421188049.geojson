@@ -10,6 +10,12 @@
     "geom:latitude":12.489313,
     "geom:longitude":106.040673,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Kracheh District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":12.483377,
     "lbl:longitude":106.040678,
     "meso:admin_1":"Kratie",
@@ -98,7 +104,7 @@
         }
     ],
     "wof:id":421188049,
-    "wof:lastmodified":1536616047,
+    "wof:lastmodified":1553717459,
     "wof:name":"Kracheh",
     "wof:parent_id":85673081,
     "wof:placetype":"county",

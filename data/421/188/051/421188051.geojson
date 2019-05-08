@@ -10,6 +10,12 @@
     "geom:latitude":12.984577,
     "geom:longitude":106.089653,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Sambour District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":12.9838,
     "lbl:longitude":106.097315,
     "meso:admin_1":"Kratie",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":421188051,
-    "wof:lastmodified":1536616047,
+    "wof:lastmodified":1553717458,
     "wof:name":"Sambour",
     "wof:parent_id":85673081,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":13.688379,
     "geom:longitude":104.260692,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Svay Leu District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":13.679201,
     "lbl:longitude":104.264321,
     "meso:admin_1":"Siemreap",
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":421200831,
-    "wof:lastmodified":1536616136,
+    "wof:lastmodified":1553717552,
     "wof:name":"Svay Leu",
     "wof:parent_id":85673029,
     "wof:placetype":"county",

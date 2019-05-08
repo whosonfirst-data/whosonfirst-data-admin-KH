@@ -10,6 +10,12 @@
     "geom:latitude":12.094282,
     "geom:longitude":105.062946,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Cheung Prey District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":12.093275,
     "lbl:longitude":105.070243,
     "meso:admin_1":"Kampong Cham",
@@ -113,7 +119,7 @@
         }
     ],
     "wof:id":421195831,
-    "wof:lastmodified":1536616121,
+    "wof:lastmodified":1553717535,
     "wof:name":"Cheung Prey",
     "wof:parent_id":85673041,
     "wof:placetype":"county",

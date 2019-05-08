@@ -10,6 +10,12 @@
     "geom:latitude":12.971833,
     "geom:longitude":103.045933,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Banan District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":12.970971,
     "lbl:longitude":103.065192,
     "meso:admin_1":"Battambang",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1108564597,
-    "wof:lastmodified":1536615221,
+    "wof:lastmodified":1553718166,
     "wof:name":"Banan",
     "wof:parent_id":85673015,
     "wof:placetype":"county",

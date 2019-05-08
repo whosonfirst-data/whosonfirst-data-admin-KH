@@ -10,6 +10,12 @@
     "geom:latitude":11.938857,
     "geom:longitude":105.148468,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Kang Meas District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":11.909822,
     "lbl:longitude":105.071353,
     "meso:admin_1":"Kampong Cham",
@@ -78,7 +84,7 @@
         }
     ],
     "wof:id":1108564689,
-    "wof:lastmodified":1536615223,
+    "wof:lastmodified":1553718168,
     "wof:name":"Kang Meas",
     "wof:parent_id":85673041,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":13.711751,
     "geom:longitude":103.711111,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Angkor Chum District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":13.68765,
     "lbl:longitude":103.713375,
     "meso:admin_1":"Siemreap",
@@ -81,7 +87,7 @@
         }
     ],
     "wof:id":1108564583,
-    "wof:lastmodified":1536615221,
+    "wof:lastmodified":1553718166,
     "wof:name":"Angkor Chum",
     "wof:parent_id":85673029,
     "wof:placetype":"county",

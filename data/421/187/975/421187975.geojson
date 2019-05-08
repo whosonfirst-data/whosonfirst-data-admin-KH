@@ -10,6 +10,12 @@
     "geom:latitude":13.912669,
     "geom:longitude":105.461625,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Chhaeb District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":13.880646,
     "lbl:longitude":105.358029,
     "meso:admin_1":"Preah Vihear",
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":421187975,
-    "wof:lastmodified":1536616046,
+    "wof:lastmodified":1553717459,
     "wof:name":"Chhaeb",
     "wof:parent_id":85673071,
     "wof:placetype":"county",

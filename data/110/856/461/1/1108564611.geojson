@@ -10,6 +10,12 @@
     "geom:latitude":12.030067,
     "geom:longitude":104.932053,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Batheay District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":11.908536,
     "lbl:longitude":104.899036,
     "meso:admin_1":"Kampong Cham",
@@ -84,7 +90,7 @@
         }
     ],
     "wof:id":1108564611,
-    "wof:lastmodified":1536615222,
+    "wof:lastmodified":1553718167,
     "wof:name":"Batheay",
     "wof:parent_id":85673041,
     "wof:placetype":"county",

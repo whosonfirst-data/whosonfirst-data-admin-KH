@@ -10,6 +10,12 @@
     "geom:latitude":11.77295,
     "geom:longitude":105.362755,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Sithor Kandal District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":11.787877,
     "lbl:longitude":105.351199,
     "meso:admin_1":"Prey Veng",
@@ -78,7 +84,7 @@
         }
     ],
     "wof:id":1108564837,
-    "wof:lastmodified":1536615227,
+    "wof:lastmodified":1553718172,
     "wof:name":"Sithor Kandal",
     "wof:parent_id":85673067,
     "wof:placetype":"county",

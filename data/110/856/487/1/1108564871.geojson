@@ -10,6 +10,12 @@
     "geom:latitude":13.260032,
     "geom:longitude":103.095276,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Thma Koul District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":13.275345,
     "lbl:longitude":103.076821,
     "meso:admin_1":"Battambang",
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":1108564871,
-    "wof:lastmodified":1536615228,
+    "wof:lastmodified":1553718172,
     "wof:name":"Thma Koul",
     "wof:parent_id":85673015,
     "wof:placetype":"county",

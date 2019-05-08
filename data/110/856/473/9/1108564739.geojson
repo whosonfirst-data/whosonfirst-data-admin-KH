@@ -10,6 +10,12 @@
     "geom:latitude":12.856263,
     "geom:longitude":103.555209,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Moung Ruessei District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":12.828657,
     "lbl:longitude":103.499221,
     "meso:admin_1":"Battambang",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1108564739,
-    "wof:lastmodified":1536615225,
+    "wof:lastmodified":1553718169,
     "wof:name":"Moung Ruessei",
     "wof:parent_id":85673015,
     "wof:placetype":"county",

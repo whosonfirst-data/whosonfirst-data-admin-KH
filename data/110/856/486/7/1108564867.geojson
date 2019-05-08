@@ -10,6 +10,12 @@
     "geom:latitude":13.810335,
     "geom:longitude":105.029134,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Tbaeng Mean Chey District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":13.866988,
     "lbl:longitude":105.057749,
     "meso:admin_1":"Preah Vihear",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108564867,
-    "wof:lastmodified":1536615228,
+    "wof:lastmodified":1553718173,
     "wof:name":"Tbaeng Mean Chey",
     "wof:parent_id":85673071,
     "wof:placetype":"county",

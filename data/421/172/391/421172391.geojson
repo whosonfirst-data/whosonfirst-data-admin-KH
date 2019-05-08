@@ -10,6 +10,12 @@
     "geom:latitude":13.234821,
     "geom:longitude":103.467963,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Aek Phnum District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":13.264312,
     "lbl:longitude":103.500234,
     "meso:admin_1":"Battambang",
@@ -111,7 +117,7 @@
         }
     ],
     "wof:id":421172391,
-    "wof:lastmodified":1536615938,
+    "wof:lastmodified":1553717339,
     "wof:name":"Aek Phnum",
     "wof:parent_id":85673015,
     "wof:placetype":"county",

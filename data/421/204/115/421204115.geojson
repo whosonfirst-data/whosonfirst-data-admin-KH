@@ -10,6 +10,12 @@
     "geom:latitude":13.304637,
     "geom:longitude":103.842816,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Siem Reap District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":13.30402,
     "lbl:longitude":103.833816,
     "meso:admin_1":"Siemreap",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":421204115,
-    "wof:lastmodified":1536616163,
+    "wof:lastmodified":1553717578,
     "wof:name":"Siem Reap",
     "wof:parent_id":85673029,
     "wof:placetype":"county",

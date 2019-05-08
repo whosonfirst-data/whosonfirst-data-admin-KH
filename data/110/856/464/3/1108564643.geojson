@@ -10,6 +10,12 @@
     "geom:latitude":14.162206,
     "geom:longitude":104.859005,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Choam Ksant District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":14.186483,
     "lbl:longitude":104.811842,
     "meso:admin_1":"Preah Vihear",
@@ -81,7 +87,7 @@
         }
     ],
     "wof:id":1108564643,
-    "wof:lastmodified":1536615222,
+    "wof:lastmodified":1553718168,
     "wof:name":"Choam Ksant",
     "wof:parent_id":85673071,
     "wof:placetype":"county",

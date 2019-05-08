@@ -10,6 +10,12 @@
     "geom:latitude":11.739268,
     "geom:longitude":104.057916,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Aoral District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":11.726201,
     "lbl:longitude":104.052877,
     "meso:admin_1":"Kampong Speu",
@@ -81,7 +87,7 @@
         }
     ],
     "wof:id":1108564591,
-    "wof:lastmodified":1536615221,
+    "wof:lastmodified":1553718166,
     "wof:name":"Aoral",
     "wof:parent_id":85673053,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":11.835855,
     "geom:longitude":105.166257,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Srei Santhor District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":11.860109,
     "lbl:longitude":105.198726,
     "meso:admin_1":"Kampong Cham",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1108564845,
-    "wof:lastmodified":1536615227,
+    "wof:lastmodified":1553718172,
     "wof:name":"Srei Santhor",
     "wof:parent_id":85673041,
     "wof:placetype":"county",

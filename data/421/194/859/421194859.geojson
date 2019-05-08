@@ -10,6 +10,12 @@
     "geom:latitude":13.787928,
     "geom:longitude":104.610038,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Kuleaen District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":13.793737,
     "lbl:longitude":104.60582,
     "meso:admin_1":"Preah Vihear",
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":421194859,
-    "wof:lastmodified":1536616117,
+    "wof:lastmodified":1553717531,
     "wof:name":"Kuleaen",
     "wof:parent_id":85673071,
     "wof:placetype":"county",

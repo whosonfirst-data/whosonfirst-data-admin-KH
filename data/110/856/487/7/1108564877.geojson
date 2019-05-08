@@ -10,6 +10,12 @@
     "geom:latitude":11.011849,
     "geom:longitude":104.605496,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Tram Kak District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":10.990743,
     "lbl:longitude":104.631618,
     "meso:admin_1":"Takeo",
@@ -81,7 +87,7 @@
         }
     ],
     "wof:id":1108564877,
-    "wof:lastmodified":1536615228,
+    "wof:lastmodified":1553718172,
     "wof:name":"Tram Kak",
     "wof:parent_id":85673107,
     "wof:placetype":"county",

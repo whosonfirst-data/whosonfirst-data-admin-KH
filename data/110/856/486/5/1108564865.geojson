@@ -10,6 +10,12 @@
     "geom:latitude":11.107606,
     "geom:longitude":105.942049,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Svay Teab District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":11.121984,
     "lbl:longitude":105.940135,
     "meso:admin_1":"Svay Rieng",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1108564865,
-    "wof:lastmodified":1536615228,
+    "wof:lastmodified":1553718172,
     "wof:name":"Svay Teab",
     "wof:parent_id":85673105,
     "wof:placetype":"county",

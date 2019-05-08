@@ -10,6 +10,12 @@
     "geom:latitude":14.170175,
     "geom:longitude":103.268368,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Banteay Ampil District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":14.211533,
     "lbl:longitude":103.271504,
     "meso:admin_1":"Oddar Meanchey",
@@ -84,7 +90,7 @@
         }
     ],
     "wof:id":1108564599,
-    "wof:lastmodified":1536615221,
+    "wof:lastmodified":1553718167,
     "wof:name":"Banteay Ampil",
     "wof:parent_id":85673033,
     "wof:placetype":"county",

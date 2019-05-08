@@ -10,6 +10,12 @@
     "geom:latitude":11.685746,
     "geom:longitude":105.559552,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Kanhchriech District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":11.697428,
     "lbl:longitude":105.58811,
     "meso:admin_1":"Prey Veng",
@@ -78,7 +84,7 @@
         }
     ],
     "wof:id":1108564691,
-    "wof:lastmodified":1536615223,
+    "wof:lastmodified":1553718169,
     "wof:name":"Kanhchriech",
     "wof:parent_id":85673067,
     "wof:placetype":"county",

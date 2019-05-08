@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.048122,
-    "geom:area_square_m":580282077.315815,
+    "geom:area_square_m":580282077.315787,
     "geom:bbox":"102.497282,12.6610848153,102.755951552,12.8923021998",
     "geom:latitude":12.788209,
     "geom:longitude":102.625949,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Pailin District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":12.786609,
     "lbl:longitude":102.636419,
     "meso:admin_1":"Pailin",
@@ -109,7 +115,7 @@
         }
     ],
     "wof:id":421170109,
-    "wof:lastmodified":1553816359,
+    "wof:lastmodified":1555037162,
     "wof:name":"Pailin",
     "wof:parent_id":85673037,
     "wof:placetype":"county",

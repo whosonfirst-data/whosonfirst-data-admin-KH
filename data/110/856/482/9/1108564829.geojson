@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.215046,
-    "geom:area_square_m":2594774091.446732,
+    "geom:area_square_m":2594774091.447181,
     "geom:bbox":"104.816172588,12.3725311591,105.735496457,12.8099024231",
     "geom:latitude":12.626825,
     "geom:longitude":105.337969,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Santuk District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":12.645431,
     "lbl:longitude":105.445764,
     "meso:admin_1":"Kampong Thom",
@@ -81,7 +87,7 @@
         }
     ],
     "wof:id":1108564829,
-    "wof:lastmodified":1553816453,
+    "wof:lastmodified":1555037625,
     "wof:name":"Santuk",
     "wof:parent_id":85673057,
     "wof:placetype":"county",

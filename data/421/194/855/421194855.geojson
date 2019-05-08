@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006904,
-    "geom:area_square_m":83662208.147716,
+    "geom:area_square_m":83662208.147749,
     "geom:bbox":"104.45294302,11.4295422357,104.570090014,11.5172364236",
     "geom:latitude":11.471541,
     "geom:longitude":104.507079,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Chbar Mon District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":11.468573,
     "lbl:longitude":104.505966,
     "meso:admin_1":"Kampong Speu",
@@ -112,7 +118,7 @@
         }
     ],
     "wof:id":421194855,
-    "wof:lastmodified":1553816383,
+    "wof:lastmodified":1555037068,
     "wof:name":"Chbar Mon",
     "wof:parent_id":85673053,
     "wof:placetype":"county",

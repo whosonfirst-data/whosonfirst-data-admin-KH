@@ -10,6 +10,12 @@
     "geom:latitude":11.142043,
     "geom:longitude":103.946426,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Kampong Seila District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":11.115582,
     "lbl:longitude":103.968626,
     "meso:admin_1":"Preah Sihanouk",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1108564673,
-    "wof:lastmodified":1536615223,
+    "wof:lastmodified":1553718169,
     "wof:name":"Kampong Seila",
     "wof:parent_id":85673019,
     "wof:placetype":"county",

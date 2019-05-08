@@ -10,6 +10,12 @@
     "geom:latitude":11.588844,
     "geom:longitude":105.641899,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Kamchay Mear District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":11.539183,
     "lbl:longitude":105.625082,
     "meso:admin_1":"Prey Veng",
@@ -78,7 +84,7 @@
         }
     ],
     "wof:id":1108564669,
-    "wof:lastmodified":1536615223,
+    "wof:lastmodified":1553718168,
     "wof:name":"Kamchay Mear",
     "wof:parent_id":85673067,
     "wof:placetype":"county",

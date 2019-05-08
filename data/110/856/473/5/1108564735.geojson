@@ -10,6 +10,12 @@
     "geom:latitude":11.882121,
     "geom:longitude":106.203448,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Memot District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":11.852199,
     "lbl:longitude":106.199461,
     "meso:admin_1":"Tboung Khmum",
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":1108564735,
-    "wof:lastmodified":1536615225,
+    "wof:lastmodified":1553718170,
     "wof:name":"Memot",
     "wof:parent_id":1108804319,
     "wof:placetype":"county",

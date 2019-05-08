@@ -10,6 +10,12 @@
     "geom:latitude":10.813383,
     "geom:longitude":104.988777,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Borei Cholsar District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":10.878127,
     "lbl:longitude":104.937392,
     "meso:admin_1":"Takeo",
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":1108564619,
-    "wof:lastmodified":1536615222,
+    "wof:lastmodified":1553718167,
     "wof:name":"Borei Cholsar",
     "wof:parent_id":85673107,
     "wof:placetype":"county",

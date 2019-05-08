@@ -10,6 +10,12 @@
     "geom:latitude":14.296636,
     "geom:longitude":107.239641,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Ta Veaeng District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":14.251198,
     "lbl:longitude":107.192164,
     "meso:admin_1":"Ratanak Kiri",
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":421188053,
-    "wof:lastmodified":1536616047,
+    "wof:lastmodified":1553717459,
     "wof:name":"Ta Veaeng",
     "wof:parent_id":85673089,
     "wof:placetype":"county",

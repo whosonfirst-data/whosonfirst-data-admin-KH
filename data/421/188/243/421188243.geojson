@@ -10,6 +10,12 @@
     "geom:latitude":10.686924,
     "geom:longitude":103.786027,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Prey Nob District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":10.733871,
     "lbl:longitude":103.790674,
     "meso:admin_1":"Preah Sihanouk",
@@ -102,7 +108,7 @@
         }
     ],
     "wof:id":421188243,
-    "wof:lastmodified":1536616051,
+    "wof:lastmodified":1553717464,
     "wof:name":"Prey Nob",
     "wof:parent_id":85673101,
     "wof:placetype":"county",

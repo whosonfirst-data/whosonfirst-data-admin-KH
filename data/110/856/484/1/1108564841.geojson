@@ -10,6 +10,12 @@
     "geom:latitude":12.194823,
     "geom:longitude":106.471857,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Snuol District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":12.166996,
     "lbl:longitude":106.498545,
     "meso:admin_1":"Kratie",
@@ -78,7 +84,7 @@
         }
     ],
     "wof:id":1108564841,
-    "wof:lastmodified":1536615227,
+    "wof:lastmodified":1553718172,
     "wof:name":"Snuol",
     "wof:parent_id":85673081,
     "wof:placetype":"county",

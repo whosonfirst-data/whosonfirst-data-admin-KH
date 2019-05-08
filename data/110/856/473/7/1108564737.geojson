@@ -10,6 +10,12 @@
     "geom:latitude":13.457173,
     "geom:longitude":102.989118,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Mongkol Borei District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":13.472073,
     "lbl:longitude":102.993456,
     "meso:admin_1":"Banteay Meanchey",
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":1108564737,
-    "wof:lastmodified":1536615225,
+    "wof:lastmodified":1553718170,
     "wof:name":"Mongkol Borei",
     "wof:parent_id":85673011,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":11.275369,
     "geom:longitude":104.819909,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Bati District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":11.279429,
     "lbl:longitude":104.817535,
     "meso:admin_1":"Takeo",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1108564613,
-    "wof:lastmodified":1536615222,
+    "wof:lastmodified":1553718167,
     "wof:name":"Bati",
     "wof:parent_id":85673107,
     "wof:placetype":"county",

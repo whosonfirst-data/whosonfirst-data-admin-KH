@@ -10,6 +10,12 @@
     "geom:latitude":13.606261,
     "geom:longitude":106.358125,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Sesan District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":13.618987,
     "lbl:longitude":106.332265,
     "meso:admin_1":"Stung Treng",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1108564831,
-    "wof:lastmodified":1536615227,
+    "wof:lastmodified":1553718171,
     "wof:name":"Sesan",
     "wof:parent_id":85673075,
     "wof:placetype":"county",

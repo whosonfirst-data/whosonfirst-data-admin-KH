@@ -10,6 +10,12 @@
     "geom:latitude":13.841857,
     "geom:longitude":107.034971,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Ou Chum District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":13.849865,
     "lbl:longitude":107.037781,
     "meso:admin_1":"Ratanak Kiri",
@@ -81,7 +87,7 @@
         }
     ],
     "wof:id":1108564743,
-    "wof:lastmodified":1536615225,
+    "wof:lastmodified":1553718169,
     "wof:name":"Ou Chum",
     "wof:parent_id":85673089,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":12.159247,
     "geom:longitude":104.822682,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Chol Kiri District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":12.174604,
     "lbl:longitude":104.848789,
     "meso:admin_1":"Kampong Chhnang",
@@ -81,7 +87,7 @@
         }
     ],
     "wof:id":1108564645,
-    "wof:lastmodified":1536615222,
+    "wof:lastmodified":1553718168,
     "wof:name":"Chol Kiri",
     "wof:parent_id":85673047,
     "wof:placetype":"county",

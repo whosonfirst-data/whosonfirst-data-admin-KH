@@ -10,6 +10,12 @@
     "geom:latitude":11.535775,
     "geom:longitude":104.793111,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Angk Snuol District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":11.541515,
     "lbl:longitude":104.798271,
     "meso:admin_1":"Phnom Penh",
@@ -26,9 +32,10 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "name:eng_x_preferred":[
-        "Angk Snuol District"
+        "Angk Snuol"
     ],
     "name:eng_x_variant":[
+        "Angk Snuol",
         "Angk Snuol"
     ],
     "name:fre_x_preferred":[
@@ -67,7 +74,7 @@
         }
     ],
     "wof:id":1108564793,
-    "wof:lastmodified":1536615226,
+    "wof:lastmodified":1555220363,
     "wof:name":"Pur SenChey",
     "wof:parent_id":85673063,
     "wof:placetype":"county",

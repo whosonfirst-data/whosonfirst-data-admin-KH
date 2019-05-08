@@ -10,6 +10,12 @@
     "geom:latitude":12.679888,
     "geom:longitude":103.18262,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Koas Krala District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":12.711792,
     "lbl:longitude":103.200319,
     "meso:admin_1":"Battambang",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108564711,
-    "wof:lastmodified":1536615224,
+    "wof:lastmodified":1553718169,
     "wof:name":"Koas Krala",
     "wof:parent_id":85673015,
     "wof:placetype":"county",

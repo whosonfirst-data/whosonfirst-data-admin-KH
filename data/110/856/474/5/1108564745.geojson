@@ -10,6 +10,12 @@
     "geom:latitude":12.356384,
     "geom:longitude":107.171104,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Ou Reang District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":12.330333,
     "lbl:longitude":107.074271,
     "meso:admin_1":"Mondul Kiri",
@@ -78,7 +84,7 @@
         }
     ],
     "wof:id":1108564745,
-    "wof:lastmodified":1536615225,
+    "wof:lastmodified":1553718170,
     "wof:name":"Ou Reang",
     "wof:parent_id":85673085,
     "wof:placetype":"county",

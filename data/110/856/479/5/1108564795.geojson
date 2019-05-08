@@ -10,6 +10,12 @@
     "geom:latitude":12.472791,
     "geom:longitude":103.915051,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Sampov Meas District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":12.476218,
     "lbl:longitude":103.917253,
     "meso:admin_1":"Pursat",
@@ -26,10 +32,11 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "name:eng_x_preferred":[
-        "Sampov Meas District"
+        "Sampov Meas"
     ],
     "name:eng_x_variant":[
         "Krong Pursat",
+        "Sampov Meas",
         "Sampov Meas"
     ],
     "name:fre_x_preferred":[
@@ -74,7 +81,7 @@
         }
     ],
     "wof:id":1108564795,
-    "wof:lastmodified":1536615226,
+    "wof:lastmodified":1555220363,
     "wof:name":"Pursat",
     "wof:parent_id":85673023,
     "wof:placetype":"county",

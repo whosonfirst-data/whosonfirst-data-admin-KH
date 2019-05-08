@@ -10,6 +10,12 @@
     "geom:latitude":13.815407,
     "geom:longitude":102.95225,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Svay Chek District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":13.835049,
     "lbl:longitude":102.894727,
     "meso:admin_1":"Banteay Meanchey",
@@ -111,7 +117,7 @@
         }
     ],
     "wof:id":421181961,
-    "wof:lastmodified":1536615979,
+    "wof:lastmodified":1553717381,
     "wof:name":"Svay Chek",
     "wof:parent_id":85673011,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":12.869627,
     "geom:longitude":102.874743,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Rotonak Mondol District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":12.860112,
     "lbl:longitude":102.874721,
     "meso:admin_1":"Battambang",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108564799,
-    "wof:lastmodified":1536615226,
+    "wof:lastmodified":1553718171,
     "wof:name":"Rotonak Mondol",
     "wof:parent_id":85673015,
     "wof:placetype":"county",

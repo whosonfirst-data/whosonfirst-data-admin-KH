@@ -10,6 +10,12 @@
     "geom:latitude":12.179455,
     "geom:longitude":106.112942,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Chhloung District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":12.195581,
     "lbl:longitude":106.116586,
     "meso:admin_1":"Kratie",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1108564635,
-    "wof:lastmodified":1536615222,
+    "wof:lastmodified":1553718168,
     "wof:name":"Chhloung",
     "wof:parent_id":85673081,
     "wof:placetype":"county",

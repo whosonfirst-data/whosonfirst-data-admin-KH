@@ -10,6 +10,12 @@
     "geom:latitude":13.521341,
     "geom:longitude":102.56926,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Malai District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":13.526277,
     "lbl:longitude":102.57306,
     "meso:admin_1":"Banteay Meanchey",
@@ -93,7 +99,7 @@
         }
     ],
     "wof:id":1108564727,
-    "wof:lastmodified":1536615224,
+    "wof:lastmodified":1553718170,
     "wof:name":"Malai",
     "wof:parent_id":85673011,
     "wof:placetype":"county",

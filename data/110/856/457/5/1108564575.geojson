@@ -10,6 +10,12 @@
     "geom:latitude":13.934353,
     "geom:longitude":107.311845,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Andoung Meas District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":13.926203,
     "lbl:longitude":107.292755,
     "meso:admin_1":"Ratanak Kiri",
@@ -81,7 +87,7 @@
         }
     ],
     "wof:id":1108564575,
-    "wof:lastmodified":1536615221,
+    "wof:lastmodified":1553718166,
     "wof:name":"Andoung Meas",
     "wof:parent_id":85673089,
     "wof:placetype":"county",

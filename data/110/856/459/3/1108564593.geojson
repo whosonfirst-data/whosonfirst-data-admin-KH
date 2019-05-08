@@ -10,6 +10,12 @@
     "geom:latitude":11.282302,
     "geom:longitude":105.421796,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Ba Phnum District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":11.281647,
     "lbl:longitude":105.42008,
     "meso:admin_1":"Prey Veng",
@@ -78,7 +84,7 @@
         }
     ],
     "wof:id":1108564593,
-    "wof:lastmodified":1536615221,
+    "wof:lastmodified":1553718166,
     "wof:name":"Ba Phnum",
     "wof:parent_id":85673067,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":11.32017,
     "geom:longitude":105.037208,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "S'ang District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":11.325072,
     "lbl:longitude":105.027361,
     "meso:admin_1":"Kandal",
@@ -78,7 +84,7 @@
         }
     ],
     "wof:id":1108564811,
-    "wof:lastmodified":1536615226,
+    "wof:lastmodified":1553718171,
     "wof:name":"S'ang",
     "wof:parent_id":85673051,
     "wof:placetype":"county",

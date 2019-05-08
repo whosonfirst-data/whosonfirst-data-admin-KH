@@ -10,6 +10,12 @@
     "geom:latitude":13.544434,
     "geom:longitude":107.447767,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Ou Ya Dav District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":13.552535,
     "lbl:longitude":107.444306,
     "meso:admin_1":"Ratanak Kiri",
@@ -84,7 +90,7 @@
         }
     ],
     "wof:id":1108564747,
-    "wof:lastmodified":1536615225,
+    "wof:lastmodified":1553718170,
     "wof:name":"Ou Ya Dav",
     "wof:parent_id":85673089,
     "wof:placetype":"county",

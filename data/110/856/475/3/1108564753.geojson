@@ -10,6 +10,12 @@
     "geom:latitude":11.669087,
     "geom:longitude":105.243015,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Pea Reang District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":11.688862,
     "lbl:longitude":105.23055,
     "meso:admin_1":"Prey Veng",
@@ -81,7 +87,7 @@
         }
     ],
     "wof:id":1108564753,
-    "wof:lastmodified":1536615225,
+    "wof:lastmodified":1553718170,
     "wof:name":"Pea Reang",
     "wof:parent_id":85673067,
     "wof:placetype":"county",

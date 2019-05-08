@@ -10,6 +10,12 @@
     "geom:latitude":13.487587,
     "geom:longitude":104.781029,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Sangkum Thmei District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":13.504087,
     "lbl:longitude":104.795472,
     "meso:admin_1":"Preah Vihear",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108564827,
-    "wof:lastmodified":1536615227,
+    "wof:lastmodified":1553718171,
     "wof:name":"Sangkum Thmei",
     "wof:parent_id":85673071,
     "wof:placetype":"county",

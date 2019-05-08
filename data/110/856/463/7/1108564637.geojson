@@ -10,6 +10,12 @@
     "geom:latitude":10.942755,
     "geom:longitude":104.26423,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Chhuk District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":10.950877,
     "lbl:longitude":104.225856,
     "meso:admin_1":"Kampot",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108564637,
-    "wof:lastmodified":1536615222,
+    "wof:lastmodified":1553718168,
     "wof:name":"Chhuk",
     "wof:parent_id":85673093,
     "wof:placetype":"county",

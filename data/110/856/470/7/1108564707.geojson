@@ -10,6 +10,12 @@
     "geom:latitude":11.41903,
     "geom:longitude":105.144164,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Kien Svay District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":11.420491,
     "lbl:longitude":105.135682,
     "meso:admin_1":"Kandal",
@@ -84,7 +90,7 @@
         }
     ],
     "wof:id":1108564707,
-    "wof:lastmodified":1536615224,
+    "wof:lastmodified":1553718169,
     "wof:name":"Kien Svay",
     "wof:parent_id":85673051,
     "wof:placetype":"county",

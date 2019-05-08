@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.03914,
-    "geom:area_square_m":474231386.316681,
+    "geom:area_square_m":474231386.316831,
     "geom:bbox":"105.339878022,11.355769135,105.591745688,11.6509268041",
     "geom:latitude":11.515934,
     "geom:longitude":105.457067,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Prey Veaeng District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":11.522391,
     "lbl:longitude":105.469434,
     "meso:admin_1":"Prey Veng",
@@ -26,10 +32,11 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "name:eng_x_preferred":[
-        "Prey Veaeng District"
+        "Prey Veaeng"
     ],
     "name:eng_x_variant":[
         "Svay Antor",
+        "Prey Veaeng",
         "Prey Veaeng"
     ],
     "name:fre_x_preferred":[
@@ -65,7 +72,7 @@
         }
     ],
     "wof:id":1108564859,
-    "wof:lastmodified":1553816453,
+    "wof:lastmodified":1555220363,
     "wof:name":"Svay Antor",
     "wof:parent_id":85673067,
     "wof:placetype":"county",

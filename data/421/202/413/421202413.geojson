@@ -10,6 +10,12 @@
     "geom:latitude":11.093063,
     "geom:longitude":103.380204,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Botum Sakor District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":11.077543,
     "lbl:longitude":103.361561,
     "meso:admin_1":"Koh Kong",
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":421202413,
-    "wof:lastmodified":1536616146,
+    "wof:lastmodified":1553717561,
     "wof:name":"Botum Sakor",
     "wof:parent_id":85673019,
     "wof:placetype":"county",

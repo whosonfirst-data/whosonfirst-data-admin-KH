@@ -10,6 +10,12 @@
     "geom:latitude":14.022557,
     "geom:longitude":103.609212,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Chong Kal District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":14.017688,
     "lbl:longitude":103.546521,
     "meso:admin_1":"Oddar Meanchey",
@@ -81,7 +87,7 @@
         }
     ],
     "wof:id":1108564647,
-    "wof:lastmodified":1536615222,
+    "wof:lastmodified":1553718167,
     "wof:name":"Chong Kal",
     "wof:parent_id":85673033,
     "wof:placetype":"county",

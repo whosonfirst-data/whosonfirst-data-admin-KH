@@ -10,6 +10,12 @@
     "geom:latitude":13.086786,
     "geom:longitude":103.164918,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Battambang District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":13.085537,
     "lbl:longitude":103.176229,
     "meso:admin_1":"Battambang",
@@ -191,7 +197,7 @@
         }
     ],
     "wof:id":421171545,
-    "wof:lastmodified":1536615931,
+    "wof:lastmodified":1553717329,
     "wof:name":"Battambang",
     "wof:parent_id":85673015,
     "wof:placetype":"county",

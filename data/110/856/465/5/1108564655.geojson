@@ -10,6 +10,12 @@
     "geom:latitude":10.511899,
     "geom:longitude":104.381004,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Damnak Chang'aeur District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":10.511024,
     "lbl:longitude":104.378191,
     "meso:admin_1":"Kep",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108564655,
-    "wof:lastmodified":1536615223,
+    "wof:lastmodified":1553718167,
     "wof:name":"Damnak Chang'aeur",
     "wof:parent_id":85673099,
     "wof:placetype":"county",

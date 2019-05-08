@@ -10,6 +10,12 @@
     "geom:latitude":13.837236,
     "geom:longitude":103.563619,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Srei Snam District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":13.826587,
     "lbl:longitude":103.553005,
     "meso:admin_1":"Siemreap",
@@ -78,7 +84,7 @@
         }
     ],
     "wof:id":1108564847,
-    "wof:lastmodified":1536615227,
+    "wof:lastmodified":1553718172,
     "wof:name":"Srei Snam",
     "wof:parent_id":85673029,
     "wof:placetype":"county",

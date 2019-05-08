@@ -10,6 +10,12 @@
     "geom:latitude":10.994807,
     "geom:longitude":104.796735,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Doun Kaev District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":11.001966,
     "lbl:longitude":104.78274,
     "meso:admin_1":"Takeo",
@@ -113,7 +119,7 @@
         }
     ],
     "wof:id":421187977,
-    "wof:lastmodified":1536616046,
+    "wof:lastmodified":1553717459,
     "wof:name":"Doun Kaev",
     "wof:parent_id":85673107,
     "wof:placetype":"county",

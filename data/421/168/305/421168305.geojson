@@ -10,6 +10,12 @@
     "geom:latitude":11.455532,
     "geom:longitude":104.94292,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Ta Khmau District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":11.455359,
     "lbl:longitude":104.940723,
     "meso:admin_1":"Kandal",
@@ -159,7 +165,7 @@
         }
     ],
     "wof:id":421168305,
-    "wof:lastmodified":1536615896,
+    "wof:lastmodified":1553717301,
     "wof:name":"Ta Khmau",
     "wof:parent_id":85673051,
     "wof:placetype":"county",

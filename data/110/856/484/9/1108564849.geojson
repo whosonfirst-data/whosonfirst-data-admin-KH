@@ -10,6 +10,12 @@
     "geom:latitude":12.90446,
     "geom:longitude":104.484548,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Stoung District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":12.883586,
     "lbl:longitude":104.525719,
     "meso:admin_1":"Kampong Thom",
@@ -81,7 +87,7 @@
         }
     ],
     "wof:id":1108564849,
-    "wof:lastmodified":1536615227,
+    "wof:lastmodified":1553718172,
     "wof:name":"Stoung",
     "wof:parent_id":85673057,
     "wof:placetype":"county",

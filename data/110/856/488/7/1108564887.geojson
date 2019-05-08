@@ -10,6 +10,12 @@
     "geom:latitude":11.568527,
     "geom:longitude":104.896869,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Tuol Kouk District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":11.568332,
     "lbl:longitude":104.896867,
     "meso:admin_1":"Phnom Penh",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108564887,
-    "wof:lastmodified":1536615228,
+    "wof:lastmodified":1553718173,
     "wof:name":"Tuol Kouk",
     "wof:parent_id":85673063,
     "wof:placetype":"county",

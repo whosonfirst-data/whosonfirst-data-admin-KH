@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.109175,
-    "geom:area_square_m":1318531319.611927,
+    "geom:area_square_m":1318531319.611841,
     "geom:bbox":"104.852326037,12.1906965823,105.401076398,12.5408426475",
     "geom:latitude":12.388262,
     "geom:longitude":105.10465,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Baray District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":12.394301,
     "lbl:longitude":105.031886,
     "meso:admin_1":"Kampong Thom",
@@ -110,7 +116,7 @@
         }
     ],
     "wof:id":421198921,
-    "wof:lastmodified":1553816386,
+    "wof:lastmodified":1555037061,
     "wof:name":"Baray",
     "wof:parent_id":85673057,
     "wof:placetype":"county",

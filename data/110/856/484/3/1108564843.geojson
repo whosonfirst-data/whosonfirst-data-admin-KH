@@ -10,6 +10,12 @@
     "geom:latitude":13.147514,
     "geom:longitude":104.0993,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Soutr Nikom District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":13.061122,
     "lbl:longitude":104.072517,
     "meso:admin_1":"Siemreap",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108564843,
-    "wof:lastmodified":1536615227,
+    "wof:lastmodified":1553718172,
     "wof:name":"Soutr Nikom",
     "wof:parent_id":85673029,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.039983,
-    "geom:area_square_m":485169855.313318,
+    "geom:area_square_m":485169855.313267,
     "geom:bbox":"105.256457867,10.9057288865,105.468676567,11.2536394138",
     "geom:latitude":11.087432,
     "geom:longitude":105.376329,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Preah Sdach District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":11.090201,
     "lbl:longitude":105.383562,
     "meso:admin_1":"Prey Veng",
@@ -78,7 +84,7 @@
         }
     ],
     "wof:id":1108564775,
-    "wof:lastmodified":1553816453,
+    "wof:lastmodified":1555037626,
     "wof:name":"Preah Sdach",
     "wof:parent_id":85673067,
     "wof:placetype":"county",

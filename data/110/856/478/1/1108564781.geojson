@@ -10,6 +10,12 @@
     "geom:latitude":12.474014,
     "geom:longitude":105.875675,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Prek Prasab District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":12.46889,
     "lbl:longitude":105.872395,
     "meso:admin_1":"Kratie",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1108564781,
-    "wof:lastmodified":1536615226,
+    "wof:lastmodified":1553718171,
     "wof:name":"Prek Prasab",
     "wof:parent_id":85673081,
     "wof:placetype":"county",

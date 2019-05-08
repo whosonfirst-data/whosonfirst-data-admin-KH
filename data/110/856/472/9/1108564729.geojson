@@ -10,6 +10,12 @@
     "geom:latitude":11.355077,
     "geom:longitude":105.573866,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Me Sang District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":11.355388,
     "lbl:longitude":105.572294,
     "meso:admin_1":"Prey Veng",
@@ -81,7 +87,7 @@
         }
     ],
     "wof:id":1108564729,
-    "wof:lastmodified":1536615224,
+    "wof:lastmodified":1553718170,
     "wof:name":"Me Sang",
     "wof:parent_id":85673067,
     "wof:placetype":"county",

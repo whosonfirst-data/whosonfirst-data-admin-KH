@@ -10,6 +10,12 @@
     "geom:latitude":11.184152,
     "geom:longitude":104.536394,
     "iso:country":"KH",
+    "label:eng_x_preferred_longname":[
+        "Basedth District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":11.211333,
     "lbl:longitude":104.508316,
     "meso:admin_1":"Kampong Speu",
@@ -81,7 +87,7 @@
         }
     ],
     "wof:id":1108564609,
-    "wof:lastmodified":1536615222,
+    "wof:lastmodified":1553718167,
     "wof:name":"Basedth",
     "wof:parent_id":85673053,
     "wof:placetype":"county",
