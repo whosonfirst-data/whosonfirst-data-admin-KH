@@ -38,7 +38,7 @@
         "Angkor Chum",
         "Angkor Chum District"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Angkor Chum"
     ],
     "name:ita_x_preferred":[
@@ -87,7 +87,7 @@
         }
     ],
     "wof:id":1108564583,
-    "wof:lastmodified":1553718166,
+    "wof:lastmodified":1561778119,
     "wof:name":"Angkor Chum",
     "wof:parent_id":85673029,
     "wof:placetype":"county",

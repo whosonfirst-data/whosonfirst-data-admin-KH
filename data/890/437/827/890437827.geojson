@@ -16,11 +16,8 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
-    "name:chi_x_preferred":[
-        "\u6854\u4e95\u5e02"
-    ],
-    "name:dut_x_preferred":[
-        "Kracheh"
+    "name:deu_x_preferred":[
+        "Kratie"
     ],
     "name:eng_x_preferred":[
         "Krati\u00e9"
@@ -28,16 +25,13 @@
     "name:epo_x_preferred":[
         "Kratie"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0631\u0627\u062a\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Kr\u00e2ch\u00e9h"
     ],
     "name:fra_x_preferred":[
-        "Kratie"
-    ],
-    "name:fre_x_preferred":[
-        "Kratie"
-    ],
-    "name:ger_x_preferred":[
         "Kratie"
     ],
     "name:hun_x_preferred":[
@@ -58,11 +52,11 @@
     "name:lit_x_preferred":[
         "Kratj\u0117"
     ],
+    "name:nld_x_preferred":[
+        "Kracheh"
+    ],
     "name:nob_x_preferred":[
         "Kratie"
-    ],
-    "name:per_x_preferred":[
-        "\u06a9\u0631\u0627\u062a\u06cc"
     ],
     "name:pnb_x_preferred":[
         "\u06a9\u0631\u0627\u0679\u06cc\u06cc"
@@ -73,7 +67,7 @@
     "name:por_x_preferred":[
         "Krati\u00e9"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Krati\u00e9"
     ],
     "name:rus_x_preferred":[
@@ -93,6 +87,9 @@
     ],
     "name:war_x_preferred":[
         "Krati\u00e9"
+    ],
+    "name:zho_x_preferred":[
+        "\u6854\u4e95\u5e02"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Cambodia",
@@ -219,7 +216,7 @@
         }
     ],
     "wof:id":890437827,
-    "wof:lastmodified":1527729748,
+    "wof:lastmodified":1561778137,
     "wof:name":"Krati\u00e9",
     "wof:parent_id":421188049,
     "wof:placetype":"locality",

@@ -38,7 +38,7 @@
         "Kang Meas",
         "Kang Meas District"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Kang Meas"
     ],
     "name:ita_x_preferred":[
@@ -84,7 +84,7 @@
         }
     ],
     "wof:id":1108564689,
-    "wof:lastmodified":1553718168,
+    "wof:lastmodified":1561778120,
     "wof:name":"Kang Meas",
     "wof:parent_id":85673041,
     "wof:placetype":"county",

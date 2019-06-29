@@ -39,7 +39,7 @@
         "Baray",
         "Baray District"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Baray"
     ],
     "name:ita_x_preferred":[
@@ -116,7 +116,7 @@
         }
     ],
     "wof:id":421198921,
-    "wof:lastmodified":1555037061,
+    "wof:lastmodified":1561778136,
     "wof:name":"Baray",
     "wof:parent_id":85673057,
     "wof:placetype":"county",

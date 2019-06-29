@@ -39,7 +39,7 @@
         "Preah Netr Preah",
         "Preah Netr Preah District"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Preah Netr Preah"
     ],
     "name:ita_x_preferred":[
@@ -118,7 +118,7 @@
         }
     ],
     "wof:id":421183973,
-    "wof:lastmodified":1553717421,
+    "wof:lastmodified":1561778137,
     "wof:name":"Preah Netr Preah",
     "wof:parent_id":85673011,
     "wof:placetype":"county",

@@ -39,7 +39,7 @@
         "Odongk",
         "Odongk District"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Odongk"
     ],
     "name:ita_x_preferred":[
@@ -114,7 +114,7 @@
         }
     ],
     "wof:id":421177965,
-    "wof:lastmodified":1553717370,
+    "wof:lastmodified":1561778137,
     "wof:name":"Odongk",
     "wof:parent_id":85673053,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.408504,
-    "geom:area_square_m":4942010396.205763,
+    "geom:area_square_m":4942010396.205816,
     "geom:bbox":"105.413103384,11.5990023304,106.467042,12.3005426931",
     "geom:latitude":11.935411,
     "geom:longitude":105.888756,
@@ -22,8 +22,8 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":8.7,
-    "name:chi_x_preferred":[
-        "\u7279\u672c\u514b\u8499\u7701"
+    "name:deu_x_preferred":[
+        "Tbong Khmum"
     ],
     "name:eng_x_preferred":[
         "Tbong Khmum"
@@ -31,11 +31,8 @@
     "name:est_x_preferred":[
         "Tbong Khm\u016dmi provints"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "province de Tbong Khmum"
-    ],
-    "name:ger_x_preferred":[
-        "Tbong Khmum"
     ],
     "name:hin_x_preferred":[
         "\u0924\u094d\u092c\u094b\u0928\u094d\u0917 \u0916\u094d\u092e\u0941\u092e \u092a\u094d\u0930\u093e\u0928\u094d\u0924"
@@ -66,6 +63,9 @@
     ],
     "name:vie_x_preferred":[
         "Tbong Khmum"
+    ],
+    "name:zho_x_preferred":[
+        "\u7279\u672c\u514b\u8499\u7701"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -110,7 +110,7 @@
     "wof:lang_x_spoken":[
         "khm"
     ],
-    "wof:lastmodified":1553816514,
+    "wof:lastmodified":1561778114,
     "wof:name":"Tboung Khmum",
     "wof:parent_id":85632359,
     "wof:placetype":"region",

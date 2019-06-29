@@ -37,14 +37,14 @@
     "name:bul_x_preferred":[
         "\u041a\u0430\u043c\u043f\u043e\u0442"
     ],
-    "name:chi_x_preferred":[
-        "\u8d21\u5e03\u7701"
-    ],
     "name:dan_x_preferred":[
         "Kampot Province"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Kampot"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03bc\u03c0\u03cc\u03c4"
     ],
     "name:eng_x_preferred":[
         "Kampot"
@@ -62,14 +62,8 @@
     "name:fin_x_preferred":[
         "K\u00e2mp\u00f4t"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "province de Kampot"
-    ],
-    "name:ger_x_preferred":[
-        "Kampot"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03b1\u03bc\u03c0\u03cc\u03c4"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0ac7\u0aae\u0acd\u0aaa\u0acb\u0a9f \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -104,17 +98,17 @@
     "name:mar_x_preferred":[
         "\u0915\u093e\u092e\u094d\u092a\u094b\u091f \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Kampot Province"
+    ],
+    "name:nld_x_preferred":[
+        "Kampot"
     ],
     "name:nno_x_preferred":[
         "Kampot"
     ],
     "name:nob_x_preferred":[
         "Kampot"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u06a9\u0627\u0645\u067e\u0648\u062a"
     ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u06a9\u0645\u067e\u0648\u0679"
@@ -290,7 +284,7 @@
     "wof:lang_x_spoken":[
         "khm"
     ],
-    "wof:lastmodified":1553550392,
+    "wof:lastmodified":1561778079,
     "wof:name":"K\u00e2mp\u00f4t",
     "wof:parent_id":85632359,
     "wof:placetype":"region",

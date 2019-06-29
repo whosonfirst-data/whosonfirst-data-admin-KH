@@ -40,7 +40,7 @@
         "Stueng Traeng",
         "Stung Treng District"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Stoeng Treng"
     ],
     "name:khm_x_preferred":[
@@ -109,7 +109,7 @@
         }
     ],
     "wof:id":421200835,
-    "wof:lastmodified":1553717552,
+    "wof:lastmodified":1561778136,
     "wof:name":"Stueng Traeng",
     "wof:parent_id":85673075,
     "wof:placetype":"county",

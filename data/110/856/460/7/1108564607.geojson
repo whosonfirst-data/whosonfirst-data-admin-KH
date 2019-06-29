@@ -38,7 +38,7 @@
         "Bar Kaev",
         "Bar Kaev District"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Bar Kaev"
     ],
     "name:ita_x_preferred":[
@@ -87,7 +87,7 @@
         }
     ],
     "wof:id":1108564607,
-    "wof:lastmodified":1553718167,
+    "wof:lastmodified":1561778119,
     "wof:name":"Bar Kaev",
     "wof:parent_id":85673089,
     "wof:placetype":"county",

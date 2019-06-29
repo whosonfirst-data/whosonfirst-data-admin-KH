@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.00587,
-    "geom:area_square_m":12078256997.228107,
+    "geom:area_square_m":12078256997.225163,
     "geom:bbox":"105.51956927,13.1129820855,106.79,14.593423",
     "geom:latitude":13.805348,
     "geom:longitude":106.176282,
@@ -40,14 +40,14 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de Stung Treng"
     ],
-    "name:chi_x_preferred":[
-        "\u4e0a\u4e01\u7701"
-    ],
     "name:dan_x_preferred":[
         "Stung Treng Province"
     ],
-    "name:dut_x_preferred":[
-        "Stoeng Treng"
+    "name:deu_x_preferred":[
+        "Stung Treng"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03c4\u03bf\u03c5\u03bd\u03b3\u03ba \u03a4\u03c1\u03b5\u03bd\u03b3\u03ba"
     ],
     "name:eng_x_preferred":[
         "Stoeng Treng"
@@ -64,14 +64,8 @@
     "name:fin_x_preferred":[
         "St\u014feng Tr\u00eang"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Stoeng Treng"
-    ],
-    "name:ger_x_preferred":[
-        "Stung Treng"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03c4\u03bf\u03c5\u03bd\u03b3\u03ba \u03a4\u03c1\u03b5\u03bd\u03b3\u03ba"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0acd\u0a9f\u0a82\u0a97 \u0a9f\u0acd\u0ab0\u0ac7\u0a82\u0a97 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -106,8 +100,11 @@
     "name:mar_x_preferred":[
         "\u0938\u094d\u091f\u0942\u0928\u094d\u0917 \u091f\u094d\u0930\u0945\u0928\u094d\u0917 \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Stung Treng Province"
+    ],
+    "name:nld_x_preferred":[
+        "Stoeng Treng"
     ],
     "name:nob_x_preferred":[
         "Stung Treng"
@@ -124,7 +121,7 @@
     "name:por_x_preferred":[
         "Stung Treng"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Stung Treng"
     ],
     "name:rus_x_preferred":[
@@ -165,6 +162,9 @@
     ],
     "name:war_x_preferred":[
         "Stung Treng"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e0a\u4e01\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"KHM",
@@ -286,7 +286,7 @@
     "wof:lang_x_spoken":[
         "khm"
     ],
-    "wof:lastmodified":1553814804,
+    "wof:lastmodified":1561778080,
     "wof:name":"St\u0153ng Tr\u00eang",
     "wof:parent_id":85632359,
     "wof:placetype":"region",

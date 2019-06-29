@@ -34,14 +34,14 @@
     "name:ben_x_preferred":[
         "\u09aa\u09be\u0987\u09b2\u09bf\u09a8 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
-    "name:chi_x_preferred":[
-        "\u62dc\u6797\u5e02"
-    ],
     "name:dan_x_preferred":[
         "Pailin Province"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Pailin"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03b1\u03ca\u03bb\u03af\u03bd"
     ],
     "name:eng_x_preferred":[
         "Pailin"
@@ -53,17 +53,14 @@
     "name:est_x_preferred":[
         "Pail\u012dn"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u06cc\u0644\u06cc\u0646"
+    ],
     "name:fin_x_preferred":[
         "Pail\u012dn"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Pailin"
-    ],
-    "name:ger_x_preferred":[
-        "Pailin"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03b1\u03ca\u03bb\u03af\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0aaa\u0abe\u0a88\u0ab2\u0abf\u0aa8 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -98,14 +95,14 @@
     "name:mar_x_preferred":[
         "\u092a\u093e\u0907\u0932\u093f\u0928 \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Pailin"
+    ],
+    "name:nld_x_preferred":[
         "Pailin"
     ],
     "name:nob_x_preferred":[
         "Pailin"
-    ],
-    "name:per_x_preferred":[
-        "\u067e\u06cc\u0644\u06cc\u0646"
     ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u067e\u0627\u0626\u06cc\u0644\u06cc\u0646"
@@ -116,7 +113,7 @@
     "name:por_x_preferred":[
         "Pailin"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Pailin"
     ],
     "name:rus_x_preferred":[
@@ -160,6 +157,9 @@
     ],
     "name:war_x_preferred":[
         "Pailin"
+    ],
+    "name:zho_x_preferred":[
+        "\u62dc\u6797\u5e02"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"KHM",
@@ -284,7 +284,7 @@
     "wof:lang_x_spoken":[
         "khm"
     ],
-    "wof:lastmodified":1553550392,
+    "wof:lastmodified":1561778081,
     "wof:name":"Krong Pailin",
     "wof:parent_id":85632359,
     "wof:placetype":"region",

@@ -39,7 +39,7 @@
         "Prey Nob",
         "Prey Nob District"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Prey Nob"
     ],
     "name:ita_x_preferred":[
@@ -108,7 +108,7 @@
         }
     ],
     "wof:id":421188243,
-    "wof:lastmodified":1553717464,
+    "wof:lastmodified":1561778135,
     "wof:name":"Prey Nob",
     "wof:parent_id":85673101,
     "wof:placetype":"county",

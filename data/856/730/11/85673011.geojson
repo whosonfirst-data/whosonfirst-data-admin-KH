@@ -37,14 +37,14 @@
     "name:bul_x_preferred":[
         "\u0411\u0430\u043d\u0442\u0435\u0430\u0439 \u041c\u0435\u0430\u043d\u0442\u0435\u0439"
     ],
-    "name:chi_x_preferred":[
-        "\u73ed\u8fed\u68c9\u5409\u7701"
-    ],
     "name:dan_x_preferred":[
         "Banteay Meanchey Province"
     ],
-    "name:dut_x_preferred":[
-        "Banteay Mean Cheay"
+    "name:deu_x_preferred":[
+        "Banteay Meanchey"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b1\u03bd\u03c4\u03cc \u039c\u03af\u03bd\u03c4\u03c3\u03b5\u03ca"
     ],
     "name:eng_x_colloquial":[
         "Banteay Meanchey"
@@ -67,14 +67,8 @@
     "name:fra_x_preferred":[
         "Province de Banteay Mean Chey"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "province de Banteay Mean Chey"
-    ],
-    "name:ger_x_preferred":[
-        "Banteay Meanchey"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03b1\u03bd\u03c4\u03cc \u039c\u03af\u03bd\u03c4\u03c3\u03b5\u03ca"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0abe\u0aa8\u0acd\u0aa4\u0ac7\u0aaf \u0aae\u0abf\u0aa8\u0acd\u0a9a\u0ac7\u0aaf \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -109,7 +103,7 @@
     "name:mar_x_preferred":[
         "\u092c\u0947\u0902\u091f\u0947\u092f \u092e\u0947\u0915\u0947\u0938\u0940 \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Banteay Meanchey Province"
     ],
     "name:nld_x_preferred":[
@@ -299,7 +293,7 @@
     "wof:lang_x_spoken":[
         "khm"
     ],
-    "wof:lastmodified":1553550400,
+    "wof:lastmodified":1561778079,
     "wof:name":"B\u00e2nt\u00e9ay M\u00e9anchey",
     "wof:parent_id":85632359,
     "wof:placetype":"region",

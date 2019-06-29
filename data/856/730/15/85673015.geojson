@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.013176,
-    "geom:area_square_m":12207811523.894211,
+    "geom:area_square_m":12207811523.895376,
     "geom:bbox":"102.345097,12.3729450192,103.918880576,13.4794881169",
     "geom:latitude":12.981186,
     "geom:longitude":103.102112,
@@ -40,14 +40,14 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de Battambang"
     ],
-    "name:chi_x_preferred":[
-        "\u99ac\u5fb7\u671b\u7701"
-    ],
     "name:dan_x_preferred":[
         "Battambang Province"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Battambang"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b1\u03c4\u03b1\u03bc\u03c0\u03ac\u03bd\u03b3\u03ba"
     ],
     "name:eng_x_preferred":[
         "Batdambang"
@@ -60,14 +60,8 @@
     "name:fin_x_preferred":[
         "B\u0103t D\u00e2mb\u00e2ng"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "province de Battambang"
-    ],
-    "name:ger_x_preferred":[
-        "Battambang"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03b1\u03c4\u03b1\u03bc\u03c0\u03ac\u03bd\u03b3\u03ba"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0a9f\u0acd\u0a9f\u0aae\u0acd\u0aac\u0ac7\u0a82\u0a97 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -102,8 +96,11 @@
     "name:mar_x_preferred":[
         "\u092c\u093e\u091f\u0902\u092c\u0945\u0902\u0917 \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Battambang Province"
+    ],
+    "name:nld_x_preferred":[
+        "Battambang"
     ],
     "name:nob_x_preferred":[
         "Battambang"
@@ -283,7 +280,7 @@
     "wof:lang_x_spoken":[
         "khm"
     ],
-    "wof:lastmodified":1553814804,
+    "wof:lastmodified":1561778081,
     "wof:name":"Batd\u00e2mb\u00e2ng",
     "wof:parent_id":85632359,
     "wof:placetype":"region",

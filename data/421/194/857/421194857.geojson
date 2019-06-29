@@ -39,7 +39,7 @@
         "Thma Bang",
         "Thma Bang District"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Thma Bang"
     ],
     "name:ita_x_preferred":[
@@ -108,7 +108,7 @@
         }
     ],
     "wof:id":421194857,
-    "wof:lastmodified":1553717531,
+    "wof:lastmodified":1561778134,
     "wof:name":"Thma Bang",
     "wof:parent_id":85673019,
     "wof:placetype":"county",

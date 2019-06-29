@@ -38,7 +38,7 @@
         "Treang",
         "Treang District"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Treang"
     ],
     "name:ita_x_preferred":[
@@ -84,7 +84,7 @@
         }
     ],
     "wof:id":1108564881,
-    "wof:lastmodified":1553718173,
+    "wof:lastmodified":1561778117,
     "wof:name":"Treang",
     "wof:parent_id":85673107,
     "wof:placetype":"county",

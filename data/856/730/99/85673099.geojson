@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012239,
-    "geom:area_square_m":148790558.726315,
+    "geom:area_square_m":148790558.72628,
     "geom:bbox":"104.263855854,10.445388794,104.42595915,10.5877456329",
     "geom:latitude":10.522827,
     "geom:longitude":104.345812,
@@ -34,14 +34,11 @@
     "name:ben_x_preferred":[
         "\u0995\u09c7\u09aa \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
-    "name:chi_x_preferred":[
-        "\u767d\u99ac\u5e02"
-    ],
     "name:dan_x_preferred":[
         "Kep Province"
     ],
-    "name:dut_x_preferred":[
-        "Keb"
+    "name:deu_x_preferred":[
+        "Kep"
     ],
     "name:ell_x_preferred":[
         "\u039a\u03b5\u03c0"
@@ -60,14 +57,8 @@
     "name:fin_x_preferred":[
         "K\u00eab"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Kep"
-    ],
-    "name:ger_x_preferred":[
-        "Kep"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03b5\u03c0"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0ac7\u0aaa \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -109,7 +100,7 @@
     "name:mar_x_preferred":[
         "\u0915\u0947\u092a \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Kep Province"
     ],
     "name:nld_x_preferred":[
@@ -290,7 +281,7 @@
     "wof:lang_x_spoken":[
         "khm"
     ],
-    "wof:lastmodified":1553814804,
+    "wof:lastmodified":1561778081,
     "wof:name":"Kep",
     "wof:parent_id":85632359,
     "wof:placetype":"region",

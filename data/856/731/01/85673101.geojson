@@ -31,23 +31,23 @@
     "name:ara_x_preferred":[
         "\u0633\u064a\u0647\u0627\u0646\u0648\u0643\u0641\u064a\u0644"
     ],
-    "name:baq_x_preferred":[
-        "Sihanoukville"
-    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0421\u0456\u0430\u043d\u0443\u043a\u0432\u0456\u043b\u044c"
     ],
     "name:ben_x_preferred":[
         "\u09b6\u09bf\u09b9\u09be\u09a8\u09c1\u0995\u09ad\u09bf\u09b2\u09bf"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Sihanoukville"
     ],
     "name:dan_x_preferred":[
         "Sihanoukville"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Sihanoukville"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b9\u03c7\u03b1\u03bd\u03bf\u03c5\u03ba\u03b2\u03af\u03bb\u03b5"
     ],
     "name:eng_x_preferred":[
         "Preah Seihanu"
@@ -61,20 +61,17 @@
     "name:est_x_preferred":[
         "Pre\u0103h Seih\u00e2n\u016d"
     ],
+    "name:eus_x_preferred":[
+        "Sihanoukville"
+    ],
     "name:fas_x_preferred":[
         "\u0633\u06cc\u0647\u0627\u0646\u0648\u06a9\u0648\u06cc\u0644"
     ],
     "name:fin_x_preferred":[
         "Sihanoukville"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Sihanoukville"
-    ],
-    "name:ger_x_preferred":[
-        "Sihanoukville"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b9\u03c7\u03b1\u03bd\u03bf\u03c5\u03ba\u03b2\u03af\u03bb\u03b5"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0abf\u0ab9\u0abe\u0aa8\u0acb\u0a95\u0ab5\u0abf\u0ab2"
@@ -116,14 +113,14 @@
     "name:mar_x_preferred":[
         "\u0938\u093f\u0939\u093e\u0928\u094b\u0915\u0935\u093f\u0932\u0947"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Sihanoukville"
+    ],
+    "name:nld_x_preferred":[
         "Sihanoukville"
     ],
     "name:nob_x_preferred":[
         "Sihanoukville"
-    ],
-    "name:per_x_preferred":[
-        "\u0633\u06cc\u0647\u0627\u0646\u0648\u06a9\u0648\u06cc\u0644"
     ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u067e\u0631\u06cc\u06c1 \u0633\u06c1\u0627\u0646\u0648\u06a9"
@@ -134,7 +131,7 @@
     "name:por_x_preferred":[
         "Sihanoukville"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Sihanoukville"
     ],
     "name:rus_x_preferred":[
@@ -305,7 +302,7 @@
     "wof:lang_x_spoken":[
         "khm"
     ],
-    "wof:lastmodified":1553550392,
+    "wof:lastmodified":1561778082,
     "wof:name":"Krong Preah Sihanouk",
     "wof:parent_id":85632359,
     "wof:placetype":"region",

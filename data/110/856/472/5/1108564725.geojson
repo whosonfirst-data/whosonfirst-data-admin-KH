@@ -38,7 +38,7 @@
         "Lvea Aem",
         "Lvea Aem District"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Lvea Aem"
     ],
     "name:ita_x_preferred":[
@@ -84,7 +84,7 @@
         }
     ],
     "wof:id":1108564725,
-    "wof:lastmodified":1553718170,
+    "wof:lastmodified":1561778118,
     "wof:name":"Lvea Aem",
     "wof:parent_id":85673051,
     "wof:placetype":"county",

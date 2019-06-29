@@ -19,14 +19,14 @@
     "name:ben_x_preferred":[
         "\u09aa\u0987\u09aa\u09c7\u099f"
     ],
-    "name:chi_x_preferred":[
-        "\u6ce2\u5225"
-    ],
     "name:dan_x_preferred":[
         "Poipet"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Poipet"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03bf\u03ca\u03c0\u03ad\u03c4"
     ],
     "name:eng_x_preferred":[
         "Poipet"
@@ -36,15 +36,6 @@
     ],
     "name:fra_x_preferred":[
         "Poipet"
-    ],
-    "name:fre_x_preferred":[
-        "Poipet"
-    ],
-    "name:ger_x_preferred":[
-        "Poipet"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03bf\u03ca\u03c0\u03ad\u03c4"
     ],
     "name:guj_x_preferred":[
         "\u0aaa\u0acb\u0a88\u0aaa\u0ac7\u0a9f"
@@ -83,7 +74,10 @@
     "name:mar_x_preferred":[
         "\u092a\u094b\u0907\u092a\u0947\u091f"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Poipet"
+    ],
+    "name:nld_x_preferred":[
         "Poipet"
     ],
     "name:nob_x_preferred":[
@@ -95,7 +89,7 @@
     "name:por_x_preferred":[
         "Poipet"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Poipet"
     ],
     "name:rus_x_preferred":[
@@ -133,6 +127,9 @@
     ],
     "name:vie_x_preferred":[
         "Poipet"
+    ],
+    "name:zho_x_preferred":[
+        "\u6ce2\u5225"
     ],
     "qs:gn_country":"KH",
     "qs:gn_fcode":"PPL",
@@ -181,7 +178,7 @@
         }
     ],
     "wof:id":421198993,
-    "wof:lastmodified":1514468910,
+    "wof:lastmodified":1561778136,
     "wof:name":"Paoy Pet",
     "wof:parent_id":1108564751,
     "wof:placetype":"locality",

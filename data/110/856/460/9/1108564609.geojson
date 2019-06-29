@@ -38,7 +38,7 @@
         "Basedth",
         "Basedth District"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Basedth"
     ],
     "name:ita_x_preferred":[
@@ -87,7 +87,7 @@
         }
     ],
     "wof:id":1108564609,
-    "wof:lastmodified":1553718167,
+    "wof:lastmodified":1561778119,
     "wof:name":"Basedth",
     "wof:parent_id":85673053,
     "wof:placetype":"county",

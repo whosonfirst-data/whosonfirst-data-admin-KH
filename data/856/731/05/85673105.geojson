@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.236862,
-    "geom:area_square_m":2873486158.59489,
+    "geom:area_square_m":2873486158.593634,
     "geom:bbox":"105.580697692,10.790262,106.206263,11.602052258",
     "geom:latitude":11.156339,
     "geom:longitude":105.862876,
@@ -37,14 +37,14 @@
     "name:bul_x_preferred":[
         "\u0421\u0432\u0430\u0439 \u0420\u0438\u0435\u043d\u0433"
     ],
-    "name:chi_x_preferred":[
-        "\u67f4\u6968\u7701"
-    ],
     "name:dan_x_preferred":[
         "Svay Rieng Province"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Svay Rieng"
+    ],
+    "name:ell_x_preferred":[
+        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u03a3\u03b2\u03ad\u03b9 \u03a1\u03b9\u03ad\u03bd\u03b3\u03ba"
     ],
     "name:eng_x_preferred":[
         "Svay Rieng"
@@ -59,14 +59,8 @@
     "name:fin_x_preferred":[
         "Svay Ri\u0115ng"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "province de Svay Rieng"
-    ],
-    "name:ger_x_preferred":[
-        "Svay Rieng"
-    ],
-    "name:gre_x_preferred":[
-        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u03a3\u03b2\u03ad\u03b9 \u03a1\u03b9\u03ad\u03bd\u03b3\u03ba"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0acd\u0ab5\u0aaf \u0ab0\u0ac0\u0a8f\u0a82\u0a97 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -104,8 +98,11 @@
     "name:mar_x_preferred":[
         "\u0938\u094d\u0935\u093e\u0928\u0947 \u0930\u0947\u0902\u0917 \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Wilayah Svay Rieng"
+    ],
+    "name:nld_x_preferred":[
+        "Svay Rieng"
     ],
     "name:nob_x_preferred":[
         "Svay Rieng"
@@ -122,7 +119,7 @@
     "name:por_x_preferred":[
         "Svay Rieng"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Svay Rieng"
     ],
     "name:rus_x_preferred":[
@@ -291,7 +288,7 @@
     "wof:lang_x_spoken":[
         "khm"
     ],
-    "wof:lastmodified":1553814804,
+    "wof:lastmodified":1561778082,
     "wof:name":"Svay Rieng",
     "wof:parent_id":85632359,
     "wof:placetype":"region",

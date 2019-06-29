@@ -38,7 +38,7 @@
         "Peam Chor",
         "Peam Chor District"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Peam Chor"
     ],
     "name:ita_x_preferred":[
@@ -84,7 +84,7 @@
         }
     ],
     "wof:id":1108564755,
-    "wof:lastmodified":1553718170,
+    "wof:lastmodified":1561778117,
     "wof:name":"Peam Chor",
     "wof:parent_id":85673067,
     "wof:placetype":"county",

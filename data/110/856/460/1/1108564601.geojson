@@ -38,7 +38,7 @@
         "Banteay Meas",
         "Banteay Meas District"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Banteay Meas"
     ],
     "name:ita_x_preferred":[
@@ -90,7 +90,7 @@
         }
     ],
     "wof:id":1108564601,
-    "wof:lastmodified":1555037626,
+    "wof:lastmodified":1561778119,
     "wof:name":"Banteay Meas",
     "wof:parent_id":85673093,
     "wof:placetype":"county",

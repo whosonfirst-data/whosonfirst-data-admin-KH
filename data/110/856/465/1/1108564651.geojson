@@ -38,7 +38,7 @@
         "Chum Kiri",
         "Chum Kiri District"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Chum Kiri"
     ],
     "name:ita_x_preferred":[
@@ -87,7 +87,7 @@
         }
     ],
     "wof:id":1108564651,
-    "wof:lastmodified":1553718167,
+    "wof:lastmodified":1561778116,
     "wof:name":"Chum Kiri",
     "wof:parent_id":85673093,
     "wof:placetype":"county",

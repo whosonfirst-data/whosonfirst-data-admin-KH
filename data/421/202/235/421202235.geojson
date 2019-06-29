@@ -42,7 +42,7 @@
         "Baribour",
         "Baribour District"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Baribour"
     ],
     "name:ita_x_preferred":[
@@ -116,7 +116,7 @@
         }
     ],
     "wof:id":421202235,
-    "wof:lastmodified":1553717559,
+    "wof:lastmodified":1561778135,
     "wof:name":"Baribour",
     "wof:parent_id":85673047,
     "wof:placetype":"county",

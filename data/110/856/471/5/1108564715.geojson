@@ -38,7 +38,7 @@
         "Kong Pisei",
         "Kong Pisei District"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Kong Pisei"
     ],
     "name:ita_x_preferred":[
@@ -87,7 +87,7 @@
         }
     ],
     "wof:id":1108564715,
-    "wof:lastmodified":1553718169,
+    "wof:lastmodified":1561778115,
     "wof:name":"Kong Pisei",
     "wof:parent_id":85673053,
     "wof:placetype":"county",

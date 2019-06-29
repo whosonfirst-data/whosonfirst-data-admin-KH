@@ -38,7 +38,7 @@
         "Kiri Vong",
         "Kiri Vong District"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Kiri Vong"
     ],
     "name:ita_x_preferred":[
@@ -84,7 +84,7 @@
         }
     ],
     "wof:id":1108564709,
-    "wof:lastmodified":1553718169,
+    "wof:lastmodified":1561778116,
     "wof:name":"Kiri Vong",
     "wof:parent_id":85673107,
     "wof:placetype":"county",

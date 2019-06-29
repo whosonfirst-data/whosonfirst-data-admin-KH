@@ -37,14 +37,14 @@
     "name:bul_x_preferred":[
         "\u0420\u0430\u0442\u0430\u043d\u0430 \u041a\u0438\u0440\u0438"
     ],
-    "name:chi_x_preferred":[
-        "\u814a\u5854\u7eb3\u57fa\u91cc\u7701"
-    ],
     "name:dan_x_preferred":[
         "Ratanakiri Province"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Ratanakiri"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a1\u03b1\u03c4\u03b1\u03bd\u03b1\u03ba\u03af\u03c1\u03b9"
     ],
     "name:eng_x_colloquial":[
         "Rotanokiri"
@@ -67,14 +67,8 @@
     "name:fra_x_preferred":[
         "Province de Ratanakiri"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "province de Rotanah Kiri"
-    ],
-    "name:ger_x_preferred":[
-        "Ratanakiri"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a1\u03b1\u03c4\u03b1\u03bd\u03b1\u03ba\u03af\u03c1\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0ab0\u0aa4\u0acd\u0aa8\u0abe\u0a95\u0ac0\u0ab0\u0ac0 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -113,8 +107,11 @@
     "name:mar_x_preferred":[
         "\u0930\u0924\u094d\u0928\u093e\u0915\u093f\u0930\u0940 \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Ratanakiri Province"
+    ],
+    "name:nld_x_preferred":[
+        "Ratanakiri"
     ],
     "name:nno_x_preferred":[
         "Rotanokiri"
@@ -296,7 +293,7 @@
     "wof:lang_x_spoken":[
         "khm"
     ],
-    "wof:lastmodified":1553550422,
+    "wof:lastmodified":1561778080,
     "wof:name":"R\u00f4t\u00e2n\u00f4kiri",
     "wof:parent_id":85632359,
     "wof:placetype":"region",

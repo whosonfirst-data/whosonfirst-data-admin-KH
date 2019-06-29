@@ -39,7 +39,7 @@
         "Ponhea Kraek",
         "Ponhea Kraek District"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Ponhea Kraek"
     ],
     "name:ita_x_preferred":[
@@ -115,7 +115,7 @@
         }
     ],
     "wof:id":421183889,
-    "wof:lastmodified":1553717420,
+    "wof:lastmodified":1561778137,
     "wof:name":"Ponhea Kraek",
     "wof:parent_id":1108804319,
     "wof:placetype":"county",

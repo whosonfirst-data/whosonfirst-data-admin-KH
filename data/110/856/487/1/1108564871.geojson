@@ -39,7 +39,7 @@
         "Bat Dambang",
         "Thma Koul District"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Thma Koul"
     ],
     "name:ita_x_preferred":[
@@ -54,7 +54,7 @@
     "name:pol_x_preferred":[
         "Thma Koul"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Thma Koul"
     ],
     "name:swe_x_preferred":[
@@ -97,7 +97,7 @@
         }
     ],
     "wof:id":1108564871,
-    "wof:lastmodified":1553718172,
+    "wof:lastmodified":1561778118,
     "wof:name":"Thma Koul",
     "wof:parent_id":85673015,
     "wof:placetype":"county",

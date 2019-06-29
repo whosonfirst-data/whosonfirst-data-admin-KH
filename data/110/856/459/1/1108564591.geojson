@@ -38,7 +38,7 @@
         "Aoral",
         "Aoral District"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Aoral"
     ],
     "name:ita_x_preferred":[
@@ -87,7 +87,7 @@
         }
     ],
     "wof:id":1108564591,
-    "wof:lastmodified":1553718166,
+    "wof:lastmodified":1561778121,
     "wof:name":"Aoral",
     "wof:parent_id":85673053,
     "wof:placetype":"county",

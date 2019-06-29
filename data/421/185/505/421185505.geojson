@@ -39,7 +39,7 @@
         "Puok",
         "Puok District"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Puok"
     ],
     "name:ita_x_preferred":[
@@ -108,7 +108,7 @@
         }
     ],
     "wof:id":421185505,
-    "wof:lastmodified":1553717440,
+    "wof:lastmodified":1561778137,
     "wof:name":"Puok",
     "wof:parent_id":85673029,
     "wof:placetype":"county",

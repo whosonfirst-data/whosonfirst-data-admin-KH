@@ -38,7 +38,7 @@
         "Banteay Ampil",
         "Banteay Ampil District"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Banteay Ampil"
     ],
     "name:ita_x_preferred":[
@@ -90,7 +90,7 @@
         }
     ],
     "wof:id":1108564599,
-    "wof:lastmodified":1553718167,
+    "wof:lastmodified":1561778120,
     "wof:name":"Banteay Ampil",
     "wof:parent_id":85673033,
     "wof:placetype":"county",

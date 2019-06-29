@@ -46,9 +46,6 @@
     "name:fra_x_preferred":[
         "Saen Monourom"
     ],
-    "name:fre_x_preferred":[
-        "Saen Monourom"
-    ],
     "name:ita_x_preferred":[
         "Sen Monorom"
     ],
@@ -149,7 +146,7 @@
         }
     ],
     "wof:id":421188055,
-    "wof:lastmodified":1553717459,
+    "wof:lastmodified":1561778135,
     "wof:name":"Saen Monourom",
     "wof:parent_id":85673085,
     "wof:placetype":"county",

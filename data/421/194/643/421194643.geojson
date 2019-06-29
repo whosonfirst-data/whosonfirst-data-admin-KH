@@ -39,7 +39,7 @@
         "Kralanh",
         "Kralanh District"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Kralanh"
     ],
     "name:ita_x_preferred":[
@@ -108,7 +108,7 @@
         }
     ],
     "wof:id":421194643,
-    "wof:lastmodified":1553717530,
+    "wof:lastmodified":1561778134,
     "wof:name":"Kralanh",
     "wof:parent_id":85673029,
     "wof:placetype":"county",

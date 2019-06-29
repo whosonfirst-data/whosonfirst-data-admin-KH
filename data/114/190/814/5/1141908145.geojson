@@ -23,23 +23,23 @@
     "name:dan_x_preferred":[
         "Tak\u00e9o"
     ],
-    "name:dut_x_preferred":[
-        "Takev"
+    "name:deu_x_preferred":[
+        "Takeo"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03b1\u03ba\u03ad\u03bf"
     ],
     "name:eng_x_preferred":[
         "Tak\u00e9o"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u06a9\u0626\u0648"
+    ],
     "name:fin_x_preferred":[
         "Tak\u00e9o"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Takeo"
-    ],
-    "name:ger_x_preferred":[
-        "Takeo"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03b1\u03ba\u03ad\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0a9f\u0abe\u0a95\u0ac7\u0a93"
@@ -77,14 +77,14 @@
     "name:mar_x_preferred":[
         "\u0924\u093e\u0915\u093f\u092f\u094b"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Takeo"
+    ],
+    "name:nld_x_preferred":[
+        "Takev"
     ],
     "name:nob_x_preferred":[
         "Takeo"
-    ],
-    "name:per_x_preferred":[
-        "\u062a\u06a9\u0626\u0648"
     ],
     "name:pnb_x_preferred":[
         "\u0679\u0627\u06a9\u06cc\u0648"
@@ -95,7 +95,7 @@
     "name:por_x_preferred":[
         "Tak\u00e9o"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Tak\u00e9o"
     ],
     "name:rus_x_preferred":[
@@ -253,7 +253,7 @@
         }
     ],
     "wof:id":1141908145,
-    "wof:lastmodified":1514468962,
+    "wof:lastmodified":1561778168,
     "wof:name":"Takeo",
     "wof:parent_id":421187977,
     "wof:placetype":"locality",

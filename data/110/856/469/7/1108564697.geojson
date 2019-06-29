@@ -39,7 +39,7 @@
         "Kaoh Kong",
         "Koh Kong District"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Kaoh Kong"
     ],
     "name:ita_x_preferred":[
@@ -88,7 +88,7 @@
         }
     ],
     "wof:id":1108564697,
-    "wof:lastmodified":1553718169,
+    "wof:lastmodified":1561778119,
     "wof:name":"Kaoh Kong",
     "wof:parent_id":85673019,
     "wof:placetype":"county",
