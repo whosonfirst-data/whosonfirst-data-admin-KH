@@ -39,7 +39,7 @@
         "Kampong Trabaek",
         "Kampong Trabaek District"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Kampong Trabaek"
     ],
     "name:ita_x_preferred":[
@@ -109,7 +109,7 @@
         }
     ],
     "wof:id":421202305,
-    "wof:lastmodified":1553717559,
+    "wof:lastmodified":1561778135,
     "wof:name":"Kampong Trabaek",
     "wof:parent_id":85673067,
     "wof:placetype":"county",

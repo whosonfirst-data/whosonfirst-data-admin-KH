@@ -38,7 +38,7 @@
         "Dang Tong",
         "Dang Tong District"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Dang Tong"
     ],
     "name:ita_x_preferred":[
@@ -47,7 +47,7 @@
     "name:khm_x_preferred":[
         "\u179f\u17d2\u179a\u17bb\u1780\u178a\u1784\u1791\u1784\u17cb\u1781\u17c1\u178f\u17d2\u178a\u1780\u17c6\u1796\u178f"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Dang Tong"
     ],
     "name:swe_x_preferred":[
@@ -90,7 +90,7 @@
         }
     ],
     "wof:id":1108564657,
-    "wof:lastmodified":1553718168,
+    "wof:lastmodified":1561778116,
     "wof:name":"Dang Tong",
     "wof:parent_id":85673093,
     "wof:placetype":"county",

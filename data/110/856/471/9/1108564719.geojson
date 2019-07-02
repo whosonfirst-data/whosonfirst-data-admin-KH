@@ -38,7 +38,7 @@
         "Krouch Chhmar",
         "Krouch Chhmar District"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Krouch Chhmar"
     ],
     "name:ita_x_preferred":[
@@ -84,7 +84,7 @@
         }
     ],
     "wof:id":1108564719,
-    "wof:lastmodified":1553718169,
+    "wof:lastmodified":1561778114,
     "wof:name":"Krouch Chhmar",
     "wof:parent_id":1108804319,
     "wof:placetype":"county",

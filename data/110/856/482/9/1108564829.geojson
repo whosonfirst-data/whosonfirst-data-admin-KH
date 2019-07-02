@@ -38,7 +38,7 @@
         "Santuk",
         "Santuk District"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Santuk"
     ],
     "name:ita_x_preferred":[
@@ -87,7 +87,7 @@
         }
     ],
     "wof:id":1108564829,
-    "wof:lastmodified":1555037625,
+    "wof:lastmodified":1561778115,
     "wof:name":"Santuk",
     "wof:parent_id":85673057,
     "wof:placetype":"county",

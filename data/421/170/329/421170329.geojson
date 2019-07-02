@@ -40,7 +40,7 @@
         "Serei Saophoan",
         "Serei Saophoan District"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Serei Saophoan"
     ],
     "name:ita_x_preferred":[
@@ -119,7 +119,7 @@
         }
     ],
     "wof:id":421170329,
-    "wof:lastmodified":1555037160,
+    "wof:lastmodified":1561778137,
     "wof:name":"Serei Saophoan",
     "wof:parent_id":85673011,
     "wof:placetype":"county",

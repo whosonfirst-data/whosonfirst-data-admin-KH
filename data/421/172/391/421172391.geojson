@@ -39,7 +39,7 @@
         "Aek Phnum",
         "Ek Phnom District"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Aek Phnom"
     ],
     "name:ita_x_preferred":[
@@ -117,7 +117,7 @@
         }
     ],
     "wof:id":421172391,
-    "wof:lastmodified":1553717339,
+    "wof:lastmodified":1561778136,
     "wof:name":"Aek Phnum",
     "wof:parent_id":85673015,
     "wof:placetype":"county",

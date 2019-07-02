@@ -39,7 +39,7 @@
         "Kampong Leaeng",
         "Kampong Leaeng District"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Kampong Leaeng"
     ],
     "name:ita_x_preferred":[
@@ -108,7 +108,7 @@
         }
     ],
     "wof:id":421188239,
-    "wof:lastmodified":1553717464,
+    "wof:lastmodified":1561778136,
     "wof:name":"Kampong Leaeng",
     "wof:parent_id":85673047,
     "wof:placetype":"county",

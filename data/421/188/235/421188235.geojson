@@ -40,7 +40,7 @@
         "Ponhea Lueu",
         "Ponhea Leu District"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Ponhea Leu"
     ],
     "name:ita_x_preferred":[
@@ -112,7 +112,7 @@
         }
     ],
     "wof:id":421188235,
-    "wof:lastmodified":1553717464,
+    "wof:lastmodified":1561778135,
     "wof:name":"Ponhea Lueu",
     "wof:parent_id":85673051,
     "wof:placetype":"county",

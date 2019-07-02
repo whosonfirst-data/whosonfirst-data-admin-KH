@@ -39,7 +39,7 @@
         "Khsach Kandal",
         "Khsach Kandal District"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Khsach Kandal"
     ],
     "name:ita_x_preferred":[
@@ -111,7 +111,7 @@
         }
     ],
     "wof:id":421188351,
-    "wof:lastmodified":1553717465,
+    "wof:lastmodified":1561778136,
     "wof:name":"Khsach Kandal",
     "wof:parent_id":85673051,
     "wof:placetype":"county",

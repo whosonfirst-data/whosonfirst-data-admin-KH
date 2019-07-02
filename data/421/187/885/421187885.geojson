@@ -14,16 +14,16 @@
     "mz:is_current":1,
     "mz:min_zoom":7.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:dut_x_preferred":[
-        "Lumphat"
-    ],
     "name:eng_x_preferred":[
         "Lumphat District"
     ],
     "name:est_x_preferred":[
         "Lumph\u0103t"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0644\u0648\u0645\u067e\u062a"
+    ],
+    "name:fra_x_preferred":[
         "Lumphat"
     ],
     "name:ita_x_preferred":[
@@ -39,8 +39,8 @@
         "\u179b\u17c6\u1795\u17b6\u178f\u17cb",
         "\u179f\u17d2\u179a\u17bb\u1780\u179b\u17c6\u1795\u17b6\u178f\u17cb"
     ],
-    "name:per_x_preferred":[
-        "\u0644\u0648\u0645\u067e\u062a"
+    "name:nld_x_preferred":[
+        "Lumphat"
     ],
     "name:pol_x_preferred":[
         "Lumphat"
@@ -192,7 +192,7 @@
         }
     ],
     "wof:id":421187885,
-    "wof:lastmodified":1514468893,
+    "wof:lastmodified":1561778135,
     "wof:name":"Lumphat",
     "wof:parent_id":1108564723,
     "wof:placetype":"locality",

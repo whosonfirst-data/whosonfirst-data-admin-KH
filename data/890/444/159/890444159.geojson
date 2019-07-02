@@ -22,14 +22,14 @@
     "name:ben_x_preferred":[
         "\u09b8\u09c7\u09a8\u09ae\u09a8\u09cb\u09b0\u09ae"
     ],
-    "name:chi_x_preferred":[
-        "\u68ee\u83ab\u8afe\u9686"
-    ],
     "name:dan_x_preferred":[
         "Sen Monorom"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Senmonorom"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03ad\u03bd\u03bc\u03bf\u03bd\u03bf\u03c1\u03bf\u03bc"
     ],
     "name:eng_x_preferred":[
         "Sen Moronom"
@@ -37,20 +37,17 @@
     "name:eng_x_variant":[
         "Senmonorom"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0646\u200c\u0645\u0648\u0646\u0648\u0631\u0648\u0645"
+    ],
     "name:fin_x_preferred":[
         "Senmonorom"
     ],
     "name:fra_x_preferred":[
         "Sen Monorom"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Saen Monourom"
-    ],
-    "name:ger_x_preferred":[
-        "Senmonorom"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03ad\u03bd\u03bc\u03bf\u03bd\u03bf\u03c1\u03bf\u03bc"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac7\u0aa8\u0aae\u0acb\u0aa8\u0acb\u0ab0\u0acb\u0aae"
@@ -82,14 +79,14 @@
     "name:mar_x_preferred":[
         "\u0938\u0947\u0928\u094b\u0928\u094b\u0930\u0949\u092e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Senmonorom"
+    ],
+    "name:nld_x_preferred":[
         "Senmonorom"
     ],
     "name:nob_x_preferred":[
         "Senmonorom"
-    ],
-    "name:per_x_preferred":[
-        "\u0633\u0646\u200c\u0645\u0648\u0646\u0648\u0631\u0648\u0645"
     ],
     "name:pnb_x_preferred":[
         "\u0633\u06cc\u0646 \u0645\u0648\u0646\u0648\u0631\u0648\u0645"
@@ -138,6 +135,9 @@
     ],
     "name:war_x_preferred":[
         "Senmonorom"
+    ],
+    "name:zho_x_preferred":[
+        "\u68ee\u83ab\u8afe\u9686"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Cambodia",
@@ -262,7 +262,7 @@
         }
     ],
     "wof:id":890444159,
-    "wof:lastmodified":1514468961,
+    "wof:lastmodified":1561778137,
     "wof:name":"S\u00eanm\u00f4no\u016dr\u00f4m",
     "wof:parent_id":421188055,
     "wof:placetype":"locality",

@@ -38,7 +38,7 @@
         "Kaoh Soutin",
         "Koh Sotin District"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Kaoh Soutin"
     ],
     "name:ita_x_preferred":[
@@ -84,7 +84,7 @@
         }
     ],
     "wof:id":1108564701,
-    "wof:lastmodified":1553718169,
+    "wof:lastmodified":1561778116,
     "wof:name":"Kaoh Soutin",
     "wof:parent_id":85673041,
     "wof:placetype":"county",

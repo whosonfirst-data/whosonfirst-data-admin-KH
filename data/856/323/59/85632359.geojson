@@ -150,9 +150,6 @@
     "name:cym_x_preferred":[
         "Cambodia"
     ],
-    "name:cze_x_preferred":[
-        "Kambod\u017ea"
-    ],
     "name:dan_x_preferred":[
         "Cambodja"
     ],
@@ -592,9 +589,6 @@
     "name:ron_x_preferred":[
         "Cambodgia"
     ],
-    "name:rum_x_preferred":[
-        "Cambodgia"
-    ],
     "name:run_x_preferred":[
         "Kamboje"
     ],
@@ -806,9 +800,6 @@
     "name:zho_x_preferred":[
         "\u67ec\u57d4\u5be8"
     ],
-    "name:zho_x_variant":[
-        "\u67ec\u57d4\u5be8"
-    ],
     "name:zho_yue_x_preferred":[
         "\u67ec\u57d4\u5be8"
     ],
@@ -961,7 +952,7 @@
     "wof:lang_x_spoken":[
         "khm"
     ],
-    "wof:lastmodified":1544059306,
+    "wof:lastmodified":1561778082,
     "wof:name":"Cambodia",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

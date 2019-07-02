@@ -39,7 +39,7 @@
         "Ou Reang Ov",
         "Ou Reang Ov District"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Ou Reang Ov"
     ],
     "name:ita_x_preferred":[
@@ -111,7 +111,7 @@
         }
     ],
     "wof:id":421177919,
-    "wof:lastmodified":1553717369,
+    "wof:lastmodified":1561778137,
     "wof:name":"Ou Reang Ov",
     "wof:parent_id":1108804319,
     "wof:placetype":"county",

@@ -39,7 +39,7 @@
         "Veun Sai",
         "Veun Sai District"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Veun Sai"
     ],
     "name:ita_x_preferred":[
@@ -111,7 +111,7 @@
         }
     ],
     "wof:id":421194641,
-    "wof:lastmodified":1553717530,
+    "wof:lastmodified":1561778134,
     "wof:name":"Veun Sai",
     "wof:parent_id":85673089,
     "wof:placetype":"county",

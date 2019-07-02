@@ -38,7 +38,7 @@
         "Mongkol Borei",
         "Mongkol Borei District"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Mongkol Borei"
     ],
     "name:ita_x_preferred":[
@@ -59,7 +59,7 @@
     "name:por_x_preferred":[
         "Mongkol Borey"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Mongkol Borey"
     ],
     "name:swe_x_preferred":[
@@ -102,7 +102,7 @@
         }
     ],
     "wof:id":1108564737,
-    "wof:lastmodified":1553718170,
+    "wof:lastmodified":1561778118,
     "wof:name":"Mongkol Borei",
     "wof:parent_id":85673011,
     "wof:placetype":"county",

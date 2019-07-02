@@ -38,7 +38,7 @@
         "Banteay Srei",
         "Banteay Srei District"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Banteay Srei"
     ],
     "name:ita_x_preferred":[
@@ -84,7 +84,7 @@
         }
     ],
     "wof:id":1108564603,
-    "wof:lastmodified":1553718167,
+    "wof:lastmodified":1561778119,
     "wof:name":"Banteay Srei",
     "wof:parent_id":85673029,
     "wof:placetype":"county",

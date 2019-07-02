@@ -39,7 +39,7 @@
         "Thma Puok",
         "Thma Puok District"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Thma Puok"
     ],
     "name:ita_x_preferred":[
@@ -54,7 +54,7 @@
     "name:pol_x_preferred":[
         "Thm\u00e2 Pu\u014fk"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Thma Puok"
     ],
     "name:swe_x_preferred":[
@@ -120,7 +120,7 @@
         }
     ],
     "wof:id":421203293,
-    "wof:lastmodified":1553717567,
+    "wof:lastmodified":1561778135,
     "wof:name":"Thma Puok",
     "wof:parent_id":85673011,
     "wof:placetype":"county",

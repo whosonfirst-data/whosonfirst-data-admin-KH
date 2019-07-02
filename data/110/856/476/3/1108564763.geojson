@@ -38,7 +38,7 @@
         "Phnum Srok",
         "Phnom Srok District"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Phnom Srok"
     ],
     "name:ita_x_preferred":[
@@ -96,7 +96,7 @@
         }
     ],
     "wof:id":1108564763,
-    "wof:lastmodified":1553718170,
+    "wof:lastmodified":1561778115,
     "wof:name":"Phnum Srok",
     "wof:parent_id":85673011,
     "wof:placetype":"county",

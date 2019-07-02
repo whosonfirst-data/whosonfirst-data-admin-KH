@@ -38,7 +38,7 @@
         "Tram Kak",
         "Tram Kak District"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Tram Kak"
     ],
     "name:ita_x_preferred":[
@@ -87,7 +87,7 @@
         }
     ],
     "wof:id":1108564877,
-    "wof:lastmodified":1553718172,
+    "wof:lastmodified":1561778118,
     "wof:name":"Tram Kak",
     "wof:parent_id":85673107,
     "wof:placetype":"county",

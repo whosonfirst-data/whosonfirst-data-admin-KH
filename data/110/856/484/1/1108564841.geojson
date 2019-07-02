@@ -38,7 +38,7 @@
         "Snuol",
         "Snuol District"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Snuol"
     ],
     "name:ita_x_preferred":[
@@ -84,7 +84,7 @@
         }
     ],
     "wof:id":1108564841,
-    "wof:lastmodified":1553718172,
+    "wof:lastmodified":1561778115,
     "wof:name":"Snuol",
     "wof:parent_id":85673081,
     "wof:placetype":"county",

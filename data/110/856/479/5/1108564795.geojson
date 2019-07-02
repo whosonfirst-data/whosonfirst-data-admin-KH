@@ -39,7 +39,7 @@
         "Sampov Meas",
         "Sampov Meas"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Sampov Meas"
     ],
     "name:ita_x_preferred":[
@@ -81,7 +81,7 @@
         }
     ],
     "wof:id":1108564795,
-    "wof:lastmodified":1555220363,
+    "wof:lastmodified":1561778116,
     "wof:name":"Pursat",
     "wof:parent_id":85673023,
     "wof:placetype":"county",

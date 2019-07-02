@@ -38,7 +38,7 @@
         "Batheay",
         "Batheay District"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Batheay"
     ],
     "name:ita_x_preferred":[
@@ -90,7 +90,7 @@
         }
     ],
     "wof:id":1108564611,
-    "wof:lastmodified":1553718167,
+    "wof:lastmodified":1561778120,
     "wof:name":"Batheay",
     "wof:parent_id":85673041,
     "wof:placetype":"county",

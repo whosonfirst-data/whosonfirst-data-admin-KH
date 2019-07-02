@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.035021,
-    "geom:area_square_m":12501120951.486576,
+    "geom:area_square_m":12501120951.486954,
     "geom:bbox":"102.70351,11.8397632828,104.391268847,13.053045475",
     "geom:latitude":12.367472,
     "geom:longitude":103.635652,
@@ -40,14 +40,14 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de Pursat"
     ],
-    "name:chi_x_preferred":[
-        "\u83e9\u8428\u7701"
-    ],
     "name:dan_x_preferred":[
         "Pursat Province"
     ],
-    "name:dut_x_preferred":[
-        "Pouthisat"
+    "name:deu_x_preferred":[
+        "Pursat"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03bf\u03c5\u03c1\u03c3\u03ac\u03c4"
     ],
     "name:eng_x_preferred":[
         "Pouthisat"
@@ -63,14 +63,8 @@
     "name:fra_x_preferred":[
         "Province de Pouthisat"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "province de Pouthisat"
-    ],
-    "name:ger_x_preferred":[
-        "Pursat"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03bf\u03c5\u03c1\u03c3\u03ac\u03c4"
     ],
     "name:guj_x_preferred":[
         "\u0aaa\u0ac1\u0ab0\u0ab8\u0aa4 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -108,7 +102,7 @@
     "name:mar_x_preferred":[
         "\u092a\u0942\u0930\u0938\u091f \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Pursat Province"
     ],
     "name:nld_x_preferred":[
@@ -292,7 +286,7 @@
     "wof:lang_x_spoken":[
         "khm"
     ],
-    "wof:lastmodified":1553814804,
+    "wof:lastmodified":1561778081,
     "wof:name":"Pouthisat",
     "wof:parent_id":85632359,
     "wof:placetype":"region",

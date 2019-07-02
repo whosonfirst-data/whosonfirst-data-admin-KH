@@ -39,7 +39,7 @@
         "Stueng hav",
         "Stueng Hav District"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Stueng Hav"
     ],
     "name:ita_x_preferred":[
@@ -88,7 +88,7 @@
         }
     ],
     "wof:id":1108564851,
-    "wof:lastmodified":1553718172,
+    "wof:lastmodified":1561778115,
     "wof:name":"Stueng Hav",
     "wof:parent_id":85673101,
     "wof:placetype":"county",

@@ -31,9 +31,6 @@
     "mps:longitude":104.742732,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Kampong Tralach District"
-    ],
     "name:eng_x_preferred":[
         "Kampong Tralach"
     ],
@@ -41,7 +38,7 @@
         "Kampong Tralach",
         "Kampong Tralach District"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Kampong Tralach"
     ],
     "name:ita_x_preferred":[
@@ -49,6 +46,9 @@
     ],
     "name:khm_x_preferred":[
         "\u179f\u17d2\u179a\u17bb\u1780\u1780\u17c6\u1796\u1784\u17cb\u178f\u17d2\u179a\u17a1\u17b6\u1785"
+    ],
+    "name:nld_x_preferred":[
+        "Kampong Tralach District"
     ],
     "name:vie_x_preferred":[
         "Kampong Tralach"
@@ -87,7 +87,7 @@
         }
     ],
     "wof:id":1108564679,
-    "wof:lastmodified":1553718168,
+    "wof:lastmodified":1561778119,
     "wof:name":"Kampong Tralach",
     "wof:parent_id":85673047,
     "wof:placetype":"county",

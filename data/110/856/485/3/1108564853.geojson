@@ -38,7 +38,7 @@
         "Stueng Trang",
         "Stueng Trang District"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Stueng Trang"
     ],
     "name:ita_x_preferred":[
@@ -87,7 +87,7 @@
         }
     ],
     "wof:id":1108564853,
-    "wof:lastmodified":1553718172,
+    "wof:lastmodified":1561778115,
     "wof:name":"Stueng Trang",
     "wof:parent_id":85673041,
     "wof:placetype":"county",

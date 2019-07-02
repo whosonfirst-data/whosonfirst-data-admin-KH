@@ -38,7 +38,7 @@
         "Me Sang",
         "Me Sang District"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Me Sang"
     ],
     "name:ita_x_preferred":[
@@ -87,7 +87,7 @@
         }
     ],
     "wof:id":1108564729,
-    "wof:lastmodified":1553718170,
+    "wof:lastmodified":1561778117,
     "wof:name":"Me Sang",
     "wof:parent_id":85673067,
     "wof:placetype":"county",

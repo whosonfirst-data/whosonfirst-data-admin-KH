@@ -39,7 +39,10 @@
         "Peam Ro",
         "Peam Ro District"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u067e\u0645\u200c\u0631\u0648"
+    ],
+    "name:fra_x_preferred":[
         "Peam Ro"
     ],
     "name:ita_x_preferred":[
@@ -47,9 +50,6 @@
     ],
     "name:khm_x_preferred":[
         "\u179f\u17d2\u179a\u17bb\u1780\u1796\u17b6\u1798\u179a"
-    ],
-    "name:per_x_preferred":[
-        "\u067e\u0645\u200c\u0631\u0648"
     ],
     "name:swe_x_preferred":[
         "Peam Ro"
@@ -114,7 +114,7 @@
         }
     ],
     "wof:id":421191397,
-    "wof:lastmodified":1553717505,
+    "wof:lastmodified":1561778136,
     "wof:name":"Peam Ro",
     "wof:parent_id":85673067,
     "wof:placetype":"county",

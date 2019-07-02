@@ -41,7 +41,7 @@
         "Malai",
         "Malai District"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Malai"
     ],
     "name:ita_x_preferred":[
@@ -99,7 +99,7 @@
         }
     ],
     "wof:id":1108564727,
-    "wof:lastmodified":1553718170,
+    "wof:lastmodified":1561778117,
     "wof:name":"Malai",
     "wof:parent_id":85673011,
     "wof:placetype":"county",

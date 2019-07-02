@@ -46,9 +46,6 @@
     "name:fra_x_preferred":[
         "Banlung"
     ],
-    "name:fre_x_preferred":[
-        "Banlung"
-    ],
     "name:ita_x_preferred":[
         "Banlung"
     ],
@@ -149,7 +146,7 @@
         }
     ],
     "wof:id":421185341,
-    "wof:lastmodified":1553717436,
+    "wof:lastmodified":1561778137,
     "wof:name":"Ban Lung",
     "wof:parent_id":85673089,
     "wof:placetype":"county",

@@ -38,7 +38,7 @@
         "Kaev Seima",
         "Kaev Seima District"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Kaev Seima"
     ],
     "name:ita_x_preferred":[
@@ -84,7 +84,7 @@
         }
     ],
     "wof:id":1108564667,
-    "wof:lastmodified":1553718168,
+    "wof:lastmodified":1561778121,
     "wof:name":"Kaev Seima",
     "wof:parent_id":85673085,
     "wof:placetype":"county",

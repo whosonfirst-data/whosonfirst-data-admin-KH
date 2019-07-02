@@ -38,7 +38,7 @@
         "Phnum Kravanh",
         "Phnum Kravanh District"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Phnum Kravanh"
     ],
     "name:ita_x_preferred":[
@@ -84,7 +84,7 @@
         }
     ],
     "wof:id":1108564759,
-    "wof:lastmodified":1553718170,
+    "wof:lastmodified":1561778117,
     "wof:name":"Phnum Kravanh",
     "wof:parent_id":85673023,
     "wof:placetype":"county",

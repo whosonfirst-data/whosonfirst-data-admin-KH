@@ -39,7 +39,7 @@
         "Ou Chrov",
         "Ou Chrov District"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Ou Chrov"
     ],
     "name:ita_x_preferred":[
@@ -117,7 +117,7 @@
         }
     ],
     "wof:id":421198129,
-    "wof:lastmodified":1553717541,
+    "wof:lastmodified":1561778136,
     "wof:name":"Ou Chrov",
     "wof:parent_id":85673011,
     "wof:placetype":"county",

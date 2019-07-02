@@ -38,7 +38,7 @@
         "Kaoh Nheaek",
         "Kaoh Nheaek District"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Kaoh Nheaek"
     ],
     "name:ita_x_preferred":[
@@ -84,7 +84,7 @@
         }
     ],
     "wof:id":1108564699,
-    "wof:lastmodified":1553718168,
+    "wof:lastmodified":1561778119,
     "wof:name":"Kaoh Nheaek",
     "wof:parent_id":85673085,
     "wof:placetype":"county",

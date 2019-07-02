@@ -39,7 +39,7 @@
         "Krakor",
         "Krakor District"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Krakor"
     ],
     "name:ita_x_preferred":[
@@ -113,7 +113,7 @@
         }
     ],
     "wof:id":421203239,
-    "wof:lastmodified":1555037051,
+    "wof:lastmodified":1561778135,
     "wof:name":"Krakor",
     "wof:parent_id":85673023,
     "wof:placetype":"county",

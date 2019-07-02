@@ -38,7 +38,7 @@
         "Svay Teab",
         "Svay Rieng District"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Svay Rieng"
     ],
     "name:ita_x_preferred":[
@@ -84,7 +84,7 @@
         }
     ],
     "wof:id":1108564863,
-    "wof:lastmodified":1553718172,
+    "wof:lastmodified":1561778118,
     "wof:name":"Svay Rieng",
     "wof:parent_id":85673105,
     "wof:placetype":"county",
