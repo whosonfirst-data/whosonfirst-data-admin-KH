@@ -31,11 +31,13 @@
     "mps:longitude":105.277875,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Chamkar Leu"
+    ],
     "name:eng_x_preferred":[
         "Chamkar Leu"
     ],
     "name:eng_x_variant":[
-        "Chamkar Leu",
         "Chamkar Leu District"
     ],
     "name:fra_x_preferred":[
@@ -50,8 +52,17 @@
     "name:pol_x_preferred":[
         "Ch\u00e2mkar Leu"
     ],
+    "name:spa_x_preferred":[
+        "Chamkar Leu"
+    ],
+    "name:swe_x_preferred":[
+        "Chamkar Leu"
+    ],
     "name:vie_x_preferred":[
         "Chamkar Leu"
+    ],
+    "name:zho_x_preferred":[
+        "\u5360\u5361\u52d2\u53bf"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -87,7 +98,7 @@
         }
     ],
     "wof:id":1108564621,
-    "wof:lastmodified":1561778117,
+    "wof:lastmodified":1563321075,
     "wof:name":"Chamkar Leu",
     "wof:parent_id":85673041,
     "wof:placetype":"county",

@@ -22,6 +22,9 @@
     "name:ben_x_preferred":[
         "\u09b8\u09bf\u09b8\u09cb\u09ab\u09cb\u09a8"
     ],
+    "name:ceb_x_preferred":[
+        "Sis\u014fph\u014fn"
+    ],
     "name:dan_x_preferred":[
         "Sisophon"
     ],
@@ -271,7 +274,7 @@
         }
     ],
     "wof:id":890442049,
-    "wof:lastmodified":1561778138,
+    "wof:lastmodified":1563321345,
     "wof:name":"Sis\u014fph\u014fn",
     "wof:parent_id":421170329,
     "wof:placetype":"locality",

@@ -22,17 +22,26 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":8.7,
+    "name:ceb_x_preferred":[
+        "Tboung Khmum"
+    ],
     "name:deu_x_preferred":[
         "Tbong Khmum"
     ],
     "name:eng_x_preferred":[
         "Tbong Khmum"
     ],
+    "name:eng_x_variant":[
+        "Tbong Khmum Province"
+    ],
     "name:est_x_preferred":[
         "Tbong Khm\u016dmi provints"
     ],
     "name:fra_x_preferred":[
         "province de Tbong Khmum"
+    ],
+    "name:frr_x_preferred":[
+        "Tboung Khmum"
     ],
     "name:hin_x_preferred":[
         "\u0924\u094d\u092c\u094b\u0928\u094d\u0917 \u0916\u094d\u092e\u0941\u092e \u092a\u094d\u0930\u093e\u0928\u094d\u0924"
@@ -48,6 +57,9 @@
     ],
     "name:kor_x_preferred":[
         "\ud2b8\ubd09\ud06c\ubb44 \uc8fc"
+    ],
+    "name:nan_x_preferred":[
+        "Tboung Khmum S\u00e9ng"
     ],
     "name:por_x_preferred":[
         "Tbong Khmum"
@@ -110,7 +122,7 @@
     "wof:lang_x_spoken":[
         "khm"
     ],
-    "wof:lastmodified":1561778114,
+    "wof:lastmodified":1563321059,
     "wof:name":"Tboung Khmum",
     "wof:parent_id":85632359,
     "wof:placetype":"region",

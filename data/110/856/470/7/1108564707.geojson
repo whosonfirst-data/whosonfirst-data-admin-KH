@@ -35,7 +35,6 @@
         "Kien Svay"
     ],
     "name:eng_x_variant":[
-        "Kien Svay",
         "Kien Svay District"
     ],
     "name:fas_x_preferred":[
@@ -53,8 +52,17 @@
     "name:rus_x_preferred":[
         "\u041a\u0438\u0435\u043d\u0441\u0432\u0430\u0439"
     ],
+    "name:spa_x_preferred":[
+        "Kiri Vong"
+    ],
+    "name:spa_x_variant":[
+        "Kien Svay"
+    ],
     "name:vie_x_preferred":[
         "Kien Svay"
+    ],
+    "name:zho_x_preferred":[
+        "\u6839\u65af\u5a01\u53bf"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -90,7 +98,7 @@
         }
     ],
     "wof:id":1108564707,
-    "wof:lastmodified":1561778116,
+    "wof:lastmodified":1563321069,
     "wof:name":"Kien Svay",
     "wof:parent_id":85673051,
     "wof:placetype":"county",

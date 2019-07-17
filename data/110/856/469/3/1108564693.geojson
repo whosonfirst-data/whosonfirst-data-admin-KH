@@ -35,7 +35,6 @@
         "Kaoh Andaet"
     ],
     "name:eng_x_variant":[
-        "Kaoh Andaet",
         "Kaoh Andaet District"
     ],
     "name:fra_x_preferred":[
@@ -47,8 +46,14 @@
     "name:khm_x_preferred":[
         "\u179f\u17d2\u179a\u17bb\u1780\u1780\u17c4\u17c7\u17a2\u178e\u17d2\u178a\u17c2\u178f"
     ],
+    "name:spa_x_preferred":[
+        "Koh Andaet"
+    ],
     "name:vie_x_preferred":[
         "Kaoh Andaet"
+    ],
+    "name:zho_x_preferred":[
+        "\u6208\u5b89\u5fb7\u53bf"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -84,7 +89,7 @@
         }
     ],
     "wof:id":1108564693,
-    "wof:lastmodified":1561778120,
+    "wof:lastmodified":1563321093,
     "wof:name":"Kaoh Andaet",
     "wof:parent_id":85673107,
     "wof:placetype":"county",

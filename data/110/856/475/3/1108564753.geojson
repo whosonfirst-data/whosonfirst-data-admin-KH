@@ -35,7 +35,6 @@
         "Pea Reang"
     ],
     "name:eng_x_variant":[
-        "Pea Reang",
         "Pea Reang District"
     ],
     "name:fra_x_preferred":[
@@ -50,8 +49,14 @@
     "name:rus_x_preferred":[
         "\u041e\u043a\u0440\u0443\u0433 \u041f\u0435\u0430\u0440\u0435\u0430\u043d\u0433"
     ],
+    "name:spa_x_preferred":[
+        "Pea Reang"
+    ],
     "name:vie_x_preferred":[
         "Pea Reang"
+    ],
+    "name:zho_x_preferred":[
+        "\u522b\u826f\u53bf"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -87,7 +92,7 @@
         }
     ],
     "wof:id":1108564753,
-    "wof:lastmodified":1561778117,
+    "wof:lastmodified":1563321079,
     "wof:name":"Pea Reang",
     "wof:parent_id":85673067,
     "wof:placetype":"county",

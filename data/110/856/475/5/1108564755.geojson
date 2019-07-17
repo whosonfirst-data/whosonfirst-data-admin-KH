@@ -35,7 +35,6 @@
         "Peam Chor"
     ],
     "name:eng_x_variant":[
-        "Peam Chor",
         "Peam Chor District"
     ],
     "name:fra_x_preferred":[
@@ -47,8 +46,14 @@
     "name:khm_x_preferred":[
         "\u179f\u17d2\u179a\u17bb\u1780\u1796\u17b6\u1798\u1787\u179a"
     ],
+    "name:spa_x_preferred":[
+        "Peam Chor"
+    ],
     "name:vie_x_preferred":[
         "Peam Chor"
+    ],
+    "name:zho_x_preferred":[
+        "\u8fb9\u4f50\u53bf"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -84,7 +89,7 @@
         }
     ],
     "wof:id":1108564755,
-    "wof:lastmodified":1561778117,
+    "wof:lastmodified":1563321080,
     "wof:name":"Peam Chor",
     "wof:parent_id":85673067,
     "wof:placetype":"county",

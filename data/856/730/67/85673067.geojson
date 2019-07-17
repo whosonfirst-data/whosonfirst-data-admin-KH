@@ -31,6 +31,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0628\u0631\u064a \u0641\u0646\u063a"
     ],
+    "name:ara_x_variant":[
+        "\u0645\u062d\u0627\u0641\u0638\u0629 \u0628\u0631\u064a \u0641\u0646\u063a"
+    ],
     "name:bel_x_preferred":[
         "\u041f\u0440\u044d\u0439\u0432\u044d\u043d\u0433"
     ],
@@ -39,6 +42,9 @@
     ],
     "name:bul_x_preferred":[
         "\u041f\u0440\u0435\u0439 \u0412\u0435\u043d\u0433"
+    ],
+    "name:ceb_x_preferred":[
+        "Prey Veng"
     ],
     "name:dan_x_preferred":[
         "Prey Veng Province"
@@ -52,11 +58,17 @@
     "name:eng_x_preferred":[
         "Prey Veng"
     ],
+    "name:eng_x_variant":[
+        "Prey Veng Province"
+    ],
     "name:fin_x_preferred":[
         "Prey V\u00eang"
     ],
     "name:fra_x_preferred":[
         "province de Prey Veng"
+    ],
+    "name:fra_x_variant":[
+        "Prey Veng"
     ],
     "name:guj_x_preferred":[
         "\u0aaa\u0acd\u0ab0\u0ac7 \u0ab5\u0ac7\u0a82\u0a97 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -96,6 +108,9 @@
     ],
     "name:msa_x_preferred":[
         "Prey Veng Province"
+    ],
+    "name:nan_x_preferred":[
+        "Prey Veng S\u00e9ng"
     ],
     "name:nld_x_preferred":[
         "Prey Veng"
@@ -275,7 +290,7 @@
     "wof:lang_x_spoken":[
         "khm"
     ],
-    "wof:lastmodified":1561778079,
+    "wof:lastmodified":1563320441,
     "wof:name":"Prey V\u00eang",
     "wof:parent_id":85632359,
     "wof:placetype":"region",

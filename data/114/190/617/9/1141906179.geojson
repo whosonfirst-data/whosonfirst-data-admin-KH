@@ -20,6 +20,9 @@
     "name:ben_x_preferred":[
         "\u09b8\u09ad\u09be\u09af\u09bc \u09b0\u09bf\u09af\u09bc\u09c7\u0982"
     ],
+    "name:ceb_x_preferred":[
+        "Svay Rieng"
+    ],
     "name:dan_x_preferred":[
         "Svay Rieng"
     ],
@@ -123,6 +126,9 @@
         "\u0633\u0648\u0627\u06cc \u0631\u06cc\u06cc\u0646\u062c"
     ],
     "name:vie_x_preferred":[
+        "Svay Rieng"
+    ],
+    "name:war_x_preferred":[
         "Svay Rieng"
     ],
     "name:zho_x_preferred":[
@@ -247,7 +253,7 @@
         }
     ],
     "wof:id":1141906179,
-    "wof:lastmodified":1561778168,
+    "wof:lastmodified":1563321793,
     "wof:name":"Svay Rieng",
     "wof:parent_id":1108564863,
     "wof:placetype":"locality",

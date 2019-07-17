@@ -20,6 +20,9 @@
     "name:ben_x_preferred":[
         "\u099f\u09be\u0995\u09c7\u0993"
     ],
+    "name:ceb_x_preferred":[
+        "Takeo"
+    ],
     "name:dan_x_preferred":[
         "Tak\u00e9o"
     ],
@@ -253,7 +256,7 @@
         }
     ],
     "wof:id":1141908145,
-    "wof:lastmodified":1561778168,
+    "wof:lastmodified":1563321794,
     "wof:name":"Takeo",
     "wof:parent_id":421187977,
     "wof:placetype":"locality",

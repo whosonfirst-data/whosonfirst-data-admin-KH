@@ -31,12 +31,14 @@
     "mps:longitude":107.140274,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Sr\u014fk Pech Chreada"
+    ],
     "name:eng_x_preferred":[
         "Pechr Chenda"
     ],
     "name:eng_x_variant":[
         "Pech Chreada",
-        "Pechr Chenda",
         "Pechr Chenda District"
     ],
     "name:fra_x_preferred":[
@@ -44,6 +46,12 @@
     ],
     "name:ita_x_preferred":[
         "distretto di Pechr Chenda"
+    ],
+    "name:khm_x_preferred":[
+        "\u179f\u17d2\u179a\u17bb\u1780\u1796\u17c1\u1787\u17d2\u179a\u17b6\u178a\u17b6"
+    ],
+    "name:spa_x_preferred":[
+        "Pechr Chend\u00e1"
     ],
     "name:swe_x_preferred":[
         "Sr\u014fk Pech Chreada"
@@ -85,7 +93,7 @@
         }
     ],
     "wof:id":1108564757,
-    "wof:lastmodified":1561778117,
+    "wof:lastmodified":1563321079,
     "wof:name":"Pech Chreada",
     "wof:parent_id":85673085,
     "wof:placetype":"county",

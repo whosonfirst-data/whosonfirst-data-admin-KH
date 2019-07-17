@@ -36,7 +36,6 @@
         "Preah Netr Preah"
     ],
     "name:eng_x_variant":[
-        "Preah Netr Preah",
         "Preah Netr Preah District"
     ],
     "name:fra_x_preferred":[
@@ -51,14 +50,23 @@
     "name:khm_x_preferred":[
         "\u1783\u17bb\u17c6\u1796\u17d2\u179a\u17c7\u1793\u17c1\u178f\u17d2\u179a\u1796\u17d2\u179a\u17c7"
     ],
+    "name:khm_x_variant":[
+        "\u179f\u17d2\u179a\u17bb\u1780\u1796\u17d2\u179a\u17c7\u1793\u17c1\u178f\u17d2\u179a\u1796\u17d2\u179a\u17c7"
+    ],
     "name:pol_x_preferred":[
         "Pre\u0103h N\u00e9t Pre\u0103h"
     ],
     "name:por_x_preferred":[
         "Preah Netr Preah"
     ],
+    "name:spa_x_preferred":[
+        "Preah Netr Preah"
+    ],
     "name:vie_x_preferred":[
         "Preah Netr Preah"
+    ],
+    "name:zho_x_preferred":[
+        "\u6ce2\u5217\u5185\u6ce2\u5217\u53bf"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -118,7 +126,7 @@
         }
     ],
     "wof:id":421183973,
-    "wof:lastmodified":1561778137,
+    "wof:lastmodified":1563321339,
     "wof:name":"Preah Netr Preah",
     "wof:parent_id":85673011,
     "wof:placetype":"county",

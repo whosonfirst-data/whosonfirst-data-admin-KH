@@ -35,7 +35,6 @@
         "Lvea Aem"
     ],
     "name:eng_x_variant":[
-        "Lvea Aem",
         "Lvea Aem District"
     ],
     "name:fra_x_preferred":[
@@ -47,8 +46,14 @@
     "name:khm_x_preferred":[
         "\u179f\u17d2\u179a\u17bb\u1780\u179b\u17d2\u179c\u17b6\u17af\u1798"
     ],
+    "name:spa_x_preferred":[
+        "Lvea Em"
+    ],
     "name:vie_x_preferred":[
         "Lvea Aem"
+    ],
+    "name:zho_x_preferred":[
+        "\u52d2\u7ef4\u6069\u53bf"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -84,7 +89,7 @@
         }
     ],
     "wof:id":1108564725,
-    "wof:lastmodified":1561778118,
+    "wof:lastmodified":1563321082,
     "wof:name":"Lvea Aem",
     "wof:parent_id":85673051,
     "wof:placetype":"county",

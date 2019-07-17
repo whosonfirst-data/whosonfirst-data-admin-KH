@@ -31,11 +31,13 @@
     "mps:longitude":104.508316,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Sr\u014fk Basedth"
+    ],
     "name:eng_x_preferred":[
         "Basedth"
     ],
     "name:eng_x_variant":[
-        "Basedth",
         "Basedth District"
     ],
     "name:fra_x_preferred":[
@@ -46,6 +48,9 @@
     ],
     "name:khm_x_preferred":[
         "\u179f\u17d2\u179a\u17bb\u1780\u1794\u179f\u17c1\u178a\u17d2\u178b"
+    ],
+    "name:spa_x_preferred":[
+        "Basedth"
     ],
     "name:swe_x_preferred":[
         "Sr\u014fk Basedth"
@@ -87,7 +92,7 @@
         }
     ],
     "wof:id":1108564609,
-    "wof:lastmodified":1561778119,
+    "wof:lastmodified":1563321090,
     "wof:name":"Basedth",
     "wof:parent_id":85673053,
     "wof:placetype":"county",

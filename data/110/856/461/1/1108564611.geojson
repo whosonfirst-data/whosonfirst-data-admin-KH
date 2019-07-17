@@ -31,11 +31,13 @@
     "mps:longitude":104.899036,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Sr\u014fk Bath\u00e9ay"
+    ],
     "name:eng_x_preferred":[
         "Batheay"
     ],
     "name:eng_x_variant":[
-        "Batheay",
         "Batheay District"
     ],
     "name:fra_x_preferred":[
@@ -50,11 +52,17 @@
     "name:pol_x_preferred":[
         "Bath\u00e9ay"
     ],
+    "name:spa_x_preferred":[
+        "Batheay"
+    ],
     "name:swe_x_preferred":[
         "Sr\u014fk Bath\u00e9ay"
     ],
     "name:vie_x_preferred":[
         "Batheay"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u6cf0\u53bf"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -90,7 +98,7 @@
         }
     ],
     "wof:id":1108564611,
-    "wof:lastmodified":1561778120,
+    "wof:lastmodified":1563321096,
     "wof:name":"Batheay",
     "wof:parent_id":85673041,
     "wof:placetype":"county",

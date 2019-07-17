@@ -73,6 +73,9 @@
     "name:spa_x_preferred":[
         "Koh Kong"
     ],
+    "name:swe_x_preferred":[
+        "Koh Kong"
+    ],
     "name:tha_x_preferred":[
         "\u0e40\u0e02\u0e21\u0e23\u0e31\u0e10\u0e20\u0e39\u0e21\u0e34\u0e19\u0e17\u0e23\u0e4c"
     ],
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":1125822243,
-    "wof:lastmodified":1561778138,
+    "wof:lastmodified":1563321348,
     "wof:name":"Ka\u00f4h K\u014fng",
     "wof:parent_id":1108564705,
     "wof:placetype":"locality",

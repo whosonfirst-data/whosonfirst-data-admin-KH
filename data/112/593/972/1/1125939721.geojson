@@ -43,6 +43,9 @@
     "name:epo_x_preferred":[
         "Sianukurbo"
     ],
+    "name:est_x_preferred":[
+        "Sihanoukville"
+    ],
     "name:fin_x_preferred":[
         "Sihanoukville"
     ],
@@ -73,6 +76,9 @@
     "name:jpn_x_preferred":[
         "\u30b7\u30a2\u30cc\u30fc\u30af\u30d3\u30eb"
     ],
+    "name:jpn_x_variant":[
+        "\u30b7\u30cf\u30cc\u30fc\u30af\u30d3\u30eb"
+    ],
     "name:kan_x_preferred":[
         "\u0cb8\u0cbf\u0cb9\u0cbe\u0ca8\u0ccc\u0c95\u0ccd\u0cb5\u0cbf\u0cb2\u0ccd\u0cb2\u0cc6"
     ],
@@ -81,6 +87,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc2dc\ud55c\uc6b1\ube4c"
+    ],
+    "name:kor_x_variant":[
+        "\uc2dc\uc544\ub204\ud06c\ube4c"
     ],
     "name:lav_x_preferred":[
         "Sianukvila"
@@ -123,6 +132,9 @@
     ],
     "name:spa_x_preferred":[
         "Ciudad de Sihanoukville"
+    ],
+    "name:spa_x_variant":[
+        "Sihanoukville"
     ],
     "name:swe_x_preferred":[
         "Sihanoukville"
@@ -193,7 +205,7 @@
         }
     ],
     "wof:id":1125939721,
-    "wof:lastmodified":1561778138,
+    "wof:lastmodified":1563321347,
     "wof:name":"Sihanoukville",
     "wof:parent_id":1108564777,
     "wof:placetype":"locality",

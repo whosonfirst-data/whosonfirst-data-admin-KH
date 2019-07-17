@@ -21,6 +21,9 @@
     "name:ben_x_preferred":[
         "\u09b8\u09cd\u099f\u09be\u0982 \u099f\u09cd\u09b0\u09c7\u0982"
     ],
+    "name:ceb_x_preferred":[
+        "Stung Treng"
+    ],
     "name:dan_x_preferred":[
         "Stung Treng"
     ],
@@ -175,7 +178,7 @@
         }
     ],
     "wof:id":890434549,
-    "wof:lastmodified":1561778138,
+    "wof:lastmodified":1563321346,
     "wof:name":"St\u0153\u0306ng Tr\u00eang",
     "wof:parent_id":421200835,
     "wof:placetype":"locality",

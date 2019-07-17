@@ -20,6 +20,9 @@
     "name:ben_x_preferred":[
         "\u09aa\u09cd\u09b0\u09c7 \u09ad\u09c7\u0982"
     ],
+    "name:ceb_x_preferred":[
+        "Prey Veng"
+    ],
     "name:dan_x_preferred":[
         "Prey Veng"
     ],
@@ -261,7 +264,7 @@
         }
     ],
     "wof:id":1141906175,
-    "wof:lastmodified":1561778168,
+    "wof:lastmodified":1563321793,
     "wof:name":"Prey Veng",
     "wof:parent_id":1108564789,
     "wof:placetype":"locality",

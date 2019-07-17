@@ -35,7 +35,6 @@
         "Kang Meas"
     ],
     "name:eng_x_variant":[
-        "Kang Meas",
         "Kang Meas District"
     ],
     "name:fra_x_preferred":[
@@ -47,8 +46,14 @@
     "name:khm_x_preferred":[
         "\u179f\u17d2\u179a\u17bb\u1780\u1780\u1784\u1798\u17b6\u179f"
     ],
+    "name:spa_x_preferred":[
+        "Kang Meas"
+    ],
     "name:vie_x_preferred":[
         "Kang Meas"
+    ],
+    "name:zho_x_preferred":[
+        "\u8d21\u5bc6\u53bf"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -84,7 +89,7 @@
         }
     ],
     "wof:id":1108564689,
-    "wof:lastmodified":1561778120,
+    "wof:lastmodified":1563321093,
     "wof:name":"Kang Meas",
     "wof:parent_id":85673041,
     "wof:placetype":"county",

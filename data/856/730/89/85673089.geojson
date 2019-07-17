@@ -37,6 +37,9 @@
     "name:bul_x_preferred":[
         "\u0420\u0430\u0442\u0430\u043d\u0430 \u041a\u0438\u0440\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Ratanakiri"
+    ],
     "name:dan_x_preferred":[
         "Ratanakiri Province"
     ],
@@ -68,7 +71,8 @@
         "Province de Ratanakiri"
     ],
     "name:fra_x_variant":[
-        "province de Rotanah Kiri"
+        "province de Rotanah Kiri",
+        "Rotanah Kiri"
     ],
     "name:guj_x_preferred":[
         "\u0ab0\u0aa4\u0acd\u0aa8\u0abe\u0a95\u0ac0\u0ab0\u0ac0 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -110,6 +114,9 @@
     "name:msa_x_preferred":[
         "Ratanakiri Province"
     ],
+    "name:nan_x_preferred":[
+        "Ratanakiri S\u00e9ng"
+    ],
     "name:nld_x_preferred":[
         "Ratanakiri"
     ],
@@ -118,6 +125,9 @@
     ],
     "name:nob_x_preferred":[
         "Rotanokiri"
+    ],
+    "name:nob_x_variant":[
+        "Ratanakiri"
     ],
     "name:pam_x_preferred":[
         "Ratanakiri"
@@ -293,7 +303,7 @@
     "wof:lang_x_spoken":[
         "khm"
     ],
-    "wof:lastmodified":1561778080,
+    "wof:lastmodified":1563320445,
     "wof:name":"R\u00f4t\u00e2n\u00f4kiri",
     "wof:parent_id":85632359,
     "wof:placetype":"region",

@@ -36,7 +36,7 @@
     ],
     "name:eng_x_variant":[
         "Kien Svay",
-        "Kien Svay"
+        "Kien Svay District"
     ],
     "name:fas_x_preferred":[
         "\u06a9\u06cc\u0646 \u0627\u0633\u0648\u0627\u06cc"
@@ -50,11 +50,20 @@
     "name:khm_x_preferred":[
         "\u179f\u17d2\u179a\u17bb\u1780\u1780\u17c0\u1793\u179f\u17d2\u179c\u17b6\u1799"
     ],
+    "name:pol_x_preferred":[
+        "Damnak Chang'aeur"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u0438\u0435\u043d\u0441\u0432\u0430\u0439"
     ],
+    "name:spa_x_preferred":[
+        "Kien Svay"
+    ],
     "name:vie_x_preferred":[
         "Kien Svay"
+    ],
+    "name:zho_x_preferred":[
+        "\u6839\u65af\u5a01\u53bf"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -80,7 +89,7 @@
         }
     ],
     "wof:id":1108564629,
-    "wof:lastmodified":1561778116,
+    "wof:lastmodified":1563321075,
     "wof:name":"Chbar Ampov",
     "wof:parent_id":85673063,
     "wof:placetype":"county",

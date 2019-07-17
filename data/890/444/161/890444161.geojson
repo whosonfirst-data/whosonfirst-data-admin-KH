@@ -22,6 +22,9 @@
     "name:ben_x_preferred":[
         "\u09aa\u09c1\u09b0\u09b8\u09be\u09a4"
     ],
+    "name:ceb_x_preferred":[
+        "Pursat"
+    ],
     "name:dan_x_preferred":[
         "Pursat"
     ],
@@ -270,7 +273,7 @@
         }
     ],
     "wof:id":890444161,
-    "wof:lastmodified":1561778137,
+    "wof:lastmodified":1563321344,
     "wof:name":"Pursat",
     "wof:parent_id":1108564795,
     "wof:placetype":"locality",

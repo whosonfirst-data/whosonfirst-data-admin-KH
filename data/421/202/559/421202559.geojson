@@ -32,12 +32,30 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Kampong Chhnang"
+    ],
     "name:eng_x_preferred":[
         "Kampong Chhnang"
     ],
     "name:eng_x_variant":[
         "Krong Kampong Chhnang",
+        "Kampong Cham District"
+    ],
+    "name:fra_x_preferred":[
+        "Kampong Cham"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b3\u30f3\u30dd\u30f3\u30c1\u30e3\u30e0\u5730\u533a"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043c\u043f\u043e\u043d\u0433\u0442\u044f\u043c"
+    ],
+    "name:swe_x_preferred":[
         "Kampong Chhnang"
+    ],
+    "name:vie_x_preferred":[
+        "Kampong Cham"
     ],
     "qs:gn_country":"KH",
     "qs:gn_fcode":"ADM2",
@@ -98,7 +116,7 @@
         }
     ],
     "wof:id":421202559,
-    "wof:lastmodified":1553717562,
+    "wof:lastmodified":1563321322,
     "wof:name":"Kampong Chhnang",
     "wof:parent_id":85673047,
     "wof:placetype":"county",

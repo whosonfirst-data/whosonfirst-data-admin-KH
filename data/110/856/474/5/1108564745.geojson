@@ -35,7 +35,6 @@
         "Ou Reang"
     ],
     "name:eng_x_variant":[
-        "Ou Reang",
         "Ou Reang District"
     ],
     "name:fra_x_preferred":[
@@ -47,8 +46,14 @@
     "name:khm_x_preferred":[
         "\u179f\u17d2\u179a\u17bb\u1780\u17a2\u17bc\u179a\u179a\u17b6\u17c6\u1784"
     ],
+    "name:spa_x_preferred":[
+        "Ou Reang"
+    ],
     "name:vie_x_preferred":[
         "Ou Reang"
+    ],
+    "name:zho_x_preferred":[
+        "\u5965\u6717\u53bf"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -84,7 +89,7 @@
         }
     ],
     "wof:id":1108564745,
-    "wof:lastmodified":1561778118,
+    "wof:lastmodified":1563321086,
     "wof:name":"Ou Reang",
     "wof:parent_id":85673085,
     "wof:placetype":"county",

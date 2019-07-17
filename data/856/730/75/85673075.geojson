@@ -40,6 +40,9 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de Stung Treng"
     ],
+    "name:ceb_x_preferred":[
+        "Stung Treng"
+    ],
     "name:dan_x_preferred":[
         "Stung Treng Province"
     ],
@@ -103,6 +106,9 @@
     "name:msa_x_preferred":[
         "Stung Treng Province"
     ],
+    "name:nan_x_preferred":[
+        "Stung Treng S\u00e9ng"
+    ],
     "name:nld_x_preferred":[
         "Stoeng Treng"
     ],
@@ -141,6 +147,9 @@
     ],
     "name:tel_x_preferred":[
         "\u0c38\u0c4d\u0c1f\u0c02\u0c17\u0c4d \u0c1f\u0c4d\u0c30\u0c46\u0c02\u0c17\u0c4d \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
+    ],
+    "name:tgl_x_preferred":[
+        "Lalawigan ng Steung Treng"
     ],
     "name:tha_x_preferred":[
         "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e2a\u0e15\u0e36\u0e07\u0e41\u0e15\u0e23\u0e07"
@@ -286,7 +295,7 @@
     "wof:lang_x_spoken":[
         "khm"
     ],
-    "wof:lastmodified":1561778080,
+    "wof:lastmodified":1563320446,
     "wof:name":"St\u0153ng Tr\u00eang",
     "wof:parent_id":85632359,
     "wof:placetype":"region",

@@ -32,12 +32,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Sr\u014fk Ban L\u016dng"
+    ],
     "name:eng_x_preferred":[
         "Ban Lung"
     ],
     "name:eng_x_variant":[
         "Krong Ban Lung",
-        "Ban Lung",
         "Banlung District"
     ],
     "name:fas_x_preferred":[
@@ -45,6 +47,9 @@
     ],
     "name:fra_x_preferred":[
         "Banlung"
+    ],
+    "name:ind_x_preferred":[
+        "Munisipalitas Banlung"
     ],
     "name:ita_x_preferred":[
         "Banlung"
@@ -146,7 +151,7 @@
         }
     ],
     "wof:id":421185341,
-    "wof:lastmodified":1561778137,
+    "wof:lastmodified":1563321341,
     "wof:name":"Ban Lung",
     "wof:parent_id":85673089,
     "wof:placetype":"county",

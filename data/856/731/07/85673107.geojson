@@ -37,6 +37,9 @@
     "name:bul_x_preferred":[
         "\u0422\u0430\u043a\u0435\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Takeo"
+    ],
     "name:dan_x_preferred":[
         "Tak\u00e9o Province"
     ],
@@ -61,7 +64,8 @@
         "Province de Takeo"
     ],
     "name:fra_x_variant":[
-        "province de Takeo"
+        "province de Takeo",
+        "Takeo"
     ],
     "name:guj_x_preferred":[
         "\u0a9f\u0ac7\u0a95\u0ac7\u0a93 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -102,6 +106,9 @@
     "name:msa_x_preferred":[
         "Takeo Province"
     ],
+    "name:nan_x_preferred":[
+        "Tak\u00e9o S\u00e9ng"
+    ],
     "name:nld_x_preferred":[
         "Takev"
     ],
@@ -131,6 +138,9 @@
     ],
     "name:spa_x_preferred":[
         "Provincia de Tak\u00e9o"
+    ],
+    "name:spa_x_variant":[
+        "Tak\u00e9o"
     ],
     "name:swe_x_preferred":[
         "Takeo"
@@ -286,7 +296,7 @@
     "wof:lang_x_spoken":[
         "khm"
     ],
-    "wof:lastmodified":1561778082,
+    "wof:lastmodified":1563320458,
     "wof:name":"Tak\u00eav",
     "wof:parent_id":85632359,
     "wof:placetype":"region",

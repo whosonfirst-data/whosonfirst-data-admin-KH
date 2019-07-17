@@ -31,11 +31,13 @@
     "mps:longitude":103.320464,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Phnom Srok"
+    ],
     "name:eng_x_preferred":[
         "Phnum Srok"
     ],
     "name:eng_x_variant":[
-        "Phnum Srok",
         "Phnom Srok District"
     ],
     "name:fra_x_preferred":[
@@ -56,11 +58,17 @@
     "name:por_x_preferred":[
         "Phnum Srok"
     ],
+    "name:spa_x_preferred":[
+        "Phnum Srok"
+    ],
     "name:swe_x_preferred":[
         "Phnom Srok"
     ],
     "name:vie_x_preferred":[
         "Phnum Srok"
+    ],
+    "name:zho_x_preferred":[
+        "\u666e\u519c\u65af\u7f57\u53bf"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -96,7 +104,7 @@
         }
     ],
     "wof:id":1108564763,
-    "wof:lastmodified":1561778115,
+    "wof:lastmodified":1563321065,
     "wof:name":"Phnum Srok",
     "wof:parent_id":85673011,
     "wof:placetype":"county",

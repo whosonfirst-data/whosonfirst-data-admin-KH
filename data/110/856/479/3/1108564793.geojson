@@ -36,7 +36,7 @@
     ],
     "name:eng_x_variant":[
         "Angk Snuol",
-        "Angk Snuol"
+        "Angk Snuol District"
     ],
     "name:fra_x_preferred":[
         "Angk Snuol"
@@ -47,8 +47,14 @@
     "name:khm_x_preferred":[
         "\u179f\u17d2\u179a\u17bb\u1780\u17a2\u1784\u17d2\u1782\u179f\u17d2\u1793\u17bd\u179b"
     ],
+    "name:spa_x_preferred":[
+        "Engk Snuol"
+    ],
     "name:vie_x_preferred":[
         "Angk Snuol"
+    ],
+    "name:zho_x_preferred":[
+        "\u6602\u65af\u8bfa\u53bf"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -74,7 +80,7 @@
         }
     ],
     "wof:id":1108564793,
-    "wof:lastmodified":1561778116,
+    "wof:lastmodified":1563321070,
     "wof:name":"Pur SenChey",
     "wof:parent_id":85673063,
     "wof:placetype":"county",

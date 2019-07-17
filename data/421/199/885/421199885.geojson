@@ -40,8 +40,14 @@
     "name:pol_x_preferred":[
         "B\u00e2nt\u00e9ay Chhmar"
     ],
+    "name:pol_x_variant":[
+        "Banteay Chhmar"
+    ],
     "name:rus_x_preferred":[
         "\u0411\u0430\u043d\u0442\u0435\u0430\u0439\u0447\u043c\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Banteay Chhmar"
     ],
     "name:swe_x_preferred":[
         "Banteay Chhmar"
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":421199885,
-    "wof:lastmodified":1561778136,
+    "wof:lastmodified":1563321334,
     "wof:name":"Banteai Chhmar",
     "wof:parent_id":421203293,
     "wof:placetype":"locality",

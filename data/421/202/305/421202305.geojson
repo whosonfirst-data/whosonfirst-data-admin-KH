@@ -36,7 +36,6 @@
         "Kampong Trabaek"
     ],
     "name:eng_x_variant":[
-        "Kampong Trabaek",
         "Kampong Trabaek District"
     ],
     "name:fra_x_preferred":[
@@ -48,8 +47,14 @@
     "name:khm_x_preferred":[
         "\u179f\u17d2\u179a\u17bb\u1780\u1780\u17c6\u1796\u1784\u17cb\u178f\u17d2\u179a\u1794\u17c2\u1780"
     ],
+    "name:spa_x_preferred":[
+        "Kampong Trabaek"
+    ],
     "name:vie_x_preferred":[
         "Kampong Trabaek"
+    ],
+    "name:zho_x_preferred":[
+        "\u78c5\u5fb7\u7f57\u8d1d\u53bf"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -109,7 +114,7 @@
         }
     ],
     "wof:id":421202305,
-    "wof:lastmodified":1561778135,
+    "wof:lastmodified":1563321323,
     "wof:name":"Kampong Trabaek",
     "wof:parent_id":85673067,
     "wof:placetype":"county",
