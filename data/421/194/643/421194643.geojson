@@ -32,11 +32,16 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:bul_x_preferred":[
+        "\u041a\u0440\u0430\u043b\u0430\u043d\u0445"
+    ],
+    "name:ceb_x_preferred":[
+        "Kralanh"
+    ],
     "name:eng_x_preferred":[
         "Kralanh"
     ],
     "name:eng_x_variant":[
-        "Kralanh",
         "Kralanh District"
     ],
     "name:fra_x_preferred":[
@@ -48,8 +53,17 @@
     "name:khm_x_preferred":[
         "\u179f\u17d2\u179a\u17bb\u1780\u1780\u17d2\u179a\u17a1\u17b6\u1789\u17cb"
     ],
+    "name:spa_x_preferred":[
+        "Krola\u00f1"
+    ],
+    "name:swe_x_preferred":[
+        "Kralanh"
+    ],
     "name:vie_x_preferred":[
         "Kralanh"
+    ],
+    "name:zho_x_preferred":[
+        "\u683c\u7f57\u5170\u53bf"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -108,7 +122,7 @@
         }
     ],
     "wof:id":421194643,
-    "wof:lastmodified":1561778134,
+    "wof:lastmodified":1563321317,
     "wof:name":"Kralanh",
     "wof:parent_id":85673029,
     "wof:placetype":"county",

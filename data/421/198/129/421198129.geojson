@@ -32,11 +32,13 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Ou Chrov District"
+    ],
     "name:eng_x_preferred":[
         "Ou Chrov"
     ],
     "name:eng_x_variant":[
-        "Ou Chrov",
         "Ou Chrov District"
     ],
     "name:fra_x_preferred":[
@@ -54,11 +56,17 @@
     "name:pol_x_preferred":[
         "\u2019\u00c2or Chr\u014fu"
     ],
+    "name:spa_x_preferred":[
+        "Ou Chrov"
+    ],
     "name:swe_x_preferred":[
         "Ou Chrov District"
     ],
     "name:vie_x_preferred":[
         "Ou Chrov"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e4c\u7956\u53bf"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -117,7 +125,7 @@
         }
     ],
     "wof:id":421198129,
-    "wof:lastmodified":1561778136,
+    "wof:lastmodified":1563321332,
     "wof:name":"Ou Chrov",
     "wof:parent_id":85673011,
     "wof:placetype":"county",

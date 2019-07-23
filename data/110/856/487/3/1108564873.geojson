@@ -35,7 +35,6 @@
         "Thpong"
     ],
     "name:eng_x_variant":[
-        "Thpong",
         "Thpong District"
     ],
     "name:fra_x_preferred":[
@@ -47,8 +46,14 @@
     "name:khm_x_preferred":[
         "\u179f\u17d2\u179a\u17bb\u1780\u1790\u17d2\u1796\u1784"
     ],
+    "name:spa_x_preferred":[
+        "Thpong"
+    ],
     "name:vie_x_preferred":[
         "Thpong"
+    ],
+    "name:zho_x_preferred":[
+        "\u7279\u90a6\u53bf"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -84,7 +89,7 @@
         }
     ],
     "wof:id":1108564873,
-    "wof:lastmodified":1561778118,
+    "wof:lastmodified":1563321084,
     "wof:name":"Thpong",
     "wof:parent_id":85673053,
     "wof:placetype":"county",

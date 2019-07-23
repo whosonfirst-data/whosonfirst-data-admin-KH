@@ -32,15 +32,20 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Veun Sai"
+    ],
     "name:eng_x_preferred":[
         "Veun Sai"
     ],
     "name:eng_x_variant":[
-        "Veun Sai",
         "Veun Sai District"
     ],
     "name:fra_x_preferred":[
         "Veun Sai"
+    ],
+    "name:ind_x_preferred":[
+        "Distrik Veun Sai"
     ],
     "name:ita_x_preferred":[
         "distretto di Veun Sai"
@@ -48,11 +53,17 @@
     "name:khm_x_preferred":[
         "\u179f\u17d2\u179a\u17bb\u1780\u179c\u17be\u1793\u179f\u17c3"
     ],
+    "name:spa_x_preferred":[
+        "Veun Sai"
+    ],
     "name:swe_x_preferred":[
         "Veun Sai"
     ],
     "name:vie_x_preferred":[
         "Veun Sai"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e91\u6652\u53bf"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -111,7 +122,7 @@
         }
     ],
     "wof:id":421194641,
-    "wof:lastmodified":1561778134,
+    "wof:lastmodified":1563321318,
     "wof:name":"Veun Sai",
     "wof:parent_id":85673089,
     "wof:placetype":"county",

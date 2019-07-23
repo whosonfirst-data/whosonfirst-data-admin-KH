@@ -32,11 +32,13 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Krakor"
+    ],
     "name:eng_x_preferred":[
         "Krakor"
     ],
     "name:eng_x_variant":[
-        "Krakor",
         "Krakor District"
     ],
     "name:fra_x_preferred":[
@@ -48,11 +50,17 @@
     "name:khm_x_preferred":[
         "\u179f\u17d2\u179a\u17bb\u1780\u1780\u17d2\u179a\u1782\u179a"
     ],
+    "name:spa_x_preferred":[
+        "Krakor"
+    ],
     "name:swe_x_preferred":[
         "Krakor"
     ],
     "name:vie_x_preferred":[
         "Krakor"
+    ],
+    "name:zho_x_preferred":[
+        "\u683c\u7f57\u6208\u53bf"
     ],
     "qs:gn_country":"KH",
     "qs:gn_fcode":"ADM2",
@@ -113,7 +121,7 @@
         }
     ],
     "wof:id":421203239,
-    "wof:lastmodified":1561778135,
+    "wof:lastmodified":1563321321,
     "wof:name":"Krakor",
     "wof:parent_id":85673023,
     "wof:placetype":"county",

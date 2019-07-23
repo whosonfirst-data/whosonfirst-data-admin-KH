@@ -33,11 +33,13 @@
     "mps:longitude":104.553248,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Sr\u014fk Sameakki Mean Chey"
+    ],
     "name:eng_x_preferred":[
         "Sameakki Mean Chey"
     ],
     "name:eng_x_variant":[
-        "Sameakki Mean Chey",
         "Sameakki Mean Chey District"
     ],
     "name:fra_x_preferred":[
@@ -48,6 +50,9 @@
     ],
     "name:khm_x_preferred":[
         "\u179f\u17d2\u179a\u17bb\u1780\u179f\u17b6\u1798\u1782\u17d2\u1782\u17b8\u1798\u17b6\u1793\u1787\u17d0\u1799"
+    ],
+    "name:spa_x_preferred":[
+        "Sameakki Mean Chey"
     ],
     "name:swe_x_preferred":[
         "Sr\u014fk Sameakki Mean Chey"
@@ -107,7 +112,7 @@
         }
     ],
     "wof:id":890440787,
-    "wof:lastmodified":1561778137,
+    "wof:lastmodified":1563321342,
     "wof:name":"Sameakki Mean Chey",
     "wof:parent_id":85673047,
     "wof:placetype":"county",

@@ -34,11 +34,13 @@
     "name:bel_x_preferred":[
         "\u041c\u0430\u043b\u0430\u0456"
     ],
+    "name:ceb_x_preferred":[
+        "Sr\u014fk Malai"
+    ],
     "name:eng_x_preferred":[
         "Malai"
     ],
     "name:eng_x_variant":[
-        "Malai",
         "Malai District"
     ],
     "name:fra_x_preferred":[
@@ -59,11 +61,17 @@
     "name:rus_x_preferred":[
         "\u041c\u0430\u043b\u0430\u0438"
     ],
+    "name:spa_x_preferred":[
+        "Malai"
+    ],
     "name:swe_x_preferred":[
         "Sr\u014fk Malai"
     ],
     "name:vie_x_preferred":[
         "Malaii"
+    ],
+    "name:zho_x_preferred":[
+        "\u739b\u83b1\u53bf"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -99,7 +107,7 @@
         }
     ],
     "wof:id":1108564727,
-    "wof:lastmodified":1561778117,
+    "wof:lastmodified":1563321081,
     "wof:name":"Malai",
     "wof:parent_id":85673011,
     "wof:placetype":"county",

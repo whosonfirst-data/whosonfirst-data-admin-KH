@@ -40,6 +40,9 @@
     "name:bul_x_preferred":[
         "\u041a\u0430\u043c\u043f\u043e\u043d\u0433 \u0422\u0445\u043e\u043c"
     ],
+    "name:ceb_x_preferred":[
+        "Kampong Thom"
+    ],
     "name:ces_x_preferred":[
         "Kampong Thom"
     ],
@@ -68,6 +71,12 @@
     ],
     "name:fra_x_preferred":[
         "province de Kampong Thom"
+    ],
+    "name:fra_x_variant":[
+        "Kampong Thom"
+    ],
+    "name:frr_x_preferred":[
+        "Kampong Thom"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0a82\u0aae\u0acd\u0aaa\u0acb\u0a82\u0a97 \u0aa5\u0acb\u0aae \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -104,6 +113,9 @@
     ],
     "name:msa_x_preferred":[
         "Kampong Thom Province"
+    ],
+    "name:nan_x_preferred":[
+        "Kampong Thom S\u00e9ng"
     ],
     "name:nld_x_preferred":[
         "Kampong Thum"
@@ -291,7 +303,7 @@
     "wof:lang_x_spoken":[
         "khm"
     ],
-    "wof:lastmodified":1561778078,
+    "wof:lastmodified":1563320440,
     "wof:name":"K\u00e2mp\u00f3ng Thum",
     "wof:parent_id":85632359,
     "wof:placetype":"region",

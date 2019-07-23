@@ -35,7 +35,6 @@
         "Kampong Tralach"
     ],
     "name:eng_x_variant":[
-        "Kampong Tralach",
         "Kampong Tralach District"
     ],
     "name:fra_x_preferred":[
@@ -50,8 +49,14 @@
     "name:nld_x_preferred":[
         "Kampong Tralach District"
     ],
+    "name:spa_x_preferred":[
+        "Kompung Tralach"
+    ],
     "name:vie_x_preferred":[
         "Kampong Tralach"
+    ],
+    "name:zho_x_preferred":[
+        "\u78c5\u5fb7\u62c9\u62c9\u53bf"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -87,7 +92,7 @@
         }
     ],
     "wof:id":1108564679,
-    "wof:lastmodified":1561778119,
+    "wof:lastmodified":1563321089,
     "wof:name":"Kampong Tralach",
     "wof:parent_id":85673047,
     "wof:placetype":"county",

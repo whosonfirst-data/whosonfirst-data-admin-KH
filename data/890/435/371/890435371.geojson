@@ -61,6 +61,12 @@
     "name:tam_x_preferred":[
         "\u0b95\u0bae\u0bcd\u0baa\u0bcb\u0b99\u0bcd \u0b87\u0b9a\u0bc1\u0baa\u0bbf\u0baf\u0bc1"
     ],
+    "name:tha_x_preferred":[
+        "\u0e08\u0e1a\u0e32\u0e21\u0e2d\u0e19"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u043c\u043f\u043e\u043d\u0433\u0441\u043f\u0438"
+    ],
     "name:unk_x_variant":[
         "K\u014fmpon Spu"
     ],
@@ -199,7 +205,7 @@
         }
     ],
     "wof:id":890435371,
-    "wof:lastmodified":1561778138,
+    "wof:lastmodified":1563321346,
     "wof:name":"K\u00e2mp\u00f3ng Sp\u0153",
     "wof:parent_id":421194855,
     "wof:placetype":"locality",

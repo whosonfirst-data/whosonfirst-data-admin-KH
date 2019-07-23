@@ -35,7 +35,6 @@
         "Kaoh Nheaek"
     ],
     "name:eng_x_variant":[
-        "Kaoh Nheaek",
         "Kaoh Nheaek District"
     ],
     "name:fra_x_preferred":[
@@ -47,8 +46,14 @@
     "name:khm_x_preferred":[
         "\u179f\u17d2\u179a\u17bb\u1780\u1780\u17c4\u17c7\u1789\u17c2\u1780"
     ],
+    "name:spa_x_preferred":[
+        "Koh Nheaek"
+    ],
     "name:vie_x_preferred":[
         "Kaoh Nheaek"
+    ],
+    "name:zho_x_preferred":[
+        "\u6208\u6d85\u53bf"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -84,7 +89,7 @@
         }
     ],
     "wof:id":1108564699,
-    "wof:lastmodified":1561778119,
+    "wof:lastmodified":1563321092,
     "wof:name":"Kaoh Nheaek",
     "wof:parent_id":85673085,
     "wof:placetype":"county",

@@ -35,7 +35,6 @@
         "Samraong Tong"
     ],
     "name:eng_x_variant":[
-        "Samraong Tong",
         "Samraong Tong District"
     ],
     "name:fra_x_preferred":[
@@ -47,8 +46,14 @@
     "name:khm_x_preferred":[
         "\u179f\u17d2\u179a\u17bb\u1780\u179f\u17c6\u179a\u17c4\u1784\u1791\u1784"
     ],
+    "name:spa_x_preferred":[
+        "Samraong Tong"
+    ],
     "name:vie_x_preferred":[
         "Samraong Tong"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e09\u9686\u680b\u53bf"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -84,7 +89,7 @@
         }
     ],
     "wof:id":1108564819,
-    "wof:lastmodified":1561778117,
+    "wof:lastmodified":1563321077,
     "wof:name":"Samraong Tong",
     "wof:parent_id":85673053,
     "wof:placetype":"county",

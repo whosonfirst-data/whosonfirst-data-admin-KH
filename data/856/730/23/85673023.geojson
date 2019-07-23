@@ -40,6 +40,9 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de Pursat"
     ],
+    "name:ceb_x_preferred":[
+        "Pursat"
+    ],
     "name:dan_x_preferred":[
         "Pursat Province"
     ],
@@ -57,6 +60,9 @@
         "Po\u016dth\u012ds\u0103t",
         "Pursat Province"
     ],
+    "name:est_x_preferred":[
+        "Po\u016dth\u012ds\u0103ti provints"
+    ],
     "name:fin_x_preferred":[
         "Po\u016dth\u012ds\u0103t"
     ],
@@ -64,7 +70,8 @@
         "Province de Pouthisat"
     ],
     "name:fra_x_variant":[
-        "province de Pouthisat"
+        "province de Pouthisat",
+        "Pouthisat"
     ],
     "name:guj_x_preferred":[
         "\u0aaa\u0ac1\u0ab0\u0ab8\u0aa4 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -105,6 +112,9 @@
     "name:msa_x_preferred":[
         "Pursat Province"
     ],
+    "name:nan_x_preferred":[
+        "Pursat S\u00e9ng"
+    ],
     "name:nld_x_preferred":[
         "Pouthisat"
     ],
@@ -119,6 +129,9 @@
     ],
     "name:pol_x_preferred":[
         "Po\u016drs\u0103t"
+    ],
+    "name:pol_x_variant":[
+        "Prowincja Pouthisat"
     ],
     "name:por_x_preferred":[
         "Pursat"
@@ -286,7 +299,7 @@
     "wof:lang_x_spoken":[
         "khm"
     ],
-    "wof:lastmodified":1561778081,
+    "wof:lastmodified":1563320452,
     "wof:name":"Pouthisat",
     "wof:parent_id":85632359,
     "wof:placetype":"region",

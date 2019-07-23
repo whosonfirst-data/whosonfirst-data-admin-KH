@@ -34,6 +34,12 @@
     "name:ben_x_preferred":[
         "\u09aa\u09be\u0987\u09b2\u09bf\u09a8 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
+    "name:ceb_x_preferred":[
+        "Pailin"
+    ],
+    "name:cym_x_preferred":[
+        "Pailin Province"
+    ],
     "name:dan_x_preferred":[
         "Pailin Province"
     ],
@@ -62,6 +68,9 @@
     "name:fra_x_preferred":[
         "Pailin"
     ],
+    "name:frr_x_preferred":[
+        "Pailin"
+    ],
     "name:guj_x_preferred":[
         "\u0aaa\u0abe\u0a88\u0ab2\u0abf\u0aa8 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
     ],
@@ -83,6 +92,9 @@
     "name:khm_x_preferred":[
         "Kh\u00e9tt Pail\u012dn"
     ],
+    "name:khm_x_variant":[
+        "\u1781\u17c1\u178f\u17d2\u178f \u1794\u17c9\u17c3\u179b\u17b7\u1793"
+    ],
     "name:kor_x_preferred":[
         "\ud30c\uc77c\ub9b0"
     ],
@@ -98,8 +110,14 @@
     "name:msa_x_preferred":[
         "Pailin"
     ],
+    "name:nan_x_preferred":[
+        "Pailin S\u00e9ng"
+    ],
     "name:nld_x_preferred":[
         "Pailin"
+    ],
+    "name:nno_x_preferred":[
+        "Pailin-fylket"
     ],
     "name:nob_x_preferred":[
         "Pailin"
@@ -284,7 +302,7 @@
     "wof:lang_x_spoken":[
         "khm"
     ],
-    "wof:lastmodified":1561778081,
+    "wof:lastmodified":1563320448,
     "wof:name":"Krong Pailin",
     "wof:parent_id":85632359,
     "wof:placetype":"region",

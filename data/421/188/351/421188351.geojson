@@ -32,11 +32,13 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Sr\u014fk Khs\u0103ch K\u00e2ndal"
+    ],
     "name:eng_x_preferred":[
         "Khsach Kandal"
     ],
     "name:eng_x_variant":[
-        "Khsach Kandal",
         "Khsach Kandal District"
     ],
     "name:fra_x_preferred":[
@@ -48,11 +50,17 @@
     "name:khm_x_preferred":[
         "\u179f\u17d2\u179a\u17bb\u1780\u1781\u17d2\u179f\u17b6\u1785\u17cb\u1780\u178e\u17d2\u178a\u17b6\u179b"
     ],
+    "name:spa_x_preferred":[
+        "Khsach Kandal"
+    ],
     "name:swe_x_preferred":[
         "Sr\u014fk Khs\u0103ch K\u00e2ndal"
     ],
     "name:vie_x_preferred":[
         "Khsach Kandal"
+    ],
+    "name:zho_x_preferred":[
+        "\u514b\u8428\u5e72\u4e39\u53bf"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -111,7 +119,7 @@
         }
     ],
     "wof:id":421188351,
-    "wof:lastmodified":1561778136,
+    "wof:lastmodified":1563321329,
     "wof:name":"Khsach Kandal",
     "wof:parent_id":85673051,
     "wof:placetype":"county",

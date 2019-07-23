@@ -35,7 +35,6 @@
         "Tram Kak"
     ],
     "name:eng_x_variant":[
-        "Tram Kak",
         "Tram Kak District"
     ],
     "name:fra_x_preferred":[
@@ -50,8 +49,14 @@
     "name:rus_x_preferred":[
         "\u0422\u0440\u0430\u043c \u041a\u0430\u043a"
     ],
+    "name:spa_x_preferred":[
+        "Tram Kak"
+    ],
     "name:vie_x_preferred":[
         "Tram Kak"
+    ],
+    "name:zho_x_preferred":[
+        "\u5360\u5361\u53bf"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -87,7 +92,7 @@
         }
     ],
     "wof:id":1108564877,
-    "wof:lastmodified":1561778118,
+    "wof:lastmodified":1563321083,
     "wof:name":"Tram Kak",
     "wof:parent_id":85673107,
     "wof:placetype":"county",

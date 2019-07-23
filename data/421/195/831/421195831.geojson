@@ -32,11 +32,13 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Cheung Prey"
+    ],
     "name:eng_x_preferred":[
         "Cheung Prey"
     ],
     "name:eng_x_variant":[
-        "Cheung Prey",
         "Cheung Prey District"
     ],
     "name:fra_x_preferred":[
@@ -45,10 +47,16 @@
     "name:ita_x_preferred":[
         "distretto di Cheung Prey"
     ],
+    "name:jpn_x_preferred":[
+        "\u30c1\u30a7\u30a2\u30f3\u30b0\u30fb\u30d7\u30ea\u30fc\u90e1"
+    ],
     "name:khm_x_preferred":[
         "\u179f\u17d2\u179a\u17bb\u1780\u1787\u17be\u1784\u1796\u17d2\u179a\u17c3"
     ],
     "name:pol_x_preferred":[
+        "Cheung Prey"
+    ],
+    "name:spa_x_preferred":[
         "Cheung Prey"
     ],
     "name:swe_x_preferred":[
@@ -119,7 +127,7 @@
         }
     ],
     "wof:id":421195831,
-    "wof:lastmodified":1561778134,
+    "wof:lastmodified":1563321317,
     "wof:name":"Cheung Prey",
     "wof:parent_id":85673041,
     "wof:placetype":"county",

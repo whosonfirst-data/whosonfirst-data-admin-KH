@@ -36,7 +36,6 @@
         "Ponhea Kraek"
     ],
     "name:eng_x_variant":[
-        "Ponhea Kraek",
         "Ponhea Kraek District"
     ],
     "name:fra_x_preferred":[
@@ -54,8 +53,14 @@
     "name:rus_x_preferred":[
         "\u041f\u043e\u043d\u044c\u043d\u044f\u043a\u0440\u0430\u0435\u043a"
     ],
+    "name:spa_x_preferred":[
+        "Ponhea Kraek"
+    ],
     "name:vie_x_preferred":[
         "Ponhea Kraek"
+    ],
+    "name:zho_x_preferred":[
+        "\u535a\u6d85\u514b\u5217\u53bf"
     ],
     "qs:gn_country":"KH",
     "qs:gn_fcode":"ADM2",
@@ -115,7 +120,7 @@
         }
     ],
     "wof:id":421183889,
-    "wof:lastmodified":1561778137,
+    "wof:lastmodified":1563321338,
     "wof:name":"Ponhea Kraek",
     "wof:parent_id":1108804319,
     "wof:placetype":"county",

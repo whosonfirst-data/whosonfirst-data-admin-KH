@@ -32,11 +32,13 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Rolea B'ier"
+    ],
     "name:eng_x_preferred":[
         "Rolea B'ier"
     ],
     "name:eng_x_variant":[
-        "Rolea B'ier",
         "Rolea B'ier District"
     ],
     "name:fra_x_preferred":[
@@ -47,6 +49,9 @@
     ],
     "name:khm_x_preferred":[
         "\u179f\u17d2\u179a\u17bb\u1780\u179a\u179b\u17b6\u1794\u17d2\u17a2\u17c0\u179a"
+    ],
+    "name:spa_x_preferred":[
+        "Rolea B'ier"
     ],
     "name:swe_x_preferred":[
         "Rolea B'ier"
@@ -113,7 +118,7 @@
         }
     ],
     "wof:id":421198923,
-    "wof:lastmodified":1561778136,
+    "wof:lastmodified":1563321332,
     "wof:name":"Rolea B'ier",
     "wof:parent_id":85673047,
     "wof:placetype":"county",

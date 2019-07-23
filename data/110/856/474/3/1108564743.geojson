@@ -31,21 +31,29 @@
     "mps:longitude":107.037781,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Sr\u014fk Ou Chum"
+    ],
     "name:eng_x_preferred":[
         "Ou Chum"
     ],
     "name:eng_x_variant":[
-        "Ou Chum",
         "Ou Chum District"
     ],
     "name:fra_x_preferred":[
         "Ou Chum"
+    ],
+    "name:ind_x_preferred":[
+        "Distrik Ou Chum"
     ],
     "name:ita_x_preferred":[
         "distretto di Ou Chum"
     ],
     "name:khm_x_preferred":[
         "\u179f\u17d2\u179a\u17bb\u1780\u17a2\u17bc\u179a\u1787\u17bb\u17c6"
+    ],
+    "name:spa_x_preferred":[
+        "Ou Chum"
     ],
     "name:swe_x_preferred":[
         "Sr\u014fk Ou Chum"
@@ -87,7 +95,7 @@
         }
     ],
     "wof:id":1108564743,
-    "wof:lastmodified":1561778118,
+    "wof:lastmodified":1563321086,
     "wof:name":"Ou Chum",
     "wof:parent_id":85673089,
     "wof:placetype":"county",

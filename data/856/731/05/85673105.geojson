@@ -37,6 +37,9 @@
     "name:bul_x_preferred":[
         "\u0421\u0432\u0430\u0439 \u0420\u0438\u0435\u043d\u0433"
     ],
+    "name:ceb_x_preferred":[
+        "Svay Rieng"
+    ],
     "name:dan_x_preferred":[
         "Svay Rieng Province"
     ],
@@ -61,6 +64,9 @@
     ],
     "name:fra_x_preferred":[
         "province de Svay Rieng"
+    ],
+    "name:fra_x_variant":[
+        "Svay Rieng"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0acd\u0ab5\u0aaf \u0ab0\u0ac0\u0a8f\u0a82\u0a97 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -100,6 +106,9 @@
     ],
     "name:msa_x_preferred":[
         "Wilayah Svay Rieng"
+    ],
+    "name:nan_x_preferred":[
+        "Svay Rieng S\u00e9ng"
     ],
     "name:nld_x_preferred":[
         "Svay Rieng"
@@ -288,7 +297,7 @@
     "wof:lang_x_spoken":[
         "khm"
     ],
-    "wof:lastmodified":1561778082,
+    "wof:lastmodified":1563320457,
     "wof:name":"Svay Rieng",
     "wof:parent_id":85632359,
     "wof:placetype":"region",

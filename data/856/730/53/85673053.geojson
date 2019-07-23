@@ -37,6 +37,9 @@
     "name:bul_x_preferred":[
         "\u041a\u0430\u043c\u043f\u043e\u043d\u0433 \u0421\u043f\u044a"
     ],
+    "name:ceb_x_preferred":[
+        "Kampong Speu"
+    ],
     "name:dan_x_preferred":[
         "Kampong Speu Province"
     ],
@@ -49,11 +52,23 @@
     "name:eng_x_preferred":[
         "Kampong Spoe"
     ],
+    "name:eng_x_variant":[
+        "Kampong Speu Province"
+    ],
+    "name:est_x_preferred":[
+        "K\u00e2mp\u00f3ng Speu provints"
+    ],
     "name:fin_x_preferred":[
         "K\u00e2mp\u00f3ng Sp\u0153"
     ],
     "name:fra_x_preferred":[
         "province de Kampong Spoe"
+    ],
+    "name:fra_x_variant":[
+        "Kampong Spoe"
+    ],
+    "name:frr_x_preferred":[
+        "Kampong Speu"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0ac7\u0aae\u0acd\u0aaa\u0acb\u0a82\u0a97 \u0ab8\u0acd\u0aaa\u0ac1 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -90,6 +105,9 @@
     ],
     "name:msa_x_preferred":[
         "Kampong Speu Province"
+    ],
+    "name:nan_x_preferred":[
+        "Kampong Speu S\u00e9ng"
     ],
     "name:nld_x_preferred":[
         "Kampong Spoe"
@@ -273,7 +291,7 @@
     "wof:lang_x_spoken":[
         "khm"
     ],
-    "wof:lastmodified":1561778080,
+    "wof:lastmodified":1563320447,
     "wof:name":"K\u00e2mp\u00f3ng Sp\u0153",
     "wof:parent_id":85632359,
     "wof:placetype":"region",

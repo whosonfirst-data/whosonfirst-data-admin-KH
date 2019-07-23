@@ -35,11 +35,13 @@
     "name:bul_x_preferred":[
         "\u0411\u0430\u0440\u0438\u0431\u043e\u0443\u0440"
     ],
+    "name:ceb_x_preferred":[
+        "Baribour"
+    ],
     "name:eng_x_preferred":[
         "Baribour"
     ],
     "name:eng_x_variant":[
-        "Baribour",
         "Baribour District"
     ],
     "name:fra_x_preferred":[
@@ -51,11 +53,17 @@
     "name:khm_x_preferred":[
         "\u179f\u17d2\u179a\u17bb\u1780\u1794\u179a\u17b7\u1794\u17bc\u178e\u17cc"
     ],
+    "name:spa_x_preferred":[
+        "Baribour"
+    ],
     "name:swe_x_preferred":[
         "Baribour"
     ],
     "name:vie_x_preferred":[
         "Baribour"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u91cc\u5b9d\u53bf"
     ],
     "qs:gn_country":"KH",
     "qs:gn_fcode":"ADM2",
@@ -116,7 +124,7 @@
         }
     ],
     "wof:id":421202235,
-    "wof:lastmodified":1561778135,
+    "wof:lastmodified":1563321322,
     "wof:name":"Baribour",
     "wof:parent_id":85673047,
     "wof:placetype":"county",

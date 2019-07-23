@@ -31,11 +31,17 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0643\u0627\u0645\u0628\u0648\u0646\u063a \u062a\u0634\u0646\u0627\u0646\u063a"
     ],
+    "name:ara_x_variant":[
+        "\u0645\u062d\u0627\u0641\u0637\u0629 \u0643\u0627\u0645\u0628\u0648\u0646\u063a \u062a\u0634\u0646\u0627\u0646\u063a"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09be\u09ae\u09cd\u09aa\u09be\u0982 \u099a\u09be\u0982 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
     "name:bul_x_preferred":[
         "\u041a\u0430\u043c\u043f\u043e\u043d\u0433 \u0427\u043d\u0430\u043d\u0433"
+    ],
+    "name:ceb_x_preferred":[
+        "Kampong Chhnang"
     ],
     "name:dan_x_preferred":[
         "Kampong Chhnang Province"
@@ -53,6 +59,9 @@
         "Kampong Chhnang Province",
         "K\u00e2mp\u00f3ng Chhn\u0103ng"
     ],
+    "name:est_x_preferred":[
+        "K\u00e2mp\u00f3ng Chhn\u0103ngi provints"
+    ],
     "name:fin_x_preferred":[
         "K\u00e2mp\u00f3ng Chhn\u0103ng"
     ],
@@ -60,7 +69,11 @@
         "Province de Kampong Chhnang"
     ],
     "name:fra_x_variant":[
-        "province de Kampong Chhnang"
+        "province de Kampong Chhnang",
+        "Kampong Chhnang"
+    ],
+    "name:frr_x_preferred":[
+        "Kampong Chhnang"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0a82\u0aae\u0acd\u0aaa\u0acb\u0aa8 \u0a9b\u0abe\u0a82\u0a97 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -70,6 +83,9 @@
     ],
     "name:ind_x_preferred":[
         "Provinsi Kampong Chhnang"
+    ],
+    "name:ind_x_variant":[
+        "Kampong Chhnang"
     ],
     "name:ita_x_preferred":[
         "Provincia di Kampong Chhnang"
@@ -97,6 +113,9 @@
     ],
     "name:msa_x_preferred":[
         "Kampong Chhnang Province"
+    ],
+    "name:nan_x_preferred":[
+        "Kampong Chhnang S\u00e9ng"
     ],
     "name:nld_x_preferred":[
         "Kampong Chhnang"
@@ -127,6 +146,9 @@
     ],
     "name:spa_x_preferred":[
         "Provincia de Kompung Chinang"
+    ],
+    "name:spa_x_variant":[
+        "Kompung Chinang"
     ],
     "name:swe_x_preferred":[
         "Kampong Chhnang"
@@ -284,7 +306,7 @@
     "wof:lang_x_spoken":[
         "khm"
     ],
-    "wof:lastmodified":1561778081,
+    "wof:lastmodified":1563320456,
     "wof:name":"K\u00e2mp\u00f3ng Chhnang",
     "wof:parent_id":85632359,
     "wof:placetype":"region",

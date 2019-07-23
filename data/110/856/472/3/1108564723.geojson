@@ -31,11 +31,13 @@
     "mps:longitude":107.077476,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Lumph\u0103t"
+    ],
     "name:eng_x_preferred":[
         "Lumphat"
     ],
     "name:eng_x_variant":[
-        "Lumphat",
         "Lumphat District"
     ],
     "name:est_x_preferred":[
@@ -46,6 +48,9 @@
     ],
     "name:fra_x_preferred":[
         "Lumphat"
+    ],
+    "name:ind_x_preferred":[
+        "Distrik Lumphat"
     ],
     "name:ita_x_preferred":[
         "distretto di Lumphat"
@@ -62,11 +67,17 @@
     "name:pol_x_preferred":[
         "Lumphat"
     ],
+    "name:spa_x_preferred":[
+        "Lumphat"
+    ],
     "name:swe_x_preferred":[
         "Lumph\u0103t"
     ],
     "name:vie_x_preferred":[
         "Lumphat"
+    ],
+    "name:zho_x_preferred":[
+        "\u9686\u53d1\u53bf"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -102,7 +113,7 @@
         }
     ],
     "wof:id":1108564723,
-    "wof:lastmodified":1561778118,
+    "wof:lastmodified":1563321081,
     "wof:name":"Lumphat",
     "wof:parent_id":85673089,
     "wof:placetype":"county",

@@ -31,12 +31,15 @@
     "mps:longitude":105.246175,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Sr\u014fk K\u00e2mp\u00f3ng L\u00e9av"
+    ],
     "name:eng_x_preferred":[
         "Kampong Leav"
     ],
     "name:eng_x_variant":[
         "Kampong Leav",
-        "Kampong Leav"
+        "Kampong Leav District"
     ],
     "name:fra_x_preferred":[
         "Kampong Leav"
@@ -46,6 +49,9 @@
     ],
     "name:khm_x_preferred":[
         "\u179f\u17d2\u179a\u17bb\u1780\u1780\u17c6\u1796\u1784\u17cb\u179b\u17b6\u179c"
+    ],
+    "name:spa_x_preferred":[
+        "Kampong Leav"
     ],
     "name:swe_x_preferred":[
         "Sr\u014fk K\u00e2mp\u00f3ng L\u00e9av"
@@ -77,7 +83,7 @@
         }
     ],
     "wof:id":1108564791,
-    "wof:lastmodified":1561778116,
+    "wof:lastmodified":1563321070,
     "wof:name":"Pur Rieng",
     "wof:parent_id":85673067,
     "wof:placetype":"county",

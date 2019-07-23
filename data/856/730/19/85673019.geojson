@@ -40,6 +40,9 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de Koh Kong"
     ],
+    "name:ceb_x_preferred":[
+        "Koh Kong"
+    ],
     "name:dan_x_preferred":[
         "Koh Kong Province"
     ],
@@ -67,7 +70,11 @@
         "Province de Kaoh Kong"
     ],
     "name:fra_x_variant":[
-        "province de Kaoh Kong"
+        "province de Kaoh Kong",
+        "Kaoh Kong"
+    ],
+    "name:frr_x_preferred":[
+        "Koh Kong"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0acb\u0ab9 \u0a95\u0acb\u0a82\u0a97 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -107,6 +114,9 @@
     ],
     "name:msa_x_preferred":[
         "Koh Kong Province"
+    ],
+    "name:nan_x_preferred":[
+        "Koh Kong S\u00e9ng"
     ],
     "name:nld_x_preferred":[
         "Koh Kong"
@@ -291,7 +301,7 @@
     "wof:lang_x_spoken":[
         "khm"
     ],
-    "wof:lastmodified":1561778080,
+    "wof:lastmodified":1563320446,
     "wof:name":"Ka\u00f4h Kong",
     "wof:parent_id":85632359,
     "wof:placetype":"region",

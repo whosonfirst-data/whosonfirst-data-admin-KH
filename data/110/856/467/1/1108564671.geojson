@@ -35,7 +35,6 @@
         "Kampong Rou"
     ],
     "name:eng_x_variant":[
-        "Kampong Rou",
         "Kampong Rou District"
     ],
     "name:fra_x_preferred":[
@@ -47,8 +46,14 @@
     "name:khm_x_preferred":[
         "\u179f\u17d2\u179a\u17bb\u1780\u1780\u17c6\u1796\u1784\u17cb\u179a\u17c4\u1791\u17b7\u17cd"
     ],
+    "name:spa_x_preferred":[
+        "Kompung Rou"
+    ],
     "name:vie_x_preferred":[
         "Kampong Rou"
+    ],
+    "name:zho_x_preferred":[
+        "\u78c5\u7f57\u53bf"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -84,7 +89,7 @@
         }
     ],
     "wof:id":1108564671,
-    "wof:lastmodified":1561778119,
+    "wof:lastmodified":1563321089,
     "wof:name":"Kampong Rou",
     "wof:parent_id":85673105,
     "wof:placetype":"county",

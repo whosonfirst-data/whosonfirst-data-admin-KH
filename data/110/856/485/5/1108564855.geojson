@@ -55,6 +55,9 @@
     "name:por_x_preferred":[
         "Suong"
     ],
+    "name:tha_x_preferred":[
+        "\u0e2a\u0e27\u0e07"
+    ],
     "name:vie_x_preferred":[
         "Suong"
     ],
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":1108564855,
-    "wof:lastmodified":1561778115,
+    "wof:lastmodified":1563321063,
     "wof:name":"Suong",
     "wof:parent_id":-1,
     "wof:placetype":"county",

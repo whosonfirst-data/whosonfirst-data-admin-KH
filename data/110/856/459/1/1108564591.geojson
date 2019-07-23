@@ -35,7 +35,6 @@
         "Aoral"
     ],
     "name:eng_x_variant":[
-        "Aoral",
         "Aoral District"
     ],
     "name:fra_x_preferred":[
@@ -50,8 +49,14 @@
     "name:khm_x_preferred":[
         "\u179f\u17d2\u179a\u17bb\u1780\u17b1\u179a\u17c9\u17b6\u179b\u17cb"
     ],
+    "name:spa_x_preferred":[
+        "Aoral"
+    ],
     "name:vie_x_preferred":[
         "Aoral"
+    ],
+    "name:zho_x_preferred":[
+        "\u5965\u62c9\u53bf"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -87,7 +92,7 @@
         }
     ],
     "wof:id":1108564591,
-    "wof:lastmodified":1561778121,
+    "wof:lastmodified":1563321097,
     "wof:name":"Aoral",
     "wof:parent_id":85673053,
     "wof:placetype":"county",

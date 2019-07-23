@@ -35,7 +35,6 @@
         "Banteay Srei"
     ],
     "name:eng_x_variant":[
-        "Banteay Srei",
         "Banteay Srei District"
     ],
     "name:fra_x_preferred":[
@@ -47,8 +46,14 @@
     "name:khm_x_preferred":[
         "\u179f\u17d2\u179a\u17bb\u1780\u1794\u1793\u17d2\u1791\u17b6\u1799\u179f\u17d2\u179a\u17b8"
     ],
+    "name:spa_x_preferred":[
+        "Banteay Srei"
+    ],
     "name:vie_x_preferred":[
         "Banteay Srei"
+    ],
+    "name:zho_x_preferred":[
+        "\u73ed\u8fed\u65af\u96f7\u53bf"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -84,7 +89,7 @@
         }
     ],
     "wof:id":1108564603,
-    "wof:lastmodified":1561778119,
+    "wof:lastmodified":1563321091,
     "wof:name":"Banteay Srei",
     "wof:parent_id":85673029,
     "wof:placetype":"county",

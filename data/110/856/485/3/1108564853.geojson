@@ -35,7 +35,6 @@
         "Stueng Trang"
     ],
     "name:eng_x_variant":[
-        "Stueng Trang",
         "Stueng Trang District"
     ],
     "name:fra_x_preferred":[
@@ -50,8 +49,14 @@
     "name:rus_x_preferred":[
         "\u0421\u0442\u044b\u043d\u0433\u0442\u0440\u0430\u043d\u0433"
     ],
+    "name:spa_x_preferred":[
+        "Stueng Trang"
+    ],
     "name:vie_x_preferred":[
         "Stueng Trang"
+    ],
+    "name:zho_x_preferred":[
+        "\u65af\u767b\u5fb7\u6717\u53bf"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -87,7 +92,7 @@
         }
     ],
     "wof:id":1108564853,
-    "wof:lastmodified":1561778115,
+    "wof:lastmodified":1563321063,
     "wof:name":"Stueng Trang",
     "wof:parent_id":85673041,
     "wof:placetype":"county",

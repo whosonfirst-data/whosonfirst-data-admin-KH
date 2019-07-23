@@ -32,11 +32,13 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Thma Puok"
+    ],
     "name:eng_x_preferred":[
         "Thma Puok"
     ],
     "name:eng_x_variant":[
-        "Thma Puok",
         "Thma Puok District"
     ],
     "name:fra_x_preferred":[
@@ -57,11 +59,17 @@
     "name:ron_x_preferred":[
         "Thma Puok"
     ],
+    "name:spa_x_preferred":[
+        "Thma Puok"
+    ],
     "name:swe_x_preferred":[
         "Thma Puok"
     ],
     "name:vie_x_preferred":[
         "Thma Puok"
+    ],
+    "name:zho_x_preferred":[
+        "\u7279\u83ab\u6ce2\u53bf"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -120,7 +128,7 @@
         }
     ],
     "wof:id":421203293,
-    "wof:lastmodified":1561778135,
+    "wof:lastmodified":1563321320,
     "wof:name":"Thma Puok",
     "wof:parent_id":85673011,
     "wof:placetype":"county",
