@@ -35,6 +35,9 @@
         "Phum\u012d B\u00e2t Tr\u00e2ng",
         "B\u00e1t Tr\u00e1ng"
     ],
+    "name:vie_x_preferred":[
+        "B\u00e1t Tr\u00e0ng"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1226410153,
-    "wof:lastmodified":1537653963,
+    "wof:lastmodified":1564179928,
     "wof:name":"Bat Trang",
     "wof:parent_id":421183973,
     "wof:placetype":"locality",

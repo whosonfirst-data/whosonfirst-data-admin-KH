@@ -28,6 +28,12 @@
     "name:khm_x_preferred":[
         "Roka"
     ],
+    "name:khm_x_variant":[
+        "\u1783\u17bb\u17c6\u179a\u1780\u17b6"
+    ],
+    "name:spa_x_preferred":[
+        "Roka"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1209776761,
-    "wof:lastmodified":1537654003,
+    "wof:lastmodified":1564179049,
     "wof:name":"Roka",
     "wof:parent_id":421202239,
     "wof:placetype":"locality",

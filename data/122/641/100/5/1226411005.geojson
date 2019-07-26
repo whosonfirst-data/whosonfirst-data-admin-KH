@@ -25,7 +25,16 @@
     "iso:country":"KH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Vay"
+    ],
+    "name:deu_x_preferred":[
+        "Vay"
+    ],
     "name:khm_x_preferred":[
+        "Vay"
+    ],
+    "name:swe_x_preferred":[
         "Vay"
     ],
     "src:geom":"geonames",
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1226411005,
-    "wof:lastmodified":1537654060,
+    "wof:lastmodified":1564179930,
     "wof:name":"Vay",
     "wof:parent_id":421194641,
     "wof:placetype":"locality",

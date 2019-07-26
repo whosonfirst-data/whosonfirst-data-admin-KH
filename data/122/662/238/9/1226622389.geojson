@@ -30,7 +30,11 @@
     ],
     "name:khm_x_variant":[
         "Sdau",
-        "\u1797\u17bc\u1798\u17b7 \u1794\u17b6\u17c6\u1784\u1781\u17d2\u179b\u17bd\u1793"
+        "\u1797\u17bc\u1798\u17b7 \u1794\u17b6\u17c6\u1784\u1781\u17d2\u179b\u17bd\u1793",
+        "\u1783\u17bb\u17c6\u179f\u17d2\u178f\u17c5"
+    ],
+    "name:spa_x_preferred":[
+        "Sdau"
     ],
     "name:und_x_variant":[
         "Ban Khmuon",
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1226622389,
-    "wof:lastmodified":1537653900,
+    "wof:lastmodified":1564179955,
     "wof:name":"Sdau",
     "wof:parent_id":1108564831,
     "wof:placetype":"locality",

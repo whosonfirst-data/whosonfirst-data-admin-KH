@@ -28,6 +28,15 @@
     "name:khm_x_preferred":[
         "Kouk Romiet"
     ],
+    "name:khm_x_variant":[
+        "\u1783\u17bb\u17c6\u1782\u17c4\u1780\u179a\u1798\u17c0\u178f"
+    ],
+    "name:pol_x_preferred":[
+        "Kouk Romiet"
+    ],
+    "name:spa_x_preferred":[
+        "Kouk Romiet"
+    ],
     "name:und_x_variant":[
         "Kouk Romiett",
         "Khok Ramiat",
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":1293644577,
-    "wof:lastmodified":1537653709,
+    "wof:lastmodified":1564178700,
     "wof:name":"Kouk Romiet",
     "wof:parent_id":421203293,
     "wof:placetype":"locality",

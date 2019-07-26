@@ -28,6 +28,12 @@
     "name:khm_x_preferred":[
         "Chrey"
     ],
+    "name:khm_x_variant":[
+        "\u1783\u17bb\u17c6\u1787\u17d2\u179a\u17c3"
+    ],
+    "name:spa_x_preferred":[
+        "Chrey"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1276513801,
-    "wof:lastmodified":1537654120,
+    "wof:lastmodified":1564178888,
     "wof:name":"Chrey",
     "wof:parent_id":1108564823,
     "wof:placetype":"locality",

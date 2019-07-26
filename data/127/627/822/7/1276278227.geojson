@@ -25,6 +25,9 @@
     "iso:country":"KH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u30d7\u30e9\u30b5\u30c3\u30c8\u30fb\u30d0\u30a4"
+    ],
     "name:khm_x_preferred":[
         "Prasat Bei"
     ],
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1276278227,
-    "wof:lastmodified":1537654004,
+    "wof:lastmodified":1564178878,
     "wof:name":"Prasat Bei",
     "wof:parent_id":1108564599,
     "wof:placetype":"locality",

@@ -25,14 +25,32 @@
     "iso:country":"KH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Roluos"
+    ],
+    "name:ces_x_preferred":[
+        "Chr\u00e1my Roluos"
+    ],
+    "name:deu_x_preferred":[
+        "Roluos-Gruppe"
+    ],
+    "name:ita_x_preferred":[
+        "Roluos"
+    ],
     "name:khm_x_preferred":[
         "Phum R\u00f4lu\u014fs Ch\u0103s"
     ],
     "name:khm_x_variant":[
         "\u1797\u17bc\u1798\u17b7 \u179a\u179b\u17bd\u179f\u1785\u17b6\u179f\u17cb"
     ],
+    "name:rus_x_preferred":[
+        "\u0420\u043e\u043b\u0443\u043e\u0445"
+    ],
     "name:und_x_variant":[
         "Phum\u012d R\u00f4lu\u014fs Ch\u0103s"
+    ],
+    "name:zho_x_preferred":[
+        "\u7f57\u6d1b\u58eb\u9057\u8ff9\u7fa4"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +76,7 @@
         }
     ],
     "wof:id":1276827063,
-    "wof:lastmodified":1537653531,
+    "wof:lastmodified":1564178942,
     "wof:name":"Roluos",
     "wof:parent_id":421171409,
     "wof:placetype":"locality",

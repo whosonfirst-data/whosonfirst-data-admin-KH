@@ -31,6 +31,12 @@
     "name:khm_x_variant":[
         "\u1796\u17d2\u179a\u17c7\u1793\u17c1\u178f\u17d2\u179a\u1796\u17d2\u179a\u17c7"
     ],
+    "name:ron_x_preferred":[
+        "Preah Net Preah"
+    ],
+    "name:spa_x_preferred":[
+        "Preah Netr Preah"
+    ],
     "name:und_x_variant":[
         "Pranet Preas",
         "Pre\u0103h N\u00e9t Pre\u0103h",
@@ -60,7 +66,7 @@
         }
     ],
     "wof:id":1310656103,
-    "wof:lastmodified":1537653335,
+    "wof:lastmodified":1564179309,
     "wof:name":"Preah Netr Preah",
     "wof:parent_id":421183973,
     "wof:placetype":"locality",

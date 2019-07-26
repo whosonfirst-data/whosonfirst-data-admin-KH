@@ -30,7 +30,11 @@
     ],
     "name:khm_x_variant":[
         "\u1797\u17bc\u1798\u17b7 \u1796\u17d2\u179a\u17c2\u1780\u17a0\u17d2\u179b\u17bd\u1784",
-        "Phum Pr\u00eak Lu\u014fng"
+        "Phum Pr\u00eak Lu\u014fng",
+        "\u1783\u17bb\u17c6\u1796\u17d2\u179a\u17c2\u1780\u17a0\u17d2\u179b\u17bd\u1784"
+    ],
+    "name:spa_x_preferred":[
+        "Preaek Luong"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1277123815,
-    "wof:lastmodified":1537653983,
+    "wof:lastmodified":1564178926,
     "wof:name":"Preaek Luong",
     "wof:parent_id":421172391,
     "wof:placetype":"locality",

@@ -28,6 +28,12 @@
     "name:khm_x_preferred":[
         "\u178f\u17b6\u179f\u17b6\u1789"
     ],
+    "name:khm_x_variant":[
+        "\u1783\u17bb\u17c6\u178f\u17b6\u179f\u17b6\u1789"
+    ],
+    "name:spa_x_preferred":[
+        "Ta Sanh"
+    ],
     "name:und_x_variant":[
         "Phum Tasanh",
         "Tasan",
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":1310255465,
-    "wof:lastmodified":1537653324,
+    "wof:lastmodified":1564179303,
     "wof:name":"Ta Sanh",
     "wof:parent_id":421196403,
     "wof:placetype":"locality",

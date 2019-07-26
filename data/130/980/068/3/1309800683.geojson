@@ -28,6 +28,12 @@
     "name:khm_x_preferred":[
         "Prey Svay"
     ],
+    "name:khm_x_variant":[
+        "\u1783\u17bb\u17c6\u1796\u17d2\u179a\u17c3\u179f\u17d2\u179c\u17b6\u1799"
+    ],
+    "name:spa_x_preferred":[
+        "Prey Svay"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1309800683,
-    "wof:lastmodified":1537654026,
+    "wof:lastmodified":1564179503,
     "wof:name":"Prey Svay",
     "wof:parent_id":1108564769,
     "wof:placetype":"locality",

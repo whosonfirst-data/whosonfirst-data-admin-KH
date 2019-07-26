@@ -30,7 +30,8 @@
     ],
     "name:khm_x_variant":[
         "\u1797\u17bc\u1798\u17b7 \u1790\u17d2\u1798\u17b8 \u1798\u17bd\u1799",
-        "Phum Thmei Mu\u014fy"
+        "Phum Thmei Mu\u014fy",
+        "\u1783\u17bb\u17c6\u1794\u1793\u17d2\u179f\u17b6\u1799\u178f\u17d2\u179a\u17c2\u1784"
     ],
     "name:und_x_variant":[
         "Phum\u012d Thmei (1)"
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1292951593,
-    "wof:lastmodified":1537653407,
+    "wof:lastmodified":1564178703,
     "wof:name":"Bansay Traeng",
     "wof:parent_id":1108564871,
     "wof:placetype":"locality",

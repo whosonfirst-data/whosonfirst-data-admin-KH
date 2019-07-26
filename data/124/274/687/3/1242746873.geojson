@@ -28,6 +28,9 @@
     "name:khm_x_preferred":[
         "Lu"
     ],
+    "name:rus_x_preferred":[
+        "\u041b\u044e\u0439"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1242746873,
-    "wof:lastmodified":1537654025,
+    "wof:lastmodified":1564179555,
     "wof:name":"Lu",
     "wof:parent_id":1108564809,
     "wof:placetype":"locality",

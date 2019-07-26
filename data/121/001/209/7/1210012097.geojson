@@ -28,6 +28,15 @@
     "name:khm_x_preferred":[
         "Ta Baen"
     ],
+    "name:khm_x_variant":[
+        "\u1783\u17bb\u17c6\u178f\u17b6\u1794\u17c2\u1793"
+    ],
+    "name:pol_x_preferred":[
+        "Ta Baen"
+    ],
+    "name:spa_x_preferred":[
+        "Ta Baen"
+    ],
     "name:und_x_variant":[
         "Phum\u012d Ta B\u00ean"
     ],
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1210012097,
-    "wof:lastmodified":1537653447,
+    "wof:lastmodified":1564179161,
     "wof:name":"Ta Baen",
     "wof:parent_id":421183117,
     "wof:placetype":"locality",

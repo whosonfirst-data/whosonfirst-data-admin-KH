@@ -29,6 +29,10 @@
         "\u1796\u17d2\u179a\u17c2\u1780\u179b\u17bd\u1784"
     ],
     "name:khm_x_variant":[
+        "Preaek Luong",
+        "\u1783\u17bb\u17c6\u1796\u17d2\u179a\u17c2\u1780\u17a0\u17d2\u179b\u17bd\u1784"
+    ],
+    "name:spa_x_preferred":[
         "Preaek Luong"
     ],
     "name:und_x_variant":[
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1310000595,
-    "wof:lastmodified":1537653947,
+    "wof:lastmodified":1564179322,
     "wof:name":"Preaek Luong",
     "wof:parent_id":421188351,
     "wof:placetype":"locality",

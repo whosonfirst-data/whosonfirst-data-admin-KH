@@ -30,7 +30,11 @@
     ],
     "name:khm_x_variant":[
         "\u1797\u17bc\u1798\u17b7 \u1796\u17d2\u179a\u17c7\u1796\u1793\u17d2\u179b\u17b6",
-        "Phum Pre\u0103h P\u00f4nl\u00e9a"
+        "Phum Pre\u0103h P\u00f4nl\u00e9a",
+        "\u1783\u17bb\u17c6\u1796\u17d2\u179a\u17c7\u1796\u1793\u17d2\u179b\u17b6"
+    ],
+    "name:pol_x_preferred":[
+        "Preah Ponlea"
     ],
     "name:und_x_variant":[
         "Phum Preas Banlea",
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1276174823,
-    "wof:lastmodified":1537653595,
+    "wof:lastmodified":1564178856,
     "wof:name":"Preah Ponlea",
     "wof:parent_id":1108564871,
     "wof:placetype":"locality",

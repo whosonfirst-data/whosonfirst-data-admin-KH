@@ -30,7 +30,11 @@
     ],
     "name:khm_x_variant":[
         "\u1797\u17bc\u1798\u17b7 \u179f\u17d2\u1793\u17b6\u1799\u179b\u17d2\u17a2",
-        "Phum Snay L\u00f4\u00e2"
+        "Phum Snay L\u00f4\u00e2",
+        "\u1783\u17bb\u17c6\u178f\u17b6\u1794\u17c9\u17bb\u1793"
+    ],
+    "name:spa_x_preferred":[
+        "Ta Pon"
     ],
     "name:und_x_variant":[
         "Phum\u012d Snay L\u00f4\u00e2",
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1259540939,
-    "wof:lastmodified":1537653488,
+    "wof:lastmodified":1564179710,
     "wof:name":"Ta Pon",
     "wof:parent_id":421183973,
     "wof:placetype":"locality",

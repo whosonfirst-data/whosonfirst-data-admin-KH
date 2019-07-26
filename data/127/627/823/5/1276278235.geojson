@@ -28,6 +28,9 @@
     "name:khm_x_preferred":[
         "Aekakpheap"
     ],
+    "name:spa_x_preferred":[
+        "Aekakpheap"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1276278235,
-    "wof:lastmodified":1537654018,
+    "wof:lastmodified":1564178878,
     "wof:name":"Aekakpheap",
     "wof:parent_id":1108564589,
     "wof:placetype":"locality",

@@ -28,6 +28,15 @@
     "name:khm_x_preferred":[
         "Sla Kram"
     ],
+    "name:khm_x_variant":[
+        "\u1783\u17bb\u17c6\u179f\u17d2\u179b\u1780\u17d2\u179a\u17b6\u1798"
+    ],
+    "name:pol_x_preferred":[
+        "Sla Kram"
+    ],
+    "name:spa_x_preferred":[
+        "Sla Kram"
+    ],
     "name:und_x_variant":[
         "Phum Sl\u00e2r Kr\u0103m",
         "Phum\u012d Sala Kra\u00f4m"
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1260137611,
-    "wof:lastmodified":1537653521,
+    "wof:lastmodified":1564179223,
     "wof:name":"Sla Kram",
     "wof:parent_id":421181961,
     "wof:placetype":"locality",

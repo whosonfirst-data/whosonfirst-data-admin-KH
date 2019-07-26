@@ -30,7 +30,14 @@
     ],
     "name:khm_x_variant":[
         "\u1797\u17bc\u1798\u17b7 \u178f\u17b6\u1795\u17bc",
-        "Phum Ta Pho"
+        "Phum Ta Pho",
+        "\u1783\u17bb\u17c6\u178f\u17b6\u1795\u17bc"
+    ],
+    "name:pol_x_preferred":[
+        "Ta Phou"
+    ],
+    "name:spa_x_preferred":[
+        "Ta Phou"
     ],
     "name:und_x_variant":[
         "Khum Taphau",
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":1242645015,
-    "wof:lastmodified":1537653430,
+    "wof:lastmodified":1564179671,
     "wof:name":"Ta Phou",
     "wof:parent_id":421181961,
     "wof:placetype":"locality",

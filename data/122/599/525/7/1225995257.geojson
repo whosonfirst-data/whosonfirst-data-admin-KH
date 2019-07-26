@@ -30,7 +30,14 @@
     ],
     "name:khm_x_variant":[
         "\u1797\u17bc\u1798\u17b7 \u1797\u17d2\u1793\u17c6\u179f\u17c6\u1796\u17c5",
-        "Phum Phnum S\u00e2mp\u014fu"
+        "Phum Phnum S\u00e2mp\u014fu",
+        "\u1783\u17bb\u17c6\u1797\u17d2\u1793\u17c6\u179f\u17c6\u1796\u17c5"
+    ],
+    "name:pol_x_preferred":[
+        "Phnum Sampov"
+    ],
+    "name:spa_x_preferred":[
+        "Phnum Sampov"
     ],
     "name:und_x_variant":[
         "Phum Sampou",
@@ -62,7 +69,7 @@
         }
     ],
     "wof:id":1225995257,
-    "wof:lastmodified":1537653627,
+    "wof:lastmodified":1564179896,
     "wof:name":"Phnum Sampov",
     "wof:parent_id":1108564597,
     "wof:placetype":"locality",

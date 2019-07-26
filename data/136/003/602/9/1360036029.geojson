@@ -28,6 +28,15 @@
     "name:khm_x_preferred":[
         "Koub"
     ],
+    "name:khm_x_variant":[
+        "\u1783\u17bb\u17c6\u1780\u17bc\u1794"
+    ],
+    "name:pol_x_preferred":[
+        "Koub"
+    ],
+    "name:spa_x_preferred":[
+        "Koub"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1360036029,
-    "wof:lastmodified":1537653999,
+    "wof:lastmodified":1564179445,
     "wof:name":"Koub",
     "wof:parent_id":1108564615,
     "wof:placetype":"locality",

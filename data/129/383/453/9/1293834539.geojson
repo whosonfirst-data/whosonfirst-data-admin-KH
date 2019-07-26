@@ -30,7 +30,11 @@
     ],
     "name:khm_x_variant":[
         "\u1797\u17bc\u1798\u17b7 \u179a\u1794\u179f\u17cb\u1798\u1784\u17d2\u1782\u179b",
-        "Phum R\u00f4ba\u00f4h M\u016dngk\u016dl"
+        "Phum R\u00f4ba\u00f4h M\u016dngk\u016dl",
+        "\u1783\u17bb\u17c6\u179a\u1794\u179f\u17cb\u1798\u1784\u17d2\u1782\u179b"
+    ],
+    "name:spa_x_preferred":[
+        "Robas Mongkol"
     ],
     "name:und_x_variant":[
         "P\u2019um Robos Mokol",
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1293834539,
-    "wof:lastmodified":1537653542,
+    "wof:lastmodified":1564178712,
     "wof:name":"Robas Mongkol",
     "wof:parent_id":1108564739,
     "wof:placetype":"locality",

@@ -30,7 +30,11 @@
     ],
     "name:khm_x_variant":[
         "Phum O Khch\u00e9ay",
-        "\u1797\u17bc\u1798\u17b7 \u17a2\u17bc\u1781\u17d2\u1787\u17b6\u1799"
+        "\u1797\u17bc\u1798\u17b7 \u17a2\u17bc\u1781\u17d2\u1787\u17b6\u1799",
+        "\u1783\u17bb\u17c6\u179c\u178f\u17d2\u178f\u178f\u17b6\u1798\u17b7\u1798"
+    ],
+    "name:spa_x_preferred":[
+        "Voat Ta Muem"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1326691227,
-    "wof:lastmodified":1537653986,
+    "wof:lastmodified":1564178360,
     "wof:name":"Voat Ta Muem",
     "wof:parent_id":421202239,
     "wof:placetype":"locality",

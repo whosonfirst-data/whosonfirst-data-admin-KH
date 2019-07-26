@@ -28,6 +28,12 @@
     "name:khm_x_preferred":[
         "Anlong Vil"
     ],
+    "name:khm_x_variant":[
+        "\u1783\u17bb\u17c6\u17a2\u1793\u17d2\u179b\u1784\u17cb\u179c\u17b7\u179b"
+    ],
+    "name:spa_x_preferred":[
+        "Anlong Vil"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1327391359,
-    "wof:lastmodified":1537653992,
+    "wof:lastmodified":1564178325,
     "wof:name":"Anlong Vil",
     "wof:parent_id":421183973,
     "wof:placetype":"locality",

@@ -28,6 +28,18 @@
     "name:khm_x_preferred":[
         "Chamnaom"
     ],
+    "name:khm_x_variant":[
+        "\u1783\u17bb\u17c6\u1785\u17c6\u178e\u17c4\u1798"
+    ],
+    "name:pol_x_preferred":[
+        "Chamnaom"
+    ],
+    "name:por_x_preferred":[
+        "Chamnaom"
+    ],
+    "name:spa_x_preferred":[
+        "Chamnaom"
+    ],
     "name:und_x_variant":[
         "Chamnom",
         "Phum\u012d Ch\u00e2mna\u00f4m"
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1209482981,
-    "wof:lastmodified":1537653865,
+    "wof:lastmodified":1564179045,
     "wof:name":"Chamnaom",
     "wof:parent_id":85632359,
     "wof:placetype":"locality",

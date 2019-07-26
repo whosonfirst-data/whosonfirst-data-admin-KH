@@ -25,12 +25,67 @@
     "iso:country":"KH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:afr_x_preferred":[
+        "Banteay Srei"
+    ],
+    "name:bel_x_preferred":[
+        "\u0411\u0430\u043d\u0442\u044d\u0430\u0439\u0441\u0440\u044d\u0439"
+    ],
+    "name:ceb_x_preferred":[
+        "Banteay Srei"
+    ],
+    "name:deu_x_preferred":[
+        "Banteay Srei"
+    ],
+    "name:eus_x_preferred":[
+        "Banteay Srei"
+    ],
+    "name:fra_x_preferred":[
+        "Banteay Srei"
+    ],
+    "name:hrv_x_preferred":[
+        "Banteay Srei"
+    ],
+    "name:hun_x_preferred":[
+        "Bantejszrei"
+    ],
+    "name:ind_x_preferred":[
+        "Banteay Srei"
+    ],
+    "name:ita_x_preferred":[
+        "Banteay Srei"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30f3\u30c6\u30a2\u30a4\u30fb\u30b9\u30ec\u30a4"
+    ],
     "name:khm_x_preferred":[
         "Banteay Srei"
     ],
     "name:khm_x_variant":[
         "\u1797\u17bc\u1798\u17b7 \u1794\u1793\u17d2\u1791\u17b6\u1799\u179f\u17d2\u179a\u17b8",
-        "Phum B\u00e2nt\u00e9ay Srei"
+        "Phum B\u00e2nt\u00e9ay Srei",
+        "\u1794\u17d2\u179a\u17b6\u179f\u17b6\u1791\u1794\u1793\u17d2\u1791\u17b6\u1799\u179f\u17d2\u179a\u17b8"
+    ],
+    "name:nor_x_preferred":[
+        "Banteay Srei"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043d\u0442\u0435\u0430\u0439\u0441\u0440\u0435\u0439"
+    ],
+    "name:spa_x_preferred":[
+        "Banteay Srei"
+    ],
+    "name:swe_x_preferred":[
+        "Banteay Srei"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe\u0baf\u0bcd \u0b9a\u0bbf\u0bb0\u0bc7"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e1b\u0e23\u0e32\u0e2a\u0e32\u0e17\u0e1a\u0e31\u0e19\u0e17\u0e32\u0e22\u0e28\u0e23\u0e35"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u043d\u0442\u0435\u0430\u0439\u0441\u0440\u0435\u0439"
     ],
     "name:und_x_variant":[
         "Banteai Srai",
@@ -38,6 +93,12 @@
         "Bontay Srey",
         "Banteai Srei",
         "Phum\u012d B\u00e2nt\u00e9ay Srei"
+    ],
+    "name:vie_x_preferred":[
+        "Banteay Srei"
+    ],
+    "name:zho_x_preferred":[
+        "\u5973\u738b\u5bab"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +123,7 @@
         }
     ],
     "wof:id":1260237253,
-    "wof:lastmodified":1537653895,
+    "wof:lastmodified":1564179216,
     "wof:name":"Banteay Srei",
     "wof:parent_id":1108564603,
     "wof:placetype":"locality",

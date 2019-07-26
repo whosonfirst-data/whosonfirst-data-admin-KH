@@ -32,6 +32,9 @@
         "\u1797\u17bc\u1798\u17b7 \u179b\u17d2\u179c\u17b6",
         "Phum L\u00f4v\u00e9a"
     ],
+    "name:spa_x_preferred":[
+        "Lvea"
+    ],
     "name:und_x_variant":[
         "Phum Lovea",
         "Phum\u012d Lv\u00e9a (1)"
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1343815921,
-    "wof:lastmodified":1537653671,
+    "wof:lastmodified":1564178650,
     "wof:name":"Lvea",
     "wof:parent_id":421185505,
     "wof:placetype":"locality",

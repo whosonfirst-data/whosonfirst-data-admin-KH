@@ -28,6 +28,15 @@
     "name:khm_x_preferred":[
         "Souphi"
     ],
+    "name:khm_x_variant":[
+        "\u1783\u17bb\u17c6\u179f\u17bc\u1797\u17b8"
+    ],
+    "name:pol_x_preferred":[
+        "Souphi"
+    ],
+    "name:spa_x_preferred":[
+        "Souphi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1276201973,
-    "wof:lastmodified":1537654050,
+    "wof:lastmodified":1564178880,
     "wof:name":"Souphi",
     "wof:parent_id":1108564797,
     "wof:placetype":"locality",

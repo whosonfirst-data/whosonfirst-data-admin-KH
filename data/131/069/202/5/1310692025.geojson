@@ -25,6 +25,12 @@
     "iso:country":"KH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0631\u0647\u200c\u0622\u0645\u0628\u0644"
+    ],
+    "name:fra_x_preferred":[
+        "Sre Ambel"
+    ],
     "name:khm_x_preferred":[
         "Srae Ambel"
     ],
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":1310692025,
-    "wof:lastmodified":1537653329,
+    "wof:lastmodified":1564179396,
     "wof:name":"Srae Ambel",
     "wof:parent_id":421183117,
     "wof:placetype":"locality",

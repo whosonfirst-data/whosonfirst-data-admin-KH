@@ -29,7 +29,11 @@
         "Moung"
     ],
     "name:khm_x_variant":[
-        "Phum Mo\u016dng"
+        "Phum Mo\u016dng",
+        "\u1783\u17bb\u17c6\u1798\u17c4\u1784"
+    ],
+    "name:spa_x_preferred":[
+        "Moung"
     ],
     "name:und_x_variant":[
         "Mong",
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1276182431,
-    "wof:lastmodified":1537653663,
+    "wof:lastmodified":1564178875,
     "wof:name":"Moung",
     "wof:parent_id":1108564847,
     "wof:placetype":"locality",

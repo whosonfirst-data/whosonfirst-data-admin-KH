@@ -28,6 +28,15 @@
     "name:khm_x_preferred":[
         "Rohat Tuek"
     ],
+    "name:khm_x_variant":[
+        "\u1783\u17bb\u17c6\u179a\u17a0\u17b6\u178f\u17cb\u1791\u17b9\u1780"
+    ],
+    "name:pol_x_preferred":[
+        "Rohat Tuek"
+    ],
+    "name:spa_x_preferred":[
+        "Rohat Tuek"
+    ],
     "name:und_x_variant":[
         "Khum Rohat Tuk",
         "Phum\u012d R\u00f4h\u0103t T\u0153\u0306k"
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1243522201,
-    "wof:lastmodified":1537653537,
+    "wof:lastmodified":1564179547,
     "wof:name":"Rohat Tuek",
     "wof:parent_id":1108564737,
     "wof:placetype":"locality",

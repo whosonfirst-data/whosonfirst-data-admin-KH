@@ -28,6 +28,9 @@
     "name:khm_x_preferred":[
         "Cheung Prey"
     ],
+    "name:spa_x_preferred":[
+        "Cheung Prey"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1327033083,
-    "wof:lastmodified":1537654043,
+    "wof:lastmodified":1564178414,
     "wof:name":"Cheung Prey",
     "wof:parent_id":421195831,
     "wof:placetype":"locality",

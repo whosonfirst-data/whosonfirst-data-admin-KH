@@ -29,7 +29,11 @@
         "Thipakdei"
     ],
     "name:khm_x_variant":[
-        "\u1797\u17bc\u1798\u17b7 \u1797\u17d2\u1793\u17c6\u1792\u17b7\u1794\u178f\u17b8"
+        "\u1797\u17bc\u1798\u17b7 \u1797\u17d2\u1793\u17c6\u1792\u17b7\u1794\u178f\u17b8",
+        "\u1783\u17bb\u17c6\u1792\u17b7\u1794\u178f\u17b8"
+    ],
+    "name:spa_x_preferred":[
+        "Thipakdei"
     ],
     "name:und_x_variant":[
         "Phum Tippeday",
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1193239435,
-    "wof:lastmodified":1537653626,
+    "wof:lastmodified":1564179179,
     "wof:name":"Thipakdei",
     "wof:parent_id":1108564711,
     "wof:placetype":"locality",

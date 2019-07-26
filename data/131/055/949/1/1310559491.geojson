@@ -25,12 +25,22 @@
     "iso:country":"KH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Prasat"
+    ],
+    "name:fra_x_preferred":[
+        "Prasat"
+    ],
+    "name:ita_x_preferred":[
+        "Prasat"
+    ],
     "name:khm_x_preferred":[
         "Prasat"
     ],
     "name:khm_x_variant":[
         "\u1797\u17bc\u1798\u17b7 \u1794\u17d2\u179a\u17b6\u179f\u17b6\u1791",
-        "Phum Prasat"
+        "Phum Prasat",
+        "\u1783\u17bb\u17c6\u1794\u17d2\u179a\u17b6\u179f\u17b6\u1791"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +65,7 @@
         }
     ],
     "wof:id":1310559491,
-    "wof:lastmodified":1537654112,
+    "wof:lastmodified":1564179329,
     "wof:name":"Prasat",
     "wof:parent_id":421185505,
     "wof:placetype":"locality",

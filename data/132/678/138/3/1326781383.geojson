@@ -28,6 +28,9 @@
     "name:khm_x_preferred":[
         "Khnach Romeas"
     ],
+    "name:spa_x_preferred":[
+        "Khnach Romeas"
+    ],
     "name:und_x_variant":[
         "Phum\u012d Khnach R\u00f4m\u00e9as"
     ],
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1326781383,
-    "wof:lastmodified":1537653741,
+    "wof:lastmodified":1564178424,
     "wof:name":"Khnach Romeas",
     "wof:parent_id":1108564615,
     "wof:placetype":"locality",

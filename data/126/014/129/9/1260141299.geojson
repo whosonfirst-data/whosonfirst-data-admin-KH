@@ -28,6 +28,12 @@
     "name:khm_x_preferred":[
         "Pech Chenda"
     ],
+    "name:khm_x_variant":[
+        "\u1783\u17bb\u17c6\u1796\u17c1\u1787\u17d2\u179a\u1785\u17b7\u1793\u17d2\u178f\u17b6"
+    ],
+    "name:spa_x_preferred":[
+        "Pech Chenda"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1260141299,
-    "wof:lastmodified":1537653968,
+    "wof:lastmodified":1564179225,
     "wof:name":"Pech Chenda",
     "wof:parent_id":1108564761,
     "wof:placetype":"locality",

@@ -25,7 +25,16 @@
     "iso:country":"KH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Samraong"
+    ],
     "name:khm_x_preferred":[
+        "Samraong"
+    ],
+    "name:khm_x_variant":[
+        "\u179f\u17c6\u179a\u17c4\u1784"
+    ],
+    "name:swe_x_preferred":[
         "Samraong"
     ],
     "name:und_x_variant":[
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1327253579,
-    "wof:lastmodified":1537653514,
+    "wof:lastmodified":1564178387,
     "wof:name":"Samraong",
     "wof:parent_id":421194857,
     "wof:placetype":"locality",

@@ -28,6 +28,12 @@
     "name:khm_x_preferred":[
         "Sdau"
     ],
+    "name:khm_x_variant":[
+        "\u1783\u17bb\u17c6\u179f\u17d2\u178f\u17c5"
+    ],
+    "name:spa_x_preferred":[
+        "Sdau"
+    ],
     "name:und_x_variant":[
         "Phum\u012d Sdau"
     ],
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1209972147,
-    "wof:lastmodified":1537653498,
+    "wof:lastmodified":1564179035,
     "wof:name":"Sdau",
     "wof:parent_id":421203293,
     "wof:placetype":"locality",

@@ -25,7 +25,13 @@
     "iso:country":"KH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Khun"
+    ],
     "name:khm_x_preferred":[
+        "Khun"
+    ],
+    "name:spa_x_preferred":[
         "Khun"
     ],
     "src:geom":"geonames",
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1293359005,
-    "wof:lastmodified":1537654062,
+    "wof:lastmodified":1564178757,
     "wof:name":"Khun",
     "wof:parent_id":1108564607,
     "wof:placetype":"locality",

@@ -30,7 +30,14 @@
     ],
     "name:khm_x_variant":[
         "\u1797\u17bc\u1798\u17b7 \u178f\u17b6\u1782\u17d2\u179a\u17b6\u1798",
-        "Phum Ta Kr\u00e9am"
+        "Phum Ta Kr\u00e9am",
+        "\u1783\u17bb\u17c6\u178f\u17b6\u1782\u17d2\u179a\u17b6\u1798"
+    ],
+    "name:pol_x_preferred":[
+        "Ta Kream"
+    ],
+    "name:spa_x_preferred":[
+        "Ta Kream"
     ],
     "name:und_x_variant":[
         "Phum\u012d Ta Kr\u00e9am"
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":1309866869,
-    "wof:lastmodified":1537653442,
+    "wof:lastmodified":1564179511,
     "wof:name":"Ta Kream",
     "wof:parent_id":1108564597,
     "wof:placetype":"locality",

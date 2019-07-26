@@ -30,7 +30,11 @@
     ],
     "name:khm_x_variant":[
         "\u1797\u17bc\u1798\u17b7 \u17a2\u17bc\u178a\u17c6\u1794\u1784 \u1796\u17b8\u179a",
-        "Phum \u00d4 D\u00e2mb\u00e2ng Pir"
+        "Phum \u00d4 D\u00e2mb\u00e2ng Pir",
+        "\u1783\u17bb\u17c6\u17a2\u17bc\u179a\u178a\u17c6\u1794\u1784 \u17e2"
+    ],
+    "name:spa_x_preferred":[
+        "Ou Dambang Pir"
     ],
     "name:und_x_variant":[
         "Phum Aur Dambang",
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1343905123,
-    "wof:lastmodified":1537653654,
+    "wof:lastmodified":1564178515,
     "wof:name":"Ou Dambang Pir",
     "wof:parent_id":421202239,
     "wof:placetype":"locality",

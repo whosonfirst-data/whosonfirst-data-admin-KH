@@ -25,6 +25,27 @@
     "iso:country":"KH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Kol"
+    ],
+    "name:ceb_x_preferred":[
+        "Kol"
+    ],
+    "name:fra_x_preferred":[
+        "Kol"
+    ],
+    "name:nld_x_preferred":[
+        "Kol"
+    ],
+    "name:por_x_preferred":[
+        "Kol"
+    ],
+    "name:swe_x_preferred":[
+        "Kol"
+    ],
+    "name:tur_x_preferred":[
+        "Kol"
+    ],
     "name:und_x_variant":[
         "Phum\u012d K\u00f3l"
     ],
@@ -51,7 +72,7 @@
         }
     ],
     "wof:id":1344078103,
-    "wof:lastmodified":1537653723,
+    "wof:lastmodified":1564178537,
     "wof:name":"Kol",
     "wof:parent_id":1108564793,
     "wof:placetype":"locality",

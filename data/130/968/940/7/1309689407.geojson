@@ -30,7 +30,11 @@
     ],
     "name:khm_x_variant":[
         "Phum Plov Kr\u00e2peu",
-        "\u1797\u17bc\u1798\u17b7 \u1795\u17d2\u179b\u17bc\u179c\u1780\u17d2\u179a\u1796\u17be"
+        "\u1797\u17bc\u1798\u17b7 \u1795\u17d2\u179b\u17bc\u179c\u1780\u17d2\u179a\u1796\u17be",
+        "\u1783\u17bb\u17c6\u17a2\u1793\u17d2\u179b\u1784\u17cb\u179c\u17b7\u179b"
+    ],
+    "name:spa_x_preferred":[
+        "Anlong Vil"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1309689407,
-    "wof:lastmodified":1537654100,
+    "wof:lastmodified":1564179485,
     "wof:name":"Anlong Vil",
     "wof:parent_id":1108564687,
     "wof:placetype":"locality",

@@ -30,7 +30,14 @@
     ],
     "name:khm_x_variant":[
         "\u1797\u17bc\u1798\u17b7 \u179f\u17c6\u1794\u17ca\u17bd\u179a",
-        "Phum S\u00e2mbu\u014fr"
+        "Phum S\u00e2mbu\u014fr",
+        "\u1783\u17bb\u17c6\u179f\u17c6\u1794\u17bd\u179a"
+    ],
+    "name:pol_x_preferred":[
+        "Sambuor"
+    ],
+    "name:spa_x_preferred":[
+        "Sambuor"
     ],
     "name:und_x_variant":[
         "Phum\u012d S\u00e2mbu\u014fr"
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":1276182435,
-    "wof:lastmodified":1537653517,
+    "wof:lastmodified":1564178876,
     "wof:name":"Sambuor",
     "wof:parent_id":421194643,
     "wof:placetype":"locality",

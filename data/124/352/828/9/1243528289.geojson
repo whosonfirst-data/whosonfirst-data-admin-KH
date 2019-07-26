@@ -28,6 +28,12 @@
     "name:khm_x_preferred":[
         "Ta Pung"
     ],
+    "name:khm_x_variant":[
+        "\u1783\u17bb\u17c6\u178f\u17b6\u1796\u17bc\u1784"
+    ],
+    "name:pol_x_preferred":[
+        "Ta Pung"
+    ],
     "name:und_x_variant":[
         "Phum\u012d Ta A\u00f4k",
         "Phum\u012d Ta O\u016dk"
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1243528289,
-    "wof:lastmodified":1537653431,
+    "wof:lastmodified":1564179548,
     "wof:name":"Ta Pung",
     "wof:parent_id":1108564755,
     "wof:placetype":"locality",

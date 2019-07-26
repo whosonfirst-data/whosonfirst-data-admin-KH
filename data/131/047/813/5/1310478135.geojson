@@ -28,6 +28,9 @@
     "name:khm_x_preferred":[
         "Sameakki"
     ],
+    "name:spa_x_preferred":[
+        "Sameakki"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1310478135,
-    "wof:lastmodified":1537654037,
+    "wof:lastmodified":1564179308,
     "wof:name":"Sameakki",
     "wof:parent_id":1108564867,
     "wof:placetype":"locality",

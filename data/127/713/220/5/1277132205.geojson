@@ -28,6 +28,12 @@
     "name:khm_x_preferred":[
         "Phum Tr\u00e9as"
     ],
+    "name:khm_x_variant":[
+        "\u1783\u17bb\u17c6\u1791\u17d2\u179a\u17b6\u179f"
+    ],
+    "name:spa_x_preferred":[
+        "Treas"
+    ],
     "name:und_x_variant":[
         "Khum Treas",
         "Phum\u012d Tr\u00e9as"
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1277132205,
-    "wof:lastmodified":1537653360,
+    "wof:lastmodified":1564178915,
     "wof:name":"Treas",
     "wof:parent_id":421181961,
     "wof:placetype":"locality",

@@ -29,7 +29,11 @@
         "Peam Aek"
     ],
     "name:khm_x_variant":[
-        "\u1797\u17bc\u1798\u17b7 \u1796\u17b6\u1798\u17af\u1780"
+        "\u1797\u17bc\u1798\u17b7 \u1796\u17b6\u1798\u17af\u1780",
+        "\u1783\u17bb\u17c6\u1796\u17b6\u1798\u17af\u1780"
+    ],
+    "name:spa_x_preferred":[
+        "Peam Aek"
     ],
     "name:und_x_variant":[
         "Phum\u012d P\u00e9am \u00cak",
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1326591061,
-    "wof:lastmodified":1537653641,
+    "wof:lastmodified":1564178372,
     "wof:name":"Peam Aek",
     "wof:parent_id":421172391,
     "wof:placetype":"locality",

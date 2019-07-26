@@ -28,6 +28,9 @@
     "name:khm_x_preferred":[
         "Rundas"
     ],
+    "name:nld_x_preferred":[
+        "Rundas"
+    ],
     "name:und_x_variant":[
         "Phum\u012d \u00c2nd\u0103s"
     ],
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1277032555,
-    "wof:lastmodified":1537653931,
+    "wof:lastmodified":1564178932,
     "wof:name":"Rundas",
     "wof:parent_id":1108564583,
     "wof:placetype":"locality",

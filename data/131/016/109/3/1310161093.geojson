@@ -28,6 +28,12 @@
     "name:khm_x_preferred":[
         "Preah Netr Preah"
     ],
+    "name:khm_x_variant":[
+        "\u1783\u17bb\u17c6\u1796\u17d2\u179a\u17c7\u1793\u17c1\u178f\u17d2\u179a\u1796\u17d2\u179a\u17c7"
+    ],
+    "name:pol_x_preferred":[
+        "Pre\u0103h N\u00e9t Pre\u0103h"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1310161093,
-    "wof:lastmodified":1537653995,
+    "wof:lastmodified":1564179360,
     "wof:name":"Preah Netr Preah",
     "wof:parent_id":421183973,
     "wof:placetype":"locality",

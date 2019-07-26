@@ -28,6 +28,9 @@
     "name:khm_x_preferred":[
         "Serei Maen Cheay"
     ],
+    "name:khm_x_variant":[
+        "\u1783\u17bb\u17c6\u179f\u17b7\u179a\u17b8\u1798\u17b6\u1793\u1787\u17d0\u1799"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1226103071,
-    "wof:lastmodified":1537653997,
+    "wof:lastmodified":1564179829,
     "wof:name":"Serei Maen Cheay",
     "wof:parent_id":1108564817,
     "wof:placetype":"locality",

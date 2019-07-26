@@ -30,7 +30,11 @@
     ],
     "name:khm_x_variant":[
         "Phum Tal\u016dh",
-        "\u1797\u17bc\u1798\u17b7 \u178f\u17b6\u179b\u1793\u17cb"
+        "\u1797\u17bc\u1798\u17b7 \u178f\u17b6\u179b\u1793\u17cb",
+        "\u1783\u17bb\u17c6\u178f\u17b6\u179b\u17b6\u179f\u17cb"
+    ],
+    "name:spa_x_preferred":[
+        "Ta Loas"
     ],
     "name:und_x_variant":[
         "Taluo",
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1343323127,
-    "wof:lastmodified":1537653440,
+    "wof:lastmodified":1564178585,
     "wof:name":"Ta Loas",
     "wof:parent_id":1108564739,
     "wof:placetype":"locality",

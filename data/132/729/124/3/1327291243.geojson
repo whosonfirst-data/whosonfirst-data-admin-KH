@@ -31,6 +31,9 @@
     "name:khm_x_variant":[
         "\u1797\u17bc\u1798\u17b7 \u179f\u17d2\u179a\u17c7\u1788\u17bc\u1780"
     ],
+    "name:por_x_preferred":[
+        "Phnum Srok"
+    ],
     "name:und_x_variant":[
         "Phnom Srok",
         "Phum Srok",
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1327291243,
-    "wof:lastmodified":1537653481,
+    "wof:lastmodified":1564178477,
     "wof:name":"Phum Srah Chhuk",
     "wof:parent_id":1108564763,
     "wof:placetype":"locality",

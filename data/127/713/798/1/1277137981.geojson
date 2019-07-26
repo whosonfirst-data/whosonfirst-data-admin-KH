@@ -30,7 +30,8 @@
     ],
     "name:khm_x_variant":[
         "\u1797\u17bc\u1798\u17b7 \u17a2\u1793\u17d2\u179b\u1784\u17cb\u179a\u17bb\u1793",
-        "Phum \u00c2nl\u016dng R\u016dn"
+        "Phum \u00c2nl\u016dng R\u016dn",
+        "\u1783\u17bb\u17c6\u17a2\u1793\u17d2\u179b\u1784\u17cb\u179a\u17bb\u1793"
     ],
     "name:und_x_variant":[
         "Phum\u012d \u00c2nl\u016dng R\u016dn",
@@ -59,7 +60,7 @@
         }
     ],
     "wof:id":1277137981,
-    "wof:lastmodified":1537653914,
+    "wof:lastmodified":1564178914,
     "wof:name":"Anlong Run",
     "wof:parent_id":1108564871,
     "wof:placetype":"locality",

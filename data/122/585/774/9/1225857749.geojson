@@ -28,6 +28,9 @@
     "name:khm_x_preferred":[
         "Peam Kaoh Sna"
     ],
+    "name:spa_x_preferred":[
+        "Peam Kaoh Sna"
+    ],
     "name:und_x_variant":[
         "Phum Peam Kasnar",
         "Phum\u012d P\u00e9am Kr\u0153\u0306sna"
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1225857749,
-    "wof:lastmodified":1537653640,
+    "wof:lastmodified":1564179978,
     "wof:name":"Peam Kaoh Sna",
     "wof:parent_id":1108564853,
     "wof:placetype":"locality",

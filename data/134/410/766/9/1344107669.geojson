@@ -28,6 +28,12 @@
     "name:khm_x_preferred":[
         "Ta Sda"
     ],
+    "name:khm_x_variant":[
+        "\u1783\u17bb\u17c6\u178f\u17b6\u179f\u17b6\u17d2\u178f"
+    ],
+    "name:spa_x_preferred":[
+        "Ta Sda"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1344107669,
-    "wof:lastmodified":1537653997,
+    "wof:lastmodified":1564178613,
     "wof:name":"Ta Sda",
     "wof:parent_id":1108564817,
     "wof:placetype":"locality",

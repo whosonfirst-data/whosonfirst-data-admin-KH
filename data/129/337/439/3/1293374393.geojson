@@ -32,6 +32,9 @@
         "Kaoh Chbar",
         "\u1797\u17bc\u1798\u17b7 \u1780\u17c4\u17c7\u1785\u17d2\u1794\u17b6\u179a"
     ],
+    "name:spa_x_preferred":[
+        "Kaoh Chbar"
+    ],
     "name:und_x_variant":[
         "Phum Kaschbar",
         "Phum Chbar",
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1293374393,
-    "wof:lastmodified":1537653768,
+    "wof:lastmodified":1564178684,
     "wof:name":"Kaoh Chbar",
     "wof:parent_id":421188051,
     "wof:placetype":"locality",

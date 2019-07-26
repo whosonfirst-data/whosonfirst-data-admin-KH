@@ -32,6 +32,9 @@
         "\u1797\u17bc\u1798\u17b7 \u179b\u17d2\u179c\u17b6",
         "Phum L\u00f4v\u00e9a"
     ],
+    "name:spa_x_preferred":[
+        "Lvea"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632359
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1209172011,
-    "wof:lastmodified":1537654130,
+    "wof:lastmodified":1564179143,
     "wof:name":"Lvea",
     "wof:parent_id":85632359,
     "wof:placetype":"locality",

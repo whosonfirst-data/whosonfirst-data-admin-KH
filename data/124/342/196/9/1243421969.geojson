@@ -30,7 +30,14 @@
     ],
     "name:khm_x_variant":[
         "\u1797\u17bc\u1798\u17b7 \u1797\u17d2\u1793\u17c6\u179b\u17c0\u1794",
-        "Phum Phn\u016dm Li\u0115p"
+        "Phum Phn\u016dm Li\u0115p",
+        "\u1783\u17bb\u17c6\u1797\u17d2\u1793\u17c6\u179b\u17c0\u1794"
+    ],
+    "name:pol_x_preferred":[
+        "Phnum Lieb"
+    ],
+    "name:spa_x_preferred":[
+        "Phnum Lieb"
     ],
     "name:und_x_variant":[
         "Phum Phnom Liep",
@@ -60,7 +67,7 @@
         }
     ],
     "wof:id":1243421969,
-    "wof:lastmodified":1537653627,
+    "wof:lastmodified":1564179686,
     "wof:name":"Phnum Lieb",
     "wof:parent_id":421183973,
     "wof:placetype":"locality",

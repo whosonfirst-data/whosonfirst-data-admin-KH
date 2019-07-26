@@ -28,6 +28,12 @@
     "name:khm_x_preferred":[
         "Ruessei Krang"
     ],
+    "name:khm_x_variant":[
+        "\u1783\u17bb\u17c6\u17ab\u179f\u17d2\u179f\u17b8\u1780\u17d2\u179a\u17b6\u17c6\u1784"
+    ],
+    "name:spa_x_preferred":[
+        "Ruessei Krang"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1193098243,
-    "wof:lastmodified":1537654007,
+    "wof:lastmodified":1564179167,
     "wof:name":"Ruessei Krang",
     "wof:parent_id":1108564739,
     "wof:placetype":"locality",

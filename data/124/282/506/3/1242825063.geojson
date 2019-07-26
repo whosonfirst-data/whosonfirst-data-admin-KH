@@ -30,7 +30,11 @@
     ],
     "name:khm_x_variant":[
         "Ou Da",
-        "\u1797\u17bc\u1798\u17b7 \u17a2\u178a\u17b6"
+        "\u1797\u17bc\u1798\u17b7 \u17a2\u178a\u17b6",
+        "\u1783\u17bb\u17c6\u17a2\u17bc\u179a\u178a\u17b6"
+    ],
+    "name:spa_x_preferred":[
+        "Ou Da"
     ],
     "name:und_x_variant":[
         "Phum Da"
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1242825063,
-    "wof:lastmodified":1537653655,
+    "wof:lastmodified":1564179660,
     "wof:name":"Ou Da",
     "wof:parent_id":1108564799,
     "wof:placetype":"locality",

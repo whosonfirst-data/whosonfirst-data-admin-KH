@@ -32,6 +32,9 @@
         "Phum Tama",
         "Phum\u012d Thm\u00e2"
     ],
+    "name:vie_x_preferred":[
+        "Ta Ma"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1360142221,
-    "wof:lastmodified":1537653415,
+    "wof:lastmodified":1564179417,
     "wof:name":"Ta Ma",
     "wof:parent_id":421170329,
     "wof:placetype":"locality",

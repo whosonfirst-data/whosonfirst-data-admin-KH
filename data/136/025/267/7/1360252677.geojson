@@ -28,6 +28,12 @@
     "name:khm_x_preferred":[
         "Kakaoh"
     ],
+    "name:khm_x_variant":[
+        "\u1783\u17bb\u17c6\u1780\u1780\u17c4\u17c7"
+    ],
+    "name:spa_x_preferred":[
+        "Kakaoh"
+    ],
     "name:und_x_variant":[
         "Ka Kos",
         "Phum Krakoh",
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":1360252677,
-    "wof:lastmodified":1537653699,
+    "wof:lastmodified":1564179419,
     "wof:name":"Kakaoh",
     "wof:parent_id":421181961,
     "wof:placetype":"locality",

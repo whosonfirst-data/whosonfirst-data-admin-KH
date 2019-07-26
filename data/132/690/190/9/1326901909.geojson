@@ -28,6 +28,12 @@
     "name:khm_x_preferred":[
         "Santepheap"
     ],
+    "name:khm_x_variant":[
+        "\u1783\u17bb\u17c6\u179f\u1793\u17d2\u178f\u17b7\u1797\u17b6\u1796"
+    ],
+    "name:spa_x_preferred":[
+        "Santepheap"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1326901909,
-    "wof:lastmodified":1537654058,
+    "wof:lastmodified":1564178442,
     "wof:name":"Santepheap",
     "wof:parent_id":1108564835,
     "wof:placetype":"locality",

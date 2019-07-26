@@ -28,6 +28,12 @@
     "name:khm_x_preferred":[
         "Phlov Meas"
     ],
+    "name:khm_x_variant":[
+        "\u1783\u17bb\u17c6\u1795\u17d2\u179b\u17bc\u179c\u1798\u17b6\u179f"
+    ],
+    "name:spa_x_preferred":[
+        "Phlov Meas"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1293744809,
-    "wof:lastmodified":1537653969,
+    "wof:lastmodified":1564178812,
     "wof:name":"Phlov Meas",
     "wof:parent_id":1108564799,
     "wof:placetype":"locality",

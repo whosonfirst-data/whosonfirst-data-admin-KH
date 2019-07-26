@@ -28,6 +28,12 @@
     "name:khm_x_preferred":[
         "Ta Saen"
     ],
+    "name:khm_x_variant":[
+        "\u1783\u17bb\u17c6\u178f\u17b6\u179f\u17c2\u1793"
+    ],
+    "name:spa_x_preferred":[
+        "Ta Saen"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1310152875,
-    "wof:lastmodified":1537653968,
+    "wof:lastmodified":1564179290,
     "wof:name":"Ta Saen",
     "wof:parent_id":1108564683,
     "wof:placetype":"locality",
