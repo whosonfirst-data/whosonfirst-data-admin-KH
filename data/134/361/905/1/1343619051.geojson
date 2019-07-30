@@ -30,7 +30,17 @@
     ],
     "name:khm_x_variant":[
         "\u1797\u17bc\u1798\u17b7 \u1794\u1793\u17d2\u1791\u17b6\u1799\u1793\u17b6\u1784",
-        "Phum B\u00e2nt\u00e9ay N\u00e9ang"
+        "Phum B\u00e2nt\u00e9ay N\u00e9ang",
+        "\u1783\u17bb\u17c6\u1794\u1793\u17d2\u1791\u17b6\u1799\u1793\u17b6\u1784"
+    ],
+    "name:pol_x_preferred":[
+        "Banteay Neang"
+    ],
+    "name:por_x_preferred":[
+        "Banteay Neang"
+    ],
+    "name:spa_x_preferred":[
+        "Banteay Neang"
     ],
     "name:und_x_variant":[
         "Khum Banteai Neang",
@@ -60,7 +70,7 @@
         }
     ],
     "wof:id":1343619051,
-    "wof:lastmodified":1537653896,
+    "wof:lastmodified":1564178572,
     "wof:name":"Banteay Neang",
     "wof:parent_id":1108564737,
     "wof:placetype":"locality",

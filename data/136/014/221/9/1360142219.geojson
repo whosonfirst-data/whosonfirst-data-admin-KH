@@ -31,7 +31,14 @@
     "name:khm_x_variant":[
         "\u1797\u17bc\u1798\u17b7 \u1790\u17d2\u1798\u17b8\u1780\u178e\u17d2\u178f\u17b6\u179b",
         "Phum\u012d Thmei K\u00e2ndal",
-        "Phum Thmei K\u00e2ndal"
+        "Phum Thmei K\u00e2ndal",
+        "\u1783\u17bb\u17c6\u1797\u17bc\u1798\u17b7\u1790\u17d2\u1798\u17b8"
+    ],
+    "name:pol_x_preferred":[
+        "Phum Thmei"
+    ],
+    "name:spa_x_preferred":[
+        "Phum Thmei"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":1360142219,
-    "wof:lastmodified":1537653408,
+    "wof:lastmodified":1564179414,
     "wof:name":"Phum Thmei",
     "wof:parent_id":421203293,
     "wof:placetype":"locality",

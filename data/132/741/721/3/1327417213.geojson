@@ -29,7 +29,14 @@
         "Phum Thmei"
     ],
     "name:khm_x_variant":[
-        "\u1797\u17bc\u1798\u17b7 \u1790\u17d2\u1798\u17b8"
+        "\u1797\u17bc\u1798\u17b7 \u1790\u17d2\u1798\u17b8",
+        "\u1783\u17bb\u17c6\u1797\u17bc\u1798\u17b7\u1790\u17d2\u1798\u17b8"
+    ],
+    "name:pol_x_preferred":[
+        "Phum Thmei"
+    ],
+    "name:spa_x_preferred":[
+        "Phum Thmei"
     ],
     "name:und_x_variant":[
         "Phum\u012d D\u00e2mnak Kr\u00e2s\u0103ng",
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":1327417213,
-    "wof:lastmodified":1537653407,
+    "wof:lastmodified":1564178405,
     "wof:name":"Phum Thmei",
     "wof:parent_id":1108564859,
     "wof:placetype":"locality",

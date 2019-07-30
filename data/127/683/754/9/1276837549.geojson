@@ -30,7 +30,14 @@
     ],
     "name:khm_x_variant":[
         "\u1797\u17bc\u1798\u17b7 \u17a2 \u1794\u17d2\u179a\u17b6\u179f\u17b6\u1791",
-        "Phum O Prasat"
+        "Phum O Prasat",
+        "\u1783\u17bb\u17c6\u17a2\u17bc\u179a\u1794\u17d2\u179a\u17b6\u179f\u17b6\u1791"
+    ],
+    "name:pol_x_preferred":[
+        "\u2019\u00c2or Prasat"
+    ],
+    "name:spa_x_preferred":[
+        "Ou Prasat"
     ],
     "name:und_x_variant":[
         "Khum O Prasath",
@@ -60,7 +67,7 @@
         }
     ],
     "wof:id":1276837549,
-    "wof:lastmodified":1537653651,
+    "wof:lastmodified":1564178968,
     "wof:name":"Ou Prasat",
     "wof:parent_id":1108564737,
     "wof:placetype":"locality",

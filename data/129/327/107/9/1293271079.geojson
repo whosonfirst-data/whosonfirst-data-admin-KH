@@ -28,6 +28,12 @@
     "name:khm_x_preferred":[
         "Phniet"
     ],
+    "name:khm_x_variant":[
+        "\u1783\u17bb\u17c6\u1797\u17d2\u1793\u17c0\u178f"
+    ],
+    "name:pol_x_preferred":[
+        "Phniet"
+    ],
     "name:und_x_variant":[
         "Phum\u012d Phni\u0115t"
     ],
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1293271079,
-    "wof:lastmodified":1537653631,
+    "wof:lastmodified":1564178797,
     "wof:name":"Phniet",
     "wof:parent_id":1108564729,
     "wof:placetype":"locality",

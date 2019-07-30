@@ -30,7 +30,14 @@
     ],
     "name:khm_x_variant":[
         "\u1797\u17bc\u1798\u17b7 \u17ac\u179f\u17d2\u179f\u17b8\u1780\u17d2\u179a\u17c4\u1780",
-        "Phum R\u016dssei Kra\u00f4k"
+        "Phum R\u016dssei Kra\u00f4k",
+        "\u1783\u17bb\u17c6\u1794\u17d2\u1789\u179f\u17d2\u179f\u17b8\u1780\u17d2\u179a\u17c4\u1780"
+    ],
+    "name:pol_x_preferred":[
+        "Ruessei Kraok"
+    ],
+    "name:spa_x_preferred":[
+        "Ruessei Kraok"
     ],
     "name:und_x_variant":[
         "Khum Prek Ropou",
@@ -61,7 +68,7 @@
         }
     ],
     "wof:id":1343516849,
-    "wof:lastmodified":1537653540,
+    "wof:lastmodified":1564178592,
     "wof:name":"Ruessei Kraok",
     "wof:parent_id":1108564737,
     "wof:placetype":"locality",

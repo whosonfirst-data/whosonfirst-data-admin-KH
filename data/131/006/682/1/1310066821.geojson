@@ -30,7 +30,11 @@
     ],
     "name:khm_x_variant":[
         "Phum Kbal Khma\u00f4ch",
-        "\u1797\u17bc\u1798\u17b7 \u1780\u17d2\u1794\u17b6\u179b\u1781\u17d2\u1798\u17c4\u1785"
+        "\u1797\u17bc\u1798\u17b7 \u1780\u17d2\u1794\u17b6\u179b\u1781\u17d2\u1798\u17c4\u1785",
+        "\u1783\u17bb\u17c6\u1787\u17d2\u179a\u17c3"
+    ],
+    "name:spa_x_preferred":[
+        "Chrey"
     ],
     "name:und_x_variant":[
         "Phum Kbal Khmoco",
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1310066821,
-    "wof:lastmodified":1537653755,
+    "wof:lastmodified":1564179344,
     "wof:name":"Chrey",
     "wof:parent_id":1108564871,
     "wof:placetype":"locality",

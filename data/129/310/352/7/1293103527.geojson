@@ -28,6 +28,9 @@
     "name:khm_x_preferred":[
         "Sla Kaet"
     ],
+    "name:khm_x_variant":[
+        "\u179f\u1784\u17d2\u1780\u17b6\u178f\u17cb\u179f\u17d2\u179b\u17b6\u1780\u17c2\u178f"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1293103527,
-    "wof:lastmodified":1537654033,
+    "wof:lastmodified":1564178816,
     "wof:name":"Sla Kaet",
     "wof:parent_id":421180491,
     "wof:placetype":"locality",

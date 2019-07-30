@@ -37,6 +37,9 @@
     "name:eng_x_variant":[
         "Bavel"
     ],
+    "name:khm_x_preferred":[
+        "\u1794\u179c\u17c1\u179b"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "statoids:area_km":"",
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1108564615,
-    "wof:lastmodified":1553718167,
+    "wof:lastmodified":1564179288,
     "wof:name":"Bavel",
     "wof:parent_id":85673015,
     "wof:placetype":"county",

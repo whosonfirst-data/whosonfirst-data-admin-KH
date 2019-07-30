@@ -32,8 +32,14 @@
         "Voat",
         "\u1797\u17bc\u1798\u17b7 \u1785\u17bb\u1784\u1780\u17c4\u17c7\u1785\u17d2\u179a\u17c2\u1784"
     ],
+    "name:nor_x_preferred":[
+        "Voat"
+    ],
     "name:und_x_variant":[
         "Phum Kos Chreng"
+    ],
+    "name:zho_x_preferred":[
+        "Voat"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":1343258555,
-    "wof:lastmodified":1537653839,
+    "wof:lastmodified":1564178570,
     "wof:name":"Voat",
     "wof:parent_id":1108564631,
     "wof:placetype":"locality",

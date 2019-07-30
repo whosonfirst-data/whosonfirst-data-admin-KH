@@ -28,6 +28,15 @@
     "name:khm_x_preferred":[
         "Soengh"
     ],
+    "name:khm_x_variant":[
+        "\u1783\u17bb\u17c6\u179f\u17b9\u1784\u17d2\u17a0"
+    ],
+    "name:pol_x_preferred":[
+        "Soengh"
+    ],
+    "name:spa_x_preferred":[
+        "Soengh"
+    ],
     "name:und_x_variant":[
         "Phum\u012d S\u0153\u0306ng"
     ],
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1242631659,
-    "wof:lastmodified":1537653486,
+    "wof:lastmodified":1564179675,
     "wof:name":"Soengh",
     "wof:parent_id":1108564599,
     "wof:placetype":"locality",

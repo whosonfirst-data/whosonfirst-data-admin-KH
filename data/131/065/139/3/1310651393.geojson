@@ -29,7 +29,11 @@
         "\u1797\u17bc\u1798\u17b7 \u1786\u17d2\u1793\u17b6\u179b\u17cb\u1798\u17b6\u1793"
     ],
     "name:khm_x_variant":[
-        "Phum Chhn\u0103l Mo\u0103n"
+        "Phum Chhn\u0103l Mo\u0103n",
+        "\u1783\u17bb\u17c6\u1786\u17d2\u1793\u17b6\u179b\u17cb\u1798\u17b6\u1793\u17cb"
+    ],
+    "name:spa_x_preferred":[
+        "Chhnal Mean"
     ],
     "name:und_x_variant":[
         "Snalmone",
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1310651393,
-    "wof:lastmodified":1537653848,
+    "wof:lastmodified":1564179311,
     "wof:name":"Chhnal Moan",
     "wof:parent_id":1108564711,
     "wof:placetype":"locality",

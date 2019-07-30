@@ -28,6 +28,12 @@
     "name:khm_x_preferred":[
         "Ta Meun"
     ],
+    "name:khm_x_variant":[
+        "\u1783\u17bb\u17c6\u178f\u17b6\u1798\u17c9\u17ba\u1793"
+    ],
+    "name:pol_x_preferred":[
+        "Ta M\u0153n"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1310452487,
-    "wof:lastmodified":1537653990,
+    "wof:lastmodified":1564179348,
     "wof:name":"Ta Meun",
     "wof:parent_id":1108564871,
     "wof:placetype":"locality",

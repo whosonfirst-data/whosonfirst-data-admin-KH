@@ -28,6 +28,9 @@
     "name:khm_x_preferred":[
         "Rotanak"
     ],
+    "name:khm_x_variant":[
+        "\u179f\u1784\u17d2\u1780\u17b6\u178f\u17cb\u179a\u178f\u1793\u17c8"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1276749969,
-    "wof:lastmodified":1537654046,
+    "wof:lastmodified":1564178866,
     "wof:name":"Rotanak",
     "wof:parent_id":1108564801,
     "wof:placetype":"locality",

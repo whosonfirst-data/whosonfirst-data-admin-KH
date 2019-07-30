@@ -30,7 +30,11 @@
     ],
     "name:khm_x_variant":[
         "\u1797\u17bc\u1798\u17b7 \u1791\u17d2\u179a\u17b6\u179b",
-        "Phum Tr\u00e9al"
+        "Phum Tr\u00e9al",
+        "\u1783\u17bb\u17c6\u1791\u17d2\u179a\u17b6\u179f"
+    ],
+    "name:spa_x_preferred":[
+        "Treas"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1193236305,
-    "wof:lastmodified":1537654115,
+    "wof:lastmodified":1564179177,
     "wof:name":"Treas",
     "wof:parent_id":421194643,
     "wof:placetype":"locality",

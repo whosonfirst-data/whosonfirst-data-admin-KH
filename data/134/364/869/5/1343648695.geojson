@@ -25,7 +25,13 @@
     "iso:country":"KH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Rung"
+    ],
     "name:khm_x_preferred":[
+        "Rung"
+    ],
+    "name:swe_x_preferred":[
         "Rung"
     ],
     "name:und_x_variant":[
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1343648695,
-    "wof:lastmodified":1537653523,
+    "wof:lastmodified":1564178511,
     "wof:name":"Rung",
     "wof:parent_id":1108564595,
     "wof:placetype":"locality",

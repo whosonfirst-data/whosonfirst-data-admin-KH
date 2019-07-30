@@ -28,6 +28,15 @@
     "name:khm_x_preferred":[
         "Chheu Teal"
     ],
+    "name:khm_x_variant":[
+        "\u1783\u17bb\u17c6\u1788\u17be\u1791\u17b6\u179b"
+    ],
+    "name:pol_x_preferred":[
+        "Chheu Teal"
+    ],
+    "name:spa_x_preferred":[
+        "Chheu Teal"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1259441869,
-    "wof:lastmodified":1537654010,
+    "wof:lastmodified":1564179804,
     "wof:name":"Chheu Teal",
     "wof:parent_id":1108564651,
     "wof:placetype":"locality",

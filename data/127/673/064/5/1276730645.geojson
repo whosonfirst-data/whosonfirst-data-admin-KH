@@ -25,6 +25,36 @@
     "iso:country":"KH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bug_x_preferred":[
+        "Chey"
+    ],
+    "name:cat_x_preferred":[
+        "Chey"
+    ],
+    "name:ceb_x_preferred":[
+        "Chey"
+    ],
+    "name:deu_x_preferred":[
+        "Chey"
+    ],
+    "name:eus_x_preferred":[
+        "Chey"
+    ],
+    "name:fin_x_preferred":[
+        "Chey"
+    ],
+    "name:fra_x_preferred":[
+        "Chey"
+    ],
+    "name:hun_x_preferred":[
+        "Chey"
+    ],
+    "name:ind_x_preferred":[
+        "Chey"
+    ],
+    "name:ita_x_preferred":[
+        "Chey"
+    ],
     "name:khm_x_preferred":[
         "Chey"
     ],
@@ -32,6 +62,57 @@
         "Phum\u012d Prot",
         "Phum Prot",
         "\u1797\u1798\u17b7 \u1794\u17d2\u179a\u17bb\u178f"
+    ],
+    "name:lat_x_preferred":[
+        "Chey"
+    ],
+    "name:mlg_x_preferred":[
+        "Chey"
+    ],
+    "name:msa_x_preferred":[
+        "Chey"
+    ],
+    "name:nld_x_preferred":[
+        "Chey"
+    ],
+    "name:oci_x_preferred":[
+        "Chey"
+    ],
+    "name:pms_x_preferred":[
+        "Chey"
+    ],
+    "name:pol_x_preferred":[
+        "Chey"
+    ],
+    "name:por_x_preferred":[
+        "Chey"
+    ],
+    "name:ron_x_preferred":[
+        "Chey"
+    ],
+    "name:slk_x_preferred":[
+        "Chey"
+    ],
+    "name:spa_x_preferred":[
+        "Chey"
+    ],
+    "name:srp_x_preferred":[
+        "\u0428\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Chey"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u0435"
+    ],
+    "name:vie_x_preferred":[
+        "Chey"
+    ],
+    "name:vol_x_preferred":[
+        "Chey"
+    ],
+    "name:war_x_preferred":[
+        "Chey"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -56,7 +137,7 @@
         }
     ],
     "wof:id":1276730645,
-    "wof:lastmodified":1537653549,
+    "wof:lastmodified":1564178871,
     "wof:name":"Chey",
     "wof:parent_id":421204115,
     "wof:placetype":"locality",

@@ -25,8 +25,38 @@
     "iso:country":"KH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Pate"
+    ],
+    "name:deu_x_preferred":[
+        "Pate"
+    ],
+    "name:fin_x_preferred":[
+        "Pate"
+    ],
+    "name:fra_x_preferred":[
+        "Pate"
+    ],
+    "name:ita_x_preferred":[
+        "Pate"
+    ],
     "name:khm_x_preferred":[
         "Pate"
+    ],
+    "name:nds_x_preferred":[
+        "Pate"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u0442\u0435"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0430\u0442\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Pate"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0430\u0442\u0435"
     ],
     "name:und_x_variant":[
         "Phum\u012d K\u016dng Ph\u00e2\u00e2",
@@ -55,7 +85,7 @@
         }
     ],
     "wof:id":1243319785,
-    "wof:lastmodified":1537653722,
+    "wof:lastmodified":1564179537,
     "wof:name":"Pate",
     "wof:parent_id":1108564747,
     "wof:placetype":"locality",

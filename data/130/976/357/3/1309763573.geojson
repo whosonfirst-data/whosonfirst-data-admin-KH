@@ -30,7 +30,14 @@
     ],
     "name:khm_x_variant":[
         "\u1797\u17bc\u1798\u17b7 \u1795\u17d2\u1782\u17b6",
-        "Phum Phk\u014f\u00e2m"
+        "Phum Phk\u014f\u00e2m",
+        "\u1783\u17bb\u17c6\u1795\u17d2\u1782\u17b6\u17c6"
+    ],
+    "name:pol_x_preferred":[
+        "Phkoam"
+    ],
+    "name:spa_x_preferred":[
+        "Phkoam"
     ],
     "name:und_x_variant":[
         "Veal Rahal",
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":1309763573,
-    "wof:lastmodified":1537653634,
+    "wof:lastmodified":1564179483,
     "wof:name":"Phkoam",
     "wof:parent_id":421181961,
     "wof:placetype":"locality",

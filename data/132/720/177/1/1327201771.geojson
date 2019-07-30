@@ -28,6 +28,15 @@
     "name:khm_x_preferred":[
         "Soengh"
     ],
+    "name:khm_x_variant":[
+        "\u1783\u17bb\u17c6\u179f\u17b9\u1784\u17d2\u17a0"
+    ],
+    "name:pol_x_preferred":[
+        "Soengh"
+    ],
+    "name:spa_x_preferred":[
+        "Soengh"
+    ],
     "name:und_x_variant":[
         "Ban Sine",
         "Khum S\u0153ng",
@@ -56,7 +65,7 @@
         }
     ],
     "wof:id":1327201771,
-    "wof:lastmodified":1537653486,
+    "wof:lastmodified":1564178480,
     "wof:name":"Soengh",
     "wof:parent_id":421198129,
     "wof:placetype":"locality",

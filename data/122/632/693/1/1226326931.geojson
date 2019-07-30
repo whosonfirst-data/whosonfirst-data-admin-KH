@@ -28,6 +28,12 @@
     "name:khm_x_preferred":[
         "Voat"
     ],
+    "name:nor_x_preferred":[
+        "Voat"
+    ],
+    "name:zho_x_preferred":[
+        "Voat"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1226326931,
-    "wof:lastmodified":1537654058,
+    "wof:lastmodified":1564179877,
     "wof:name":"Voat",
     "wof:parent_id":1108564841,
     "wof:placetype":"locality",

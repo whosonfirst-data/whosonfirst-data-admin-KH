@@ -28,6 +28,15 @@
     "name:khm_x_preferred":[
         "Souphi"
     ],
+    "name:khm_x_variant":[
+        "\u1783\u17bb\u17c6\u179f\u17bc\u1797\u17b8"
+    ],
+    "name:pol_x_preferred":[
+        "Souphi"
+    ],
+    "name:spa_x_preferred":[
+        "Souphi"
+    ],
     "name:und_x_variant":[
         "Phum Sophy",
         "Phum\u012d Sophi (1)"
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1243231501,
-    "wof:lastmodified":1537653484,
+    "wof:lastmodified":1564179596,
     "wof:name":"Souphi",
     "wof:parent_id":421198129,
     "wof:placetype":"locality",

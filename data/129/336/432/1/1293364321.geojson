@@ -25,6 +25,27 @@
     "iso:country":"KH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Tani"
+    ],
+    "name:deu_x_preferred":[
+        "Tani"
+    ],
+    "name:fin_x_preferred":[
+        "Tani"
+    ],
+    "name:fra_x_preferred":[
+        "Tani"
+    ],
+    "name:ita_x_preferred":[
+        "Tani"
+    ],
+    "name:por_x_preferred":[
+        "Tani"
+    ],
+    "name:swe_x_preferred":[
+        "Tani"
+    ],
     "name:und_x_variant":[
         "Phum Tani",
         "Tani"
@@ -52,7 +73,7 @@
         }
     ],
     "wof:id":1293364321,
-    "wof:lastmodified":1537653325,
+    "wof:lastmodified":1564178670,
     "wof:name":"Tani",
     "wof:parent_id":1108564581,
     "wof:placetype":"locality",

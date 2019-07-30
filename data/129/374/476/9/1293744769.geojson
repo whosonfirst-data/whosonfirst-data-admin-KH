@@ -28,6 +28,9 @@
     "name:khm_x_preferred":[
         "\u1796\u17d2\u179a\u17c3\u178f\u17d2\u179a\u17a1\u17b6\u1785"
     ],
+    "name:khm_x_variant":[
+        "\u1783\u17bb\u17c6\u1796\u17d2\u179a\u17c3\u178f\u17d2\u179a\u17a1\u17b6\u1785"
+    ],
     "name:und_x_variant":[
         "Phum Prey Tralach",
         "Khum Prey Tralach",
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1293744769,
-    "wof:lastmodified":1537653333,
+    "wof:lastmodified":1564178810,
     "wof:name":"Prey Tralach",
     "wof:parent_id":1108564805,
     "wof:placetype":"locality",

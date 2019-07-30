@@ -25,12 +25,39 @@
     "iso:country":"KH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "\u09ae\u09c7\u09ae\u09a4 \u099c\u09c7\u09b2\u09be"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u0645\u0645\u0648\u062a"
+    ],
+    "name:ita_x_preferred":[
+        "Memot"
+    ],
+    "name:khm_x_preferred":[
+        "\u179f\u17d2\u179a\u17bb\u1780\u1798\u17c1\u1798\u178f\u17cb"
+    ],
+    "name:por_x_preferred":[
+        "Memot"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u043c\u043e\u0442"
+    ],
+    "name:spa_x_preferred":[
+        "Memot"
+    ],
     "name:und_x_variant":[
         "Phum\u012d M\u00e9m\u00f3t",
         "Mimot",
         "Phum\u012d M\u00e9m\u016dt",
         "M\u00e9m\u016dt",
         "M\u00e9m\u00f3t"
+    ],
+    "name:vie_x_preferred":[
+        "Memot"
+    ],
+    "name:zho_x_preferred":[
+        "\u68c9\u672b\u53bf"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -56,7 +83,7 @@
         }
     ],
     "wof:id":1310136365,
-    "wof:lastmodified":1537653939,
+    "wof:lastmodified":1564179300,
     "wof:name":"Memot",
     "wof:parent_id":1108564735,
     "wof:placetype":"locality",

@@ -28,6 +28,12 @@
     "name:khm_x_preferred":[
         "Ou Rumduol"
     ],
+    "name:khm_x_variant":[
+        "\u1783\u17bb\u17c6\u17a2\u17bc\u179a\u179a\u17c6\u178a\u17bd\u179b"
+    ],
+    "name:spa_x_preferred":[
+        "Ou Rumduol"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1293239937,
-    "wof:lastmodified":1537654139,
+    "wof:lastmodified":1564178725,
     "wof:name":"Ou Rumduol",
     "wof:parent_id":1108564879,
     "wof:placetype":"locality",

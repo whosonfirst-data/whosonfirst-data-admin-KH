@@ -28,6 +28,9 @@
     "name:khm_x_preferred":[
         "Lvea"
     ],
+    "name:spa_x_preferred":[
+        "Lvea"
+    ],
     "name:und_x_variant":[
         "Phum Lovea",
         "Phum\u012d Lv\u00e9a"
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1309789313,
-    "wof:lastmodified":1537653671,
+    "wof:lastmodified":1564179474,
     "wof:name":"Lvea",
     "wof:parent_id":1108564775,
     "wof:placetype":"locality",

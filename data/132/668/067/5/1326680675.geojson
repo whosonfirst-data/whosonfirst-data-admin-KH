@@ -28,6 +28,15 @@
     "name:khm_x_preferred":[
         "Kantueu Pir"
     ],
+    "name:khm_x_variant":[
+        "\u1783\u17bb\u17c6\u1780\u1793\u17d2\u1791\u17ba \u17e2"
+    ],
+    "name:pol_x_preferred":[
+        "Kantueu Pir"
+    ],
+    "name:spa_x_preferred":[
+        "Kantueu Pir"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1326680675,
-    "wof:lastmodified":1537654002,
+    "wof:lastmodified":1564178380,
     "wof:name":"Kantueu Pir",
     "wof:parent_id":1108564597,
     "wof:placetype":"locality",

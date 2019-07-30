@@ -25,15 +25,54 @@
     "iso:country":"KH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:afr_x_preferred":[
+        "Baray"
+    ],
+    "name:deu_x_preferred":[
+        "Baray"
+    ],
+    "name:fin_x_preferred":[
+        "Baray"
+    ],
+    "name:fra_x_preferred":[
+        "Baray"
+    ],
+    "name:ind_x_preferred":[
+        "Baray"
+    ],
+    "name:ita_x_preferred":[
+        "Baray"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30e9\u30a4"
+    ],
     "name:khm_x_preferred":[
         "Baray"
     ],
     "name:khm_x_variant":[
         "\u1797\u17bc\u1798\u17b7 \u1794\u17b6\u179a\u17b6\u1799"
     ],
+    "name:msa_x_preferred":[
+        "Baray"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0440\u0430\u0439"
+    ],
+    "name:spa_x_preferred":[
+        "Baray"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e32\u0e23\u0e32\u0e22"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u0440\u0430\u0439"
+    ],
     "name:und_x_variant":[
         "Phum Baray",
         "Phum\u012d Baray"
+    ],
+    "name:war_x_preferred":[
+        "Baray"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +97,7 @@
         }
     ],
     "wof:id":1242625029,
-    "wof:lastmodified":1537653892,
+    "wof:lastmodified":1564179664,
     "wof:name":"Baray",
     "wof:parent_id":1108564599,
     "wof:placetype":"locality",

@@ -30,7 +30,11 @@
     ],
     "name:khm_x_variant":[
         "\u1797\u17bc\u1798\u17b7 \u1792\u17b7\u1794\u178f\u17b8",
-        "Phum Th\u012dpdei"
+        "Phum Th\u012dpdei",
+        "\u1783\u17bb\u17c6\u1792\u17b7\u1794\u178f\u17b8"
+    ],
+    "name:spa_x_preferred":[
+        "Thipakdei"
     ],
     "name:und_x_variant":[
         "Thip P\u00e2dey",
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1243510277,
-    "wof:lastmodified":1537653418,
+    "wof:lastmodified":1564179634,
     "wof:name":"Thipakdei",
     "wof:parent_id":421185505,
     "wof:placetype":"locality",

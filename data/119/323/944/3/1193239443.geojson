@@ -28,6 +28,9 @@
     "name:khm_x_preferred":[
         "Rung Chrey"
     ],
+    "name:khm_x_variant":[
+        "\u1783\u17bb\u17c6\u179a\u17bc\u1784\u1787\u17d2\u179a\u17c3"
+    ],
     "name:und_x_variant":[
         "Phum Roung Chrei",
         "Phum\u012d Rung Chrei",
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1193239443,
-    "wof:lastmodified":1537653523,
+    "wof:lastmodified":1564179178,
     "wof:name":"Rung Chrey",
     "wof:parent_id":1108564871,
     "wof:placetype":"locality",

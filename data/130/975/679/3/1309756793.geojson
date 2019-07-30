@@ -30,7 +30,11 @@
     ],
     "name:khm_x_variant":[
         "Phum Prey Toch",
-        "\u1797\u17bc\u1798\u17b7 \u1796\u17d2\u179a\u17c3\u178f\u17bc\u1785"
+        "\u1797\u17bc\u1798\u17b7 \u1796\u17d2\u179a\u17c3\u178f\u17bc\u1785",
+        "\u1783\u17bb\u17c6\u1796\u17d2\u179a\u17c3\u178f\u17bc\u1785"
+    ],
+    "name:spa_x_preferred":[
+        "Prey Touch"
     ],
     "name:und_x_variant":[
         "Phum Tr\u00f2y Toch",
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1309756793,
-    "wof:lastmodified":1537653554,
+    "wof:lastmodified":1564179509,
     "wof:name":"Prey Touch",
     "wof:parent_id":1108564739,
     "wof:placetype":"locality",

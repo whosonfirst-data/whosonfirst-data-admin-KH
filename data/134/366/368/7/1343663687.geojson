@@ -28,6 +28,12 @@
     "name:khm_x_preferred":[
         "Moung"
     ],
+    "name:khm_x_variant":[
+        "\u1783\u17bb\u17c6\u1798\u17c4\u1784"
+    ],
+    "name:spa_x_preferred":[
+        "Moung"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1343663687,
-    "wof:lastmodified":1537654014,
+    "wof:lastmodified":1564178579,
     "wof:name":"Moung",
     "wof:parent_id":1108564885,
     "wof:placetype":"locality",

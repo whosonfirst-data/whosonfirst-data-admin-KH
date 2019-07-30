@@ -29,7 +29,14 @@
         "Chheu Teal"
     ],
     "name:khm_x_variant":[
-        "\u1797\u17bc\u1798\u17b7 \u1788\u17be\u1791\u17b6\u179b"
+        "\u1797\u17bc\u1798\u17b7 \u1788\u17be\u1791\u17b6\u179b",
+        "\u1783\u17bb\u17c6\u1788\u17be\u1791\u17b6\u179b"
+    ],
+    "name:pol_x_preferred":[
+        "Chheu Teal"
+    ],
+    "name:spa_x_preferred":[
+        "Chheu Teal"
     ],
     "name:und_x_variant":[
         "Phum Chh\u0153u T\u00e9al",
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":1260127011,
-    "wof:lastmodified":1537653850,
+    "wof:lastmodified":1564179219,
     "wof:name":"Chheu Teal",
     "wof:parent_id":1108564597,
     "wof:placetype":"locality",

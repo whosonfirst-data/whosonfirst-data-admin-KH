@@ -38,6 +38,12 @@
         "Phnom Proek",
         "Phnum Proek"
     ],
+    "name:khm_x_preferred":[
+        "\u1797\u17d2\u1793\u17c6\u1796\u17d2\u179a\u17b9\u1780"
+    ],
+    "name:vie_x_preferred":[
+        "Phnum Proek"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "statoids:area_km":"",
@@ -71,7 +77,7 @@
         }
     ],
     "wof:id":1108564761,
-    "wof:lastmodified":1553718170,
+    "wof:lastmodified":1564179280,
     "wof:name":"Phnum Proek",
     "wof:parent_id":85673015,
     "wof:placetype":"county",

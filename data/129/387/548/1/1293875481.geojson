@@ -25,6 +25,9 @@
     "iso:country":"KH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Kompong Luong"
+    ],
     "name:khm_x_preferred":[
         "Kampong Luong"
     ],
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1293875481,
-    "wof:lastmodified":1537653957,
+    "wof:lastmodified":1564178809,
     "wof:name":"Kampong Luong",
     "wof:parent_id":421188235,
     "wof:placetype":"locality",

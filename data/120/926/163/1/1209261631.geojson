@@ -29,7 +29,14 @@
         "Phum\u012d B\u00e2t Sala"
     ],
     "name:khm_x_variant":[
-        "\u1797\u17bc\u1798\u17b7 \u1794\u178f\u17cb\u179f\u17b6\u179b\u17b6"
+        "\u1797\u17bc\u1798\u17b7 \u1794\u178f\u17cb\u179f\u17b6\u179b\u17b6",
+        "\u1783\u17bb\u17c6\u1788\u17be\u1791\u17b6\u179b"
+    ],
+    "name:pol_x_preferred":[
+        "Chheu Teal"
+    ],
+    "name:spa_x_preferred":[
+        "Chheu Teal"
     ],
     "name:und_x_variant":[
         "Phum Bat Sata",
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":1209261631,
-    "wof:lastmodified":1537653889,
+    "wof:lastmodified":1564179136,
     "wof:name":"Chheu Teal",
     "wof:parent_id":85632359,
     "wof:placetype":"locality",

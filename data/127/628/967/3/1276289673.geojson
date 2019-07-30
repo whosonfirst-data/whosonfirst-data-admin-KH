@@ -25,7 +25,22 @@
     "iso:country":"KH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kampong Cham"
+    ],
+    "name:fin_x_preferred":[
+        "Kampong Cham"
+    ],
+    "name:fra_x_preferred":[
+        "Kampong Cham"
+    ],
     "name:khm_x_preferred":[
+        "Kampong Cham"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e01\u0e33\u0e1b\u0e07\u0e08\u0e32\u0e21"
+    ],
+    "name:vie_x_preferred":[
         "Kampong Cham"
     ],
     "src:geom":"geonames",
@@ -51,7 +66,7 @@
         }
     ],
     "wof:id":1276289673,
-    "wof:lastmodified":1537654059,
+    "wof:lastmodified":1564178855,
     "wof:name":"Kampong Cham",
     "wof:parent_id":421194641,
     "wof:placetype":"locality",

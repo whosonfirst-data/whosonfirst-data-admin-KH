@@ -28,6 +28,15 @@
     "name:khm_x_preferred":[
         "Bay Damram"
     ],
+    "name:khm_x_variant":[
+        "\u1783\u17bb\u17c6\u1794\u17b6\u1799\u178a\u17c6\u179a\u17b6\u17c6"
+    ],
+    "name:pol_x_preferred":[
+        "Bay Damram"
+    ],
+    "name:spa_x_preferred":[
+        "Bay Damram"
+    ],
     "name:und_x_variant":[
         "Khum Baydamrom",
         "Khum Baydamran",
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":1209963721,
-    "wof:lastmodified":1537653888,
+    "wof:lastmodified":1564179017,
     "wof:name":"Bay Damram",
     "wof:parent_id":1108564597,
     "wof:placetype":"locality",

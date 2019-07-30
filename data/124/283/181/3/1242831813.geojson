@@ -29,7 +29,14 @@
         "\u1797\u17bc\u1798\u17b7 \u179a\u17a0\u17b6\u179b\u17cb"
     ],
     "name:khm_x_variant":[
-        "Phum R\u00f4hal"
+        "Phum R\u00f4hal",
+        "\u1783\u17bb\u17c6\u179a\u17a0\u17b6\u179b"
+    ],
+    "name:pol_x_preferred":[
+        "Rohal Rohal"
+    ],
+    "name:spa_x_preferred":[
+        "Rohal"
     ],
     "name:und_x_variant":[
         "Phum\u012d R\u00f4hal"
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":1242831813,
-    "wof:lastmodified":1537653537,
+    "wof:lastmodified":1564179651,
     "wof:name":"Rohal",
     "wof:parent_id":421183973,
     "wof:placetype":"locality",

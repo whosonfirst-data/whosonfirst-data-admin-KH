@@ -30,7 +30,8 @@
     ],
     "name:khm_x_variant":[
         "\u1797\u17bc\u1798\u17b7 \u1794\u17b9\u1784\u1796\u17d2\u179a\u17b8\u1784",
-        "Phum B\u0153\u0306ng Pring"
+        "Phum B\u0153\u0306ng Pring",
+        "\u1783\u17bb\u17c6\u1794\u17b9\u1784\u1796\u17d2\u179a\u17b8\u1784"
     ],
     "name:und_x_variant":[
         "Phum Pring",
@@ -59,7 +60,7 @@
         }
     ],
     "wof:id":1277138017,
-    "wof:lastmodified":1537653879,
+    "wof:lastmodified":1564178918,
     "wof:name":"Boeng Pring",
     "wof:parent_id":1108564871,
     "wof:placetype":"locality",

@@ -28,6 +28,12 @@
     "name:khm_x_preferred":[
         "Doun Ba"
     ],
+    "name:khm_x_variant":[
+        "\u1783\u17bb\u17c6\u178a\u17bc\u1793\u1794\u17b6"
+    ],
+    "name:spa_x_preferred":[
+        "Doun Ba"
+    ],
     "name:und_x_variant":[
         "Donebas",
         "Don Ba"
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1226594683,
-    "wof:lastmodified":1537653958,
+    "wof:lastmodified":1564179879,
     "wof:name":"Doun Ba",
     "wof:parent_id":1108564711,
     "wof:placetype":"locality",

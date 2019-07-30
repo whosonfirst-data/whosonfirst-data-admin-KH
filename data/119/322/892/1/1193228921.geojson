@@ -29,7 +29,11 @@
         "Phum Chrey"
     ],
     "name:khm_x_variant":[
-        "\u1797\u17bc\u1798\u17b7 \u1787\u17d2\u179a\u17c3"
+        "\u1797\u17bc\u1798\u17b7 \u1787\u17d2\u179a\u17c3",
+        "\u1783\u17bb\u17c6\u1787\u17d2\u179a\u17c3"
+    ],
+    "name:spa_x_preferred":[
+        "Chrey"
     ],
     "name:und_x_variant":[
         "Phum\u012d Chrey"
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1193228921,
-    "wof:lastmodified":1537653832,
+    "wof:lastmodified":1564179186,
     "wof:name":"Chrey",
     "wof:parent_id":1108564739,
     "wof:placetype":"locality",

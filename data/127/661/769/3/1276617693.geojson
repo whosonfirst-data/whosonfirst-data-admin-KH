@@ -32,6 +32,9 @@
         "Phum\u012d Re\u0103smei Samaki",
         "\u1797\u17bc\u1798\u17b7 \u179a\u179f\u17d2\u1798\u17b8\u179f\u17b6\u1798\u1782\u17d2\u1782\u17b8"
     ],
+    "name:spa_x_preferred":[
+        "Sameakki"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1276617693,
-    "wof:lastmodified":1537654087,
+    "wof:lastmodified":1564178907,
     "wof:name":"Sameakki",
     "wof:parent_id":421200835,
     "wof:placetype":"locality",

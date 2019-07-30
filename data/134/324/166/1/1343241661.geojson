@@ -25,17 +25,48 @@
     "iso:country":"KH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Koh Ker"
+    ],
+    "name:epo_x_preferred":[
+        "Koh Ker"
+    ],
+    "name:fra_x_preferred":[
+        "Koh Ker"
+    ],
+    "name:ita_x_preferred":[
+        "Koh Ker"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b3\u30fb\u30b1\u30fc"
+    ],
     "name:khm_x_preferred":[
         "Kaoh Ker"
     ],
     "name:khm_x_variant":[
-        "\u1797\u17bc\u1798\u17b7 \u1780\u17c4\u17c7\u1780\u17c1\u179a\u17d2\u178f\u17b7\u17cd"
+        "\u1797\u17bc\u1798\u17b7 \u1780\u17c4\u17c7\u1780\u17c1\u179a\u17d2\u178f\u17b7\u17cd",
+        "\u1794\u17d2\u179a\u17b6\u179f\u17b6\u1791\u1780\u17c4\u17c7\u1780\u17c1\u179a"
+    ],
+    "name:nor_x_preferred":[
+        "Koh Ker"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0445\u043a\u0430\u0435"
+    ],
+    "name:spa_x_preferred":[
+        "Koh Ker"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u0445 \u041a\u0435\u0440"
     ],
     "name:und_x_variant":[
         "Kon Ker",
         "Phum\u012d Ka\u00f4h Ker",
         "Koh Ker",
         "Phum\u012d Ka\u00f4h K\u00e9rt"
+    ],
+    "name:vie_x_preferred":[
+        "Koh Ker"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +92,7 @@
         }
     ],
     "wof:id":1343241661,
-    "wof:lastmodified":1537653767,
+    "wof:lastmodified":1564178552,
     "wof:name":"Kaoh Ker",
     "wof:parent_id":421194859,
     "wof:placetype":"locality",

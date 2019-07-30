@@ -38,6 +38,9 @@
         "Koas Krala",
         "Moung Ruessei"
     ],
+    "name:khm_x_preferred":[
+        "\u1782\u17b6\u179f\u17cb\u1780\u17d2\u179a\u17a1"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "statoids:area_km":"",
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1108564711,
-    "wof:lastmodified":1553718169,
+    "wof:lastmodified":1564179279,
     "wof:name":"Koas Krala",
     "wof:parent_id":85673015,
     "wof:placetype":"county",

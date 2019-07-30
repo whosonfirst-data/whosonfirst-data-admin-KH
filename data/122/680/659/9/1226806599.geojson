@@ -29,7 +29,14 @@
         "Phum Ch\u0103n K\u0103m"
     ],
     "name:khm_x_variant":[
-        "\u1797\u17bc\u1798\u17b7 \u1785\u17b6\u1793\u17cb \u1780\u17b6\u17c6"
+        "\u1797\u17bc\u1798\u17b7 \u1785\u17b6\u1793\u17cb \u1780\u17b6\u17c6",
+        "\u1783\u17bb\u17c6\u1791\u17b6\u1793\u1780\u17b6\u17c6"
+    ],
+    "name:pol_x_preferred":[
+        "Tean Kam"
+    ],
+    "name:spa_x_preferred":[
+        "Tean Kam"
     ],
     "name:und_x_variant":[
         "Phum T\u00e9an Kam",
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":1226806599,
-    "wof:lastmodified":1537653862,
+    "wof:lastmodified":1564179841,
     "wof:name":"Tean Kam",
     "wof:parent_id":421183973,
     "wof:placetype":"locality",

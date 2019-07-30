@@ -30,7 +30,11 @@
     ],
     "name:khm_x_variant":[
         "\u1797\u17bc\u1798\u17b7 \u1787\u17d2\u179a\u17c3",
-        "Phum Chrey"
+        "Phum Chrey",
+        "\u1783\u17bb\u17c6\u1787\u17d2\u179a\u17c3"
+    ],
+    "name:spa_x_preferred":[
+        "Chrey"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1209062145,
-    "wof:lastmodified":1537654136,
+    "wof:lastmodified":1564179024,
     "wof:name":"Chrey",
     "wof:parent_id":85632359,
     "wof:placetype":"locality",

@@ -28,6 +28,12 @@
     "name:khm_x_preferred":[
         "\u1797\u17bc\u1798\u17b7 \u1796\u17d2\u179a\u17c3\u179f\u17d2\u179c\u17b6\u1799"
     ],
+    "name:khm_x_variant":[
+        "\u1783\u17bb\u17c6\u1796\u17d2\u179a\u17c3\u179f\u17d2\u179c\u17b6\u1799"
+    ],
+    "name:spa_x_preferred":[
+        "Prey Svay"
+    ],
     "name:und_x_variant":[
         "Phum\u012d Prey Svay"
     ],
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1326991225,
-    "wof:lastmodified":1537653556,
+    "wof:lastmodified":1564178441,
     "wof:name":"Prey Svay",
     "wof:parent_id":1108564739,
     "wof:placetype":"locality",

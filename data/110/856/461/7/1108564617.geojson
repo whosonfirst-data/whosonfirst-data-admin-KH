@@ -37,6 +37,18 @@
     "name:eng_x_variant":[
         "Svay Teab"
     ],
+    "name:ita_x_preferred":[
+        "Bavet"
+    ],
+    "name:khm_x_preferred":[
+        "\u1780\u17d2\u179a\u17bb\u1784\u1794\u17b6\u179c\u17b7\u178f"
+    ],
+    "name:vie_x_preferred":[
+        "Bavet"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u57df\u5e02"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -60,7 +72,7 @@
         }
     ],
     "wof:id":1108564617,
-    "wof:lastmodified":1555220362,
+    "wof:lastmodified":1564179288,
     "wof:name":"Bavet",
     "wof:parent_id":85673105,
     "wof:placetype":"county",

@@ -28,6 +28,12 @@
     "name:khm_x_preferred":[
         "Ta Pon"
     ],
+    "name:khm_x_variant":[
+        "\u1783\u17bb\u17c6\u178f\u17b6\u1794\u17c9\u17bb\u1793"
+    ],
+    "name:spa_x_preferred":[
+        "Ta Pon"
+    ],
     "name:und_x_variant":[
         "Phum Tapor",
         "Phum\u012d Ta P\u014fn"
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1209766247,
-    "wof:lastmodified":1537653429,
+    "wof:lastmodified":1564179073,
     "wof:name":"Ta Pon",
     "wof:parent_id":421202239,
     "wof:placetype":"locality",

@@ -30,7 +30,11 @@
     ],
     "name:khm_x_variant":[
         "\u1797\u17bc\u1798\u17b7 \u1780\u17c4\u17c7\u1796\u1784\u179f\u178f\u17d2\u179c",
-        "Phum Ka\u00f4h Pong Sat"
+        "Phum Ka\u00f4h Pong Sat",
+        "\u1783\u17bb\u17c6\u1780\u17c4\u17c7\u1796\u1784\u179f\u178f\u17d2\u179c"
+    ],
+    "name:pol_x_preferred":[
+        "Kaoh Pong Satv"
     ],
     "name:und_x_variant":[
         "Khum Kos Pong Sath",
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1242634819,
-    "wof:lastmodified":1537653764,
+    "wof:lastmodified":1564179676,
     "wof:name":"Kaoh Pong Satv",
     "wof:parent_id":421170329,
     "wof:placetype":"locality",

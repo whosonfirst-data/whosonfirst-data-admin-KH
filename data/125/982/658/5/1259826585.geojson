@@ -30,7 +30,8 @@
     ],
     "name:khm_x_variant":[
         "\u1797\u17bc\u1798\u17b7 \u179c\u178f\u17d2\u178f\u1782\u179a",
-        "Phum V\u00f4at K\u00f4r"
+        "Phum V\u00f4at K\u00f4r",
+        "\u179f\u1784\u17d2\u1780\u17b6\u178f\u17cb\u179c\u178f\u17d2\u178f\u1782\u179a"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +56,7 @@
         }
     ],
     "wof:id":1259826585,
-    "wof:lastmodified":1537653981,
+    "wof:lastmodified":1564179755,
     "wof:name":"Voat Kor",
     "wof:parent_id":421171545,
     "wof:placetype":"locality",

@@ -25,11 +25,32 @@
     "iso:country":"KH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Phum\u012d Pr\u00eak Khsay"
+    ],
+    "name:fra_x_preferred":[
+        "Neak Luong"
+    ],
+    "name:ita_x_preferred":[
+        "Neak Luong"
+    ],
     "name:khm_x_preferred":[
         "Neak Loeang"
     ],
+    "name:khm_x_variant":[
+        "\u17a2\u17d2\u1793\u1780\u179b\u17bf\u1784"
+    ],
+    "name:ron_x_preferred":[
+        "Net Leung"
+    ],
+    "name:swe_x_preferred":[
+        "Neak Leung"
+    ],
     "name:und_x_variant":[
         "Phum\u012d \u2019Ne\u0103k L\u0153\u0103ng"
+    ],
+    "name:vie_x_preferred":[
+        "Neak Loeang"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +76,7 @@
         }
     ],
     "wof:id":1276209913,
-    "wof:lastmodified":1537653660,
+    "wof:lastmodified":1564178879,
     "wof:name":"Neak Loeang",
     "wof:parent_id":421191397,
     "wof:placetype":"locality",

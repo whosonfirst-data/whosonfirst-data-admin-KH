@@ -25,12 +25,36 @@
     "iso:country":"KH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Vien"
+    ],
+    "name:deu_x_preferred":[
+        "Vien"
+    ],
+    "name:fra_x_preferred":[
+        "Vien"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05d9\u05df"
+    ],
     "name:khm_x_preferred":[
         "Vien"
     ],
     "name:khm_x_variant":[
         "Phum\u012d Vi\u0115n",
         "Phum Vi\u0115n"
+    ],
+    "name:pol_x_preferred":[
+        "Vien"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u044c\u0435\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Vien"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412'\u0454\u043d\u043d"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -49,7 +73,7 @@
         }
     ],
     "wof:id":1209270353,
-    "wof:lastmodified":1537653342,
+    "wof:lastmodified":1564179120,
     "wof:name":"Vien",
     "wof:parent_id":85632359,
     "wof:placetype":"locality",

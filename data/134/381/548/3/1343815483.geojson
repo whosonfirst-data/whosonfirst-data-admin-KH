@@ -28,6 +28,15 @@
     "name:khm_x_preferred":[
         "Sarongk"
     ],
+    "name:khm_x_variant":[
+        "\u1783\u17bb\u17c6\u179f\u17b6\u179a\u1784\u17d2\u1782"
+    ],
+    "name:pol_x_preferred":[
+        "Sarongk"
+    ],
+    "name:spa_x_preferred":[
+        "Sarongk"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1343815483,
-    "wof:lastmodified":1537653996,
+    "wof:lastmodified":1564178652,
     "wof:name":"Sarongk",
     "wof:parent_id":421181961,
     "wof:placetype":"locality",

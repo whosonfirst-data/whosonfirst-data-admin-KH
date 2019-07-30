@@ -30,7 +30,14 @@
     ],
     "name:khm_x_variant":[
         "Phum R\u00e9ach Bo",
-        "\u1797\u17bc\u1798\u17b7 \u179a\u17b6\u1787\u1794\u17bc\u179a\u178e\u17cc"
+        "\u1797\u17bc\u1798\u17b7 \u179a\u17b6\u1787\u1794\u17bc\u179a\u178e\u17cc",
+        "\u1783\u17bb\u17c6\u179f\u17d2\u179b\u1780\u17d2\u179a\u17b6\u1798"
+    ],
+    "name:pol_x_preferred":[
+        "Sla Kram"
+    ],
+    "name:spa_x_preferred":[
+        "Sla Kram"
     ],
     "name:und_x_variant":[
         "Phum\u012d Reach Bo",
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":1225813565,
-    "wof:lastmodified":1537653545,
+    "wof:lastmodified":1564179889,
     "wof:name":"Sla Kram",
     "wof:parent_id":421204115,
     "wof:placetype":"locality",

@@ -30,7 +30,11 @@
     ],
     "name:khm_x_variant":[
         "\u1797\u17bc\u1798\u17b7 \u1797\u17d2\u1793\u17c0\u178f",
-        "Phum Phni\u0115t"
+        "Phum Phni\u0115t",
+        "\u1783\u17bb\u17c6\u1797\u17d2\u1793\u17c0\u178f"
+    ],
+    "name:pol_x_preferred":[
+        "Phniet"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1327389375,
-    "wof:lastmodified":1537653993,
+    "wof:lastmodified":1564178337,
     "wof:name":"Phniet",
     "wof:parent_id":421170329,
     "wof:placetype":"locality",

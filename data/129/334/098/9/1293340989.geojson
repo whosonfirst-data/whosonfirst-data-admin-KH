@@ -28,6 +28,12 @@
     "name:khm_x_preferred":[
         "Boeng Reang"
     ],
+    "name:khm_x_variant":[
+        "\u1783\u17bb\u17c6\u1794\u17b9\u1784\u179a\u17b6\u17c6\u1784"
+    ],
+    "name:spa_x_preferred":[
+        "Boeng Reang"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1293340989,
-    "wof:lastmodified":1537653968,
+    "wof:lastmodified":1564178772,
     "wof:name":"Boeng Reang",
     "wof:parent_id":1108564683,
     "wof:placetype":"locality",

@@ -28,6 +28,9 @@
     "name:khm_x_preferred":[
         "Chakrei"
     ],
+    "name:khm_x_variant":[
+        "\u1783\u17bb\u17c6\u1785\u1780\u17d2\u179a\u17b8"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1293550475,
-    "wof:lastmodified":1537653997,
+    "wof:lastmodified":1564178695,
     "wof:name":"Chakrei",
     "wof:parent_id":1108564761,
     "wof:placetype":"locality",

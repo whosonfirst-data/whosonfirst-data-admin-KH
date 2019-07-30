@@ -25,8 +25,20 @@
     "iso:country":"KH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Prasat"
+    ],
+    "name:fra_x_preferred":[
+        "Prasat"
+    ],
+    "name:ita_x_preferred":[
+        "Prasat"
+    ],
     "name:khm_x_preferred":[
         "Prasat"
+    ],
+    "name:khm_x_variant":[
+        "\u1783\u17bb\u17c6\u1794\u17d2\u179a\u17b6\u179f\u17b6\u1791"
     ],
     "name:und_x_variant":[
         "Phum\u012d Pr\u00e2sat"
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1209320489,
-    "wof:lastmodified":1537653601,
+    "wof:lastmodified":1564179092,
     "wof:name":"Prasat",
     "wof:parent_id":85632359,
     "wof:placetype":"locality",

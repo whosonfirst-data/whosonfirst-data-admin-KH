@@ -28,6 +28,15 @@
     "name:khm_x_preferred":[
         "Bos Sbov"
     ],
+    "name:khm_x_variant":[
+        "\u1783\u17bb\u17c6\u1794\u17bb\u179f\u17d2\u1794\u17bc\u179c"
+    ],
+    "name:pol_x_preferred":[
+        "Bos Sbov"
+    ],
+    "name:spa_x_preferred":[
+        "Bos Sbov"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1259551151,
-    "wof:lastmodified":1537653995,
+    "wof:lastmodified":1564179733,
     "wof:name":"Bos Sbov",
     "wof:parent_id":421183973,
     "wof:placetype":"locality",

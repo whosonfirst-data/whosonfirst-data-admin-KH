@@ -28,6 +28,12 @@
     "name:khm_x_preferred":[
         "Kampong Preah"
     ],
+    "name:khm_x_variant":[
+        "\u1783\u17bb\u17c6\u1780\u17c6\u1796\u1784\u17cb\u1796\u17d2\u179a\u17c7"
+    ],
+    "name:spa_x_preferred":[
+        "Kampong Preah"
+    ],
     "name:und_x_variant":[
         "Phum Kompong Preas",
         "Phum\u012d K\u00e2mp\u00f3ng Pre\u0103h"
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1293436933,
-    "wof:lastmodified":1537653788,
+    "wof:lastmodified":1564178834,
     "wof:name":"Kampong Preah",
     "wof:parent_id":421202239,
     "wof:placetype":"locality",

@@ -19,6 +19,9 @@
     "name:fra_x_preferred":[
         "Prasat"
     ],
+    "name:ita_x_preferred":[
+        "Prasat"
+    ],
     "name:khm_x_preferred":[
         "\u1783\u17bb\u17c6\u1794\u17d2\u179a\u17b6\u179f\u17b6\u1791"
     ],
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":421188879,
-    "wof:lastmodified":1527716290,
+    "wof:lastmodified":1564179520,
     "wof:name":"Prasat",
     "wof:parent_id":1108564877,
     "wof:placetype":"locality",

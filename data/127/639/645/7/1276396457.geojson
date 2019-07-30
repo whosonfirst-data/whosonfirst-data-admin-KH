@@ -28,6 +28,12 @@
     "name:khm_x_preferred":[
         "Chrey"
     ],
+    "name:khm_x_variant":[
+        "\u1783\u17bb\u17c6\u1787\u17d2\u179a\u17c3"
+    ],
+    "name:spa_x_preferred":[
+        "Chrey"
+    ],
     "name:und_x_variant":[
         "Phum Kok Chrey",
         "Phum\u012d Chrey"
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1276396457,
-    "wof:lastmodified":1537653832,
+    "wof:lastmodified":1564178983,
     "wof:name":"Chrey",
     "wof:parent_id":421198129,
     "wof:placetype":"locality",

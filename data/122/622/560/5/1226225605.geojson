@@ -28,6 +28,15 @@
     "name:khm_x_preferred":[
         "Ponley"
     ],
+    "name:khm_x_variant":[
+        "\u1783\u17bb\u17c6\u1796\u1793\u17d2\u179b\u17c3"
+    ],
+    "name:pol_x_preferred":[
+        "P\u00f4nley"
+    ],
+    "name:spa_x_preferred":[
+        "Ponley"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1226225605,
-    "wof:lastmodified":1537654052,
+    "wof:lastmodified":1564179907,
     "wof:name":"Ponley",
     "wof:parent_id":1108564729,
     "wof:placetype":"locality",

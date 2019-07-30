@@ -30,7 +30,14 @@
     ],
     "name:khm_x_variant":[
         "\u1797\u17bc\u1798\u17b7 \u1794\u17bb\u179f\u179f\u17d2\u1794\u17bc\u179c",
-        "Phum B\u014fs Sbov"
+        "Phum B\u014fs Sbov",
+        "\u1783\u17bb\u17c6\u1794\u17bb\u179f\u17d2\u1794\u17bc\u179c"
+    ],
+    "name:pol_x_preferred":[
+        "Bos Sbov"
+    ],
+    "name:spa_x_preferred":[
+        "Bos Sbov"
     ],
     "name:und_x_variant":[
         "Phum\u012d B\u014fs Sbov"
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":1344025777,
-    "wof:lastmodified":1537653873,
+    "wof:lastmodified":1564178626,
     "wof:name":"Bos Sbov",
     "wof:parent_id":1108564763,
     "wof:placetype":"locality",

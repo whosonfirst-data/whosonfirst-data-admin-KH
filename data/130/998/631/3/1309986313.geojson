@@ -28,6 +28,12 @@
     "name:khm_x_preferred":[
         "Prey Svay"
     ],
+    "name:khm_x_variant":[
+        "\u1783\u17bb\u17c6\u1796\u17d2\u179a\u17c3\u179f\u17d2\u179c\u17b6\u1799"
+    ],
+    "name:spa_x_preferred":[
+        "Prey Svay"
+    ],
     "name:und_x_variant":[
         "P\u2019um Prei Svay",
         "Phum\u012d Prey Svay (1)"
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1309986313,
-    "wof:lastmodified":1537653556,
+    "wof:lastmodified":1564179456,
     "wof:name":"Prey Svay",
     "wof:parent_id":1108564595,
     "wof:placetype":"locality",
