@@ -14,6 +14,9 @@
     "itu:country_code":[
         "855"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "KH"
+    ],
     "lbl:latitude":12.635759,
     "lbl:longitude":104.480812,
     "mps:latitude":12.635759,
@@ -1061,16 +1064,13 @@
         }
     ],
     "wof:id":85632359,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "khm"
     ],
     "wof:lang_x_spoken":[
         "khm"
     ],
-    "wof:lastmodified":1563320463,
+    "wof:lastmodified":1565725074,
     "wof:name":"Cambodia",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SR"
+    ],
     "lbl:latitude":11.14049,
     "lbl:longitude":105.832197,
     "mps:latitude":11.079757,
@@ -288,16 +291,13 @@
         }
     ],
     "wof:id":85673105,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "khm"
     ],
     "wof:lang_x_spoken":[
         "khm"
     ],
-    "wof:lastmodified":1563320457,
+    "wof:lastmodified":1565725073,
     "wof:name":"Svay Rieng",
     "wof:parent_id":85632359,
     "wof:placetype":"region",

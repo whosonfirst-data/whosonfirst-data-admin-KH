@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "PH"
+    ],
     "lbl:latitude":13.768998,
     "lbl:longitude":105.059303,
     "mps:latitude":13.786322,
@@ -297,16 +300,13 @@
         }
     ],
     "wof:id":85673071,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "khm"
     ],
     "wof:lang_x_spoken":[
         "khm"
     ],
-    "wof:lastmodified":1563320455,
+    "wof:lastmodified":1565725073,
     "wof:name":"Preah Vih\u00e9ar ",
     "wof:parent_id":85632359,
     "wof:placetype":"region",

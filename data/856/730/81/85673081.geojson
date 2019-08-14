@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "KH"
+    ],
     "lbl:latitude":12.739774,
     "lbl:longitude":106.05978,
     "mps:latitude":12.792028,
@@ -285,16 +288,13 @@
         }
     ],
     "wof:id":85673081,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "khm"
     ],
     "wof:lang_x_spoken":[
         "khm"
     ],
-    "wof:lastmodified":1563320447,
+    "wof:lastmodified":1565725072,
     "wof:name":"Kr\u00e2ch\u00e9h",
     "wof:parent_id":85632359,
     "wof:placetype":"region",

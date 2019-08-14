@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "OM"
+    ],
     "lbl:latitude":13.710777,
     "lbl:longitude":103.021814,
     "mps:latitude":13.728638,
@@ -309,16 +312,13 @@
         }
     ],
     "wof:id":85673011,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "khm"
     ],
     "wof:lang_x_spoken":[
         "khm"
     ],
-    "wof:lastmodified":1563320444,
+    "wof:lastmodified":1565725071,
     "wof:name":"B\u00e2nt\u00e9ay M\u00e9anchey",
     "wof:parent_id":85632359,
     "wof:placetype":"region",

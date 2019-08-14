@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "KG"
+    ],
     "lbl:latitude":12.131357,
     "lbl:longitude":104.566438,
     "mps:latitude":12.155414,
@@ -297,16 +300,13 @@
         }
     ],
     "wof:id":85673047,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "khm"
     ],
     "wof:lang_x_spoken":[
         "khm"
     ],
-    "wof:lastmodified":1563320456,
+    "wof:lastmodified":1565725073,
     "wof:name":"K\u00e2mp\u00f3ng Chhnang",
     "wof:parent_id":85632359,
     "wof:placetype":"region",

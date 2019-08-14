@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "ST"
+    ],
     "lbl:latitude":13.630531,
     "lbl:longitude":106.007896,
     "mps:latitude":13.723438,
@@ -286,16 +289,13 @@
         }
     ],
     "wof:id":85673075,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "khm"
     ],
     "wof:lang_x_spoken":[
         "khm"
     ],
-    "wof:lastmodified":1563320446,
+    "wof:lastmodified":1565725072,
     "wof:name":"St\u0153ng Tr\u00eang",
     "wof:parent_id":85632359,
     "wof:placetype":"region",

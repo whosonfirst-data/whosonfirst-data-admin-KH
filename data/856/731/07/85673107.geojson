@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "TA"
+    ],
     "lbl:latitude":10.947663,
     "lbl:longitude":104.840662,
     "mps:latitude":10.99303,
@@ -287,16 +290,13 @@
         }
     ],
     "wof:id":85673107,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "khm"
     ],
     "wof:lang_x_spoken":[
         "khm"
     ],
-    "wof:lastmodified":1563320458,
+    "wof:lastmodified":1565725073,
     "wof:name":"Tak\u00eav",
     "wof:parent_id":85632359,
     "wof:placetype":"region",

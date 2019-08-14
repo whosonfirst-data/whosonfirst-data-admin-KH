@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "KB"
+    ],
     "lbl:latitude":10.532996,
     "lbl:longitude":104.340331,
     "mps:latitude":10.530758,
@@ -278,16 +281,13 @@
         }
     ],
     "wof:id":85673099,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "khm"
     ],
     "wof:lang_x_spoken":[
         "khm"
     ],
-    "wof:lastmodified":1563320449,
+    "wof:lastmodified":1565725072,
     "wof:name":"Kep",
     "wof:parent_id":85632359,
     "wof:placetype":"region",

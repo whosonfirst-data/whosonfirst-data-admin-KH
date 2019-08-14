@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MK"
+    ],
     "lbl:latitude":12.723161,
     "lbl:longitude":107.042396,
     "mps:latitude":12.735335,
@@ -294,16 +297,13 @@
         }
     ],
     "wof:id":85673085,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "khm"
     ],
     "wof:lang_x_spoken":[
         "khm"
     ],
-    "wof:lastmodified":1563320454,
+    "wof:lastmodified":1565725073,
     "wof:name":"M\u00f4nd\u00f3l Kiri",
     "wof:parent_id":85632359,
     "wof:placetype":"region",

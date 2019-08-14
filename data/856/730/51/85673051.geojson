@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "KN"
+    ],
     "lbl:latitude":11.32127,
     "lbl:longitude":105.10434,
     "mps:latitude":11.366696,
@@ -291,16 +294,13 @@
         }
     ],
     "wof:id":85673051,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "khm"
     ],
     "wof:lang_x_spoken":[
         "khm"
     ],
-    "wof:lastmodified":1563320441,
+    "wof:lastmodified":1565725070,
     "wof:name":"K\u00e2ndal",
     "wof:parent_id":85632359,
     "wof:placetype":"region",

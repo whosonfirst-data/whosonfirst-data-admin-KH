@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "KK"
+    ],
     "lbl:latitude":11.515355,
     "lbl:longitude":103.456173,
     "mps:latitude":11.516283,
@@ -292,16 +295,13 @@
         }
     ],
     "wof:id":85673019,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "khm"
     ],
     "wof:lang_x_spoken":[
         "khm"
     ],
-    "wof:lastmodified":1563320446,
+    "wof:lastmodified":1565725071,
     "wof:name":"Ka\u00f4h Kong",
     "wof:parent_id":85632359,
     "wof:placetype":"region",

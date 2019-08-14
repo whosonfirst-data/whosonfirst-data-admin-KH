@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "KS"
+    ],
     "lbl:latitude":11.494495,
     "lbl:longitude":104.343588,
     "mps:latitude":11.526628,
@@ -282,16 +285,13 @@
         }
     ],
     "wof:id":85673053,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "khm"
     ],
     "wof:lang_x_spoken":[
         "khm"
     ],
-    "wof:lastmodified":1563320447,
+    "wof:lastmodified":1565725072,
     "wof:name":"K\u00e2mp\u00f3ng Sp\u0153",
     "wof:parent_id":85632359,
     "wof:placetype":"region",

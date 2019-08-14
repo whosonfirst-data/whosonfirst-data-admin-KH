@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "KC"
+    ],
     "lbl:latitude":12.05501,
     "lbl:longitude":105.306407,
     "mps:latitude":12.047792,
@@ -307,16 +310,13 @@
         }
     ],
     "wof:id":85673041,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "khm"
     ],
     "wof:lang_x_spoken":[
         "khm"
     ],
-    "wof:lastmodified":1563320452,
+    "wof:lastmodified":1565725072,
     "wof:name":"K\u00e2mp\u00f3ng Cham",
     "wof:parent_id":85632359,
     "wof:placetype":"region",

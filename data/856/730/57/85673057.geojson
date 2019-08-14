@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "KT"
+    ],
     "lbl:latitude":12.743513,
     "lbl:longitude":105.110873,
     "mps:latitude":12.766548,
@@ -294,16 +297,13 @@
         }
     ],
     "wof:id":85673057,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "khm"
     ],
     "wof:lang_x_spoken":[
         "khm"
     ],
-    "wof:lastmodified":1563320440,
+    "wof:lastmodified":1565725070,
     "wof:name":"K\u00e2mp\u00f3ng Thum",
     "wof:parent_id":85632359,
     "wof:placetype":"region",

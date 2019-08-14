@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "KA"
+    ],
     "lbl:latitude":10.662551,
     "lbl:longitude":103.752383,
     "mps:latitude":10.669011,
@@ -312,16 +315,13 @@
         }
     ],
     "wof:id":85673101,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "khm"
     ],
     "wof:lang_x_spoken":[
         "khm"
     ],
-    "wof:lastmodified":1563320459,
+    "wof:lastmodified":1565725073,
     "wof:name":"Krong Preah Sihanouk",
     "wof:parent_id":85632359,
     "wof:placetype":"region",

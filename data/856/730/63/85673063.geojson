@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "autonomous municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "PP"
+    ],
     "lbl:latitude":11.565413,
     "lbl:longitude":104.849596,
     "mps:latitude":11.54881,
@@ -525,16 +528,13 @@
         }
     ],
     "wof:id":85673063,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "khm"
     ],
     "wof:lang_x_spoken":[
         "khm"
     ],
-    "wof:lastmodified":1564178662,
+    "wof:lastmodified":1565725072,
     "wof:name":"Phnom Penh",
     "wof:parent_id":85632359,
     "wof:placetype":"region",

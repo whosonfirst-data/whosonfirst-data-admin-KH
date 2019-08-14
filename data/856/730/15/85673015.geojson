@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BA"
+    ],
     "lbl:latitude":12.955115,
     "lbl:longitude":103.179523,
     "mps:latitude":12.991848,
@@ -289,16 +292,13 @@
         }
     ],
     "wof:id":85673015,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "khm"
     ],
     "wof:lang_x_spoken":[
         "khm"
     ],
-    "wof:lastmodified":1563320453,
+    "wof:lastmodified":1565725073,
     "wof:name":"Batd\u00e2mb\u00e2ng",
     "wof:parent_id":85632359,
     "wof:placetype":"region",

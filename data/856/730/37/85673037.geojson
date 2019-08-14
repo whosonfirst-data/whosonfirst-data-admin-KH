@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "PL"
+    ],
     "lbl:latitude":12.878571,
     "lbl:longitude":102.632725,
     "mps:latitude":12.877295,
@@ -293,16 +296,13 @@
         }
     ],
     "wof:id":85673037,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "khm"
     ],
     "wof:lang_x_spoken":[
         "khm"
     ],
-    "wof:lastmodified":1563320448,
+    "wof:lastmodified":1565725072,
     "wof:name":"Krong Pailin",
     "wof:parent_id":85632359,
     "wof:placetype":"region",
