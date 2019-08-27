@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"103.59418,11.0755,103.63418,11.1155",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:khm_x_preferred":[
         "Ta Baen"
     ],
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":1210012097,
-    "wof:lastmodified":1564179161,
+    "wof:lastmodified":1566727418,
     "wof:name":"Ta Baen",
     "wof:parent_id":421183117,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":11.577224,
     "lbl:longitude":105.065359,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Kandal",
     "meso:dissme":"Lvea AemKandal",
     "meso:gadm_admin":"Lvea Aem",
@@ -31,6 +33,7 @@
     "mps:longitude":105.065359,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Lvea Aem"
     ],
@@ -56,7 +59,7 @@
         "\u52d2\u7ef4\u6069\u53bf"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1108564725,
-    "wof:lastmodified":1563321082,
+    "wof:lastmodified":1566727456,
     "wof:name":"Lvea Aem",
     "wof:parent_id":85673051,
     "wof:placetype":"county",

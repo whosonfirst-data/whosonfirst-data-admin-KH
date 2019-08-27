@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"104.77272,10.85453,104.81272,10.89453",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Phum Phnom Khleng",
         "Phum\u012d Phnum Khl\u00eang"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1293176117,
-    "wof:lastmodified":1537653628,
+    "wof:lastmodified":1566727327,
     "wof:name":"Phumi Phnum Khleng",
     "wof:parent_id":1108564881,
     "wof:placetype":"locality",

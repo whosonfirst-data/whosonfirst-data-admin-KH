@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"103.7098,13.38487,103.7498,13.42487",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Prasat"
     ],
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":1310559491,
-    "wof:lastmodified":1564179329,
+    "wof:lastmodified":1566727471,
     "wof:name":"Prasat",
     "wof:parent_id":421185505,
     "wof:placetype":"locality",

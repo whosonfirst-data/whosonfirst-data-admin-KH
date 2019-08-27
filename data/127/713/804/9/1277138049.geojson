@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"102.58306,13.07333,102.62306,13.11333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Phum Bu K\u00e2nla\u00f4ng",
         "Phum\u012d Bu K\u00e2nla\u00f4ng"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1277138049,
-    "wof:lastmodified":1537653872,
+    "wof:lastmodified":1566727353,
     "wof:name":"Phumi Bu Kanlaong",
     "wof:parent_id":1108564815,
     "wof:placetype":"locality",

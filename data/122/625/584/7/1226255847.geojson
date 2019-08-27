@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"105.56333,12.39667,105.60333,12.43667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kohn Batong",
         "Phum\u012d K\u014fnh Pr\u00e2t\u00f4ng"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226255847,
-    "wof:lastmodified":1537653721,
+    "wof:lastmodified":1566727633,
     "wof:name":"Phumi Konh Pratong",
     "wof:parent_id":1108564853,
     "wof:placetype":"locality",

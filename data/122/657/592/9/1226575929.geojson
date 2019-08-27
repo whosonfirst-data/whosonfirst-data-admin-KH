@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"104.58007,11.30308,104.62007,11.34308",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Phum\u012d R\u00f4le\u0103ng T\u0153\u0306k"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1226575929,
-    "wof:lastmodified":1537653533,
+    "wof:lastmodified":1566727626,
     "wof:name":"Phum Rum Teong Tuk",
     "wof:parent_id":1108564715,
     "wof:placetype":"locality",

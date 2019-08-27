@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"104.63977,11.98856,104.67977,12.02856",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Krasas",
         "Phum\u012d Kr\u00e2sas"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1326937657,
-    "wof:lastmodified":1537653685,
+    "wof:lastmodified":1566727205,
     "wof:name":"Phumi Krasas",
     "wof:parent_id":1108564679,
     "wof:placetype":"locality",

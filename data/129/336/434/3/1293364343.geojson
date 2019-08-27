@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"104.17333,10.567,104.21333,10.607",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:khm_x_preferred":[
         "Traeuy Kaoh"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1293364343,
-    "wof:lastmodified":1537654012,
+    "wof:lastmodified":1566727288,
     "wof:name":"Traeuy Kaoh",
     "wof:parent_id":1108564681,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"105.53086,11.66764,105.57086,11.70764",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Phum Basrey",
         "Phum\u012d Pr\u00e2sr\u00ea"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1310089099,
-    "wof:lastmodified":1537653598,
+    "wof:lastmodified":1566727473,
     "wof:name":"Phumi Prasre",
     "wof:parent_id":1108564691,
     "wof:placetype":"locality",

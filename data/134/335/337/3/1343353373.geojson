@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"104.94022,11.63504,104.98022,11.67504",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Vat Prek Krabau",
         "Preck Kabau",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1343353373,
-    "wof:lastmodified":1537653585,
+    "wof:lastmodified":1566727263,
     "wof:name":"Phumi Prek Krabau",
     "wof:parent_id":421188351,
     "wof:placetype":"locality",

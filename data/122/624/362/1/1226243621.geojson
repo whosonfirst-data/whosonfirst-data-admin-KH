@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"104.54082,11.47281,104.58082,11.51281",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Phum Ta Koam",
         "Phum\u012d Taka\u00f4m",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226243621,
-    "wof:lastmodified":1537653443,
+    "wof:lastmodified":1566727638,
     "wof:name":"Phumi Ta Koam",
     "wof:parent_id":1108564819,
     "wof:placetype":"locality",

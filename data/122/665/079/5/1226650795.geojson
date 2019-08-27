@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"105.13923,12.84935,105.17923,12.88935",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Phum\u012d Ch\u014f\u00e2m B\u0153\u0306ng"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1226650795,
-    "wof:lastmodified":1537653842,
+    "wof:lastmodified":1566727647,
     "wof:name":"Cheamboeung",
     "wof:parent_id":421182521,
     "wof:placetype":"locality",

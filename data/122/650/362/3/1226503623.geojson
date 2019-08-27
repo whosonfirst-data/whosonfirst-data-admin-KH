@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"103.34508,12.89949,103.38508,12.93949",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:khm_x_preferred":[
         "Koun Khlong"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1226503623,
-    "wof:lastmodified":1537653570,
+    "wof:lastmodified":1566727627,
     "wof:name":"Koun Khlong",
     "wof:parent_id":1108564739,
     "wof:placetype":"locality",

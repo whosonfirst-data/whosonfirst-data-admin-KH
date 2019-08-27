@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":12.739774,
     "lbl:longitude":106.05978,
+    "lbl:min_zoom":8.0,
     "mps:latitude":12.792028,
     "mps:longitude":106.057543,
     "mz:hierarchy_label":1,
@@ -146,7 +147,7 @@
         "Kratie"
     ],
     "name:tam_x_preferred":[
-        "\u0b95\u0bcd\u0bb0\u0bbe\u0b9f\u0bbf\u0bb2\u0bcd  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+        "\u0b95\u0bcd\u0bb0\u0bbe\u0b9f\u0bbf\u0bb2\u0bcd \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c15\u0c4d\u0c30\u0c47\u0c1f\u0c40 \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
@@ -160,7 +161,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0440\u043e\u0432\u0456\u043d\u0446\u0456\u044f \u041a\u0440\u0430\u0442\u044c\u0435\u0445"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Province de Kratie"
     ],
     "name:urd_x_preferred":[
@@ -247,9 +248,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2008-03-03",
+    "src:population_date":"2008-03-03",
     "statoids:area_km":"10,094",
     "statoids:area_mi":"3,897",
     "statoids:as_of_date":"2008-03-03",
@@ -274,7 +275,7 @@
         "gp:id":2344935,
         "hasc:id":"KH.KH",
         "iso:id":"KH-10",
-        "qs:id":1134963,
+        "qs_pg:id":1134963,
         "unlc:id":"KH-10",
         "wd:id":"Q785896"
     },
@@ -294,11 +295,10 @@
     "wof:lang_x_spoken":[
         "khm"
     ],
-    "wof:lastmodified":1565725072,
+    "wof:lastmodified":1566727283,
     "wof:name":"Kr\u00e2ch\u00e9h",
     "wof:parent_id":85632359,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":319217,
     "wof:population_rank":10,

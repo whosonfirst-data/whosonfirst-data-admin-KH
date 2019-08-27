@@ -10,8 +10,12 @@
     "geom:latitude":11.825601,
     "geom:longitude":104.743309,
     "iso:country":"KH",
+    "lbl:bbox":"104.723309,11.805601,104.763309,11.845601",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:dan_x_preferred":[
         "Udong"
@@ -92,7 +96,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1028492,
-        "qs:id":1104851,
+        "qs_pg:id":1104851,
         "wd:id":"Q2431796"
     },
     "wof:country":"KH",
@@ -108,7 +112,7 @@
         }
     ],
     "wof:id":421188555,
-    "wof:lastmodified":1563321328,
+    "wof:lastmodified":1566727524,
     "wof:name":"Odong",
     "wof:parent_id":421177965,
     "wof:placetype":"locality",

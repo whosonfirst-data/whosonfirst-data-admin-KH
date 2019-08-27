@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"104.47421,10.81921,104.51421,10.85921",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:khm_x_preferred":[
         "Pramoul"
     ],
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209278805,
-    "wof:lastmodified":1537654010,
+    "wof:lastmodified":1566727407,
     "wof:name":"Pramoul",
     "wof:parent_id":85632359,
     "wof:placetype":"locality",

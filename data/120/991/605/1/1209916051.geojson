@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"104.55725,12.22874,104.59725,12.26874",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Phum\u012d Pap Lang",
         "Phum\u012d Pa Lang"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1209916051,
-    "wof:lastmodified":1537653645,
+    "wof:lastmodified":1566727380,
     "wof:name":"Phumi Pa Lang",
     "wof:parent_id":421198923,
     "wof:placetype":"locality",

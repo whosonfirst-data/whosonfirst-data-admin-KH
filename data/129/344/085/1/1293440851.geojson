@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"103.7232,10.55828,103.7632,10.59828",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1293440851,
-    "wof:lastmodified":1536853298,
+    "wof:lastmodified":1566727331,
     "wof:name":"Phumi Koki",
     "wof:parent_id":421188243,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"104.2021,13.26893,104.2421,13.30893",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:khm_x_preferred":[
         "Phum L\u00e9ang P\u00f4ng"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1293447797,
-    "wof:lastmodified":1537653677,
+    "wof:lastmodified":1566727331,
     "wof:name":"Phum Leang Pong",
     "wof:parent_id":1108564639,
     "wof:placetype":"locality",

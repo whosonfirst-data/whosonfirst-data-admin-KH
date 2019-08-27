@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"104.60326,11.71352,104.64326,11.75352",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Phum Kr\u00e2sang Phaem",
         "Phum\u012d Tr\u00e2pe\u0103ng Kr\u00e2s\u0103ng"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1225950607,
-    "wof:lastmodified":1537653375,
+    "wof:lastmodified":1566727609,
     "wof:name":"Phumi Trapeang Krasang",
     "wof:parent_id":421177965,
     "wof:placetype":"locality",

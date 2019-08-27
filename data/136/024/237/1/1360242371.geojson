@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"103.02734,13.92484,103.06734,13.96484",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kumru"
     ],
@@ -66,7 +70,7 @@
         }
     ],
     "wof:id":1360242371,
-    "wof:lastmodified":1564179408,
+    "wof:lastmodified":1566727492,
     "wof:name":"Kumru",
     "wof:parent_id":421203293,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"105.05378,12.0371,105.09378,12.0771",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Skun"
     ],
@@ -37,7 +41,6 @@
     "name:und_x_variant":[
         "Phum\u012d Sk\u00f3n",
         "Poste Skoun Pongro",
-        "Skoun",
         "Sk\u00f3n"
     ],
     "src:geom":"geonames",
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1327240307,
-    "wof:lastmodified":1564178399,
+    "wof:lastmodified":1566727213,
     "wof:name":"Skon",
     "wof:parent_id":421195831,
     "wof:placetype":"locality",

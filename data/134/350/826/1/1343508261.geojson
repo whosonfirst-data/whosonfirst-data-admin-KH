@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"103.52215,12.67973,103.56215,12.71973",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:khm_x_preferred":[
         "Srama Meas"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343508261,
-    "wof:lastmodified":1537653479,
+    "wof:lastmodified":1566727262,
     "wof:name":"Srama Meas",
     "wof:parent_id":1108564739,
     "wof:placetype":"locality",

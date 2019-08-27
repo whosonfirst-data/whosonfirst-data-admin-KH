@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"102.81515,13.17962,102.85515,13.21962",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Phum\u012d B\u0153\u0306ng Slep",
         "Phum\u012d B\u0153\u0306ng Sl\u0115b"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1243314119,
-    "wof:lastmodified":1537653878,
+    "wof:lastmodified":1566727531,
     "wof:name":"Phumi Boeng Sleb",
     "wof:parent_id":1108564615,
     "wof:placetype":"locality",

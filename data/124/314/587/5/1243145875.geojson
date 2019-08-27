@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"105.34074,11.21601,105.38074,11.25601",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Phum\u012d B\u0153\u0306ng R\u00f4kar"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1243145875,
-    "wof:lastmodified":1537653878,
+    "wof:lastmodified":1566727551,
     "wof:name":"Phum Beng Roka",
     "wof:parent_id":1108564593,
     "wof:placetype":"locality",

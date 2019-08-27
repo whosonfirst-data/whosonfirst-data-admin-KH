@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"105.22222,13.15899,105.26222,13.19899",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1326735281,
-    "wof:lastmodified":1536691450,
+    "wof:lastmodified":1566727201,
     "wof:name":"Phumi Danghet",
     "wof:parent_id":421188047,
     "wof:placetype":"locality",

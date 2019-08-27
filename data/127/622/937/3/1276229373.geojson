@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"104.54472,12.27854,104.58472,12.31854",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Top Kb\u00eang",
         "Phum\u012d To\u00e2p Tb\u00eang",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276229373,
-    "wof:lastmodified":1537653387,
+    "wof:lastmodified":1566727359,
     "wof:name":"Phumi Top Tbeng",
     "wof:parent_id":421198923,
     "wof:placetype":"locality",

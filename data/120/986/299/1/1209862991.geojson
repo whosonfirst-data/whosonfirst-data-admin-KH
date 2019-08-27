@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"103.19233,13.12816,103.23233,13.16816",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:khm_x_preferred":[
         "Phum Su\u014fs Ei"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1209862991,
-    "wof:lastmodified":1537653982,
+    "wof:lastmodified":1566727417,
     "wof:name":"Phum Suos Ei",
     "wof:parent_id":421172391,
     "wof:placetype":"locality",

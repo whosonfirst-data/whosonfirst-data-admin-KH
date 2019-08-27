@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"104.66283,10.79382,104.70283,10.83382",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Phum\u012d Prey Thom",
         "Phum\u012d Prey Thum"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1192992427,
-    "wof:lastmodified":1537653554,
+    "wof:lastmodified":1566727429,
     "wof:name":"Phumi Prey Thum",
     "wof:parent_id":1108564581,
     "wof:placetype":"locality",

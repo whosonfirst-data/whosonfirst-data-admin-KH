@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"102.8969,12.56276,102.9369,12.60276",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:khm_x_preferred":[
         "Phum Ch\u00e2mcar St\u0153\u0306ng"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1360145855,
-    "wof:lastmodified":1537653970,
+    "wof:lastmodified":1566727495,
     "wof:name":"Phum Chamcar Stoeng",
     "wof:parent_id":421196403,
     "wof:placetype":"locality",

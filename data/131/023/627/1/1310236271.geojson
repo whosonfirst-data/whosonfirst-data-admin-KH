@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"105.45531,11.79957,105.49531,11.83957",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Phum\u012d Tu\u014fl T\u00f4nla\u00f4p",
         "Phum Tuol Tonleap",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1310236271,
-    "wof:lastmodified":1537653388,
+    "wof:lastmodified":1566727460,
     "wof:name":"Phumi Tonloab",
     "wof:parent_id":421177919,
     "wof:placetype":"locality",

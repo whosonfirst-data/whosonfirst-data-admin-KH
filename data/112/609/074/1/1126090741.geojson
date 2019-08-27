@@ -9,22 +9,24 @@
     "geom:bbox":"104.90472,11.56717,104.90472,11.56717",
     "geom:latitude":11.56717,
     "geom:longitude":104.90472,
-    "gn:gn_country":"KH",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"KH",
+    "gn:fcode":"PPLX",
     "gn:latitude":11.56717,
     "gn:longitude":104.90472,
+    "gn:population":0,
     "iso:country":"KH",
+    "lbl:bbox":"104.89972,11.56217,104.90972,11.57217",
     "lbl:latitude":11.56717,
     "lbl:longitude":104.90472,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Tuk Laak"
     ],
-    "name:unk_x_variant":[
-        "Tuk Laak",
+    "name:und_x_variant":[
         "T\u0153\u0306k L\u00f4\u00e2k"
     ],
     "qs_pg:aaroncc":"KH",
@@ -48,23 +50,22 @@
     "qs_pg:woe_adm0":23424776,
     "qs_pg:woe_id":1028387,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424776,
     "woe:name_adm0":"Cambodia",
     "woe:name_adm1":"Phnum Penh",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85673063,
         102191569,
         85632359,
         1108952563,
-        1108564813,
-        85673063
+        1108564813
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1821625,
         "gp:id":1028387,
-        "qs:id":1083521,
         "qs_pg:id":1083521
     },
     "wof:country":"KH",
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1126090741,
-    "wof:lastmodified":1536881822,
+    "wof:lastmodified":1566727528,
     "wof:name":"Tuk Laak",
     "wof:parent_id":1108952563,
     "wof:placetype":"neighbourhood",

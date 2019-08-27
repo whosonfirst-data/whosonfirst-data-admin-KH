@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"104.03756,13.28384,104.07756,13.32384",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:khm_x_preferred":[
         "Ta Ei"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1259351135,
-    "wof:lastmodified":1537654136,
+    "wof:lastmodified":1566727596,
     "wof:name":"Ta Ei",
     "wof:parent_id":421171409,
     "wof:placetype":"locality",

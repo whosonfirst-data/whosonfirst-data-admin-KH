@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.835049,
     "lbl:longitude":102.894727,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Banteay Meanchey",
     "meso:dissme":"Svay ChekBanteay Meanchey",
     "meso:gadm_admin":"Svay Chek",
@@ -31,6 +33,7 @@
     "mps:longitude":102.894727,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Sr\u014fk Svay Ch\u00e9k"
@@ -90,7 +93,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -110,7 +113,7 @@
     "wof:concordances":{
         "gp:id":56063382,
         "hasc:id":"KH.OM.SC",
-        "qs:id":527122,
+        "qs_pg:id":527122,
         "wd:id":"Q4929021"
     },
     "wof:country":"KH",
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":421181961,
-    "wof:lastmodified":1563321331,
+    "wof:lastmodified":1566727525,
     "wof:name":"Svay Chek",
     "wof:parent_id":85673011,
     "wof:placetype":"county",

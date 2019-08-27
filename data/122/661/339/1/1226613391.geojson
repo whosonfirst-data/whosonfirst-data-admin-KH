@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"102.72197,13.63416,102.76197,13.67416",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:khm_x_preferred":[
         "Thma Sen"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1226613391,
-    "wof:lastmodified":1537653412,
+    "wof:lastmodified":1566727626,
     "wof:name":"Thma Sen",
     "wof:parent_id":1108564751,
     "wof:placetype":"locality",

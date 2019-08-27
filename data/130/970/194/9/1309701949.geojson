@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"105.99403,13.05134,106.03403,13.09134",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:khm_x_preferred":[
         "Phum Khsach L\u00e9av"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1309701949,
-    "wof:lastmodified":1537653736,
+    "wof:lastmodified":1566727510,
     "wof:name":"Phum Khsach Leav",
     "wof:parent_id":421188051,
     "wof:placetype":"locality",

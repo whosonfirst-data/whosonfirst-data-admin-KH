@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"105.41443,12.11209,105.45443,12.15209",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Phum Lopeak",
         "Phum\u012d Lpe\u00e2k"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1259883175,
-    "wof:lastmodified":1537653674,
+    "wof:lastmodified":1566727606,
     "wof:name":"Phumi Lpeak",
     "wof:parent_id":421205043,
     "wof:placetype":"locality",

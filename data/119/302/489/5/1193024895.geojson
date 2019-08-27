@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"105.04999,11.98445,105.08999,12.02445",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Beng Chroui",
         "Phum\u012d B\u0153\u0306ng Chro\u016dy"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1193024895,
-    "wof:lastmodified":1537653884,
+    "wof:lastmodified":1566727426,
     "wof:name":"Beng Chruoi",
     "wof:parent_id":421195831,
     "wof:placetype":"locality",

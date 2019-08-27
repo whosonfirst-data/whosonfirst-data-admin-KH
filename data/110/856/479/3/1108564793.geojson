@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":11.541515,
     "lbl:longitude":104.798271,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Phnom Penh",
     "meso:dissme":"Pur SenCheyPhnom Penh",
     "meso:gadm_admin":"Angk Snuol",
@@ -31,6 +33,7 @@
     "mps:longitude":104.798271,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Angk Snuol"
     ],
@@ -57,7 +60,7 @@
         "\u6602\u65af\u8bfa\u53bf"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632359,
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1108564793,
-    "wof:lastmodified":1563321070,
+    "wof:lastmodified":1566727454,
     "wof:name":"Pur SenChey",
     "wof:parent_id":85673063,
     "wof:placetype":"county",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"104.30238,11.79189,104.34238,11.83189",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:khm_x_preferred":[
         "Ou Angkum"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1276124269,
-    "wof:lastmodified":1537654015,
+    "wof:lastmodified":1566727365,
     "wof:name":"Ou Angkum",
     "wof:parent_id":1108564873,
     "wof:placetype":"locality",

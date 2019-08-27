@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"105.11333,12.48,105.15333,12.52",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Phum Barei Sandek",
         "Phum\u012d Baray Choan D\u00eak",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1242576779,
-    "wof:lastmodified":1537653892,
+    "wof:lastmodified":1566727539,
     "wof:name":"Phumi Barayn Choan Dek",
     "wof:parent_id":1108564829,
     "wof:placetype":"locality",

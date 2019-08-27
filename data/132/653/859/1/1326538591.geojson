@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"105.20233,11.93092,105.24233,11.97092",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Phum Antong Sar",
         "Phum\u012d \u00c2nt\u016dng S\u00e2"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1326538591,
-    "wof:lastmodified":1537653907,
+    "wof:lastmodified":1566727228,
     "wof:name":"Phumi Antung Sa",
     "wof:parent_id":1108564689,
     "wof:placetype":"locality",

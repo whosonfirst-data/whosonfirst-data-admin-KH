@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"104.88706,11.30418,104.92706,11.34418",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Krang Bakou",
         "Phum\u012d Kr\u0103ng Po\u016d",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293076209,
-    "wof:lastmodified":1537653694,
+    "wof:lastmodified":1566727286,
     "wof:name":"Phumi Krang Pouthi",
     "wof:parent_id":1108564613,
     "wof:placetype":"locality",

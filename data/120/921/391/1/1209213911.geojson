@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"104.53928,12.59096,104.57928,12.63096",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kompong Scau",
         "Phum\u012d O \u00c2ndaeuk Thom",
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209213911,
-    "wof:lastmodified":1537653656,
+    "wof:lastmodified":1566727412,
     "wof:name":"Phumi O Andaeuk Thum",
     "wof:parent_id":85632359,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":11.090201,
     "lbl:longitude":105.383562,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Prey Veng",
     "meso:dissme":"Preah SdachPrey Veng",
     "meso:gadm_admin":"Preah Sdach",
@@ -31,6 +33,7 @@
     "mps:longitude":105.383562,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Sr\u014fk Pre\u0103h Sd\u00e9ch"
     ],
@@ -56,7 +59,7 @@
         "Preah Sdach"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1108564775,
-    "wof:lastmodified":1563321066,
+    "wof:lastmodified":1566727452,
     "wof:name":"Preah Sdach",
     "wof:parent_id":85673067,
     "wof:placetype":"county",

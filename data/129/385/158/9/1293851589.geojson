@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"103.32602,13.722,103.36602,13.762",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:khm_x_preferred":[
         "Phum Trang"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293851589,
-    "wof:lastmodified":1537653991,
+    "wof:lastmodified":1566727304,
     "wof:name":"Phum Trang",
     "wof:parent_id":1108564763,
     "wof:placetype":"locality",

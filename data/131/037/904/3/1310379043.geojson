@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"105.53157,11.26721,105.57157,11.30721",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Phum Angkor Khlok",
         "Vatt \u00c2ng Khlo\u016dk",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1310379043,
-    "wof:lastmodified":1537653321,
+    "wof:lastmodified":1566727474,
     "wof:name":"Vott Angk Khlouk",
     "wof:parent_id":1108564729,
     "wof:placetype":"locality",

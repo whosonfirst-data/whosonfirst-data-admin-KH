@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"106.05964,12.7021,106.09964,12.7421",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:khm_x_preferred":[
         "Sangkom"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1226238515,
-    "wof:lastmodified":1537653657,
+    "wof:lastmodified":1566727637,
     "wof:name":"Sangkom",
     "wof:parent_id":421188051,
     "wof:placetype":"locality",

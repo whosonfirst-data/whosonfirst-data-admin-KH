@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"104.53124,11.38123,104.57124,11.42123",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Phum Svay D\u00e2ng K\u00f6m",
         "Phum\u012d Svay D\u00e2ngkum"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1277075343,
-    "wof:lastmodified":1537653457,
+    "wof:lastmodified":1566727334,
     "wof:name":"Phumi Svay Dangkum",
     "wof:parent_id":1108564819,
     "wof:placetype":"locality",

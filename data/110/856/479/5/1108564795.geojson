@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":12.476218,
     "lbl:longitude":103.917253,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Pursat",
     "meso:dissme":"PursatPursat",
     "meso:gadm_admin":"Sampov Meas",
@@ -31,6 +33,7 @@
     "mps:longitude":103.917253,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Sampov Meas"
     ],
@@ -61,7 +64,7 @@
         "Sampov Meas"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632359,
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":1108564795,
-    "wof:lastmodified":1563321071,
+    "wof:lastmodified":1566727454,
     "wof:name":"Pursat",
     "wof:parent_id":85673023,
     "wof:placetype":"county",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"103.96578,13.84803,104.00578,13.88803",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:khm_x_preferred":[
         "Phum \u00c2ngl\u016dng Thm\u00e2r"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1327090227,
-    "wof:lastmodified":1537653911,
+    "wof:lastmodified":1566727195,
     "wof:name":"Phum Anglung Thmar",
     "wof:parent_id":421200833,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"105.08,12.16333,105.12,12.20333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Phum Don Tor",
         "Phum\u012d Don Ta\u00f4"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1310414833,
-    "wof:lastmodified":1537653807,
+    "wof:lastmodified":1566727462,
     "wof:name":"Phumi Don Tao",
     "wof:parent_id":421195831,
     "wof:placetype":"locality",

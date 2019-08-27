@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"102.51725,12.97667,102.55725,13.01667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:khm_x_preferred":[
         "Phum B\u0153\u0306ng O Ti\u0115ng"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293639441,
-    "wof:lastmodified":1537653881,
+    "wof:lastmodified":1566727296,
     "wof:name":"Beng O Chieng",
     "wof:parent_id":1108564683,
     "wof:placetype":"locality",

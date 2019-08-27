@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"107.02483,14.05035,107.06483,14.09035",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Phum\u012d T\u00e2k M\u00e2k",
         "T\u00e1k M\u00e1k"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1226299073,
-    "wof:lastmodified":1537653325,
+    "wof:lastmodified":1566727618,
     "wof:name":"Tak Mak",
     "wof:parent_id":421188053,
     "wof:placetype":"locality",

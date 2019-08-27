@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"103.73709,12.32979,103.77709,12.36979",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kompong Luong",
         "Phum\u012d K\u00e2mp\u00f3ng Lu\u014fng"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1259770459,
-    "wof:lastmodified":1537653791,
+    "wof:lastmodified":1566727586,
     "wof:name":"Phumi Kampong Luong",
     "wof:parent_id":1108564759,
     "wof:placetype":"locality",

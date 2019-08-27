@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"104.25617,10.54487,104.29617,10.58487",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Khum Kompong Nong",
         "Phum\u012d K\u00e2mp\u00f4ng N\u016dng",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293656407,
-    "wof:lastmodified":1537653790,
+    "wof:lastmodified":1566727291,
     "wof:name":"Phumi Kampong Nong",
     "wof:parent_id":1108564665,
     "wof:placetype":"locality",

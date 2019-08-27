@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"104.32447,12.46162,104.36447,12.50162",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:khm_x_preferred":[
         "Thkoul Touch"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1193114347,
-    "wof:lastmodified":1537653418,
+    "wof:lastmodified":1566727430,
     "wof:name":"Thkoul Touch",
     "wof:parent_id":421203239,
     "wof:placetype":"locality",

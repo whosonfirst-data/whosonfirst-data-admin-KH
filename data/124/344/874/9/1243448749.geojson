@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"105.76198,12.26212,105.80198,12.30212",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:khm_x_preferred":[
         "Ruessei Kaev"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1243448749,
-    "wof:lastmodified":1537654077,
+    "wof:lastmodified":1566727575,
     "wof:name":"Ruessei Kaev",
     "wof:parent_id":1108564781,
     "wof:placetype":"locality",

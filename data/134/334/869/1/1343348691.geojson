@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"103.91644,12.55502,103.95644,12.59502",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:khm_x_preferred":[
         "Svay Chan"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1343348691,
-    "wof:lastmodified":1537653426,
+    "wof:lastmodified":1566727267,
     "wof:name":"Svay Chan",
     "wof:parent_id":1108564687,
     "wof:placetype":"locality",

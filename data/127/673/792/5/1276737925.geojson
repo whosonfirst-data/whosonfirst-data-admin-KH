@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"104.80579,11.21507,104.84579,11.25507",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ta Sanoh",
         "Phum\u012d Seiha"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1276737925,
-    "wof:lastmodified":1537653495,
+    "wof:lastmodified":1566727341,
     "wof:name":"Phumi Seiha",
     "wof:parent_id":1108564613,
     "wof:placetype":"locality",

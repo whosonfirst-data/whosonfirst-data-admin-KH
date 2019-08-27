@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"102.88619,13.14792,102.92619,13.18792",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Phum\u012d Ro\u016dng D\u00eak Ka",
         "Phum\u012d Rung D\u00eak Ka"
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1209676649,
-    "wof:lastmodified":1537653523,
+    "wof:lastmodified":1566727402,
     "wof:name":"Phumi Rung Dek Ka",
     "wof:parent_id":85632359,
     "wof:placetype":"locality",

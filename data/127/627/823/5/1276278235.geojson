@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"104.09973,14.26975,104.13973,14.30975",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:khm_x_preferred":[
         "Aekakpheap"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276278235,
-    "wof:lastmodified":1564178878,
+    "wof:lastmodified":1566727343,
     "wof:name":"Aekakpheap",
     "wof:parent_id":1108564589,
     "wof:placetype":"locality",

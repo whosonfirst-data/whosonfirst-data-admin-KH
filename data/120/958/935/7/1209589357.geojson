@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"105.53474,11.68412,105.57474,11.72412",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Phumi Chh\u00e2\u0153\u0306ng Chumni",
         "Phum\u012d Chh\u2019\u0153\u0306ng Chumni"
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1209589357,
-    "wof:lastmodified":1537653847,
+    "wof:lastmodified":1566727402,
     "wof:name":"Phumi Chh'oeng Chumni",
     "wof:parent_id":85632359,
     "wof:placetype":"locality",

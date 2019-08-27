@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"102.70601,12.65546,102.74601,12.69546",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:khm_x_preferred":[
         "\u1797\u17bc\u1798\u17b7 \u1794\u17a1\u17c2\u1784"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1309767231,
-    "wof:lastmodified":1537653902,
+    "wof:lastmodified":1566727513,
     "wof:name":"Phumi Baleng",
     "wof:parent_id":421196403,
     "wof:placetype":"locality",

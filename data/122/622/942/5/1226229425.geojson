@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"103.80605,12.44364,103.84605,12.48364",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Pich K\u00f2ng",
         "Phum\u012d P\u00e9ch Sd\u014fng"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1226229425,
-    "wof:lastmodified":1537653637,
+    "wof:lastmodified":1566727634,
     "wof:name":"Phumi Pech Sdong",
     "wof:parent_id":1108564795,
     "wof:placetype":"locality",

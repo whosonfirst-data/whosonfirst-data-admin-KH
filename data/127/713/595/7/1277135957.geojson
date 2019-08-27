@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"104.58013,10.69711,104.62013,10.73711",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:khm_x_preferred":[
         "Trapeang Sala Khang Lech"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1277135957,
-    "wof:lastmodified":1537654019,
+    "wof:lastmodified":1566727352,
     "wof:name":"Trapeang Sala Khang Lech",
     "wof:parent_id":1108564601,
     "wof:placetype":"locality",

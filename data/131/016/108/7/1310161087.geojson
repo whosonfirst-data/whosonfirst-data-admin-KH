@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"103.14251,13.54963,103.18251,13.58963",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:khm_x_preferred":[
         "Sreh Kaeut"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1310161087,
-    "wof:lastmodified":1537653475,
+    "wof:lastmodified":1566727480,
     "wof:name":"Sreh Kaeut",
     "wof:parent_id":421183973,
     "wof:placetype":"locality",

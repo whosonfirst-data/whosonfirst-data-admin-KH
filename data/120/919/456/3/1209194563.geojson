@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"103.79566,12.62415,103.83566,12.66415",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:khm_x_preferred":[
         "Phum B\u00e2t K\u00e2nda\u00f4l"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1209194563,
-    "wof:lastmodified":1537653890,
+    "wof:lastmodified":1566727412,
     "wof:name":"Phum Bat Kandaol",
     "wof:parent_id":85632359,
     "wof:placetype":"locality",

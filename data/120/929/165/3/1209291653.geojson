@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"103.69267,12.27605,103.73267,12.31605",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:amh_x_preferred":[
         "\u12e8\u1325\u1303 \u1225\u130b"
     ],
@@ -114,7 +118,7 @@
         }
     ],
     "wof:id":1209291653,
-    "wof:lastmodified":1564179115,
+    "wof:lastmodified":1566727406,
     "wof:name":"Veal",
     "wof:parent_id":85632359,
     "wof:placetype":"locality",

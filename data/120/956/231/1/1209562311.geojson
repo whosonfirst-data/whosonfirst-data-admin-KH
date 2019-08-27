@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"103.42993,12.86057,103.46993,12.90057",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:khm_x_preferred":[
         "Phum Sd\u014fk Khlo\u016dk"
     ],
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209562311,
-    "wof:lastmodified":1537653976,
+    "wof:lastmodified":1566727404,
     "wof:name":"Phum Sdok Khlouk",
     "wof:parent_id":85632359,
     "wof:placetype":"locality",

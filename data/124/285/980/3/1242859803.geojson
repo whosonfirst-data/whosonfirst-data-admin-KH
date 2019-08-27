@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"103.47567,11.77397,103.51567,11.81397",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:khm_x_preferred":[
         "Ta Tey Leu"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1242859803,
-    "wof:lastmodified":1537653324,
+    "wof:lastmodified":1566727564,
     "wof:name":"Ta Tey Leu",
     "wof:parent_id":421194857,
     "wof:placetype":"locality",

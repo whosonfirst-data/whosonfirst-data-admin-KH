@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"105.98884,13.08574,106.02884,13.12574",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:khm_x_preferred":[
         "Phum Ka\u00f4h \u0114nchey"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1260272739,
-    "wof:lastmodified":1537653767,
+    "wof:lastmodified":1566727440,
     "wof:name":"Phum Kaoh Enchey",
     "wof:parent_id":421188051,
     "wof:placetype":"locality",

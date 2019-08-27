@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"104.60187,11.42709,104.64187,11.46709",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Khum Rolang Kreul",
         "Kh\u016dm R\u00f4le\u0103ng Kreul"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1326836281,
-    "wof:lastmodified":1537653945,
+    "wof:lastmodified":1566727221,
     "wof:name":"Khum Roleang Kreul",
     "wof:parent_id":1108564819,
     "wof:placetype":"locality",

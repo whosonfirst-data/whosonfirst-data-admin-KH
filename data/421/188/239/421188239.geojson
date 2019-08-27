@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":12.43393,
     "lbl:longitude":104.721114,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Kampong Chhnang",
     "meso:dissme":"Kampong LeaengKampong Chhnang",
     "meso:gadm_admin":"Kampong Leaeng",
@@ -31,6 +33,7 @@
     "mps:longitude":104.721114,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Kampong Leaeng"
@@ -73,7 +76,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -93,7 +96,7 @@
     "wof:concordances":{
         "gp:id":56063319,
         "hasc:id":"KH.KG.KL",
-        "qs:id":1091008,
+        "qs_pg:id":1091008,
         "wd:id":"Q4929050"
     },
     "wof:country":"KH",
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":421188239,
-    "wof:lastmodified":1561778136,
+    "wof:lastmodified":1566727525,
     "wof:name":"Kampong Leaeng",
     "wof:parent_id":85673047,
     "wof:placetype":"county",

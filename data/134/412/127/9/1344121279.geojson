@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"103.93808,10.57596,103.97808,10.61596",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:khm_x_preferred":[
         "Phum Tu\u014fl Tr\u00e2pe\u0103ng Prey"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1344121279,
-    "wof:lastmodified":1537653347,
+    "wof:lastmodified":1566727247,
     "wof:name":"Phum Tuol Trapeang Prey",
     "wof:parent_id":1108564883,
     "wof:placetype":"locality",

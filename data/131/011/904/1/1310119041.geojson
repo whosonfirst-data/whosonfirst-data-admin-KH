@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"105.03273,11.99192,105.07273,12.03192",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Chran\u00e9ang",
         "Phum\u012d Chr\u00e2n\u00e9ang"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1310119041,
-    "wof:lastmodified":1537653834,
+    "wof:lastmodified":1566727478,
     "wof:name":"Phumi Chraneang",
     "wof:parent_id":421195831,
     "wof:placetype":"locality",

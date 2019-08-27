@@ -10,8 +10,12 @@
     "geom:latitude":12.528786,
     "geom:longitude":103.924083,
     "iso:country":"KH",
+    "lbl:bbox":"103.904083,12.508786,103.944083,12.548786",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -41,7 +45,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1028597,
-        "qs:id":1104892
+        "qs_pg:id":1104892
     },
     "wof:country":"KH",
     "wof:created":1459010161,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":421203707,
-    "wof:lastmodified":1499929955,
+    "wof:lastmodified":1566727522,
     "wof:name":"Pousat",
     "wof:parent_id":1108564795,
     "wof:placetype":"locality",

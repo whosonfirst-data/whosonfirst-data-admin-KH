@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.668854,
     "lbl:longitude":102.829154,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Banteay Meanchey",
     "meso:dissme":"Ou ChrovBanteay Meanchey",
     "meso:gadm_admin":"Ou Chrov",
@@ -31,6 +33,7 @@
     "mps:longitude":102.829154,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Ou Chrov District"
@@ -90,7 +93,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -110,7 +113,7 @@
     "wof:concordances":{
         "gp:id":56063378,
         "hasc:id":"KH.OM.OC",
-        "qs:id":987093,
+        "qs_pg:id":987093,
         "wd:id":"Q4929257"
     },
     "wof:country":"KH",
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":421198129,
-    "wof:lastmodified":1563321332,
+    "wof:lastmodified":1566727525,
     "wof:name":"Ou Chrov",
     "wof:parent_id":85673011,
     "wof:placetype":"county",

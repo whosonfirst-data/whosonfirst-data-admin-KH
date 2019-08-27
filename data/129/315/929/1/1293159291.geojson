@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"104.83956,11.43036,104.87956,11.47036",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Krang Tapho",
         "Phum\u012d Kr\u0103ng"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1293159291,
-    "wof:lastmodified":1537653698,
+    "wof:lastmodified":1566727303,
     "wof:name":"Phumi Krang",
     "wof:parent_id":1108564661,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"103.70937,13.42238,103.74937,13.46238",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:khm_x_preferred":[
         "Phum Thmei"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1209171997,
-    "wof:lastmodified":1564179142,
+    "wof:lastmodified":1566727413,
     "wof:name":"Phum Thmei",
     "wof:parent_id":85632359,
     "wof:placetype":"locality",

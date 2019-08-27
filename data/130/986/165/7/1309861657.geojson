@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"104.00834,13.26469,104.04834,13.30469",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Suong"
     ],
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":1309861657,
-    "wof:lastmodified":1564179513,
+    "wof:lastmodified":1566727521,
     "wof:name":"Suong",
     "wof:parent_id":421171409,
     "wof:placetype":"locality",

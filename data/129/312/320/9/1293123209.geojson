@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"102.95083,11.67722,102.99083,11.71722",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Phum Ka\u00f4h Sm\u0103ch",
         "Ban K\u00e2s Smet",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1293123209,
-    "wof:lastmodified":1537653763,
+    "wof:lastmodified":1566727304,
     "wof:name":"Phumi Kaoh Smach",
     "wof:parent_id":421201861,
     "wof:placetype":"locality",

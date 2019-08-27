@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"103.04007,13.55957,103.08007,13.59957",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:khm_x_preferred":[
         "Phum B\u00e2ng Kr\u014f\u0103h"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1276514907,
-    "wof:lastmodified":1537653900,
+    "wof:lastmodified":1566727345,
     "wof:name":"Phum Bang Kroah",
     "wof:parent_id":421170329,
     "wof:placetype":"locality",

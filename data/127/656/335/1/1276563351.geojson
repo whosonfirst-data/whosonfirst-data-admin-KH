@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"102.8313,13.38773,102.8713,13.42773",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1276563351,
-    "wof:lastmodified":1536967561,
+    "wof:lastmodified":1566727346,
     "wof:name":"Phumi Boeng Kalong",
     "wof:parent_id":1108564737,
     "wof:placetype":"locality",

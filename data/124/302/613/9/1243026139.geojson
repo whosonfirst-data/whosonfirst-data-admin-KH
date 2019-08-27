@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"104.00073,13.78274,104.04073,13.82274",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:khm_x_preferred":[
         "Srae Nouy"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1243026139,
-    "wof:lastmodified":1537653328,
+    "wof:lastmodified":1566727559,
     "wof:name":"Srae Nouy",
     "wof:parent_id":421200833,
     "wof:placetype":"locality",

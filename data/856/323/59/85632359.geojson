@@ -19,6 +19,8 @@
     ],
     "lbl:latitude":12.635759,
     "lbl:longitude":104.480812,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":12.635759,
     "mps:longitude":104.480812,
     "mz:hierarchy_label":1,
@@ -841,15 +843,9 @@
         "Kambodia",
         "Kampuchea"
     ],
-    "name:und_x_preferred":[
-        "Kamb\u00f3d\u00eda"
-    ],
     "name:und_x_variant":[
-        "Kambodsja",
         "Kanbojia",
-        "K\u00e2mpuch\u00e9a"
-    ],
-    "name:unk_x_variant":[
+        "K\u00e2mpuch\u00e9a",
         "Pre\u0103hr\u00e9ach\u00e9anach\u00e2kr K\u00e2mp\u016dch\u00e9a"
     ],
     "name:urd_x_preferred":[
@@ -1004,7 +1000,7 @@
         "naturalearth",
         "meso"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "statoids:dial":"855",
     "statoids:ds":"K",
@@ -1048,7 +1044,7 @@
         "mzb:id":"cambodia",
         "ne:adm0_a3":"KHM",
         "nyt:id":"N7998325018202818901",
-        "qs:id":224785,
+        "qs_pg:id":224785,
         "uncrt:id":"K",
         "wd:id":"Q424",
         "wk:page":"Cambodia",
@@ -1070,7 +1066,7 @@
     "wof:lang_x_spoken":[
         "khm"
     ],
-    "wof:lastmodified":1565725074,
+    "wof:lastmodified":1566727285,
     "wof:name":"Cambodia",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

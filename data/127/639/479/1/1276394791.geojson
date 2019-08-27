@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"104.02653,13.51703,104.06653,13.55703",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1276394791,
-    "wof:lastmodified":1536696535,
+    "wof:lastmodified":1566727371,
     "wof:name":"Phumi Roka Peam (2)",
     "wof:parent_id":1108564603,
     "wof:placetype":"locality",

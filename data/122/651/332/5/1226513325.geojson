@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"105.4792,11.30746,105.5192,11.34746",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Phum O Sang Ke",
         "Phum\u012d O S\u00e2ngk\u00ea"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1226513325,
-    "wof:lastmodified":1537653649,
+    "wof:lastmodified":1566727621,
     "wof:name":"Phumi O Sangke",
     "wof:parent_id":1108564729,
     "wof:placetype":"locality",

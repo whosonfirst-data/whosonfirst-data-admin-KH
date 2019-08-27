@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"104.53,11.48,104.57,11.52",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Lovea",
         "Vatt L\u00f4y\u00e9ap",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1193021887,
-    "wof:lastmodified":1537653319,
+    "wof:lastmodified":1566727426,
     "wof:name":"Vott Lyeab",
     "wof:parent_id":1108564819,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"104.66333,12.03,104.70333,12.07",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Khnat Kak\u00f4s",
         "Phum\u012d Khnach\u00e2m Kr\u00e2ka\u00f4h",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1242585125,
-    "wof:lastmodified":1537653741,
+    "wof:lastmodified":1566727544,
     "wof:name":"Phumi Khnach Krakaoh",
     "wof:parent_id":1108564679,
     "wof:placetype":"locality",

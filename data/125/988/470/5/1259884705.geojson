@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"104.20117,12.76067,104.24117,12.80067",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Phum\u012d Pr\u00eak P\u00e9ch Ch\u00e2krei",
         "Pr\u00eak P\u00e9ch Ch\u00e2krei"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1259884705,
-    "wof:lastmodified":1537653335,
+    "wof:lastmodified":1566727605,
     "wof:name":"Prek Pech Chakrei",
     "wof:parent_id":1108564849,
     "wof:placetype":"locality",

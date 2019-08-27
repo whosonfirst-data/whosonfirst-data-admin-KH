@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"104.96541,12.50807,105.00541,12.54807",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Phum\u012d Pr\u00eak Chrey",
         "Phum Prek Chrei"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1360308167,
-    "wof:lastmodified":1537653589,
+    "wof:lastmodified":1566727497,
     "wof:name":"Phumi Prek Chrey",
     "wof:parent_id":421198921,
     "wof:placetype":"locality",

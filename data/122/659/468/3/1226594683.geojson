@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"103.21581,12.74891,103.25581,12.78891",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:khm_x_preferred":[
         "Doun Ba"
     ],
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1226594683,
-    "wof:lastmodified":1564179879,
+    "wof:lastmodified":1566727626,
     "wof:name":"Doun Ba",
     "wof:parent_id":1108564711,
     "wof:placetype":"locality",

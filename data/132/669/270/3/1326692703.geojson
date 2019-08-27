@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"104.76224,10.8126,104.80224,10.8526",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Phum\u012d Cheut\u00e9al Ph\u014f\u0103h",
         "Phum Chh\u0153ut\u00e9al Phlos",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1326692703,
-    "wof:lastmodified":1537653849,
+    "wof:lastmodified":1566727203,
     "wof:name":"Phumi Chheuteal Phloah",
     "wof:parent_id":1108564881,
     "wof:placetype":"locality",

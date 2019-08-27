@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"103.70564,12.52794,103.74564,12.56794",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Phum\u012d K\u00e2m Pr\u0103k K\u00e2 Kon",
         "Phum\u012d K\u00e2m Pr\u0103k Kon"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1277056371,
-    "wof:lastmodified":1537653781,
+    "wof:lastmodified":1566727356,
     "wof:name":"Phumi Kam Prak Kon",
     "wof:parent_id":1108564595,
     "wof:placetype":"locality",

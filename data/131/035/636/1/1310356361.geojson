@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"103.7521,10.58938,103.7921,10.62938",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:khm_x_preferred":[
         "Ou Ta Pang"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1310356361,
-    "wof:lastmodified":1537653655,
+    "wof:lastmodified":1566727484,
     "wof:name":"Ou Ta Pang",
     "wof:parent_id":421188243,
     "wof:placetype":"locality",

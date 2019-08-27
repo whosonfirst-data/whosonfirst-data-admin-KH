@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"102.80981,13.17193,102.84981,13.21193",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1360131681,
-    "wof:lastmodified":1536877689,
+    "wof:lastmodified":1566727494,
     "wof:name":"Phumi Pongro (1)",
     "wof:parent_id":1108564615,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"106.36168,12.04233,106.40168,12.08233",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:khm_x_preferred":[
         "Phum Chiv\u00f4\u0103t"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1226642209,
-    "wof:lastmodified":1537653842,
+    "wof:lastmodified":1566727642,
     "wof:name":"Phum Chivoat",
     "wof:parent_id":1108564841,
     "wof:placetype":"locality",

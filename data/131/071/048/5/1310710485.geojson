@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"105.28751,12.16368,105.32751,12.20368",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Phum Tet",
         "Phum\u012d T\u00eat Ch\u0103s"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1310710485,
-    "wof:lastmodified":1537653419,
+    "wof:lastmodified":1566727464,
     "wof:name":"Phumi Tet Chas",
     "wof:parent_id":1108564621,
     "wof:placetype":"locality",

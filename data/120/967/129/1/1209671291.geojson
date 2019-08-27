@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"103.60321,13.47755,103.64321,13.51755",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:khm_x_preferred":[
         "Phum Chhuk Ta L\u014fch"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1209671291,
-    "wof:lastmodified":1537653845,
+    "wof:lastmodified":1566727402,
     "wof:name":"Phum Chhuk Ta Loch",
     "wof:parent_id":85632359,
     "wof:placetype":"locality",

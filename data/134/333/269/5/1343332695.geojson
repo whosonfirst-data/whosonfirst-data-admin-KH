@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"105.31066,11.53387,105.35066,11.57387",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Phum\u012d P\u00f4p\u0153\u0306s"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1343332695,
-    "wof:lastmodified":1537653614,
+    "wof:lastmodified":1566727267,
     "wof:name":"Phum Popus",
     "wof:parent_id":1108564791,
     "wof:placetype":"locality",

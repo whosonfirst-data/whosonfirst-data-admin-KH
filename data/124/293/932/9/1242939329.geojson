@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"105.74427,11.22862,105.78427,11.26862",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Wat Tuol Prasrei",
         "Vatt Tu\u014fl Pr\u00e2srei",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1242939329,
-    "wof:lastmodified":1537653317,
+    "wof:lastmodified":1566727544,
     "wof:name":"Vott Tuol Prasrei",
     "wof:parent_id":1108564807,
     "wof:placetype":"locality",

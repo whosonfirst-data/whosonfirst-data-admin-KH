@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.802331,
     "lbl:longitude":106.100662,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Stung Treng",
     "meso:dissme":"Stueng TraengStung Treng",
     "meso:gadm_admin":"Stueng Traeng",
@@ -31,6 +33,7 @@
     "mps:longitude":106.100662,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Stueng Traeng"
@@ -74,7 +77,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -94,7 +97,7 @@
     "wof:concordances":{
         "gp:id":56063353,
         "hasc:id":"KH.ST.ST",
-        "qs:id":897584,
+        "qs_pg:id":897584,
         "wd:id":"Q4929505"
     },
     "wof:country":"KH",
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":421200835,
-    "wof:lastmodified":1561778136,
+    "wof:lastmodified":1566727525,
     "wof:name":"Stueng Traeng",
     "wof:parent_id":85673075,
     "wof:placetype":"county",

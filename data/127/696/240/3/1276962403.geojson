@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"105.20479,11.09202,105.24479,11.13202",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:khm_x_preferred":[
         "Phum Sang"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1276962403,
-    "wof:lastmodified":1537653507,
+    "wof:lastmodified":1566727373,
     "wof:name":"Phum Sang",
     "wof:parent_id":1108564755,
     "wof:placetype":"locality",

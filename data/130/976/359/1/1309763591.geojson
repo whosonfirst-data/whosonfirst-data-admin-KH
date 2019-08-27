@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"103.38609,13.54311,103.42609,13.58311",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Samraong"
     ],
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":1309763591,
-    "wof:lastmodified":1564179482,
+    "wof:lastmodified":1566727513,
     "wof:name":"Samraong",
     "wof:parent_id":421183973,
     "wof:placetype":"locality",

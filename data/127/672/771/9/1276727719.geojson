@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"104.78912,11.23813,104.82912,11.27813",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "P\u00f4u S\u00e2mpor",
         "Phum\u012d Ta Tr\u00e2k"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1276727719,
-    "wof:lastmodified":1537653423,
+    "wof:lastmodified":1566727335,
     "wof:name":"Phumi Ta Trak",
     "wof:parent_id":1108564613,
     "wof:placetype":"locality",

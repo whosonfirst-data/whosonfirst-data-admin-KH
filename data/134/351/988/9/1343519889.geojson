@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"107.16104,13.67145,107.20104,13.71145",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "Trom"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343519889,
-    "wof:lastmodified":1564178593,
+    "wof:lastmodified":1566727265,
     "wof:name":"Trom",
     "wof:parent_id":1108564607,
     "wof:placetype":"locality",

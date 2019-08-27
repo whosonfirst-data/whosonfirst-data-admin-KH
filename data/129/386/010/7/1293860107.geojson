@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"106.65981,14.16665,106.69981,14.20665",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:khm_x_preferred":[
         "Phum Kirib\u0103s K\u00e2ndal"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293860107,
-    "wof:lastmodified":1537653965,
+    "wof:lastmodified":1566727330,
     "wof:name":"Phum Kiribas Kandal",
     "wof:parent_id":1108564835,
     "wof:placetype":"locality",

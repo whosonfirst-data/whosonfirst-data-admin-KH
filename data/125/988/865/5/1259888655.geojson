@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"105.27793,12.0685,105.31793,12.1085",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Phum Kandol",
         "Phum\u012d K\u00e2nda\u00f4l"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1259888655,
-    "wof:lastmodified":1537653776,
+    "wof:lastmodified":1566727606,
     "wof:name":"Phumi Kandaol",
     "wof:parent_id":1108564783,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"105.00572,11.75469,105.04572,11.79469",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Phum\u012d Pre\u0103h Pr\u00e2s\u00e2p",
         "Preas Prasap",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276973983,
-    "wof:lastmodified":1537653947,
+    "wof:lastmodified":1566727370,
     "wof:name":"Khum Preah Prasab",
     "wof:parent_id":421188351,
     "wof:placetype":"locality",

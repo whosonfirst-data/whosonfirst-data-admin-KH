@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"104.75113,12.16092,104.79113,12.20092",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Prek Yuon",
         "Phum\u012d Pr\u00eak Yu\u014fn"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1343370543,
-    "wof:lastmodified":1537653574,
+    "wof:lastmodified":1566727241,
     "wof:name":"Phumi Prek Yuon",
     "wof:parent_id":1108564645,
     "wof:placetype":"locality",

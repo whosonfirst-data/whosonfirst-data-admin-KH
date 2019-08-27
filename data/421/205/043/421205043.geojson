@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":12.074848,
     "lbl:longitude":105.432704,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Kampong Cham",
     "meso:dissme":"Kampong SiemKampong Cham",
     "meso:gadm_admin":"Kampong Siem",
@@ -31,6 +33,7 @@
     "mps:longitude":105.432704,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ben_x_preferred":[
         "\u0995\u09ae\u09aa\u0982 \u09b8\u09bf\u09af\u09bc\u09c7\u09ae \u099c\u09c7\u09b2\u09be"
@@ -90,7 +93,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -110,7 +113,7 @@
     "wof:concordances":{
         "gp:id":56063287,
         "hasc:id":"KH.KC.KS",
-        "qs:id":1191491,
+        "qs_pg:id":1191491,
         "wd:id":"Q4930039"
     },
     "wof:country":"KH",
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":421205043,
-    "wof:lastmodified":1563321324,
+    "wof:lastmodified":1566727523,
     "wof:name":"Kampong Siem",
     "wof:parent_id":85673041,
     "wof:placetype":"county",

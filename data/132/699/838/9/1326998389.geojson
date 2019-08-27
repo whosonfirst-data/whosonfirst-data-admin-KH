@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"103.44542,13.56454,103.48542,13.60454",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:khm_x_preferred":[
         "Phum D\u00e2k Po\u016d"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1326998389,
-    "wof:lastmodified":1537653823,
+    "wof:lastmodified":1566727223,
     "wof:name":"Phum Dak Pou",
     "wof:parent_id":421194643,
     "wof:placetype":"locality",

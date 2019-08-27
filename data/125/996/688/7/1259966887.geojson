@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"103.76391,12.31405,103.80391,12.35405",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sre Prap\u0115i",
         "Phum\u012d Sr\u00ea P\u00f4p\u00e9ay"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1259966887,
-    "wof:lastmodified":1537653470,
+    "wof:lastmodified":1566727580,
     "wof:name":"Phumi Sre Popeay",
     "wof:parent_id":1108564759,
     "wof:placetype":"locality",

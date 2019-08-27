@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"103.43888,12.84262,103.47888,12.88262",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:khm_x_preferred":[
         "Phum Tu\u014fl \u00c2mp\u012dl"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1343422031,
-    "wof:lastmodified":1537653355,
+    "wof:lastmodified":1566727275,
     "wof:name":"Phum Tuol Ampil",
     "wof:parent_id":1108564739,
     "wof:placetype":"locality",

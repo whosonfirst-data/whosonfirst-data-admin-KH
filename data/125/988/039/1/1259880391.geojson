@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"104.60799,11.24859,104.64799,11.28859",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Phum Pr\u00e9ah H\u00f4 R\u00e9ach\u0115a",
         "Phum\u012d Pre\u0103h H\u00f4s",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1259880391,
-    "wof:lastmodified":1537653596,
+    "wof:lastmodified":1566727605,
     "wof:name":"Phumi Preah Hasth",
     "wof:parent_id":1108564715,
     "wof:placetype":"locality",

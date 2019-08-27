@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":10.733871,
     "lbl:longitude":103.790674,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Preah Sihanouk",
     "meso:dissme":"Prey NobPreah Sihanouk",
     "meso:gadm_admin":"Prey Nob",
@@ -31,6 +33,7 @@
     "mps:longitude":103.790674,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Prey Nob"
@@ -84,7 +87,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -104,7 +107,7 @@
     "wof:concordances":{
         "gp:id":56063390,
         "hasc:id":"KH.KA.PN",
-        "qs:id":1091013,
+        "qs_pg:id":1091013,
         "wd:id":"Q4930264"
     },
     "wof:country":"KH",
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":421188243,
-    "wof:lastmodified":1563321326,
+    "wof:lastmodified":1566727524,
     "wof:name":"Prey Nob",
     "wof:parent_id":85673101,
     "wof:placetype":"county",

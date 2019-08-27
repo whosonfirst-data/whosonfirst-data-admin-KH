@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":12.174604,
     "lbl:longitude":104.848789,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Kampong Chhnang",
     "meso:dissme":"Chol KiriKampong Chhnang",
     "meso:gadm_admin":"Chol Kiri",
@@ -31,6 +33,7 @@
     "mps:longitude":104.848789,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Sr\u014fk Chol Kiri"
     ],
@@ -59,7 +62,7 @@
         "Chol Kiri"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":1108564645,
-    "wof:lastmodified":1563321073,
+    "wof:lastmodified":1566727454,
     "wof:name":"Chol Kiri",
     "wof:parent_id":85673047,
     "wof:placetype":"county",

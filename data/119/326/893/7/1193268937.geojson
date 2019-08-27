@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"103.06243,11.04209,103.10243,11.08209",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Village de Koh Kussat",
         "Phum\u012d Ba\u00f4y Pisa"
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1193268937,
-    "wof:lastmodified":1537653893,
+    "wof:lastmodified":1566727432,
     "wof:name":"Phumi Baoy Pisa",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

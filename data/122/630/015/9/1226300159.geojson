@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"103.16246,13.728,103.20246,13.768",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:khm_x_preferred":[
         "Svay Sa"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1226300159,
-    "wof:lastmodified":1537653452,
+    "wof:lastmodified":1566727644,
     "wof:name":"Svay Sa",
     "wof:parent_id":1108564763,
     "wof:placetype":"locality",

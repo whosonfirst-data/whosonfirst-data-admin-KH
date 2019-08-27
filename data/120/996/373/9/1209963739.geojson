@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"103.4703,12.85272,103.5103,12.89272",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:khm_x_preferred":[
         "Phum T\u016dl K\u014fd Veach"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1209963739,
-    "wof:lastmodified":1537653976,
+    "wof:lastmodified":1566727381,
     "wof:name":"Phum Tul Kod Veach",
     "wof:parent_id":1108564739,
     "wof:placetype":"locality",

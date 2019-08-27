@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"104.92279,11.25037,104.96279,11.29037",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Phum\u012d K\u00e2ndal",
         "Phniet"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1326624599,
-    "wof:lastmodified":1537653776,
+    "wof:lastmodified":1566727225,
     "wof:name":"Phumi Kandal",
     "wof:parent_id":1108564811,
     "wof:placetype":"locality",

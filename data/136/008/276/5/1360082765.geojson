@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"103.40353,10.99161,103.44353,11.03161",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1360082765,
-    "wof:lastmodified":1536949341,
+    "wof:lastmodified":1566727497,
     "wof:name":"Phumi Ta Tei",
     "wof:parent_id":421202413,
     "wof:placetype":"locality",

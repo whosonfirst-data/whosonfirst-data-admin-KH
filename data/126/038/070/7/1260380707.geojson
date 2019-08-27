@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"105.80165,12.33515,105.84165,12.37515",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:khm_x_preferred":[
         "Phum St\u0153\u0306ng Thom"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1260380707,
-    "wof:lastmodified":1537653462,
+    "wof:lastmodified":1566727436,
     "wof:name":"Stueng Thum",
     "wof:parent_id":1108564781,
     "wof:placetype":"locality",

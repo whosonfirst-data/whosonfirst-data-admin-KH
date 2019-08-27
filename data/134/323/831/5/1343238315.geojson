@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"106.28988,14.10788,106.32988,14.14788",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ban Ke",
         "Phum\u012d Kh\u00eah Leu"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1343238315,
-    "wof:lastmodified":1537653745,
+    "wof:lastmodified":1566727254,
     "wof:name":"Phumi Kheh Leu",
     "wof:parent_id":1108564835,
     "wof:placetype":"locality",

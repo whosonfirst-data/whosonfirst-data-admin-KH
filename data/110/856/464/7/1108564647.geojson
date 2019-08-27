@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.017688,
     "lbl:longitude":103.546521,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Oddar Meanchey",
     "meso:dissme":"Chong KalOddar Meanchey",
     "meso:gadm_admin":"Chong Kal",
@@ -31,6 +33,7 @@
     "mps:longitude":103.546521,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Chong Kal"
     ],
@@ -59,7 +62,7 @@
         "\u4ef2\u52a0\u53bf"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":1108564647,
-    "wof:lastmodified":1563321072,
+    "wof:lastmodified":1566727454,
     "wof:name":"Chong Kal",
     "wof:parent_id":85673033,
     "wof:placetype":"county",

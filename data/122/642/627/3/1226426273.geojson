@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"106.90289,12.08181,106.94289,12.12181",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bu L\u2019Nghi\u00eam",
         "Phum\u012d Pu L\u2019Nghi\u0115m (1)",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226426273,
-    "wof:lastmodified":1537653548,
+    "wof:lastmodified":1566727615,
     "wof:name":"Phumi Pu Lngiem",
     "wof:parent_id":1108564667,
     "wof:placetype":"locality",

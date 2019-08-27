@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"103.40705,12.69339,103.44705,12.73339",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:khm_x_preferred":[
         "Phum \u00c2nlung Kop Tbong"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226089031,
-    "wof:lastmodified":1537653979,
+    "wof:lastmodified":1566727643,
     "wof:name":"Phum Anlung Kop Tbong",
     "wof:parent_id":1108564739,
     "wof:placetype":"locality",

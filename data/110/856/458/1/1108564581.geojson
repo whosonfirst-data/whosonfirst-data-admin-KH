@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":10.822571,
     "lbl:longitude":104.633377,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Kampot",
     "meso:dissme":"Angkor CheyKampot",
     "meso:gadm_admin":"Angkor Chey",
@@ -31,6 +33,7 @@
     "mps:longitude":104.633377,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Angkor Chey"
     ],
@@ -62,7 +65,7 @@
         "\u5434\u54e5\u5219\u53bf"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":1108564581,
-    "wof:lastmodified":1563321088,
+    "wof:lastmodified":1566727458,
     "wof:name":"Angkor Chey",
     "wof:parent_id":85673093,
     "wof:placetype":"county",

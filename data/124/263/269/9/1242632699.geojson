@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"102.92891,13.56926,102.96891,13.60926",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:khm_x_preferred":[
         "Phnum Bak"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1242632699,
-    "wof:lastmodified":1537654001,
+    "wof:lastmodified":1566727567,
     "wof:name":"Phnum Bak",
     "wof:parent_id":421170329,
     "wof:placetype":"locality",

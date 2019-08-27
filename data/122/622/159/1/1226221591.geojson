@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"105.17766,13.49722,105.21766,13.53722",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Phum\u012d K\u00e2mp\u00f4ng P\u016dtr\u00e9a Thmei",
         "K\u00e2mp\u00f3ng P\u016dtr\u00e9a Thmei"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1226221591,
-    "wof:lastmodified":1537653956,
+    "wof:lastmodified":1566727633,
     "wof:name":"Kampong Putrea Thmei",
     "wof:parent_id":1108564801,
     "wof:placetype":"locality",

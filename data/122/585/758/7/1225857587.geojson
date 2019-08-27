@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"105.50471,12.15344,105.54471,12.19344",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:khm_x_preferred":[
         "Phum Pr\u00eak Ph\u00e2\u014fng"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1225857587,
-    "wof:lastmodified":1537653583,
+    "wof:lastmodified":1566727652,
     "wof:name":"Preaek Preah Angk",
     "wof:parent_id":1108564853,
     "wof:placetype":"locality",

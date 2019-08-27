@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"103.50113,12.27124,103.54113,12.31124",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Phum Doung Klang",
         "Phum\u012d Dong Khl\u00e9ang"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1242950251,
-    "wof:lastmodified":1537653810,
+    "wof:lastmodified":1566727542,
     "wof:name":"Phumi Dong Khleang",
     "wof:parent_id":1108564889,
     "wof:placetype":"locality",

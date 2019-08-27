@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"106.50275,13.53496,106.54275,13.57496",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:khm_x_preferred":[
         "Phum Kr\u00e2bei Chr\u016dm"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1309982353,
-    "wof:lastmodified":1537653701,
+    "wof:lastmodified":1566727505,
     "wof:name":"Krabei Chrum",
     "wof:parent_id":1108564831,
     "wof:placetype":"locality",

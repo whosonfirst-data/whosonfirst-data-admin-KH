@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"102.56694,13.08944,102.60694,13.12944",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Phum Ch\u00e2mka K\u00e2mphaeum",
         "Phum\u012d Ch\u00e2mka K\u00e2mpheum",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1276614991,
-    "wof:lastmodified":1537653867,
+    "wof:lastmodified":1566727350,
     "wof:name":"Phumi Chamkar Kamphaeum",
     "wof:parent_id":1108564683,
     "wof:placetype":"locality",

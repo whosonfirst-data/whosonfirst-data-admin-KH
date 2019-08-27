@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"104.8792,11.43769,104.9192,11.47769",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Phum\u012d Pr\u00eak Thl\u0153\u0306ng"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1326586273,
-    "wof:lastmodified":1537653577,
+    "wof:lastmodified":1566727204,
     "wof:name":"Prek Thleng",
     "wof:parent_id":1108564661,
     "wof:placetype":"locality",

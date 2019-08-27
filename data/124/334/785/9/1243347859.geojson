@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"105.96152,12.78478,106.00152,12.82478",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Svai Chek",
         "Phum Svai Chek",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1243347859,
-    "wof:lastmodified":1537653783,
+    "wof:lastmodified":1566727558,
     "wof:name":"Phumi Kampong Svay Chek",
     "wof:parent_id":421188051,
     "wof:placetype":"locality",

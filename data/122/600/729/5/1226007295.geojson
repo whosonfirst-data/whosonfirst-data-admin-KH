@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"104.88305,11.30698,104.92305,11.34698",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ampil",
         "Phum\u012d \u00c2mp\u012dl (3)",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226007295,
-    "wof:lastmodified":1537653932,
+    "wof:lastmodified":1566727649,
     "wof:name":"Phumi Ampil",
     "wof:parent_id":1108564613,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"105.14003,11.87136,105.18003,11.91136",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Phum Prek Dambok",
         "Kh\u016dm Pr\u00eak D\u00e2mbok"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1276776239,
-    "wof:lastmodified":1537653947,
+    "wof:lastmodified":1566727368,
     "wof:name":"Khum Prek Dambok",
     "wof:parent_id":1108564845,
     "wof:placetype":"locality",

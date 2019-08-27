@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"103.43605,13.63478,103.47605,13.67478",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:khm_x_preferred":[
         "Preah Lean"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1327491407,
-    "wof:lastmodified":1537653603,
+    "wof:lastmodified":1566727212,
     "wof:name":"Preah Lean",
     "wof:parent_id":421194643,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":11.885005,
     "lbl:longitude":105.398246,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Kampong Cham",
     "meso:dissme":"Kaoh SoutinKampong Cham",
     "meso:gadm_admin":"Kaoh Soutin",
@@ -31,6 +33,7 @@
     "mps:longitude":105.398246,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Kaoh Soutin"
     ],
@@ -51,7 +54,7 @@
         "Koh Sotin"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":1108564701,
-    "wof:lastmodified":1561778116,
+    "wof:lastmodified":1566727453,
     "wof:name":"Kaoh Soutin",
     "wof:parent_id":85673041,
     "wof:placetype":"county",

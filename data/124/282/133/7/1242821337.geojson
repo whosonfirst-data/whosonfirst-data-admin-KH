@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"102.95177,12.83926,102.99177,12.87926",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fas_x_preferred":[
         "\u0627\u0646\u062f\u0627\u0626\u0648\u06a9 \u0647\u0627\u0626\u0628"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1242821337,
-    "wof:lastmodified":1564179659,
+    "wof:lastmodified":1566727563,
     "wof:name":"Andaeuk Haeb",
     "wof:parent_id":1108564799,
     "wof:placetype":"locality",

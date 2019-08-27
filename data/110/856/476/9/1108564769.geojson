@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":11.639468,
     "lbl:longitude":104.799779,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Phnom Penh",
     "meso:dissme":"Praek PnovPhnom Penh",
     "meso:gadm_admin":"Dangkao",
@@ -31,6 +33,7 @@
     "mps:longitude":104.799779,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Praek Pnov"
     ],
@@ -38,7 +41,7 @@
         "Dangkao"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632359,
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1108564769,
-    "wof:lastmodified":1555220363,
+    "wof:lastmodified":1566727452,
     "wof:name":"Praek Pnov",
     "wof:parent_id":85673063,
     "wof:placetype":"county",

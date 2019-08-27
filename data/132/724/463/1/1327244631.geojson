@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"104.94478,12.00816,104.98478,12.04816",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Phum\u012d Ph\u00e2av",
         "P\u2019a Av",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1327244631,
-    "wof:lastmodified":1537653937,
+    "wof:lastmodified":1566727213,
     "wof:name":"Ph'av",
     "wof:parent_id":1108564611,
     "wof:placetype":"locality",

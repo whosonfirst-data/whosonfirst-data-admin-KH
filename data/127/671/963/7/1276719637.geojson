@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"103.98168,13.27346,104.02168,13.31346",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:khm_x_preferred":[
         "Phum Prey Nh\u00f4"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276719637,
-    "wof:lastmodified":1537654136,
+    "wof:lastmodified":1566727362,
     "wof:name":"Phum Prey Nho",
     "wof:parent_id":421171409,
     "wof:placetype":"locality",

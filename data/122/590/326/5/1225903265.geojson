@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"104.48209,10.67743,104.52209,10.71743",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Phum Phnh\u00e9a Nou",
         "Phum\u012d Phn\u016dm Thom",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1225903265,
-    "wof:lastmodified":1537653626,
+    "wof:lastmodified":1566727631,
     "wof:name":"Phumi Phnum Thum",
     "wof:parent_id":1108564657,
     "wof:placetype":"locality",

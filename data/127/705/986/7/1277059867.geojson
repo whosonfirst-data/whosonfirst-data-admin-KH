@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"105.62913,11.33386,105.66913,11.37386",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:khm_x_preferred":[
         "Prohea"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1277059867,
-    "wof:lastmodified":1537653606,
+    "wof:lastmodified":1566727356,
     "wof:name":"Prohea",
     "wof:parent_id":1108564729,
     "wof:placetype":"locality",

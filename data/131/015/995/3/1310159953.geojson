@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"103.43646,13.97208,103.47646,14.01208",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:khm_x_preferred":[
         "Phum Ko\u016dl"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1310159953,
-    "wof:lastmodified":1537653703,
+    "wof:lastmodified":1566727461,
     "wof:name":"Phum Koul",
     "wof:parent_id":1108564647,
     "wof:placetype":"locality",

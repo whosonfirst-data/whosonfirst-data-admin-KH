@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"105.90305,13.27304,105.94305,13.31304",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Siemboc",
         "Phum Siembauk",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1310473375,
-    "wof:lastmodified":1537653493,
+    "wof:lastmodified":1566727465,
     "wof:name":"Phumi Siembok",
     "wof:parent_id":1108564833,
     "wof:placetype":"locality",

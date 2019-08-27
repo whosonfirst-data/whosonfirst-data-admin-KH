@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"104.9277,12.13,104.9677,12.17",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tr\u00e2p",
         "Phum\u012d Tr\u00e2p",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276456529,
-    "wof:lastmodified":1537653387,
+    "wof:lastmodified":1566727339,
     "wof:name":"Phumi Trab",
     "wof:parent_id":1108564611,
     "wof:placetype":"locality",

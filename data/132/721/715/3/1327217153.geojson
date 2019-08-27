@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"105.59648,11.53138,105.63648,11.57138",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Phum Smong",
         "Phum\u012d Sma\u00f4ng"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1327217153,
-    "wof:lastmodified":1537653489,
+    "wof:lastmodified":1566727231,
     "wof:name":"Phumi Smaong",
     "wof:parent_id":1108564669,
     "wof:placetype":"locality",

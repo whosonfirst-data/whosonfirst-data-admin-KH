@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"105.19513,12.34134,105.23513,12.38134",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:khm_x_preferred":[
         "Multhan Roung Chakr"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1293886671,
-    "wof:lastmodified":1537653867,
+    "wof:lastmodified":1566727332,
     "wof:name":"Multhan Roung Chakr",
     "wof:parent_id":1108564621,
     "wof:placetype":"locality",

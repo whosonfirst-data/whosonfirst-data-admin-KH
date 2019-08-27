@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"105.08303,12.90349,105.12303,12.94349",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Phum Chrama",
         "Phum\u012d Chr\u00e2m\u0103s"
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1209219513,
-    "wof:lastmodified":1537653835,
+    "wof:lastmodified":1566727413,
     "wof:name":"Phumi Chramas",
     "wof:parent_id":85632359,
     "wof:placetype":"locality",

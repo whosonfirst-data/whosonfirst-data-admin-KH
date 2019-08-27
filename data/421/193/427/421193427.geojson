@@ -10,8 +10,12 @@
     "geom:latitude":12.481749,
     "geom:longitude":106.024246,
     "iso:country":"KH",
+    "lbl:bbox":"106.004246,12.461749,106.044246,12.501749",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -41,7 +45,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1028482,
-        "qs:id":895409
+        "qs_pg:id":895409
     },
     "wof:country":"KH",
     "wof:created":1459009770,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":421193427,
-    "wof:lastmodified":1499930110,
+    "wof:lastmodified":1566727522,
     "wof:name":"Kracheh",
     "wof:parent_id":421188049,
     "wof:placetype":"locality",

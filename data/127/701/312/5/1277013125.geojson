@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"105.74667,11.79667,105.78667,11.83667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Wat Tep Pronom",
         "Tep Pranam",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1277013125,
-    "wof:lastmodified":1537653419,
+    "wof:lastmodified":1566727333,
     "wof:name":"Phumi Tep Pranamm",
     "wof:parent_id":421183889,
     "wof:placetype":"locality",

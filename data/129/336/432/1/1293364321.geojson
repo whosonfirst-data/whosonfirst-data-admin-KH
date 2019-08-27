@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"104.64239,10.75398,104.68239,10.79398",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Tani"
     ],
@@ -47,8 +51,7 @@
         "Tani"
     ],
     "name:und_x_variant":[
-        "Phum Tani",
-        "Tani"
+        "Phum Tani"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1293364321,
-    "wof:lastmodified":1564178670,
+    "wof:lastmodified":1566727289,
     "wof:name":"Tani",
     "wof:parent_id":1108564581,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"103.62138,13.69666,103.66138,13.73666",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:khm_x_preferred":[
         "Ta Toy"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1327491395,
-    "wof:lastmodified":1537654116,
+    "wof:lastmodified":1566727211,
     "wof:name":"Ta Toy",
     "wof:parent_id":1108564583,
     "wof:placetype":"locality",

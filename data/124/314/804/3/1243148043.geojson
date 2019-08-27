@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"106.01889,10.88743,106.05889,10.92743",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:khm_x_preferred":[
         "Traok"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1243148043,
-    "wof:lastmodified":1537653381,
+    "wof:lastmodified":1566727551,
     "wof:name":"Traok",
     "wof:parent_id":1108564671,
     "wof:placetype":"locality",

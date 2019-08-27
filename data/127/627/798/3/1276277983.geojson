@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"103.84916,10.70253,103.88916,10.74253",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:khm_x_preferred":[
         "Phum Ch\u00e2mka Leu"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1276277983,
-    "wof:lastmodified":1537653866,
+    "wof:lastmodified":1566727343,
     "wof:name":"Phum Chamka Leu",
     "wof:parent_id":421188243,
     "wof:placetype":"locality",

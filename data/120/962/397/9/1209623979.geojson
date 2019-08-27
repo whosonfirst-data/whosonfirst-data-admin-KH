@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"105.43491,11.93429,105.47491,11.97429",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Phum Kas Pen",
         "Phum\u012d Ka\u00f4h P\u00ean"
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1209623979,
-    "wof:lastmodified":1537653764,
+    "wof:lastmodified":1566727381,
     "wof:name":"Phumi Kaoh Pen",
     "wof:parent_id":85632359,
     "wof:placetype":"locality",

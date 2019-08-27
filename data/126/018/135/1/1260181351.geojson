@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"104.95258,12.82334,104.99258,12.86334",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Phum\u012d M\u00f4h\u00f4r",
         "M\u00f4h\u00e2r"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1260181351,
-    "wof:lastmodified":1537653939,
+    "wof:lastmodified":1566727441,
     "wof:name":"Mohar",
     "wof:parent_id":421169333,
     "wof:placetype":"locality",

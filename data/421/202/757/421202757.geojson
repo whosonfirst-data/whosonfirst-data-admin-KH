@@ -10,13 +10,17 @@
     "geom:latitude":12.66815,
     "geom:longitude":104.90666,
     "iso:country":"KH",
+    "lbl:bbox":"104.88666,12.64815,104.92666,12.68815",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:khm_x_preferred":[
         "Trapeang Veaeng"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tr\u00e2pe\u0103ng V\u00eang"
     ],
     "qs:gn_country":"KH",
@@ -48,7 +52,7 @@
     "wof:concordances":{
         "gn:id":1821525,
         "gp:id":1028625,
-        "qs:id":227439
+        "qs_pg:id":227439
     },
     "wof:country":"KH",
     "wof:created":1459010129,
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":421202757,
-    "wof:lastmodified":1501222438,
+    "wof:lastmodified":1566727523,
     "wof:name":"Trapeang Veng",
     "wof:parent_id":421180491,
     "wof:placetype":"locality",

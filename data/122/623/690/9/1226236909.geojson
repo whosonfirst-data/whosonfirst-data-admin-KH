@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"105.09348,11.63657,105.13348,11.67657",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Phum\u012d K\u00e2mp\u00f4ng Ch\u00e2ml\u00e2ng",
         "Kompong Chamlong",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226236909,
-    "wof:lastmodified":1537653951,
+    "wof:lastmodified":1566727638,
     "wof:name":"Khum Kampong Chamlang",
     "wof:parent_id":421188351,
     "wof:placetype":"locality",

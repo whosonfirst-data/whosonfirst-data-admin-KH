@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"105.33262,12.03145,105.37262,12.07145",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Troeung",
         "Phum\u012d Traeung"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1292906593,
-    "wof:lastmodified":1537653385,
+    "wof:lastmodified":1566727319,
     "wof:name":"Phumi Traeung",
     "wof:parent_id":1108564783,
     "wof:placetype":"locality",

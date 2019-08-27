@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.573115,
     "lbl:longitude":105.342824,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Preah Vihear",
     "meso:dissme":"Chey SaenPreah Vihear",
     "meso:gadm_admin":"Chey Saen",
@@ -31,6 +33,7 @@
     "mps:longitude":105.342824,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Chey Saen"
     ],
@@ -38,7 +41,7 @@
         "Chey Saen"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1108564633,
-    "wof:lastmodified":1553718167,
+    "wof:lastmodified":1566727454,
     "wof:name":"Chey Saen",
     "wof:parent_id":85673071,
     "wof:placetype":"county",

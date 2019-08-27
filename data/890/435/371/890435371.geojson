@@ -11,8 +11,11 @@
     "geom:longitude":104.52085,
     "gn:country":"KH",
     "gn:fcode":"PPLA",
-    "gn:pop":33231,
+    "gn:population":33231,
     "iso:country":"KH",
+    "lbl:bbox":"104.50085,11.43332,104.54085,11.47332",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":9.0,
@@ -67,7 +70,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u043c\u043f\u043e\u043d\u0433\u0441\u043f\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "K\u014fmpon Spu"
     ],
     "name:urd_x_preferred":[
@@ -189,7 +192,7 @@
     "wof:concordances":{
         "gn:id":1831133,
         "gp:id":1028470,
-        "qs:id":274073,
+        "qs_pg:id":274073,
         "wd:id":"Q2344811"
     },
     "wof:country":"KH",
@@ -205,7 +208,7 @@
         }
     ],
     "wof:id":890435371,
-    "wof:lastmodified":1563321346,
+    "wof:lastmodified":1566727528,
     "wof:name":"K\u00e2mp\u00f3ng Sp\u0153",
     "wof:parent_id":421194855,
     "wof:placetype":"locality",

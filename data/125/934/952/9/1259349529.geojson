@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"103.30487,14.22031,103.34487,14.26031",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Trapeang Khpos",
         "Ko\u016dk Khpu\u014fs",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259349529,
-    "wof:lastmodified":1537653941,
+    "wof:lastmodified":1566727600,
     "wof:name":"Kouk Khpos",
     "wof:parent_id":1108564599,
     "wof:placetype":"locality",

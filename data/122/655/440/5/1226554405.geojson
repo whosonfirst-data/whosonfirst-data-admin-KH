@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"104.90833,11.45107,104.94833,11.49107",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Treal Chos",
         "Phum\u012d Pr\u00eak L\u014fng"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1226554405,
-    "wof:lastmodified":1537653584,
+    "wof:lastmodified":1566727642,
     "wof:name":"Phumi Prek Long",
     "wof:parent_id":421168305,
     "wof:placetype":"locality",

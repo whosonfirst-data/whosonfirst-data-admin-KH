@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":11.515355,
     "lbl:longitude":103.456173,
+    "lbl:min_zoom":8.0,
     "mps:latitude":11.516283,
     "mps:longitude":103.493475,
     "mz:hierarchy_label":1,
@@ -152,7 +153,7 @@
         "Koh Kong"
     ],
     "name:tam_x_preferred":[
-        "\u0b95\u0bcb\u0bb9\u0bcd  \u0b95\u0bbe\u0b99\u0bcd  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+        "\u0b95\u0bcb\u0bb9\u0bcd \u0b95\u0bbe\u0b99\u0bcd \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c15\u0c4b\u0c39\u0c4d \u0c15\u0c3e\u0c02\u0c17\u0c4d \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
@@ -166,7 +167,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0440\u043e\u0432\u0456\u043d\u0446\u0456\u044f \u041a\u0430\u0445\u043a\u043e\u043d\u0433"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Khet Koh Kong"
     ],
     "name:urd_x_preferred":[
@@ -253,9 +254,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2008-03-03",
+    "src:population_date":"2008-03-03",
     "statoids:area_km":"11,160",
     "statoids:area_mi":"4,309",
     "statoids:as_of_date":"2008-03-03",
@@ -280,7 +281,7 @@
         "gp:id":2344934,
         "hasc:id":"KH.KK",
         "iso:id":"KH-9",
-        "qs:id":1083806,
+        "qs_pg:id":1083806,
         "unlc:id":"KH-9",
         "wd:id":"Q466000",
         "wk:page":"Koh Kong Province"
@@ -301,11 +302,10 @@
     "wof:lang_x_spoken":[
         "khm"
     ],
-    "wof:lastmodified":1565725071,
+    "wof:lastmodified":1566727283,
     "wof:name":"Ka\u00f4h Kong",
     "wof:parent_id":85632359,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":117481,
     "wof:population_rank":9,

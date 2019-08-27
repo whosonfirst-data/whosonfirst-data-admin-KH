@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"104.52823,11.50778,104.56823,11.54778",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:khm_x_preferred":[
         "Sampov Ngo"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1327030193,
-    "wof:lastmodified":1537654032,
+    "wof:lastmodified":1566727217,
     "wof:name":"Sampov Ngo",
     "wof:parent_id":1108564819,
     "wof:placetype":"locality",

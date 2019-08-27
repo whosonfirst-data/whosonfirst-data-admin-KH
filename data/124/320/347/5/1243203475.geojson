@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"105.76213,11.79261,105.80213,11.83261",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Phum Kok Rov\u00e9ang",
         "Phum\u012d Ko\u016dk L\u00f4v\u00e9ang",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1243203475,
-    "wof:lastmodified":1537653712,
+    "wof:lastmodified":1566727569,
     "wof:name":"Phumi Kouk Lveang",
     "wof:parent_id":421183889,
     "wof:placetype":"locality",

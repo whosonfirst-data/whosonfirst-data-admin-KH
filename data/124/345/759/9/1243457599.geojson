@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"105.09736,11.75559,105.13736,11.79559",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Phum Ch\u00e2nlerk Dai",
         "Phumi Chanlevk Dai",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1243457599,
-    "wof:lastmodified":1537653862,
+    "wof:lastmodified":1566727572,
     "wof:name":"Phumi Chanleak Dai",
     "wof:parent_id":1108564845,
     "wof:placetype":"locality",

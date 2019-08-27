@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"103.09693,13.73793,103.13693,13.77793",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:khm_x_preferred":[
         "Sarongk"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1343815483,
-    "wof:lastmodified":1564178652,
+    "wof:lastmodified":1566727280,
     "wof:name":"Sarongk",
     "wof:parent_id":421181961,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"105.47926,11.65159,105.51926,11.69159",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Phum\u012d Kd\u0153\u0103ng R\u00e9ay"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1226416339,
-    "wof:lastmodified":1537653750,
+    "wof:lastmodified":1566727639,
     "wof:name":"Phum Kdoeung Reai",
     "wof:parent_id":1108564691,
     "wof:placetype":"locality",

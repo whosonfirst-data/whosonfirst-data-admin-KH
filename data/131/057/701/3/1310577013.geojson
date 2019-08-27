@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"105.85211,11.25441,105.89211,11.29441",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Thnar Thuong",
         "Phum\u012d Thn\u016dng",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1310577013,
-    "wof:lastmodified":1537653402,
+    "wof:lastmodified":1566727486,
     "wof:name":"Phumi Thnong",
     "wof:parent_id":1108564807,
     "wof:placetype":"locality",

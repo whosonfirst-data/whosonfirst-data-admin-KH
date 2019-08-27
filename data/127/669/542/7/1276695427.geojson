@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"105.5836,11.84519,105.6236,11.88519",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1276695427,
-    "wof:lastmodified":1536790847,
+    "wof:lastmodified":1566727346,
     "wof:name":"Phumi Khnach Krasang",
     "wof:parent_id":421183891,
     "wof:placetype":"locality",

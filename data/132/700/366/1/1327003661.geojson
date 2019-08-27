@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"105.26893,11.78951,105.30893,11.82951",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:khm_x_preferred":[
         "Ta Ngak Srae"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1327003661,
-    "wof:lastmodified":1537653437,
+    "wof:lastmodified":1566727198,
     "wof:name":"Ta Ngak Srae",
     "wof:parent_id":1108564837,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"103.46005,13.6103,103.50005,13.6503",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:khm_x_preferred":[
         "Damrei Slab"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1293057003,
-    "wof:lastmodified":1537653992,
+    "wof:lastmodified":1566727316,
     "wof:name":"Damrei Slab",
     "wof:parent_id":421194643,
     "wof:placetype":"locality",

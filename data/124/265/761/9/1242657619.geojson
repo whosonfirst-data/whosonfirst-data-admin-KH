@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"103.79401,12.3963,103.83401,12.4363",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kompeng",
         "Kompong",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1242657619,
-    "wof:lastmodified":1537653798,
+    "wof:lastmodified":1566727566,
     "wof:name":"Phumi Kampeng",
     "wof:parent_id":1108564759,
     "wof:placetype":"locality",

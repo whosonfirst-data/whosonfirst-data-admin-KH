@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"103.79814,11.71934,103.83814,11.75934",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kenong",
         "Knoug",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1193161305,
-    "wof:lastmodified":1537653727,
+    "wof:lastmodified":1566727430,
     "wof:name":"Phumi Knong",
     "wof:parent_id":1108564591,
     "wof:placetype":"locality",
