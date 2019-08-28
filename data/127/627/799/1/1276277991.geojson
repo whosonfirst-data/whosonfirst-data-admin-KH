@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"103.50825,10.5899,103.54825,10.6299",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:khm_x_preferred":[
         "Sangkat Buon"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1276277991,
-    "wof:lastmodified":1537654004,
+    "wof:lastmodified":1566727343,
     "wof:name":"Sangkat Buon",
     "wof:parent_id":1108564777,
     "wof:placetype":"locality",

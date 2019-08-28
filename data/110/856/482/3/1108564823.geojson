@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.255743,
     "lbl:longitude":103.620961,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Oddar Meanchey",
     "meso:dissme":"SamraongOddar Meanchey",
     "meso:gadm_admin":"Samraong",
@@ -31,6 +33,7 @@
     "mps:longitude":103.620961,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Sr\u014fk S\u00e2mra\u00f4ng"
     ],
@@ -61,7 +64,7 @@
         "Samraong"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632359,
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":1108564823,
-    "wof:lastmodified":1563321064,
+    "wof:lastmodified":1566727452,
     "wof:name":"Samraong",
     "wof:parent_id":85673033,
     "wof:placetype":"county",

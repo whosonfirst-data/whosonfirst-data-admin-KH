@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"105.46905,12.9371,105.50905,12.9771",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "O Rangnay",
         "O Rangknay",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1243386439,
-    "wof:lastmodified":1537653906,
+    "wof:lastmodified":1566727529,
     "wof:name":"Phumi Arang Khnay",
     "wof:parent_id":421188047,
     "wof:placetype":"locality",

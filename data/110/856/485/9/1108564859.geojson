@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":11.522391,
     "lbl:longitude":105.469434,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Prey Veng",
     "meso:dissme":"Svay AntorPrey Veng",
     "meso:gadm_admin":"Prey Veaeng",
@@ -31,6 +33,7 @@
     "mps:longitude":105.469434,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Prey Veaeng"
     ],
@@ -49,7 +52,7 @@
         "Prey Veaeng"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632359,
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1108564859,
-    "wof:lastmodified":1561778115,
+    "wof:lastmodified":1566727451,
     "wof:name":"Svay Antor",
     "wof:parent_id":85673067,
     "wof:placetype":"county",

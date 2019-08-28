@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":11.384742,
     "lbl:longitude":105.322241,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Prey Veng",
     "meso:dissme":"Peam RoPrey Veng",
     "meso:gadm_admin":"Peam Ro",
@@ -31,6 +33,7 @@
     "mps:longitude":105.322241,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Peam Ro"
@@ -90,7 +93,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -110,7 +113,7 @@
     "wof:concordances":{
         "gp:id":56063325,
         "hasc:id":"KH.PY.PR",
-        "qs:id":19971,
+        "qs_pg:id":19971,
         "wd:id":"Q7157916"
     },
     "wof:country":"KH",
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":421191397,
-    "wof:lastmodified":1563321334,
+    "wof:lastmodified":1566727525,
     "wof:name":"Peam Ro",
     "wof:parent_id":85673067,
     "wof:placetype":"county",

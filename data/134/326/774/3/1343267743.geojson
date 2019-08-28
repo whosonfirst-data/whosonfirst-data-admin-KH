@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"104.6461,11.77743,104.6861,11.81743",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "B\u00e8ng Ch\u00f9m",
         "Phum\u012d Voat Chass",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343267743,
-    "wof:lastmodified":1537653340,
+    "wof:lastmodified":1566727278,
     "wof:name":"Phumi Vott Chas",
     "wof:parent_id":421177965,
     "wof:placetype":"locality",

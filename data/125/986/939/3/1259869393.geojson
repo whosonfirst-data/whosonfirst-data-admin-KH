@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"105.95022,12.77043,105.99022,12.81043",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Phum Donmeas",
         "Phum\u012d Don M\u00e9as"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1259869393,
-    "wof:lastmodified":1537653808,
+    "wof:lastmodified":1566727607,
     "wof:name":"Phumi Don Meas",
     "wof:parent_id":421188051,
     "wof:placetype":"locality",

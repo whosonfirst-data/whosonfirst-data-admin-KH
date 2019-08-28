@@ -12,8 +12,10 @@
     "gn:latitude":11.55118,
     "gn:longitude":104.90628,
     "iso:country":"KH",
+    "lbl:bbox":"104.917176,11.552457,104.927176,11.562457",
     "lbl:latitude":11.557457,
     "lbl:longitude":104.922176,
+    "lbl:max_zoom":18.0,
     "mps:latitude":11.547692,
     "mps:longitude":104.923499,
     "mz:hierarchy_label":0,
@@ -28,9 +30,8 @@
     "name:eng_x_preferred":[
         "Toul Tapeung"
     ],
-    "name:unk_x_variant":[
-        "Tu\u014fl Tumpung",
-        "Toul Tapeung"
+    "name:und_x_variant":[
+        "Tu\u014fl Tumpung"
     ],
     "qs:gn_adm0_cc":"KH",
     "qs:gn_fcode":"PPLX",
@@ -59,19 +60,19 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85673063,
         102191569,
         85632359,
         1108952563,
-        1108564813,
-        85673063
+        1108564813
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1821453,
         "gp:id":1028375,
-        "qs:id":235409
+        "qs_pg:id":235409
     },
     "wof:country":"KH",
     "wof:geomhash":"a9c11de5d5f853ae1b3792bfc60f86cf",
@@ -89,7 +90,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1536881822,
+    "wof:lastmodified":1566727282,
     "wof:name":"Toul Tapeung",
     "wof:parent_id":1108952563,
     "wof:placetype":"neighbourhood",

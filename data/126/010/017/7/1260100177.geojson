@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"103.29344,10.52986,103.33344,10.56986",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:khm_x_preferred":[
         "Phum Ka\u00f4h R\u014fng S\u00e2ml\u0153\u0306m Krau"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1260100177,
-    "wof:lastmodified":1537653763,
+    "wof:lastmodified":1566727443,
     "wof:name":"Phum Kaoh Rong Samloem Krau",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

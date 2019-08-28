@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"103.92583,12.56933,103.96583,12.60933",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:khm_x_preferred":[
         "Phum K\u00e2ndi\u0115ng Khn\u014fng"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276428117,
-    "wof:lastmodified":1537654100,
+    "wof:lastmodified":1566727339,
     "wof:name":"Phum Kandieng Khnong",
     "wof:parent_id":1108564687,
     "wof:placetype":"locality",

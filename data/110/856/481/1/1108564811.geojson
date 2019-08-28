@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":11.325072,
     "lbl:longitude":105.027361,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Kandal",
     "meso:dissme":"S'angKandal",
     "meso:gadm_admin":"S'ang",
@@ -31,6 +33,7 @@
     "mps:longitude":105.027361,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "S'ang"
     ],
@@ -51,7 +54,7 @@
         "S'ang"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":1108564811,
-    "wof:lastmodified":1561778117,
+    "wof:lastmodified":1566727455,
     "wof:name":"S'ang",
     "wof:parent_id":85673051,
     "wof:placetype":"county",

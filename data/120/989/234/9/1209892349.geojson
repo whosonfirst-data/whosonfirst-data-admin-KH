@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"105.96803,13.51238,106.00803,13.55238",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ban Napho",
         "Phum\u012d Sr\u00ea Po\u016d",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1209892349,
-    "wof:lastmodified":1537653470,
+    "wof:lastmodified":1566727410,
     "wof:name":"Phumi Sre Pouthi",
     "wof:parent_id":421200835,
     "wof:placetype":"locality",

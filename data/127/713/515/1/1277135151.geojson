@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"106.94492,13.80129,106.98492,13.84129",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1277135151,
-    "wof:lastmodified":1536692418,
+    "wof:lastmodified":1566727354,
     "wof:name":"Phumi Kanuv",
     "wof:parent_id":1108564743,
     "wof:placetype":"locality",

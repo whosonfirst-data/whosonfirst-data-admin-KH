@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"105.42545,12.84667,105.46545,12.88667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Phum\u012d R\u016dssei Prey",
         "Phum\u012d R\u0153ssei Prey"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1293588339,
-    "wof:lastmodified":1537653539,
+    "wof:lastmodified":1566727313,
     "wof:name":"Phum Russey Prey",
     "wof:parent_id":421188047,
     "wof:placetype":"locality",

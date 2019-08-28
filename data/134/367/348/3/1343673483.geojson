@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"104.30758,12.25239,104.34758,12.29239",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:khm_x_preferred":[
         "Phum Tr\u00e2pe\u0103ng Prei"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1343673483,
-    "wof:lastmodified":1537653373,
+    "wof:lastmodified":1566727265,
     "wof:name":"Phum Trapeang Prei",
     "wof:parent_id":1108564885,
     "wof:placetype":"locality",

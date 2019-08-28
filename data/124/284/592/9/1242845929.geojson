@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"106.01884,13.53682,106.05884,13.57682",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:khm_x_preferred":[
         "Phum Sr\u00ea N\u0103m N\u00e2y"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1242845929,
-    "wof:lastmodified":1537653472,
+    "wof:lastmodified":1566727560,
     "wof:name":"Phum Sre Nam Nay",
     "wof:parent_id":1108564831,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"105.22782,12.47615,105.26782,12.51615",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Rung"
     ],
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1327034663,
-    "wof:lastmodified":1564178415,
+    "wof:lastmodified":1566727217,
     "wof:name":"Rung",
     "wof:parent_id":421198921,
     "wof:placetype":"locality",

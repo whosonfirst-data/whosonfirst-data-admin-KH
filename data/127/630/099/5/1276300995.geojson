@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"104.87022,11.55269,104.91022,11.59269",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:khm_x_preferred":[
         "Boeng Kak Pir"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1276300995,
-    "wof:lastmodified":1537654027,
+    "wof:lastmodified":1566727370,
     "wof:name":"Boeng Kak Pir",
     "wof:parent_id":1108564887,
     "wof:placetype":"locality",

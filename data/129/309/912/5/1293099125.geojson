@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"104.36629,11.56078,104.40629,11.60078",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:khm_x_preferred":[
         "Phum An S\u00e9h"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1293099125,
-    "wof:lastmodified":1537653908,
+    "wof:lastmodified":1566727289,
     "wof:name":"Phum An Seh",
     "wof:parent_id":1108564873,
     "wof:placetype":"locality",

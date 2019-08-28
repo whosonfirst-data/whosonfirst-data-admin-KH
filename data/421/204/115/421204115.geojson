@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.30402,
     "lbl:longitude":103.833816,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Siemreap",
     "meso:dissme":"Siem ReapSiemreap",
     "meso:gadm_admin":"Siem Reab",
@@ -31,6 +33,7 @@
     "mps:longitude":103.833816,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0633\u064a\u0627\u0645 \u0631\u064a\u0628"
@@ -208,7 +211,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -228,7 +231,7 @@
     "wof:concordances":{
         "gp:id":56063345,
         "hasc:id":"KH.SI.SR",
-        "qs:id":238186
+        "qs_pg:id":238186
     },
     "wof:country":"KH",
     "wof:created":1459010174,
@@ -242,7 +245,7 @@
         }
     ],
     "wof:id":421204115,
-    "wof:lastmodified":1564179517,
+    "wof:lastmodified":1566727522,
     "wof:name":"Siem Reap",
     "wof:parent_id":85673029,
     "wof:placetype":"county",

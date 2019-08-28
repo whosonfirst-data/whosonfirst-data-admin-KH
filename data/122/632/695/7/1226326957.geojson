@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"105.98555,12.70261,106.02555,12.74261",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:khm_x_preferred":[
         "Phum Cha Thna\u00f4l"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1226326957,
-    "wof:lastmodified":1537653859,
+    "wof:lastmodified":1566727625,
     "wof:name":"Char Tnaol",
     "wof:parent_id":421188051,
     "wof:placetype":"locality",

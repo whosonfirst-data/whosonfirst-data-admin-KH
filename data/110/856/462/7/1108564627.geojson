@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":10.94221,
     "lbl:longitude":106.095771,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Svay Rieng",
     "meso:dissme":"ChantreaSvay Rieng",
     "meso:gadm_admin":"Chantrea",
@@ -31,6 +33,7 @@
     "mps:longitude":106.095771,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Chantrea"
     ],
@@ -38,7 +41,7 @@
         "Chantrea"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1108564627,
-    "wof:lastmodified":1553718167,
+    "wof:lastmodified":1566727455,
     "wof:name":"Chantrea",
     "wof:parent_id":85673105,
     "wof:placetype":"county",

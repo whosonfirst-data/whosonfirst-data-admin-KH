@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"106.11794,10.86048,106.15794,10.90048",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bathu",
         "Phum\u012d Bathu"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1326893741,
-    "wof:lastmodified":1537653890,
+    "wof:lastmodified":1566727201,
     "wof:name":"Phumi Bathu",
     "wof:parent_id":1108564627,
     "wof:placetype":"locality",

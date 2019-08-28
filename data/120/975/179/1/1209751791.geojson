@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"105.41963,11.79141,105.45963,11.83141",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Phum\u012d K\u00e2mp\u00f3ng B\u0153\u0306ng"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1209751791,
-    "wof:lastmodified":1537653796,
+    "wof:lastmodified":1566727417,
     "wof:name":"Phum Kompong Beng",
     "wof:parent_id":421177919,
     "wof:placetype":"locality",

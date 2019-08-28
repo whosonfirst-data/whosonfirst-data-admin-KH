@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"103.27422,12.81483,103.31422,12.85483",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:khm_x_preferred":[
         "Phum Tu\u014fl R\u016dssei"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276815281,
-    "wof:lastmodified":1537653974,
+    "wof:lastmodified":1566727336,
     "wof:name":"Phum Tuol Russei",
     "wof:parent_id":1108564711,
     "wof:placetype":"locality",

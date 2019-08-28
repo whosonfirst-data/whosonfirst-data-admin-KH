@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":11.001966,
     "lbl:longitude":104.78274,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Takeo",
     "meso:dissme":"Doun KaevTakeo",
     "meso:gadm_admin":"Doun Kaev",
@@ -31,6 +33,7 @@
     "mps:longitude":104.78274,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Kr\u014fng Doun Kaev"
@@ -87,7 +90,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -108,7 +111,7 @@
         "gn:id":8405707,
         "gp:id":56063365,
         "hasc:id":"KH.TA.DK",
-        "qs:id":1086875,
+        "qs_pg:id":1086875,
         "wd:id":"Q4929284",
         "wk:page":"Doun Kaev District"
     },
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":421187977,
-    "wof:lastmodified":1563321325,
+    "wof:lastmodified":1566727523,
     "wof:name":"Doun Kaev",
     "wof:parent_id":85673107,
     "wof:placetype":"county",

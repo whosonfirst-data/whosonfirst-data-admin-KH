@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"105.69759,11.36739,105.73759,11.40739",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Prey-Phdau",
         "Prey-P\u2019dau",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1209992413,
-    "wof:lastmodified":1537653562,
+    "wof:lastmodified":1566727387,
     "wof:name":"Phumi Prey Phdau",
     "wof:parent_id":1108564797,
     "wof:placetype":"locality",

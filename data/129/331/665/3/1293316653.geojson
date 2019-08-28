@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"104.65173,11.24353,104.69173,11.28353",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "R\u00fasey Srok",
         "Phum\u012d R\u016dssei Sr\u014fk",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293316653,
-    "wof:lastmodified":1537653539,
+    "wof:lastmodified":1566727289,
     "wof:name":"Russey Srok",
     "wof:parent_id":1108564715,
     "wof:placetype":"locality",

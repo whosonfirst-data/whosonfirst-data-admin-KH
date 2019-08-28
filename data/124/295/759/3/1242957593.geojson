@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"106.16269,13.05857,106.20269,13.09857",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:khm_x_preferred":[
         "Phum \u00c2ndas"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1242957593,
-    "wof:lastmodified":1537653931,
+    "wof:lastmodified":1566727542,
     "wof:name":"Phum Andas",
     "wof:parent_id":421188051,
     "wof:placetype":"locality",

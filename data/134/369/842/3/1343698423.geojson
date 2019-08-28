@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"105.49962,12.03132,105.53962,12.07132",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:khm_x_preferred":[
         "Phum Prammuoy"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1343698423,
-    "wof:lastmodified":1537654080,
+    "wof:lastmodified":1566727263,
     "wof:name":"Phum Prammuoy",
     "wof:parent_id":421205043,
     "wof:placetype":"locality",

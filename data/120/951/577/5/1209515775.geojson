@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"104.4852,11.41861,104.5252,11.45861",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632359
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209515775,
-    "wof:lastmodified":1536284737,
+    "wof:lastmodified":1566727404,
     "wof:name":"Phumi Thma Samlieng",
     "wof:parent_id":85632359,
     "wof:placetype":"locality",

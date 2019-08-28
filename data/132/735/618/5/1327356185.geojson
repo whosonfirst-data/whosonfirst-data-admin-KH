@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"105.25493,12.57181,105.29493,12.61181",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Phum Dang Kda",
         "D\u00e2ng Kda"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1327356185,
-    "wof:lastmodified":1537653958,
+    "wof:lastmodified":1566727216,
     "wof:name":"Dang Kda",
     "wof:parent_id":1108564829,
     "wof:placetype":"locality",

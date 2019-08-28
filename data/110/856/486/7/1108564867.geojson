@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.866988,
     "lbl:longitude":105.057749,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Preah Vihear",
     "meso:dissme":"Tbaeng Mean CheyPreah Vihear",
     "meso:gadm_admin":"Tbaeng Mean chey",
@@ -31,6 +33,7 @@
     "mps:longitude":105.057749,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Tbaeng Mean Chey"
     ],
@@ -39,7 +42,7 @@
         "Tbaeng Mean chey"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1108564867,
-    "wof:lastmodified":1553718173,
+    "wof:lastmodified":1566727456,
     "wof:name":"Tbaeng Mean Chey",
     "wof:parent_id":85673071,
     "wof:placetype":"county",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"104.82334,11.3155,104.86334,11.3555",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Tonl\u00e9 Bati"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1327409171,
-    "wof:lastmodified":1564178393,
+    "wof:lastmodified":1566727211,
     "wof:name":"Tonle Bati",
     "wof:parent_id":1108564613,
     "wof:placetype":"locality",

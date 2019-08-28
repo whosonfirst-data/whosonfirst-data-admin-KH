@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"104.98414,11.14495,105.02414,11.18495",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:khm_x_preferred":[
         "Phum Kr\u00e2ch\u0115l"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1310663165,
-    "wof:lastmodified":1537653700,
+    "wof:lastmodified":1566727485,
     "wof:name":"Phum Krachel",
     "wof:parent_id":1108564787,
     "wof:placetype":"locality",

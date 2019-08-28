@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"104.58365,12.34338,104.62365,12.38338",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Phum\u012d St\u0153\u0306ng Chr\u014fu"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1276659123,
-    "wof:lastmodified":1537653463,
+    "wof:lastmodified":1566727373,
     "wof:name":"Prea Koki",
     "wof:parent_id":421202235,
     "wof:placetype":"locality",

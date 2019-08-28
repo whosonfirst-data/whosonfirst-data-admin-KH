@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"103.19164,14.16443,103.23164,14.20443",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Baray"
     ],
@@ -97,7 +101,7 @@
         }
     ],
     "wof:id":1242625029,
-    "wof:lastmodified":1564179664,
+    "wof:lastmodified":1566727565,
     "wof:name":"Baray",
     "wof:parent_id":1108564599,
     "wof:placetype":"locality",

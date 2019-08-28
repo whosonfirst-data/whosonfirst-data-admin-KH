@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"104.53143,12.36725,104.57143,12.40725",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Wat Botum Sakor",
         "Vat Botum Sakor",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276555193,
-    "wof:lastmodified":1537653356,
+    "wof:lastmodified":1566727368,
     "wof:name":"Phumi Tuol",
     "wof:parent_id":421202235,
     "wof:placetype":"locality",

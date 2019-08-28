@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"103.89202,13.81838,103.93202,13.85838",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:khm_x_preferred":[
         "Kouk Chan"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1343719947,
-    "wof:lastmodified":1537653718,
+    "wof:lastmodified":1566727255,
     "wof:name":"Kouk Chan",
     "wof:parent_id":421200833,
     "wof:placetype":"locality",

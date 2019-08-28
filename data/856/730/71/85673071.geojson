@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":13.768998,
     "lbl:longitude":105.059303,
+    "lbl:min_zoom":8.0,
     "mps:latitude":13.786322,
     "mps:longitude":105.058383,
     "mz:hierarchy_label":1,
@@ -171,7 +172,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0440\u043e\u0432\u0456\u043d\u0446\u0456\u044f \u041f\u0440\u0435\u0430\u0445\u0432\u0456\u0445\u0435\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kh\u00eat Pre\u0103h Vih\u00e9ar"
     ],
     "name:urd_x_preferred":[
@@ -258,9 +259,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2008-03-03",
+    "src:population_date":"2008-03-03",
     "statoids:area_km":"13,788",
     "statoids:area_mi":"5,324",
     "statoids:as_of_date":"2008-03-03",
@@ -285,7 +286,7 @@
         "gp:id":2344938,
         "hasc:id":"KH.PH",
         "iso:id":"KH-13",
-        "qs:id":1083808,
+        "qs_pg:id":1083808,
         "unlc:id":"KH-13",
         "wd:id":"Q502151",
         "wk:page":"Preah Vihear Province"
@@ -306,11 +307,10 @@
     "wof:lang_x_spoken":[
         "khm"
     ],
-    "wof:lastmodified":1565725073,
+    "wof:lastmodified":1566727284,
     "wof:name":"Preah Vih\u00e9ar ",
     "wof:parent_id":85632359,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":171139,
     "wof:population_rank":9,

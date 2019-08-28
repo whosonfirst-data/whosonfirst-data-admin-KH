@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"105.82377,12.91036,105.86377,12.95036",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Phum Seo",
         "Phum\u012d S\u00eav"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1343758677,
-    "wof:lastmodified":1537653493,
+    "wof:lastmodified":1566727279,
     "wof:name":"Phumi Sev",
     "wof:parent_id":421188051,
     "wof:placetype":"locality",

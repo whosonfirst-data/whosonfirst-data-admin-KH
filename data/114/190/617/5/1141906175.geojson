@@ -10,10 +10,14 @@
     "geom:latitude":11.484,
     "geom:longitude":105.324004,
     "iso:country":"KH",
+    "lbl:bbox":"105.304003607,11.4639999817,105.344003607,11.5039999817",
     "lbl:latitude":11.484,
     "lbl:longitude":105.324004,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0631\u064a \u0641\u064a\u0646\u062c"
     ],
@@ -248,7 +252,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1028601,
-        "qs:id":56741,
+        "qs_pg:id":56741,
         "wd:id":"Q934619"
     },
     "wof:country":"KH",
@@ -264,7 +268,7 @@
         }
     ],
     "wof:id":1141906175,
-    "wof:lastmodified":1563321793,
+    "wof:lastmodified":1566727654,
     "wof:name":"Prey Veng",
     "wof:parent_id":1108564789,
     "wof:placetype":"locality",

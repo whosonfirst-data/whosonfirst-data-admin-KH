@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"103.70206,13.42544,103.74206,13.46544",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:khm_x_preferred":[
         "Phum R\u00f4kar"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1310073877,
-    "wof:lastmodified":1537653535,
+    "wof:lastmodified":1566727468,
     "wof:name":"Phum Rokar",
     "wof:parent_id":421185505,
     "wof:placetype":"locality",

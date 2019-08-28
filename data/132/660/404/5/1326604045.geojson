@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"104.54867,10.50209,104.58867,10.54209",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "S\u00f3c L\u00e0 Tua",
         "Phum\u012d Ta Pr\u0103k"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1326604045,
-    "wof:lastmodified":1537653428,
+    "wof:lastmodified":1566727204,
     "wof:name":"Phumi Ta Prak",
     "wof:parent_id":1108564675,
     "wof:placetype":"locality",

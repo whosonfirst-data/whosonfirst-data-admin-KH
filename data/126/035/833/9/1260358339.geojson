@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"104.71682,11.53299,104.75682,11.57299",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1260358339,
-    "wof:lastmodified":1536609031,
+    "wof:lastmodified":1566727448,
     "wof:name":"Phumi Boeng Kreul",
     "wof:parent_id":1108564793,
     "wof:placetype":"locality",

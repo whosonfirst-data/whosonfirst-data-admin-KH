@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":11.539183,
     "lbl:longitude":105.625082,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Prey Veng",
     "meso:dissme":"Kamchay MearPrey Veng",
     "meso:gadm_admin":"Kamchay Mear",
@@ -31,6 +33,7 @@
     "mps:longitude":105.625082,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Kamchay Mear"
     ],
@@ -62,7 +65,7 @@
         "\u8d21\u658b\u5bc6\u53bf"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":1108564669,
-    "wof:lastmodified":1563321098,
+    "wof:lastmodified":1566727460,
     "wof:name":"Kamchay Mear",
     "wof:parent_id":85673067,
     "wof:placetype":"county",

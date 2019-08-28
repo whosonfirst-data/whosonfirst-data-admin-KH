@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"105.16499,12.96037,105.20499,13.00037",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Phum Chan Leng",
         "Phum\u012d Cho\u0103n L\u00e9ng"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1326634941,
-    "wof:lastmodified":1537653841,
+    "wof:lastmodified":1566727225,
     "wof:name":"Phumi Choan Leng",
     "wof:parent_id":421188047,
     "wof:placetype":"locality",

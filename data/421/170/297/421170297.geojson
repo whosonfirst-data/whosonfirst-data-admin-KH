@@ -10,8 +10,12 @@
     "geom:latitude":10.610969,
     "geom:longitude":104.179466,
     "iso:country":"KH",
+    "lbl:bbox":"104.1594655,10.590969,104.1994655,10.630969",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -41,7 +45,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1028474,
-        "qs:id":236184
+        "qs_pg:id":236184
     },
     "wof:country":"KH",
     "wof:created":1459008847,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":421170297,
-    "wof:lastmodified":1499930130,
+    "wof:lastmodified":1566727526,
     "wof:name":"Compong Bai",
     "wof:parent_id":1108564681,
     "wof:placetype":"locality",

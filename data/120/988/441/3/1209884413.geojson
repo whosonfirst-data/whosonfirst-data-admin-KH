@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"103.6052,13.61993,103.6452,13.65993",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Khlong"
     ],
@@ -86,7 +90,7 @@
         }
     ],
     "wof:id":1209884413,
-    "wof:lastmodified":1564179149,
+    "wof:lastmodified":1566727415,
     "wof:name":"Khlong",
     "wof:parent_id":1108564583,
     "wof:placetype":"locality",

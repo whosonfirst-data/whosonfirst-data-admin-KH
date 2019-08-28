@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"103.18263,13.61886,103.22263,13.65886",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:khm_x_preferred":[
         "Anlong Thmei"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1260148169,
-    "wof:lastmodified":1537653911,
+    "wof:lastmodified":1566727435,
     "wof:name":"Anlong Thmei",
     "wof:parent_id":421183973,
     "wof:placetype":"locality",

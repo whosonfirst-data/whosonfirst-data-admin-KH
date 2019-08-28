@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":12.396294,
     "lbl:longitude":105.600284,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Kampong Cham",
     "meso:dissme":"Stueng TrangKampong Cham",
     "meso:gadm_admin":"Stueng Trang",
@@ -31,6 +33,7 @@
     "mps:longitude":105.600284,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Stueng Trang"
     ],
@@ -59,7 +62,7 @@
         "\u65af\u767b\u5fb7\u6717\u53bf"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":1108564853,
-    "wof:lastmodified":1563321063,
+    "wof:lastmodified":1566727451,
     "wof:name":"Stueng Trang",
     "wof:parent_id":85673041,
     "wof:placetype":"county",

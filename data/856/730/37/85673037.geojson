@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":12.878571,
     "lbl:longitude":102.632725,
+    "lbl:min_zoom":8.0,
     "mps:latitude":12.877295,
     "mps:longitude":102.620491,
     "mz:hierarchy_label":1,
@@ -153,7 +154,7 @@
         "Pailin"
     ],
     "name:tam_x_preferred":[
-        "\u0baa\u0bc8\u0bb2\u0bbf\u0ba9\u0bcd  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+        "\u0baa\u0bc8\u0bb2\u0bbf\u0ba9\u0bcd \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c2a\u0c48\u0c32\u0c3f\u0c28\u0c4d \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
@@ -167,7 +168,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0440\u043e\u0432\u0456\u043d\u0446\u0456\u044f \u041f\u0430\u0439\u043b\u0456\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pailin Mongkol Municipality"
     ],
     "name:urd_x_preferred":[
@@ -254,9 +255,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2008-03-03",
+    "src:population_date":"2008-03-03",
     "statoids:area_km":"803",
     "statoids:area_mi":"310",
     "statoids:as_of_date":"2008-03-03",
@@ -281,7 +282,7 @@
         "gp:id":20070097,
         "hasc:id":"KH.PL",
         "iso:id":"KH-24",
-        "qs:id":1181214,
+        "qs_pg:id":1181214,
         "unlc:id":"KH-24",
         "wd:id":"Q506646",
         "wk:page":"Pailin Province"
@@ -302,11 +303,10 @@
     "wof:lang_x_spoken":[
         "khm"
     ],
-    "wof:lastmodified":1565725072,
+    "wof:lastmodified":1566727283,
     "wof:name":"Krong Pailin",
     "wof:parent_id":85632359,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":70486,
     "wof:population_rank":8,

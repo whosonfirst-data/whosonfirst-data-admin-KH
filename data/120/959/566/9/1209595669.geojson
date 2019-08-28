@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"103.78525,12.25948,103.82525,12.29948",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "P\u2019um Chinik",
         "Phum\u012d Chumnich"
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1209595669,
-    "wof:lastmodified":1537653827,
+    "wof:lastmodified":1566727400,
     "wof:name":"Phumi Chumnich",
     "wof:parent_id":85632359,
     "wof:placetype":"locality",

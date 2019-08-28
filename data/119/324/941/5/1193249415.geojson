@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"105.34253,11.13715,105.38253,11.17715",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:khm_x_preferred":[
         "Ta Ngak"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1193249415,
-    "wof:lastmodified":1537653433,
+    "wof:lastmodified":1566727421,
     "wof:name":"Ta Ngak",
     "wof:parent_id":1108564775,
     "wof:placetype":"locality",

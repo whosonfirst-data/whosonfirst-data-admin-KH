@@ -11,8 +11,11 @@
     "geom:longitude":107.18811,
     "gn:country":"KH",
     "gn:fcode":"PPLA",
-    "gn:pop":7944,
+    "gn:population":7944,
     "iso:country":"KH",
+    "lbl:bbox":"107.16811,12.43583,107.20811,12.47583",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
@@ -124,7 +127,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0435\u043d\u043c\u043e\u043d\u043e\u0440\u043e\u043c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mondul Kiri"
     ],
     "name:urd_x_preferred":[
@@ -246,7 +249,7 @@
     "wof:concordances":{
         "gn:id":1822227,
         "gp:id":1028323,
-        "qs:id":1033333,
+        "qs_pg:id":1033333,
         "wd:id":"Q2530693"
     },
     "wof:country":"KH",
@@ -262,7 +265,7 @@
         }
     ],
     "wof:id":890444159,
-    "wof:lastmodified":1561778137,
+    "wof:lastmodified":1566727527,
     "wof:name":"S\u00eanm\u00f4no\u016dr\u00f4m",
     "wof:parent_id":421188055,
     "wof:placetype":"locality",

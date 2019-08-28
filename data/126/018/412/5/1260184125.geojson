@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"104.69756,11.8282,104.73756,11.8682",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Phum Psar Trach",
         "Phum\u012d Phsar Trach"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1260184125,
-    "wof:lastmodified":1537653624,
+    "wof:lastmodified":1566727441,
     "wof:name":"Phumi Phsar Trach",
     "wof:parent_id":890440787,
     "wof:placetype":"locality",

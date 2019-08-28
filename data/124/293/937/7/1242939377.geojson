@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"105.68925,11.2476,105.72925,11.2876",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:khm_x_preferred":[
         "Boeng Kaek"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1242939377,
-    "wof:lastmodified":1537654053,
+    "wof:lastmodified":1566727543,
     "wof:name":"Boeng Kaek",
     "wof:parent_id":1108564861,
     "wof:placetype":"locality",

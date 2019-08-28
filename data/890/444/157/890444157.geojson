@@ -11,8 +11,11 @@
     "geom:longitude":103.86056,
     "gn:country":"KH",
     "gn:fcode":"PPLA",
-    "gn:pop":139458,
+    "gn:population":139458,
     "iso:country":"KH",
+    "lbl:bbox":"103.84056,13.34179,103.88056,13.38179",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":5.6,
@@ -211,7 +214,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0456\u0435\u043c\u0440\u0435\u0430\u043f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Siemr\u00e3p"
     ],
     "name:urd_x_preferred":[
@@ -336,7 +339,7 @@
     "wof:concordances":{
         "gn:id":1822214,
         "gp:id":1028608,
-        "qs:id":1033331,
+        "qs_pg:id":1033331,
         "wd:id":"Q11711"
     },
     "wof:country":"KH",
@@ -352,7 +355,7 @@
         }
     ],
     "wof:id":890444157,
-    "wof:lastmodified":1563321343,
+    "wof:lastmodified":1566727527,
     "wof:name":"Si\u0115mr\u00e9ab",
     "wof:parent_id":421204115,
     "wof:placetype":"locality",

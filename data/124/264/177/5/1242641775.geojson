@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"104.15113,10.54407,104.19113,10.58407",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Phum Khl\u00f4ng Ne\u0103m",
         "Phum\u012d Khl\u016dng N\u014f\u00e2m",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1242641775,
-    "wof:lastmodified":1537653742,
+    "wof:lastmodified":1566727566,
     "wof:name":"Phumi Khlong Noam",
     "wof:parent_id":1108564681,
     "wof:placetype":"locality",

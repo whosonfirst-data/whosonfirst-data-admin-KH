@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"104.93127,11.59164,104.97127,11.63164",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:khm_x_preferred":[
         "Preaek Ta Kov"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1326851641,
-    "wof:lastmodified":1537654026,
+    "wof:lastmodified":1566727218,
     "wof:name":"Preaek Ta Kov",
     "wof:parent_id":421188351,
     "wof:placetype":"locality",

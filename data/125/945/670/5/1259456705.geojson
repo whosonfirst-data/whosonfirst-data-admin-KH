@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"105.29207,11.29401,105.33207,11.33401",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:khm_x_preferred":[
         "Phum Khn\u014fng Pr\u00eak"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1259456705,
-    "wof:lastmodified":1537653726,
+    "wof:lastmodified":1566727604,
     "wof:name":"Phum Khnong Prek",
     "wof:parent_id":421191397,
     "wof:placetype":"locality",

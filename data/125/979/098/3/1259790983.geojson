@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"104.4732,12.37589,104.5132,12.41589",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:khm_x_preferred":[
         "Phum Phni\u0115t"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1259790983,
-    "wof:lastmodified":1537653631,
+    "wof:lastmodified":1566727588,
     "wof:name":"Phum Phniet",
     "wof:parent_id":421202235,
     "wof:placetype":"locality",

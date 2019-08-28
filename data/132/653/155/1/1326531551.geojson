@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"104.53521,11.93864,104.57521,11.97864",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Chr\u00e2k\u00eang",
         "Phum\u012d Ko\u016dk Chhuk"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1326531551,
-    "wof:lastmodified":1537653717,
+    "wof:lastmodified":1566727228,
     "wof:name":"Phumi Kouk Chhuk",
     "wof:parent_id":890440787,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"104.40425,10.89145,104.44425,10.93145",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kandal"
     ],
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1209580021,
-    "wof:lastmodified":1564179100,
+    "wof:lastmodified":1566727403,
     "wof:name":"Kandal",
     "wof:parent_id":85632359,
     "wof:placetype":"locality",

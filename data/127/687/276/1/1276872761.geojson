@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"104.53003,11.20123,104.57003,11.24123",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Phum Rumlich",
         "Phum\u012d R\u016dml\u00e9ch",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276872761,
-    "wof:lastmodified":1537653525,
+    "wof:lastmodified":1566727342,
     "wof:name":"Phumi Rumlich",
     "wof:parent_id":1108564609,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"105.28368,13.60617,105.32368,13.64617",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1293376243,
-    "wof:lastmodified":1536947785,
+    "wof:lastmodified":1566727292,
     "wof:name":"Phumi Khsang",
     "wof:parent_id":1108564633,
     "wof:placetype":"locality",

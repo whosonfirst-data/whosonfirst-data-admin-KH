@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"103.86475,13.82497,103.90475,13.86497",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:khm_x_preferred":[
         "Ou Tey"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1276515493,
-    "wof:lastmodified":1537653647,
+    "wof:lastmodified":1566727345,
     "wof:name":"Ou Tey",
     "wof:parent_id":421200833,
     "wof:placetype":"locality",

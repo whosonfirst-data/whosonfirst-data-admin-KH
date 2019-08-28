@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"104.22628,13.61023,104.26628,13.65023",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:khm_x_preferred":[
         "Ta Siem"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1209974683,
-    "wof:lastmodified":1537653324,
+    "wof:lastmodified":1566727386,
     "wof:name":"Ta Siem",
     "wof:parent_id":421200831,
     "wof:placetype":"locality",

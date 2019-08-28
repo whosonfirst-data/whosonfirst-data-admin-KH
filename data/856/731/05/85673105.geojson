@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":11.14049,
     "lbl:longitude":105.832197,
+    "lbl:min_zoom":8.0,
     "mps:latitude":11.079757,
     "mps:longitude":105.875306,
     "mz:hierarchy_label":1,
@@ -150,7 +151,7 @@
         "Svay Rieng"
     ],
     "name:tam_x_preferred":[
-        "\u0b9a\u0bc1\u0bb5\u0bbe\u0baf\u0bcd \u0bb0\u0bbf\u0baf\u0b99\u0bcd  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+        "\u0b9a\u0bc1\u0bb5\u0bbe\u0baf\u0bcd \u0bb0\u0bbf\u0baf\u0b99\u0bcd \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c38\u0c4d\u0c35\u0c47 \u0c30\u0c3f\u0c2f\u0c46\u0c02\u0c17\u0c4d \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
@@ -164,7 +165,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0440\u043e\u0432\u0456\u043d\u0446\u0456\u044f \u0421\u0432\u0430\u0439\u0440\u0456\u0435\u043d\u0433"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "R\u00e9sidence de Soai Rieng"
     ],
     "name:urd_x_preferred":[
@@ -251,9 +252,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2008-03-03",
+    "src:population_date":"2008-03-03",
     "statoids:area_km":"2,966",
     "statoids:area_mi":"1,145",
     "statoids:as_of_date":"2008-03-03",
@@ -277,7 +278,7 @@
         "gp:id":2344943,
         "hasc:id":"KH.SR",
         "iso:id":"KH-20",
-        "qs:id":219522,
+        "qs_pg:id":219522,
         "wd:id":"Q751864",
         "wk:page":"Svay Rieng Province"
     },
@@ -297,11 +298,10 @@
     "wof:lang_x_spoken":[
         "khm"
     ],
-    "wof:lastmodified":1565725073,
+    "wof:lastmodified":1566727285,
     "wof:name":"Svay Rieng",
     "wof:parent_id":85632359,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":482788,
     "wof:population_rank":10,

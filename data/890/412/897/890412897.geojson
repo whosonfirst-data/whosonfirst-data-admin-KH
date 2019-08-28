@@ -11,11 +11,15 @@
     "geom:longitude":105.58333,
     "gn:country":"KH",
     "gn:fcode":"ADMD",
-    "gn:pop":111987,
+    "gn:population":111987,
     "iso:country":"KH",
+    "lbl:bbox":"105.48333,12.23333,105.68333,12.43333",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":7.0,
+    "name:und_x_variant":[
         "Srok Stung Trang"
     ],
     "qs:name":"Sr\u014fk St\u0153\u0306ng Tr\u00e1ng",
@@ -32,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1822030,
-        "qs:id":564258
+        "qs_pg:id":564258
     },
     "wof:country":"KH",
     "wof:created":1469050980,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890412897,
-    "wof:lastmodified":1505343411,
+    "wof:lastmodified":1566727527,
     "wof:name":"Sr\u014fk St\u0153\u0306ng Tr\u00e1ng",
     "wof:parent_id":1108564853,
     "wof:placetype":"localadmin",

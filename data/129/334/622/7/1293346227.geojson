@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"104.30909,13.1,104.34909,13.14",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:khm_x_preferred":[
         "Phum Phleung Chh\u0115h"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1293346227,
-    "wof:lastmodified":1537653634,
+    "wof:lastmodified":1566727315,
     "wof:name":"Phum Phleung Chheh",
     "wof:parent_id":1108564639,
     "wof:placetype":"locality",

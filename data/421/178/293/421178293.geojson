@@ -10,8 +10,12 @@
     "geom:latitude":11.188221,
     "geom:longitude":103.473401,
     "iso:country":"KH",
+    "lbl:bbox":"103.453401,11.168221,103.493401,11.208221",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -41,7 +45,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1028461,
-        "qs:id":56699
+        "qs_pg:id":56699
     },
     "wof:country":"KH",
     "wof:created":1459009177,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":421178293,
-    "wof:lastmodified":1499929952,
+    "wof:lastmodified":1566727527,
     "wof:name":"Phumi Chimeal",
     "wof:parent_id":421202413,
     "wof:placetype":"locality",

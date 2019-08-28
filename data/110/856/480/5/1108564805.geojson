@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":12.570787,
     "lbl:longitude":103.515739,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Battambang",
     "meso:dissme":"Rukh KiriBattambang",
     "meso:gadm_admin":"Moung Ruessei",
@@ -31,6 +33,7 @@
     "mps:longitude":103.515739,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Rukh Kiri"
     ],
@@ -38,7 +41,7 @@
         "Moung Ruessei"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632359,
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1108564805,
-    "wof:lastmodified":1555220363,
+    "wof:lastmodified":1566727458,
     "wof:name":"Rukh Kiri",
     "wof:parent_id":85673015,
     "wof:placetype":"county",

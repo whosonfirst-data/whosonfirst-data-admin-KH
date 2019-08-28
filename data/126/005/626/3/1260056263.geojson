@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"105.83356,13.68138,105.87356,13.72138",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sam Ang",
         "Phum\u012d S\u00e2m Ang"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1260056263,
-    "wof:lastmodified":1537653519,
+    "wof:lastmodified":1566727450,
     "wof:name":"Phumi Sam Ang",
     "wof:parent_id":1108564869,
     "wof:placetype":"locality",

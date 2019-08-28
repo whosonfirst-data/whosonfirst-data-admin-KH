@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.685784,
     "lbl:longitude":107.030398,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Ratanak Kiri",
     "meso:dissme":"Ban LungRatanak Kiri",
     "meso:gadm_admin":"Ban Lung",
@@ -31,6 +33,7 @@
     "mps:longitude":107.030398,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Sr\u014fk Ban L\u016dng"
@@ -115,7 +118,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -136,7 +139,7 @@
     "wof:concordances":{
         "gp:id":56063330,
         "hasc:id":"KH.RO.BL",
-        "qs:id":891117,
+        "qs_pg:id":891117,
         "wd:id":"Q4856829"
     },
     "wof:country":"KH",
@@ -151,7 +154,7 @@
         }
     ],
     "wof:id":421185341,
-    "wof:lastmodified":1563321341,
+    "wof:lastmodified":1566727527,
     "wof:name":"Ban Lung",
     "wof:parent_id":85673089,
     "wof:placetype":"county",

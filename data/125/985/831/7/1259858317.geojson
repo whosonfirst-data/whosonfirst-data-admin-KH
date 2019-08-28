@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"105.20114,11.07877,105.24114,11.11877",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:khm_x_preferred":[
         "Peam Chor"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1259858317,
-    "wof:lastmodified":1537654071,
+    "wof:lastmodified":1566727590,
     "wof:name":"Peam Chor",
     "wof:parent_id":1108564755,
     "wof:placetype":"locality",

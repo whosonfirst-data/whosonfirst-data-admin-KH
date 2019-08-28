@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":12.786609,
     "lbl:longitude":102.636419,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Pailin",
     "meso:dissme":"PailinPailin",
     "meso:gadm_admin":"Pailin",
@@ -31,6 +33,7 @@
     "mps:longitude":102.636419,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Khan Pail\u012dn"
@@ -85,7 +88,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -105,7 +108,7 @@
     "wof:concordances":{
         "gp:id":56063392,
         "hasc:id":"KH.PL.PL",
-        "qs:id":774748,
+        "qs_pg:id":774748,
         "wd:id":"Q7124773"
     },
     "wof:country":"KH",
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":421170109,
-    "wof:lastmodified":1563321336,
+    "wof:lastmodified":1566727526,
     "wof:name":"Pailin",
     "wof:parent_id":85673037,
     "wof:placetype":"county",

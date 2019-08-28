@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"104.59315,11.93751,104.63315,11.97751",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tat Bas",
         "F\u00e2t B\u00e2s",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343466227,
-    "wof:lastmodified":1537653394,
+    "wof:lastmodified":1566727250,
     "wof:name":"Phumi Toat Baoh",
     "wof:parent_id":890440787,
     "wof:placetype":"locality",

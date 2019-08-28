@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"103.65185,13.51179,103.69185,13.55179",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:khm_x_preferred":[
         "Phum Ch\u00e2ngaeur L\u00e9av"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1343429207,
-    "wof:lastmodified":1537653863,
+    "wof:lastmodified":1566727275,
     "wof:name":"Phum Changaeur Leav",
     "wof:parent_id":421185505,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"104.21228,10.5898,104.25228,10.6298",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Khum Kbal Romeas",
         "Phum Kbal Romeas",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1193237313,
-    "wof:lastmodified":1537653753,
+    "wof:lastmodified":1566727421,
     "wof:name":"Phumi Kbal Romeas",
     "wof:parent_id":1108564883,
     "wof:placetype":"locality",

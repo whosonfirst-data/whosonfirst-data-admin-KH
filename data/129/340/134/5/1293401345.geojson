@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"104.54838,11.95028,104.58838,11.99028",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Phum\u012d Kr\u0103ng L\u00f4v\u00e9a",
         "Khang Lovea",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1293401345,
-    "wof:lastmodified":1537653949,
+    "wof:lastmodified":1566727305,
     "wof:name":"Khum Krang Lvea",
     "wof:parent_id":890440787,
     "wof:placetype":"locality",

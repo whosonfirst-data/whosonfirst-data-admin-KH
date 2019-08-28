@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"104.50382,12.04904,104.54382,12.08904",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sdok Ach Rom\u00e9as",
         "Phom Sdok Ach Romeas",
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1327439031,
-    "wof:lastmodified":1537653531,
+    "wof:lastmodified":1566727230,
     "wof:name":"Phumi Romeas",
     "wof:parent_id":1108564885,
     "wof:placetype":"locality",

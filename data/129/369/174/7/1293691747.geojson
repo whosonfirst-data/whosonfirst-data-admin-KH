@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"104.65465,12.93883,104.69465,12.97883",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Phum\u012d M\u00f4lu",
         "Phum\u012d Mlur"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1293691747,
-    "wof:lastmodified":1537653665,
+    "wof:lastmodified":1566727312,
     "wof:name":"Phumi Mlur",
     "wof:parent_id":1108564849,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"105.61799,12.34698,105.65799,12.38698",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:khm_x_preferred":[
         "Areaks Tnaot"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1276765667,
-    "wof:lastmodified":1537653906,
+    "wof:lastmodified":1566727360,
     "wof:name":"Areaks Tnaot",
     "wof:parent_id":1108564853,
     "wof:placetype":"locality",

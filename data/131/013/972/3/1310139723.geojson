@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"105.71843,12.24109,105.75843,12.28109",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Phum Kas Ph\u00e2l",
         "Phum\u012d Ka\u00f4h Ph\u00e2l"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1310139723,
-    "wof:lastmodified":1537653764,
+    "wof:lastmodified":1566727463,
     "wof:name":"Phumi Kaoh Phal",
     "wof:parent_id":1108564719,
     "wof:placetype":"locality",

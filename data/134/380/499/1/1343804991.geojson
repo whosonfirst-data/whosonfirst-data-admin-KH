@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"103.27378,13.09835,103.31378,13.13835",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Phum Kra Samg",
         "Phum\u012d O Kr\u00e2s\u0103ng"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1343804991,
-    "wof:lastmodified":1537653652,
+    "wof:lastmodified":1566727277,
     "wof:name":"Phumi O Krasang",
     "wof:parent_id":421202239,
     "wof:placetype":"locality",

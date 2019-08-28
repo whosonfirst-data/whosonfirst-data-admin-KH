@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"103.52508,13.72859,103.56508,13.76859",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:khm_x_preferred":[
         "Moung"
     ],
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1276182431,
-    "wof:lastmodified":1564178875,
+    "wof:lastmodified":1566727342,
     "wof:name":"Moung",
     "wof:parent_id":1108564847,
     "wof:placetype":"locality",

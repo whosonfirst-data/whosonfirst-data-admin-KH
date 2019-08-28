@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"103.63402,10.56394,103.67402,10.60394",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:khm_x_preferred":[
         "Smach Daeng"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310056627,
-    "wof:lastmodified":1537653490,
+    "wof:lastmodified":1566727488,
     "wof:name":"Smach Daeng",
     "wof:parent_id":421188243,
     "wof:placetype":"locality",

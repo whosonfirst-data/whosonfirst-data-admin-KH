@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"104.6238,11.24528,104.6638,11.28528",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Phum Prei Kralanh",
         "Phum\u012d K\u00e1k Kr\u00e2peu"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1226782769,
-    "wof:lastmodified":1537653802,
+    "wof:lastmodified":1566727637,
     "wof:name":"Phumi Kak Krapeu",
     "wof:parent_id":1108564715,
     "wof:placetype":"locality",

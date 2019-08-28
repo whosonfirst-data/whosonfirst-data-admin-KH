@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.08184,
     "lbl:longitude":103.415198,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Battambang",
     "meso:dissme":"SangkaeBattambang",
     "meso:gadm_admin":"Sangkae",
@@ -31,6 +33,7 @@
     "mps:longitude":103.415198,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Sangkae"
@@ -60,7 +63,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -80,7 +83,7 @@
     "wof:concordances":{
         "gp:id":56063402,
         "hasc:id":"KH.BA.SK",
-        "qs:id":10018
+        "qs_pg:id":10018
     },
     "wof:country":"KH",
     "wof:created":1459010110,
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":421202239,
-    "wof:lastmodified":1553717559,
+    "wof:lastmodified":1566727523,
     "wof:name":"Sangkae",
     "wof:parent_id":85673015,
     "wof:placetype":"county",

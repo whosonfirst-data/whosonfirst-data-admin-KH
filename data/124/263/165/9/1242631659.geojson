@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"103.25002,14.14689,103.29002,14.18689",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:khm_x_preferred":[
         "Soengh"
     ],
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":1242631659,
-    "wof:lastmodified":1564179675,
+    "wof:lastmodified":1566727568,
     "wof:name":"Soengh",
     "wof:parent_id":1108564599,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"104.59716,11.30752,104.63716,11.34752",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Chr\u00e9s",
         "Phum\u012d Chr\u00e9s"
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1209039699,
-    "wof:lastmodified":1537653833,
+    "wof:lastmodified":1566727401,
     "wof:name":"Phumi Chres",
     "wof:parent_id":85632359,
     "wof:placetype":"locality",

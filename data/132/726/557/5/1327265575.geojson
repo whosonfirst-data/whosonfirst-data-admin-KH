@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"104.9194,13.36124,104.9594,13.40124",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Phnom Lung",
         "Phum\u012d Phn\u016dm \u00c2nl\u016dng",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1327265575,
-    "wof:lastmodified":1537653630,
+    "wof:lastmodified":1566727230,
     "wof:name":"Phumi Phnum Anlong",
     "wof:parent_id":1108564801,
     "wof:placetype":"locality",

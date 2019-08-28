@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"105.83518,11.21572,105.87518,11.25572",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:khm_x_preferred":[
         "Srama"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1344123087,
-    "wof:lastmodified":1537653479,
+    "wof:lastmodified":1566727247,
     "wof:name":"Srama",
     "wof:parent_id":1108564807,
     "wof:placetype":"locality",

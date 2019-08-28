@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":13.475017,
     "lbl:longitude":104.031224,
+    "lbl:min_zoom":8.0,
     "mps:latitude":13.61626,
     "mps:longitude":103.985282,
     "mz:hierarchy_label":1,
@@ -149,7 +150,7 @@
         "Siem Reap"
     ],
     "name:tam_x_preferred":[
-        "\u0b9a\u0bbf\u0b8e\u0bae\u0bcd  \u0bb0\u0bc0\u0baa\u0bcd \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+        "\u0b9a\u0bbf\u0b8e\u0bae\u0bcd \u0bb0\u0bc0\u0baa\u0bcd \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c38\u0c3f\u0c2f\u0c46\u0c2e\u0c4d \u0c30\u0c40\u0c2a\u0c4d \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
@@ -163,7 +164,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0440\u043e\u0432\u0456\u043d\u0446\u0456\u044f \u0421\u0438\u0454\u043c\u0440\u0435\u0430\u043f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kh\u00eat Si\u0115mr\u00e9ab"
     ],
     "name:urd_x_preferred":[
@@ -250,9 +251,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2008-03-03",
+    "src:population_date":"2008-03-03",
     "statoids:area_km":"10,299",
     "statoids:area_mi":"3,976",
     "statoids:as_of_date":"2008-03-03",
@@ -277,7 +278,7 @@
         "gp:id":2344941,
         "hasc:id":"KH.SI",
         "iso:id":"KH-17",
-        "qs:id":672297,
+        "qs_pg:id":672297,
         "unlc:id":"KH-17",
         "wd:id":"Q652818"
     },
@@ -297,11 +298,10 @@
     "wof:lang_x_spoken":[
         "khm"
     ],
-    "wof:lastmodified":1565725071,
+    "wof:lastmodified":1566727283,
     "wof:name":"Siemr\u00e9ab",
     "wof:parent_id":85632359,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":896443,
     "wof:population_rank":11,

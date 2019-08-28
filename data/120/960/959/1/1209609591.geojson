@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"105.15738,11.44367,105.19738,11.48367",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:khm_x_preferred":[
         "Phum B\u0153\u0306ng Kr\u016dm Kra\u00f4m"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1209609591,
-    "wof:lastmodified":1537653881,
+    "wof:lastmodified":1566727403,
     "wof:name":"Phum Boeng Krum Kraom",
     "wof:parent_id":85632359,
     "wof:placetype":"locality",

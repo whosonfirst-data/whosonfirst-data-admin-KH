@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"105.42357,11.52096,105.46357,11.56096",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Phum\u012d B\u0153\u0306ng Rach",
         "Phum Beng Reach",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1326804221,
-    "wof:lastmodified":1537653879,
+    "wof:lastmodified":1566727201,
     "wof:name":"Phum Beng Reach",
     "wof:parent_id":1108564859,
     "wof:placetype":"locality",

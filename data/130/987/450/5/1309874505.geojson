@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"104.85825,11.454,104.89825,11.494",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Anlong Kong",
         "Phum\u012d \u00c2nl\u016dng K\u00f4ng",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1309874505,
-    "wof:lastmodified":1537653917,
+    "wof:lastmodified":1566727517,
     "wof:name":"Phumi Anlong Kong",
     "wof:parent_id":1108564661,
     "wof:placetype":"locality",

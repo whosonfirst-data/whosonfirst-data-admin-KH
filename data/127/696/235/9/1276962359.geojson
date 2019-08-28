@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"105.30184,11.34087,105.34184,11.38087",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:khm_x_preferred":[
         "Doung"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1276962359,
-    "wof:lastmodified":1537653812,
+    "wof:lastmodified":1566727373,
     "wof:name":"Doung",
     "wof:parent_id":421191397,
     "wof:placetype":"locality",

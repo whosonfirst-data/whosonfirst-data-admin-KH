@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"105.05451,11.04255,105.09451,11.08255",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:khm_x_preferred":[
         "Phum Daeum Po\u016d Kra\u00f4m"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310000371,
-    "wof:lastmodified":1537654070,
+    "wof:lastmodified":1566727469,
     "wof:name":"Phum Daeum Pou Kraom",
     "wof:parent_id":1108564703,
     "wof:placetype":"locality",

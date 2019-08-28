@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"103.63752,13.87906,103.67752,13.91906",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Phum\u012d Aprak Slap",
         "Phum\u012d Apr\u0103k Sl\u0103b"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1343617451,
-    "wof:lastmodified":1537653907,
+    "wof:lastmodified":1566727259,
     "wof:name":"Phumi Aprak Slab",
     "wof:parent_id":1108564847,
     "wof:placetype":"locality",

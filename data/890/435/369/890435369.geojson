@@ -11,8 +11,11 @@
     "geom:longitude":104.88873,
     "gn:country":"KH",
     "gn:fcode":"PPLA",
-    "gn:pop":19951,
+    "gn:population":19951,
     "iso:country":"KH",
+    "lbl:bbox":"104.86873,12.69112,104.90873,12.73112",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
@@ -76,7 +79,7 @@
     "name:tha_x_preferred":[
         "\u0e01\u0e33\u0e1b\u0e07\u0e18\u0e21"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kompong Thom"
     ],
     "name:vie_x_preferred":[
@@ -195,7 +198,7 @@
     "wof:concordances":{
         "gn:id":1831125,
         "gp:id":1028471,
-        "qs:id":274072,
+        "qs_pg:id":274072,
         "wd:id":"Q976223"
     },
     "wof:country":"KH",
@@ -211,7 +214,7 @@
         }
     ],
     "wof:id":890435369,
-    "wof:lastmodified":1563321346,
+    "wof:lastmodified":1566727528,
     "wof:name":"K\u00e2mp\u00f3ng Thom",
     "wof:parent_id":421180491,
     "wof:placetype":"locality",

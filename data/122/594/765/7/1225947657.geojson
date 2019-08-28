@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"105.38763,11.92449,105.42763,11.96449",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:khm_x_preferred":[
         "Kaoh Roka"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1225947657,
-    "wof:lastmodified":1537653763,
+    "wof:lastmodified":1566727608,
     "wof:name":"Kaoh Roka",
     "wof:parent_id":421205043,
     "wof:placetype":"locality",

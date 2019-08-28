@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":11.565413,
     "lbl:longitude":104.849596,
+    "lbl:min_zoom":8.0,
     "mps:latitude":11.54881,
     "mps:longitude":104.868459,
     "mz:hierarchy_label":1,
@@ -388,9 +389,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u043d\u043e\u043c\u043f\u0435\u043d\u044c"
     ],
-    "name:unk_x_variant":[
-        "Phnum P\u00e9nh"
-    ],
     "name:urd_x_preferred":[
         "\u067e\u0646\u0648\u0645 \u067e\u0646"
     ],
@@ -487,9 +485,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2008-03-03",
+    "src:population_date":"2008-03-03",
     "statoids:area_km":"290",
     "statoids:area_mi":"112",
     "statoids:as_of_date":"2008-03-03",
@@ -513,7 +511,7 @@
         "gp:id":20070095,
         "hasc:id":"KH.PP",
         "iso:id":"KH-12",
-        "qs:id":241614
+        "qs_pg:id":241614
     },
     "wof:coterminous":[
         1125853197
@@ -534,11 +532,10 @@
     "wof:lang_x_spoken":[
         "khm"
     ],
-    "wof:lastmodified":1565725072,
+    "wof:lastmodified":1566727284,
     "wof:name":"Phnom Penh",
     "wof:parent_id":85632359,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"autonomous municipality",
     "wof:population":1327615,
     "wof:population_rank":12,

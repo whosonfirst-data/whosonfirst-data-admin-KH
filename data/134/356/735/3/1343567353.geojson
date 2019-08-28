@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"104.65023,11.29467,104.69023,11.33467",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Phum Ang S\u00e2ng Kr\u00e9am",
         "Phum\u012d Ang S\u00e2ngkr\u00e9am",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343567353,
-    "wof:lastmodified":1537653922,
+    "wof:lastmodified":1566727264,
     "wof:name":"Phumi Angk Sangkream",
     "wof:parent_id":1108564715,
     "wof:placetype":"locality",

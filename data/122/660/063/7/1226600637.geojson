@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"104.01693,13.67509,104.05693,13.71509",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Phum\u012d Khna R\u016dngvo\u00e2s",
         "Phum\u012d Khna R\u00f4ngvo\u0103s"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1226600637,
-    "wof:lastmodified":1537653739,
+    "wof:lastmodified":1566727623,
     "wof:name":"Phumi Khna Rongvoas",
     "wof:parent_id":1108564603,
     "wof:placetype":"locality",

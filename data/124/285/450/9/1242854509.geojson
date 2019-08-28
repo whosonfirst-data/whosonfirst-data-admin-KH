@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"103.96442,12.58843,104.00442,12.62843",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:khm_x_preferred":[
         "Kampong Sambuor"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1242854509,
-    "wof:lastmodified":1537654099,
+    "wof:lastmodified":1566727564,
     "wof:name":"Kampong Sambuor",
     "wof:parent_id":1108564687,
     "wof:placetype":"locality",

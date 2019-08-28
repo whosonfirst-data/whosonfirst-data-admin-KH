@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":12.252085,
     "lbl:longitude":104.681905,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Kampong Chhnang",
     "meso:dissme":"Kampong ChhnangKampong Chhnang",
     "meso:gadm_admin":"Kampong Chhnang",
@@ -31,6 +33,7 @@
     "mps:longitude":104.681905,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Kampong Chhnang"
@@ -79,7 +82,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -100,7 +103,7 @@
         "gn:id":7647209,
         "gp:id":56063248,
         "hasc:id":"KH.KG.KC",
-        "qs:id":224384,
+        "qs_pg:id":224384,
         "wd:id":"Q2508561",
         "wk:page":"Kampong Cham District"
     },
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":421202559,
-    "wof:lastmodified":1563321322,
+    "wof:lastmodified":1566727523,
     "wof:name":"Kampong Chhnang",
     "wof:parent_id":85673047,
     "wof:placetype":"county",

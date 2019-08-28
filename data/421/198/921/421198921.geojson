@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":12.394301,
     "lbl:longitude":105.031886,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Kampong Thom",
     "meso:dissme":"BarayKampong Thom",
     "meso:gadm_admin":"Baray",
@@ -31,6 +33,7 @@
     "mps:longitude":105.031886,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Baray"
@@ -87,7 +90,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -108,7 +111,7 @@
         "gn:id":7647222,
         "gp:id":56063261,
         "hasc:id":"KH.KT.BR",
-        "qs:id":1206117,
+        "qs_pg:id":1206117,
         "wd:id":"Q4858526",
         "wk:page":"Baray District"
     },
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":421198921,
-    "wof:lastmodified":1563321333,
+    "wof:lastmodified":1566727525,
     "wof:name":"Baray",
     "wof:parent_id":85673057,
     "wof:placetype":"county",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":12.85459,
     "lbl:longitude":105.138478,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Kampong Thom",
     "meso:dissme":"Prasat SambourKampong Thom",
     "meso:gadm_admin":"Prasat Sambour",
@@ -31,6 +33,7 @@
     "mps:longitude":105.138478,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Sr\u014fk Pr\u00e2sat S\u00e2mbor"
@@ -81,7 +84,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -102,7 +105,7 @@
     "wof:concordances":{
         "gp:id":56063264,
         "hasc:id":"KH.KT.PS",
-        "qs:id":918097,
+        "qs_pg:id":918097,
         "wd:id":"Q4930593"
     },
     "wof:country":"KH",
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":421182521,
-    "wof:lastmodified":1563321339,
+    "wof:lastmodified":1566727527,
     "wof:name":"Prasat Sambour",
     "wof:parent_id":85673057,
     "wof:placetype":"county",

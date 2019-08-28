@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"104.95961,11.47356,104.99961,11.51356",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tuol Phk\u014fl",
         "Phum\u012d R\u00f4ba\u00f4h \u00c2ngkanh",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276825433,
-    "wof:lastmodified":1537653542,
+    "wof:lastmodified":1566727360,
     "wof:name":"Phumi Robas Angkanh",
     "wof:parent_id":1108564629,
     "wof:placetype":"locality",

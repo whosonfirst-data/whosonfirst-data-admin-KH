@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"106.23962,11.82311,106.27962,11.86311",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:khm_x_preferred":[
         "Lam Bao"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1225980509,
-    "wof:lastmodified":1537654056,
+    "wof:lastmodified":1566727632,
     "wof:name":"Lam Bao",
     "wof:parent_id":1108564735,
     "wof:placetype":"locality",

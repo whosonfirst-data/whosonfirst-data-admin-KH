@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"104.44472,10.91757,104.48472,10.95757",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:khm_x_preferred":[
         "Thlok Yul"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1277150927,
-    "wof:lastmodified":1537653415,
+    "wof:lastmodified":1566727355,
     "wof:name":"Thlok Yul",
     "wof:parent_id":1108564651,
     "wof:placetype":"locality",

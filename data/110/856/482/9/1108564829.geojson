@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":12.645431,
     "lbl:longitude":105.445764,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Kampong Thom",
     "meso:dissme":"SantukKampong Thom",
     "meso:gadm_admin":"Santuk",
@@ -31,6 +33,7 @@
     "mps:longitude":105.445764,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Santuk"
     ],
@@ -62,7 +65,7 @@
         "\u4e09\u675c\u53bf"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":1108564829,
-    "wof:lastmodified":1563321063,
+    "wof:lastmodified":1566727451,
     "wof:name":"Santuk",
     "wof:parent_id":85673057,
     "wof:placetype":"county",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":10.511024,
     "lbl:longitude":104.378191,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Kep",
     "meso:dissme":"Damnak Chang'aeurKep",
     "meso:gadm_admin":"Kaeb",
@@ -31,6 +33,7 @@
     "mps:longitude":104.378191,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Damnak Chang'aeur"
     ],
@@ -39,7 +42,7 @@
         "Kaeb"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1108564655,
-    "wof:lastmodified":1553718167,
+    "wof:lastmodified":1566727455,
     "wof:name":"Damnak Chang'aeur",
     "wof:parent_id":85673099,
     "wof:placetype":"county",

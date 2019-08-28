@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"105.14533,12.02162,105.18533,12.06162",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tang Houk",
         "Phum\u012d T\u0103ng Ko\u016dk"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1260102979,
-    "wof:lastmodified":1537653436,
+    "wof:lastmodified":1566727444,
     "wof:name":"Phumi Tang Kouk",
     "wof:parent_id":1108564783,
     "wof:placetype":"locality",

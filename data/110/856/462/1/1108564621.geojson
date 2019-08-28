@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":12.271594,
     "lbl:longitude":105.277875,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Kampong Cham",
     "meso:dissme":"Chamkar LeuKampong Cham",
     "meso:gadm_admin":"Chamkar Leu",
@@ -31,6 +33,7 @@
     "mps:longitude":105.277875,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Chamkar Leu"
     ],
@@ -65,7 +68,7 @@
         "\u5360\u5361\u52d2\u53bf"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1108564621,
-    "wof:lastmodified":1563321075,
+    "wof:lastmodified":1566727455,
     "wof:name":"Chamkar Leu",
     "wof:parent_id":85673041,
     "wof:placetype":"county",

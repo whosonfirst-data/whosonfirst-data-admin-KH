@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.16825,
     "lbl:longitude":104.308247,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Oddar Meanchey",
     "meso:dissme":"Trapeang PrasatOddar Meanchey",
     "meso:gadm_admin":"Anlong Veaeng",
@@ -31,6 +33,7 @@
     "mps:longitude":104.308247,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Trapeang Prasat"
     ],
@@ -39,7 +42,7 @@
         "Anlong Veaeng"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1108564879,
-    "wof:lastmodified":1553718173,
+    "wof:lastmodified":1566727457,
     "wof:name":"Trapeang Prasat",
     "wof:parent_id":85673033,
     "wof:placetype":"county",

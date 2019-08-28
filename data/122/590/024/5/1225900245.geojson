@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"103.76252,13.34416,103.80252,13.38416",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:khm_x_preferred":[
         "Phum Tr\u00e2s Tre\u0103ng"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1225900245,
-    "wof:lastmodified":1537653361,
+    "wof:lastmodified":1566727631,
     "wof:name":"Phum Tras Treang",
     "wof:parent_id":421204115,
     "wof:placetype":"locality",

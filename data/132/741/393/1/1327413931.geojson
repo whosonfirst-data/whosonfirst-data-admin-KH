@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"104.28352,12.45203,104.32352,12.49203",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:khm_x_preferred":[
         "Phum Vih\u00e9a Lu\u014fng"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1327413931,
-    "wof:lastmodified":1537654124,
+    "wof:lastmodified":1566727214,
     "wof:name":"Phum Vihea Luong",
     "wof:parent_id":421203239,
     "wof:placetype":"locality",

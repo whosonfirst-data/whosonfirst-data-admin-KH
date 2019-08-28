@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"105.41029,11.86728,105.45029,11.90728",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tuol-Svay-Chrum",
         "Phum\u012d Tu\u014fl Svay Chr\u016dm"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1226345297,
-    "wof:lastmodified":1537653349,
+    "wof:lastmodified":1566727620,
     "wof:name":"Phumi Tuol Svay Chrum",
     "wof:parent_id":1108564701,
     "wof:placetype":"locality",

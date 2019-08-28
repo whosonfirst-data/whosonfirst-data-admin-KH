@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":10.878127,
     "lbl:longitude":104.937392,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Takeo",
     "meso:dissme":"Borei CholsarTakeo",
     "meso:gadm_admin":"Bourei Cholsar",
@@ -31,6 +33,7 @@
     "mps:longitude":104.937392,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Sr\u014fk Borei Cholsar"
     ],
@@ -63,7 +66,7 @@
         "\u4f2f\u96f7\u695a\u8428\u53bf"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":1108564619,
-    "wof:lastmodified":1563321095,
+    "wof:lastmodified":1566727459,
     "wof:name":"Borei Cholsar",
     "wof:parent_id":85673107,
     "wof:placetype":"county",

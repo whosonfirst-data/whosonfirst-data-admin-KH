@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"104.67743,11.41219,104.71743,11.45219",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Phum\u012d R\u00f4kar Ka\u00f4h",
         "Khum Roka Koh",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1360108699,
-    "wof:lastmodified":1537653945,
+    "wof:lastmodified":1566727501,
     "wof:name":"Khum Rokar Kaoh",
     "wof:parent_id":1108564685,
     "wof:placetype":"locality",

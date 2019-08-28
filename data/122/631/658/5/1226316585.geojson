@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"105.23595,11.79584,105.27595,11.83584",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Phum Tra Ngok",
         "Phum\u012d Chumt\u00e9av Mau"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1226316585,
-    "wof:lastmodified":1537653826,
+    "wof:lastmodified":1566727650,
     "wof:name":"Phumi Chumteav Mau",
     "wof:parent_id":1108564837,
     "wof:placetype":"locality",

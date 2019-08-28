@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":11.260744,
     "lbl:longitude":105.223042,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Kandal",
     "meso:dissme":"Leuk DaekKandal",
     "meso:gadm_admin":"Leuk Daek",
@@ -31,6 +33,7 @@
     "mps:longitude":105.223042,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Leuk Daek"
     ],
@@ -51,7 +54,7 @@
         "Leuk Daek"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":1108564721,
-    "wof:lastmodified":1561778118,
+    "wof:lastmodified":1566727456,
     "wof:name":"Leuk Daek",
     "wof:parent_id":85673051,
     "wof:placetype":"county",

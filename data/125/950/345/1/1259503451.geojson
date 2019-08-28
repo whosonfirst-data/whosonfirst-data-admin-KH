@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"103.1092,11.33475,103.1492,11.37475",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:khm_x_preferred":[
         "Phum Pr\u00eak Ati"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1259503451,
-    "wof:lastmodified":1537653590,
+    "wof:lastmodified":1566727592,
     "wof:name":"Phum Prek Ati",
     "wof:parent_id":1108564697,
     "wof:placetype":"locality",

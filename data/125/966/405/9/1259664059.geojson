@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"103.81511,12.45676,103.85511,12.49676",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Chumteav Meas",
         "Phum\u012d Chumt\u00e9av M\u00e9as"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1259664059,
-    "wof:lastmodified":1537653826,
+    "wof:lastmodified":1566727594,
     "wof:name":"Phumi Chumteav Meas",
     "wof:parent_id":1108564795,
     "wof:placetype":"locality",

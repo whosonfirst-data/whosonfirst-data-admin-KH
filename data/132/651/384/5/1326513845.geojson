@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"106.66211,12.33848,106.70211,12.37848",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Coeng Phlah",
         "Goeng Phlah",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1326513845,
-    "wof:lastmodified":1537653652,
+    "wof:lastmodified":1566727202,
     "wof:name":"Phumi O Phlah (2)",
     "wof:parent_id":1108564667,
     "wof:placetype":"locality",

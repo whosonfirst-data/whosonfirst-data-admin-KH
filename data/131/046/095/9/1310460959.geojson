@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"104.3015,10.7909,104.3415,10.8309",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1310460959,
-    "wof:lastmodified":1536980651,
+    "wof:lastmodified":1566727461,
     "wof:name":"Phumi Phnum Tnaot",
     "wof:parent_id":1108564637,
     "wof:placetype":"locality",

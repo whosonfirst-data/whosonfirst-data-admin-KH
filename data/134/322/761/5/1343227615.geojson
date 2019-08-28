@@ -23,8 +23,12 @@
     "gn:population":843931,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"104.76498,10.97081,104.80498,11.01081",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":5.0,
     "name:ceb_x_preferred":[
         "Takeo"
     ],
@@ -45,7 +49,6 @@
     ],
     "name:und_x_variant":[
         "Pr\u00e0s\u00e0t",
-        "Takeo",
         "Tak\u00eav",
         "Tak\u00e9o"
     ],
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1343227615,
-    "wof:lastmodified":1564178568,
+    "wof:lastmodified":1566727258,
     "wof:name":"Takeo",
     "wof:parent_id":421187977,
     "wof:placetype":"locality",

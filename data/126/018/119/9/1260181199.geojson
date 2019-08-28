@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"105.21712,12.50741,105.25712,12.54741",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Phum Kompong Sdach",
         "Phum\u012d K\u00e2mp\u00f4ng Sdach",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1260181199,
-    "wof:lastmodified":1537653786,
+    "wof:lastmodified":1566727441,
     "wof:name":"Phumi Kampong Sdech",
     "wof:parent_id":421198921,
     "wof:placetype":"locality",

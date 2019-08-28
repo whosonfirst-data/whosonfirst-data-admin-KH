@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"105.32825,11.09494,105.36825,11.13494",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Phum\u012d R\u00f4l\u00e9ak",
         "Phum\u012d R\u00f4li\u0115k"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1327404911,
-    "wof:lastmodified":1537653533,
+    "wof:lastmodified":1566727211,
     "wof:name":"Phumi Roliek",
     "wof:parent_id":1108564775,
     "wof:placetype":"locality",

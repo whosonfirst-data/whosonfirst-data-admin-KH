@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"104.7295,11.3999,104.7695,11.4399",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Phum Prei Lov\u00e9a",
         "Phum\u012d Prey L\u00f4v\u00e9a",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226670131,
-    "wof:lastmodified":1537653565,
+    "wof:lastmodified":1566727623,
     "wof:name":"Phumi Prey Lvea",
     "wof:parent_id":1108564715,
     "wof:placetype":"locality",

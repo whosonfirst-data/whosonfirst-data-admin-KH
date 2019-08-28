@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"104.21424,11.55149,104.25424,11.59149",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:khm_x_preferred":[
         "Haong Samnam"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1310525395,
-    "wof:lastmodified":1537654123,
+    "wof:lastmodified":1566727471,
     "wof:name":"Haong Samnam",
     "wof:parent_id":1108564591,
     "wof:placetype":"locality",

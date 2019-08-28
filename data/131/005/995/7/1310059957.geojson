@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"104.38059,14.21387,104.42059,14.25387",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:khm_x_preferred":[
         "Bak Anlung"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1310059957,
-    "wof:lastmodified":1537653964,
+    "wof:lastmodified":1566727487,
     "wof:name":"Bak Anlung",
     "wof:parent_id":1108564879,
     "wof:placetype":"locality",

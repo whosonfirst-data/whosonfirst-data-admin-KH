@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.285519,
     "lbl:longitude":103.972216,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Siemreap",
     "meso:dissme":"Prasat BakongSiemreap",
     "meso:gadm_admin":"Prasat Bakong",
@@ -31,6 +33,7 @@
     "mps:longitude":103.972216,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Prasat Bakong"
@@ -60,7 +63,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -80,7 +83,7 @@
     "wof:concordances":{
         "gp:id":56063343,
         "hasc:id":"KH.SI.PB",
-        "qs:id":1249425
+        "qs_pg:id":1249425
     },
     "wof:country":"KH",
     "wof:created":1459008892,
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":421171409,
-    "wof:lastmodified":1553717326,
+    "wof:lastmodified":1566727527,
     "wof:name":"Prasat Bakong",
     "wof:parent_id":85673029,
     "wof:placetype":"county",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"107.4114,12.52117,107.4514,12.56117",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:khm_x_preferred":[
         "Busra"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1226738885,
-    "wof:lastmodified":1537653546,
+    "wof:lastmodified":1566727616,
     "wof:name":"Busra",
     "wof:parent_id":1108564757,
     "wof:placetype":"locality",

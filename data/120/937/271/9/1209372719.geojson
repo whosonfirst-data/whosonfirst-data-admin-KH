@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"104.44372,13.02919,104.48372,13.06919",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:khm_x_preferred":[
         "Phum Prey R\u00f4m\u00e9as"
     ],
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209372719,
-    "wof:lastmodified":1537654133,
+    "wof:lastmodified":1566727384,
     "wof:name":"Phum Prey Romeas",
     "wof:parent_id":85632359,
     "wof:placetype":"locality",

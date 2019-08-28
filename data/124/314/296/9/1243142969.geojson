@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"105.35206,11.8246,105.39206,11.8646",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Preksandek",
         "Prek Santek",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1243142969,
-    "wof:lastmodified":1537653580,
+    "wof:lastmodified":1566727551,
     "wof:name":"Phumi Prek Sandek",
     "wof:parent_id":1108564837,
     "wof:placetype":"locality",

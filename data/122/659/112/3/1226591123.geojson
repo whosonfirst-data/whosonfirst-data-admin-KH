@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"102.66734,13.09516,102.70734,13.13516",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:khm_x_preferred":[
         "Tuol Til"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1226591123,
-    "wof:lastmodified":1537653348,
+    "wof:lastmodified":1566727626,
     "wof:name":"Tuol Til",
     "wof:parent_id":1108564683,
     "wof:placetype":"locality",

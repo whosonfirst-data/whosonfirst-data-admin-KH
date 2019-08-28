@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"104.54211,11.43527,104.58211,11.47527",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Phum Thl\u00f4k Chh\u0153u T\u00e9al",
         "Phum\u012d Thl\u014fk Chheut\u00e9al"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1276252971,
-    "wof:lastmodified":1537653416,
+    "wof:lastmodified":1566727359,
     "wof:name":"Phumi Thlok Chheuteal",
     "wof:parent_id":1108564819,
     "wof:placetype":"locality",

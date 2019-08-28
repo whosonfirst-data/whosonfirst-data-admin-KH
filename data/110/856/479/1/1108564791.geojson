@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":11.541954,
     "lbl:longitude":105.246175,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Prey Veng",
     "meso:dissme":"Pur RiengPrey Veng",
     "meso:gadm_admin":"Kampong Leav",
@@ -31,6 +33,7 @@
     "mps:longitude":105.246175,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Sr\u014fk K\u00e2mp\u00f3ng L\u00e9av"
     ],
@@ -60,7 +63,7 @@
         "Kampong Leav"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632359,
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":1108564791,
-    "wof:lastmodified":1563321070,
+    "wof:lastmodified":1566727454,
     "wof:name":"Pur Rieng",
     "wof:parent_id":85673067,
     "wof:placetype":"county",

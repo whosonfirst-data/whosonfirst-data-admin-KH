@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"104.1081,11.35649,104.1481,11.39649",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:khm_x_preferred":[
         "Chambak"
     ],
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1209106625,
-    "wof:lastmodified":1537653411,
+    "wof:lastmodified":1566727415,
     "wof:name":"Chambak",
     "wof:parent_id":85632359,
     "wof:placetype":"locality",

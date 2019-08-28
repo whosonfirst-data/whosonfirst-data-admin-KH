@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"105.18713,11.42605,105.22713,11.46605",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:khm_x_preferred":[
         "Phum L\u00f4v\u00e9a S\u00e2r Kra\u00f4m"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1226667525,
-    "wof:lastmodified":1537653672,
+    "wof:lastmodified":1566727626,
     "wof:name":"Phum Lovea Sar Kraom",
     "wof:parent_id":1108564725,
     "wof:placetype":"locality",

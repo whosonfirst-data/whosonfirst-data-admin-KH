@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"106.36043,12.07207,106.40043,12.11207",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:khm_x_preferred":[
         "Phum Tr\u00e2pe\u0103ng Le\u0103k"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1327024347,
-    "wof:lastmodified":1537654083,
+    "wof:lastmodified":1566727215,
     "wof:name":"Phum Trapeang Leak",
     "wof:parent_id":1108564841,
     "wof:placetype":"locality",

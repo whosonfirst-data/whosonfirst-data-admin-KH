@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"105.1703,12.11598,105.2103,12.15598",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:khm_x_preferred":[
         "Krouch"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1326739415,
-    "wof:lastmodified":1537654043,
+    "wof:lastmodified":1566727202,
     "wof:name":"Krouch",
     "wof:parent_id":1108564783,
     "wof:placetype":"locality",

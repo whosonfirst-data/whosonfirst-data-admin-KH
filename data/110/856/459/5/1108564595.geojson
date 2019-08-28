@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":12.740677,
     "lbl:longitude":103.767784,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Pursat",
     "meso:dissme":"BakanPursat",
     "meso:gadm_admin":"Bakan",
@@ -31,6 +33,7 @@
     "mps:longitude":103.767784,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Bakan"
     ],
@@ -62,7 +65,7 @@
         "\u5df4\u7518\u53bf"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":1108564595,
-    "wof:lastmodified":1563321098,
+    "wof:lastmodified":1566727460,
     "wof:name":"Bakan",
     "wof:parent_id":85673023,
     "wof:placetype":"county",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"105.3752,11.01241,105.4152,11.05241",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1327304899,
-    "wof:lastmodified":1536863685,
+    "wof:lastmodified":1566727195,
     "wof:name":"Phumi Moreang",
     "wof:parent_id":1108564775,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"104.89915,11.06025,104.93915,11.10025",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Phum Sva\u00ef P\u00e9a",
         "Phum\u012d Svay P\u00e9a",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1243520025,
-    "wof:lastmodified":1537653455,
+    "wof:lastmodified":1566727534,
     "wof:name":"Phumi Svay Pear",
     "wof:parent_id":1108564787,
     "wof:placetype":"locality",

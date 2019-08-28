@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"105.37435,11.3264,105.41435,11.3664",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:khm_x_preferred":[
         "Phum Chru\u014fl"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1193252101,
-    "wof:lastmodified":1537653828,
+    "wof:lastmodified":1566727425,
     "wof:name":"Phum Chruol",
     "wof:parent_id":1108564593,
     "wof:placetype":"locality",

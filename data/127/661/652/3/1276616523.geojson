@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"104.78698,10.82156,104.82698,10.86156",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Phum\u012d Prey Chheut\u00e9al",
         "Phum Chh\u0153ut\u00e9al",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276616523,
-    "wof:lastmodified":1537653849,
+    "wof:lastmodified":1566727350,
     "wof:name":"Phumi Chheuteal",
     "wof:parent_id":1108564881,
     "wof:placetype":"locality",

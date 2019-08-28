@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":11.959854,
     "lbl:longitude":105.837008,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:max_zoom":11.0,
@@ -83,8 +84,8 @@
         "\u7279\u672c\u514b\u8499\u7701"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
-    "src:population:date":"",
+    "src:lbl_centroid":"mapshaper",
+    "src:population_date":"",
     "statoids:area_km":"",
     "statoids:area_mi":"",
     "statoids:as_of_date":"",
@@ -125,11 +126,10 @@
     "wof:lang_x_spoken":[
         "khm"
     ],
-    "wof:lastmodified":1565725105,
+    "wof:lastmodified":1566727450,
     "wof:name":"Tboung Khmum",
     "wof:parent_id":85632359,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:repo":"whosonfirst-data-admin-kh",
     "wof:shortcode":"TB",

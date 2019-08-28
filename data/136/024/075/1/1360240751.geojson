@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"104.46305,13.40163,104.50305,13.44163",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:khm_x_preferred":[
         "Ou"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1360240751,
-    "wof:lastmodified":1537654016,
+    "wof:lastmodified":1566727492,
     "wof:name":"Ou",
     "wof:parent_id":1108564639,
     "wof:placetype":"locality",

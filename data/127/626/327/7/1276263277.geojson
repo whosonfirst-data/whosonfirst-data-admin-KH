@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"105.51672,12.00817,105.55672,12.04817",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:khm_x_preferred":[
         "Phum Tu\u014fl Ph\u00e2av"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1276263277,
-    "wof:lastmodified":1537653352,
+    "wof:lastmodified":1566727339,
     "wof:name":"Phum Tuol Phaav",
     "wof:parent_id":421183891,
     "wof:placetype":"locality",

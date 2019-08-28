@@ -10,8 +10,12 @@
     "geom:latitude":12.718905,
     "geom:longitude":104.889822,
     "iso:country":"KH",
+    "lbl:bbox":"104.869822,12.698905,104.909822,12.738905",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:deu_x_preferred":[
         "Kampong Thom"
@@ -108,7 +112,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1028471,
-        "qs:id":236183,
+        "qs_pg:id":236183,
         "wd:id":"Q976223"
     },
     "wof:country":"KH",
@@ -124,7 +128,7 @@
         }
     ],
     "wof:id":421203977,
-    "wof:lastmodified":1561778135,
+    "wof:lastmodified":1566727523,
     "wof:name":"Kampong Thum",
     "wof:parent_id":421180491,
     "wof:placetype":"locality",

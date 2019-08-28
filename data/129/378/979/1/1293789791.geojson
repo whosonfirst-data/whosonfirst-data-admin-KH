@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"104.51112,11.05372,104.55112,11.09372",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Phum Trapeang Tbeng",
         "Phum\u012d Tr\u00e2pe\u0103ng Sb\u00eang"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1293789791,
-    "wof:lastmodified":1537653369,
+    "wof:lastmodified":1566727306,
     "wof:name":"Phumi Trapeang Sbeng",
     "wof:parent_id":1108564877,
     "wof:placetype":"locality",

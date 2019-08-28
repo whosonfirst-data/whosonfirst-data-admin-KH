@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"104.88155,10.86641,104.92155,10.90641",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Phum Kok Po",
         "Phum\u012d Ko\u016dk Po\u016d",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276401835,
-    "wof:lastmodified":1537653710,
+    "wof:lastmodified":1566727364,
     "wof:name":"Phumi Kouk Pouthi",
     "wof:parent_id":1108564619,
     "wof:placetype":"locality",

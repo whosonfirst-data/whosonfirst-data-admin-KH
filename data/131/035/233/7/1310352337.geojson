@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"103.66114,13.19316,103.70114,13.23316",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Meat Bang Lang",
         "Meat Bang Kong",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1310352337,
-    "wof:lastmodified":1537653715,
+    "wof:lastmodified":1566727484,
     "wof:name":"Phumi Kouk K'ek",
     "wof:parent_id":421172391,
     "wof:placetype":"locality",

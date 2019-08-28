@@ -24,8 +24,12 @@
     "gn:population":29329,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"103.01569,11.52665,103.05569,11.56665",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1310487193,
-    "wof:lastmodified":1536943878,
+    "wof:lastmodified":1566727462,
     "wof:name":"Smach Mean Chey",
     "wof:parent_id":1108564705,
     "wof:placetype":"locality",

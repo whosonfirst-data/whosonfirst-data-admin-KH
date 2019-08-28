@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"104.32254,11.35904,104.36254,11.39904",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Krang Taley",
         "Phum\u012d Kr\u0103ng Ta Th\u00e9",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1259880877,
-    "wof:lastmodified":1537653691,
+    "wof:lastmodified":1566727605,
     "wof:name":"Phumi Krang Ta Ther",
     "wof:parent_id":1108564765,
     "wof:placetype":"locality",

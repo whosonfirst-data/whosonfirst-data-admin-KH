@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"103.67206,12.62205,103.71206,12.66205",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "P\u2019um Palay Th\u0153\u0306ng",
         "Phum\u012d Pr\u00e2lay Khn\u0153\u0306ng"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1292987909,
-    "wof:lastmodified":1537653604,
+    "wof:lastmodified":1566727317,
     "wof:name":"Phumi Pralay Khnoeng",
     "wof:parent_id":1108564595,
     "wof:placetype":"locality",

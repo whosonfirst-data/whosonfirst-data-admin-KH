@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"104.38287,10.72979,104.42287,10.76979",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:khm_x_preferred":[
         "Snao Touch"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1209990599,
-    "wof:lastmodified":1537653486,
+    "wof:lastmodified":1566727387,
     "wof:name":"Snao Touch",
     "wof:parent_id":1108564657,
     "wof:placetype":"locality",

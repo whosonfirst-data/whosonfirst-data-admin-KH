@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"106.91146,12.55182,106.95146,12.59182",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:khm_x_preferred":[
         "Me Mang"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1242990997,
-    "wof:lastmodified":1537654088,
+    "wof:lastmodified":1566727568,
     "wof:name":"Me Mang",
     "wof:parent_id":1108564667,
     "wof:placetype":"locality",

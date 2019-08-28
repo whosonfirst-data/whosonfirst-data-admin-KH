@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"103.626,13.70279,103.666,13.74279",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:khm_x_preferred":[
         "Doun Miev"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1242842713,
-    "wof:lastmodified":1537653808,
+    "wof:lastmodified":1566727560,
     "wof:name":"Doun Miev",
     "wof:parent_id":1108564583,
     "wof:placetype":"locality",

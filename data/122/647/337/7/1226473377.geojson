@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Phnom_Penh",
     "iso:country":"KH",
+    "lbl:bbox":"106.36293,11.68857,106.40293,11.72857",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fas_x_preferred":[
         "\u0633\u062a\u0648\u0645"
     ],
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":1226473377,
-    "wof:lastmodified":1564179917,
+    "wof:lastmodified":1566727636,
     "wof:name":"Satum",
     "wof:parent_id":1108564735,
     "wof:placetype":"locality",
