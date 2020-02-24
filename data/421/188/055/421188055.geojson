@@ -139,6 +139,9 @@
     },
     "wof:country":"KH",
     "wof:created":1459009532,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8556de76b5390698ce6619b2b08be822",
     "wof:hierarchy":[
         {
@@ -149,7 +152,7 @@
         }
     ],
     "wof:id":421188055,
-    "wof:lastmodified":1566727524,
+    "wof:lastmodified":1582346019,
     "wof:name":"Saen Monourom",
     "wof:parent_id":85673085,
     "wof:placetype":"county",

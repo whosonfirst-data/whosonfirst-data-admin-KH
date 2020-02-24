@@ -283,6 +283,9 @@
         "wd:id":"Q652818"
     },
     "wof:country":"KH",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"182998b352dea9210beeebd65c4e0e1d",
     "wof:hierarchy":[
         {
@@ -298,7 +301,7 @@
     "wof:lang_x_spoken":[
         "khm"
     ],
-    "wof:lastmodified":1566727283,
+    "wof:lastmodified":1582346004,
     "wof:name":"Siemr\u00e9ab",
     "wof:parent_id":85632359,
     "wof:placetype":"region",

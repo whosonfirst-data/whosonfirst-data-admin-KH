@@ -282,6 +282,9 @@
         "wk:page":"Tak\u00e9o Province"
     },
     "wof:country":"KH",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1969eb57f38c33f5e809007014a6a1ea",
     "wof:hierarchy":[
         {
@@ -297,7 +300,7 @@
     "wof:lang_x_spoken":[
         "khm"
     ],
-    "wof:lastmodified":1566727285,
+    "wof:lastmodified":1582346006,
     "wof:name":"Tak\u00eav",
     "wof:parent_id":85632359,
     "wof:placetype":"region",

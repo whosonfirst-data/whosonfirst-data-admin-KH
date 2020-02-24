@@ -114,6 +114,9 @@
     },
     "wof:country":"KH",
     "wof:created":1459010117,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"760f1f075c1f3c8fba095339625315f7",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":421202413,
-    "wof:lastmodified":1566727523,
+    "wof:lastmodified":1582346018,
     "wof:name":"Botum Sakor",
     "wof:parent_id":85673019,
     "wof:placetype":"county",

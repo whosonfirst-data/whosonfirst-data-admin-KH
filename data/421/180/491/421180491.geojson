@@ -106,6 +106,9 @@
     },
     "wof:country":"KH",
     "wof:created":1459009261,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"444f7a28ecca7011494e181e5d9a16a0",
     "wof:hierarchy":[
         {
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":421180491,
-    "wof:lastmodified":1566727523,
+    "wof:lastmodified":1582346018,
     "wof:name":"Stueng Saen",
     "wof:parent_id":85673057,
     "wof:placetype":"county",

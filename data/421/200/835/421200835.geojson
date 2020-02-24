@@ -102,6 +102,9 @@
     },
     "wof:country":"KH",
     "wof:created":1459010043,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a2c9565d9a02b403ffe1125161abf958",
     "wof:hierarchy":[
         {
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":421200835,
-    "wof:lastmodified":1566727525,
+    "wof:lastmodified":1582346019,
     "wof:name":"Stueng Traeng",
     "wof:parent_id":85673075,
     "wof:placetype":"county",

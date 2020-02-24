@@ -78,6 +78,9 @@
         "qs:id":235411
     },
     "wof:country":"KH",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7bdf70cc3e9708ff9e56f37419c647f2",
     "wof:hierarchy":[
         {
@@ -93,7 +96,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1534379374,
+    "wof:lastmodified":1582346002,
     "wof:name":"Toul Kork",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

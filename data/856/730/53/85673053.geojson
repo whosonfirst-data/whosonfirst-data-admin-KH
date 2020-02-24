@@ -277,6 +277,9 @@
         "wd:id":"Q652867"
     },
     "wof:country":"KH",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"14236fd864a9c02e62a964c5a9750605",
     "wof:hierarchy":[
         {
@@ -292,7 +295,7 @@
     "wof:lang_x_spoken":[
         "khm"
     ],
-    "wof:lastmodified":1566727283,
+    "wof:lastmodified":1582346004,
     "wof:name":"K\u00e2mp\u00f3ng Sp\u0153",
     "wof:parent_id":85632359,
     "wof:placetype":"region",

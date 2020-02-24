@@ -271,6 +271,9 @@
     },
     "wof:country":"KH",
     "wof:created":1459009402,
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"65a2d215373024b407891ffd72878caf",
     "wof:hierarchy":[
         {
@@ -282,7 +285,7 @@
         }
     ],
     "wof:id":421184153,
-    "wof:lastmodified":1566727526,
+    "wof:lastmodified":1582346020,
     "wof:name":"Stoeng Treng",
     "wof:parent_id":421200835,
     "wof:placetype":"locality",

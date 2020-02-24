@@ -87,6 +87,9 @@
     },
     "wof:country":"KH",
     "wof:created":1459009822,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7cbea26fbf0ea50a8713eff0b829dfe9",
     "wof:hierarchy":[
         {
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":421194859,
-    "wof:lastmodified":1566727522,
+    "wof:lastmodified":1582346017,
     "wof:name":"Kuleaen",
     "wof:parent_id":85673071,
     "wof:placetype":"county",

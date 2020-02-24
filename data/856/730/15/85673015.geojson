@@ -281,6 +281,9 @@
         "wk:page":"Battambang Province"
     },
     "wof:country":"KH",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"dba854575b4589b6e3e23394161cc653",
     "wof:hierarchy":[
         {
@@ -296,7 +299,7 @@
     "wof:lang_x_spoken":[
         "khm"
     ],
-    "wof:lastmodified":1566727284,
+    "wof:lastmodified":1582346005,
     "wof:name":"Batd\u00e2mb\u00e2ng",
     "wof:parent_id":85632359,
     "wof:placetype":"region",

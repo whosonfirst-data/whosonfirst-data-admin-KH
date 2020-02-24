@@ -112,6 +112,9 @@
     },
     "wof:country":"KH",
     "wof:created":1459009539,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"746e7b1902d2b26c66e6258c36d7a0be",
     "wof:hierarchy":[
         {
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":421188243,
-    "wof:lastmodified":1566727524,
+    "wof:lastmodified":1582346018,
     "wof:name":"Prey Nob",
     "wof:parent_id":85673101,
     "wof:placetype":"county",

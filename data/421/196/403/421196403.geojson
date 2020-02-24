@@ -87,6 +87,9 @@
     },
     "wof:country":"KH",
     "wof:created":1459009880,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e4d37eb0e8205867d40b4c6a60185e97",
     "wof:hierarchy":[
         {
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":421196403,
-    "wof:lastmodified":1566727525,
+    "wof:lastmodified":1582346019,
     "wof:name":"Samlout",
     "wof:parent_id":85673015,
     "wof:placetype":"county",

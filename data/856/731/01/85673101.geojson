@@ -304,6 +304,9 @@
         "wk:page":"Sihanoukville (city)"
     },
     "wof:country":"KH",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"213acf5c1db085ab3c3a2110d4a03a24",
     "wof:hierarchy":[
         {
@@ -319,7 +322,7 @@
     "wof:lang_x_spoken":[
         "khm"
     ],
-    "wof:lastmodified":1566727285,
+    "wof:lastmodified":1582346006,
     "wof:name":"Krong Preah Sihanouk",
     "wof:parent_id":85632359,
     "wof:placetype":"region",

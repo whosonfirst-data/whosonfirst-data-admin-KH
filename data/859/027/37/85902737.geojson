@@ -75,6 +75,9 @@
         "qs:id":1083521
     },
     "wof:country":"KH",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"82c7e376806a21e16408517c3415f5de",
     "wof:hierarchy":[
         {
@@ -90,7 +93,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1534379374,
+    "wof:lastmodified":1582346002,
     "wof:name":"Tuk Laak",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

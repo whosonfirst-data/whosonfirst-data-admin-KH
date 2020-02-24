@@ -115,6 +115,9 @@
     },
     "wof:country":"KH",
     "wof:created":1459009814,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2145c59641ff643e86d609987a26583a",
     "wof:hierarchy":[
         {
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":421194641,
-    "wof:lastmodified":1566727522,
+    "wof:lastmodified":1582346017,
     "wof:name":"Veun Sai",
     "wof:parent_id":85673089,
     "wof:placetype":"county",

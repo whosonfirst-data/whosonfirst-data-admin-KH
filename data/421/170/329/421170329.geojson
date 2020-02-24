@@ -112,6 +112,9 @@
     },
     "wof:country":"KH",
     "wof:created":1459008848,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"75d43897a63b387428c5a1d2569fc51c",
     "wof:hierarchy":[
         {
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":421170329,
-    "wof:lastmodified":1566727526,
+    "wof:lastmodified":1582346020,
     "wof:name":"Serei Saophoan",
     "wof:parent_id":85673011,
     "wof:placetype":"county",

@@ -117,6 +117,9 @@
     },
     "wof:country":"KH",
     "wof:created":1459009966,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a87ea5b321edb88d56c98e398292339f",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":421198921,
-    "wof:lastmodified":1566727525,
+    "wof:lastmodified":1582346019,
     "wof:name":"Baray",
     "wof:parent_id":85673057,
     "wof:placetype":"county",

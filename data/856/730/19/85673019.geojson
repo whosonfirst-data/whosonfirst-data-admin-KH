@@ -287,6 +287,9 @@
         "wk:page":"Koh Kong Province"
     },
     "wof:country":"KH",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"cd6ec70c0dccf6fa06384b85c70e94b3",
     "wof:hierarchy":[
         {
@@ -302,7 +305,7 @@
     "wof:lang_x_spoken":[
         "khm"
     ],
-    "wof:lastmodified":1566727283,
+    "wof:lastmodified":1582346004,
     "wof:name":"Ka\u00f4h Kong",
     "wof:parent_id":85632359,
     "wof:placetype":"region",

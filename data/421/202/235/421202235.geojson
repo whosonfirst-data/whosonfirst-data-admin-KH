@@ -117,6 +117,9 @@
     },
     "wof:country":"KH",
     "wof:created":1459010110,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e0709d02ca947574f91080481098ff0c",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":421202235,
-    "wof:lastmodified":1566727523,
+    "wof:lastmodified":1582346018,
     "wof:name":"Baribour",
     "wof:parent_id":85673047,
     "wof:placetype":"county",

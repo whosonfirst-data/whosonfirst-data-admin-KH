@@ -235,6 +235,9 @@
     },
     "wof:country":"KH",
     "wof:created":1459010174,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"97fa63e9e5bd693c931b05b21b3a1b55",
     "wof:hierarchy":[
         {
@@ -245,7 +248,7 @@
         }
     ],
     "wof:id":421204115,
-    "wof:lastmodified":1566727522,
+    "wof:lastmodified":1582346018,
     "wof:name":"Siem Reap",
     "wof:parent_id":85673029,
     "wof:placetype":"county",

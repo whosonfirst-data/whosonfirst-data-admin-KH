@@ -121,6 +121,9 @@
     },
     "wof:country":"KH",
     "wof:created":1459010146,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b70a17a53d3c82bb2bc1c28383258e83",
     "wof:hierarchy":[
         {
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":421203293,
-    "wof:lastmodified":1566727523,
+    "wof:lastmodified":1582346018,
     "wof:name":"Thma Puok",
     "wof:parent_id":85673011,
     "wof:placetype":"county",

@@ -112,6 +112,9 @@
     },
     "wof:country":"KH",
     "wof:created":1459009822,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"94759c009454790d4f88acf673668499",
     "wof:hierarchy":[
         {
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":421194857,
-    "wof:lastmodified":1566727522,
+    "wof:lastmodified":1582346017,
     "wof:name":"Thma Bang",
     "wof:parent_id":85673019,
     "wof:placetype":"county",

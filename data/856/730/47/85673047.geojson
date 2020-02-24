@@ -292,6 +292,9 @@
         "wk:page":"Kampong Chhnang Province"
     },
     "wof:country":"KH",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2dfd7662d2acad7ac053f69db6aee12c",
     "wof:hierarchy":[
         {
@@ -307,7 +310,7 @@
     "wof:lang_x_spoken":[
         "khm"
     ],
-    "wof:lastmodified":1566727284,
+    "wof:lastmodified":1582346005,
     "wof:name":"K\u00e2mp\u00f3ng Chhnang",
     "wof:parent_id":85632359,
     "wof:placetype":"region",

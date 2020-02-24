@@ -289,6 +289,9 @@
         "wd:id":"Q747846"
     },
     "wof:country":"KH",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0a7a08e51917d880572436c3e6e77966",
     "wof:hierarchy":[
         {
@@ -304,7 +307,7 @@
     "wof:lang_x_spoken":[
         "khm"
     ],
-    "wof:lastmodified":1566727283,
+    "wof:lastmodified":1582346004,
     "wof:name":"R\u00f4t\u00e2n\u00f4kiri",
     "wof:parent_id":85632359,
     "wof:placetype":"region",

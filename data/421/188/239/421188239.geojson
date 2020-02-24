@@ -101,6 +101,9 @@
     },
     "wof:country":"KH",
     "wof:created":1459009538,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7900223c3e5c761c3391a85f971bbb55",
     "wof:hierarchy":[
         {
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":421188239,
-    "wof:lastmodified":1566727525,
+    "wof:lastmodified":1582346019,
     "wof:name":"Kampong Leaeng",
     "wof:parent_id":85673047,
     "wof:placetype":"county",

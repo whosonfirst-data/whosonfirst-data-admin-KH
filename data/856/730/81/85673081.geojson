@@ -280,6 +280,9 @@
         "wd:id":"Q785896"
     },
     "wof:country":"KH",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4a5e3118cf654cc393b7521306a2dfd2",
     "wof:hierarchy":[
         {
@@ -295,7 +298,7 @@
     "wof:lang_x_spoken":[
         "khm"
     ],
-    "wof:lastmodified":1566727283,
+    "wof:lastmodified":1582346004,
     "wof:name":"Kr\u00e2ch\u00e9h",
     "wof:parent_id":85632359,
     "wof:placetype":"region",

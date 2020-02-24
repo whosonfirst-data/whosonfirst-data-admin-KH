@@ -118,6 +118,9 @@
     },
     "wof:country":"KH",
     "wof:created":1459009314,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b485451fade13e19fb0025b84edda29a",
     "wof:hierarchy":[
         {
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":421181961,
-    "wof:lastmodified":1566727525,
+    "wof:lastmodified":1582346019,
     "wof:name":"Svay Chek",
     "wof:parent_id":85673011,
     "wof:placetype":"county",

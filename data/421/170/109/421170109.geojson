@@ -113,6 +113,9 @@
     },
     "wof:country":"KH",
     "wof:created":1459008837,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2eccb55aa1540c751240d7b367a65085",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":421170109,
-    "wof:lastmodified":1566727526,
+    "wof:lastmodified":1582346020,
     "wof:name":"Pailin",
     "wof:parent_id":85673037,
     "wof:placetype":"county",

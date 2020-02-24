@@ -288,6 +288,9 @@
         "wk:page":"Pailin Province"
     },
     "wof:country":"KH",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e9a273daad14e880a5dd7cb9b831ea5f",
     "wof:hierarchy":[
         {
@@ -303,7 +306,7 @@
     "wof:lang_x_spoken":[
         "khm"
     ],
-    "wof:lastmodified":1566727283,
+    "wof:lastmodified":1582346004,
     "wof:name":"Krong Pailin",
     "wof:parent_id":85632359,
     "wof:placetype":"region",

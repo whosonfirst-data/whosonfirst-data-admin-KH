@@ -117,6 +117,9 @@
     },
     "wof:country":"KH",
     "wof:created":1459009529,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d0972a37b47decc722e0b3e523add6f5",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":421187977,
-    "wof:lastmodified":1566727523,
+    "wof:lastmodified":1582346018,
     "wof:name":"Doun Kaev",
     "wof:parent_id":85673107,
     "wof:placetype":"county",

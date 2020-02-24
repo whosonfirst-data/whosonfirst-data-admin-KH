@@ -109,6 +109,9 @@
     },
     "wof:country":"KH",
     "wof:created":1459010122,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b0ac78db3391fdc2f75ce6a6046f94c8",
     "wof:hierarchy":[
         {
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":421202559,
-    "wof:lastmodified":1566727523,
+    "wof:lastmodified":1582346018,
     "wof:name":"Kampong Chhnang",
     "wof:parent_id":85673047,
     "wof:placetype":"county",

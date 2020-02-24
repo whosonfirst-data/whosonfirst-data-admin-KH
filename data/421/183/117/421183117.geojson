@@ -87,6 +87,9 @@
     },
     "wof:country":"KH",
     "wof:created":1459009358,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0ce584cecea14b876844b655754365f9",
     "wof:hierarchy":[
         {
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":421183117,
-    "wof:lastmodified":1566727526,
+    "wof:lastmodified":1582346020,
     "wof:name":"Srae Ambel",
     "wof:parent_id":85673019,
     "wof:placetype":"county",

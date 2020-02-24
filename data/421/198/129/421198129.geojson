@@ -118,6 +118,9 @@
     },
     "wof:country":"KH",
     "wof:created":1459009938,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"53a0f6de6bbece9ac959235280350afa",
     "wof:hierarchy":[
         {
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":421198129,
-    "wof:lastmodified":1566727525,
+    "wof:lastmodified":1582346019,
     "wof:name":"Ou Chrov",
     "wof:parent_id":85673011,
     "wof:placetype":"county",

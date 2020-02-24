@@ -281,6 +281,9 @@
     },
     "wof:country":"KH",
     "wof:created":1459009532,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6b050dc360df7dd1aa86b9f556763ce8",
     "wof:hierarchy":[
         {
@@ -291,7 +294,7 @@
         }
     ],
     "wof:id":421188047,
-    "wof:lastmodified":1566727524,
+    "wof:lastmodified":1582346018,
     "wof:name":"Sandan",
     "wof:parent_id":85673057,
     "wof:placetype":"county",

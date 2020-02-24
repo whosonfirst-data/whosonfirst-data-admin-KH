@@ -112,6 +112,9 @@
     },
     "wof:country":"KH",
     "wof:created":1459009542,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6597524bfc32c008b3c54e2c06309e2d",
     "wof:hierarchy":[
         {
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":421188351,
-    "wof:lastmodified":1566727524,
+    "wof:lastmodified":1582346019,
     "wof:name":"Khsach Kandal",
     "wof:parent_id":85673051,
     "wof:placetype":"county",

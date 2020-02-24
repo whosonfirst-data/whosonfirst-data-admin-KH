@@ -104,6 +104,9 @@
     },
     "wof:country":"KH",
     "wof:created":1459009165,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"98911d0c1b7e463ef8240a978710c35b",
     "wof:hierarchy":[
         {
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":421177919,
-    "wof:lastmodified":1566727526,
+    "wof:lastmodified":1582346020,
     "wof:name":"Ou Reang Ov",
     "wof:parent_id":1108804319,
     "wof:placetype":"county",

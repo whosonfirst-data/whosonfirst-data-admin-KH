@@ -120,6 +120,9 @@
     },
     "wof:country":"KH",
     "wof:created":1459009860,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3f4e0a7907f0ad23f431bb9dfd21e986",
     "wof:hierarchy":[
         {
@@ -130,7 +133,7 @@
         }
     ],
     "wof:id":421195831,
-    "wof:lastmodified":1566727522,
+    "wof:lastmodified":1582346017,
     "wof:name":"Cheung Prey",
     "wof:parent_id":85673041,
     "wof:placetype":"county",

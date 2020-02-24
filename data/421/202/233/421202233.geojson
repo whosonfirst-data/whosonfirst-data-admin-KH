@@ -118,6 +118,9 @@
     },
     "wof:country":"KH",
     "wof:created":1459010110,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e5728488c751cd6220acbe7871f5af7f",
     "wof:hierarchy":[
         {
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":421202233,
-    "wof:lastmodified":1566727523,
+    "wof:lastmodified":1582346018,
     "wof:name":"Kampong Cham",
     "wof:parent_id":85673041,
     "wof:placetype":"county",

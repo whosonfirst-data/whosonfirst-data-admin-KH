@@ -87,6 +87,9 @@
     },
     "wof:country":"KH",
     "wof:created":1459009532,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6a7404fa177da588928aef0b261b859d",
     "wof:hierarchy":[
         {
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":421188053,
-    "wof:lastmodified":1566727524,
+    "wof:lastmodified":1582346019,
     "wof:name":"Ta Veaeng",
     "wof:parent_id":85673089,
     "wof:placetype":"county",

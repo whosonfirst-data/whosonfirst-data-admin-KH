@@ -115,6 +115,9 @@
     },
     "wof:country":"KH",
     "wof:created":1459009815,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c8223f263c90021e7e3e3d140d2ec3d8",
     "wof:hierarchy":[
         {
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":421194643,
-    "wof:lastmodified":1566727522,
+    "wof:lastmodified":1582346017,
     "wof:name":"Kralanh",
     "wof:parent_id":85673029,
     "wof:placetype":"county",

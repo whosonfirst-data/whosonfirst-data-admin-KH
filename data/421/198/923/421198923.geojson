@@ -111,6 +111,9 @@
     },
     "wof:country":"KH",
     "wof:created":1459009966,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"121dceb8a59d139b768fa447cc072317",
     "wof:hierarchy":[
         {
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":421198923,
-    "wof:lastmodified":1566727525,
+    "wof:lastmodified":1582346019,
     "wof:name":"Rolea B'ier",
     "wof:parent_id":85673047,
     "wof:placetype":"county",

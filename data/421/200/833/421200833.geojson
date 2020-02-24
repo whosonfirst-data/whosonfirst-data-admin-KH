@@ -111,6 +111,9 @@
     },
     "wof:country":"KH",
     "wof:created":1459010043,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a643be472a8d5d374ae02acd658275fa",
     "wof:hierarchy":[
         {
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":421200833,
-    "wof:lastmodified":1566727526,
+    "wof:lastmodified":1582346019,
     "wof:name":"Varin",
     "wof:parent_id":85673029,
     "wof:placetype":"county",

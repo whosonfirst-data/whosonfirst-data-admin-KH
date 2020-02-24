@@ -107,6 +107,9 @@
     },
     "wof:country":"KH",
     "wof:created":1459010112,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"963bccbbfc5443e13a9df5abe68daed5",
     "wof:hierarchy":[
         {
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":421202305,
-    "wof:lastmodified":1566727523,
+    "wof:lastmodified":1582346018,
     "wof:name":"Kampong Trabaek",
     "wof:parent_id":85673067,
     "wof:placetype":"county",

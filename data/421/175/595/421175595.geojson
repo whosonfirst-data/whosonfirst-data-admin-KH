@@ -271,6 +271,9 @@
     },
     "wof:country":"KH",
     "wof:created":1459009073,
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"506c962d9415ed1a4d299d3ceb09769a",
     "wof:hierarchy":[
         {
@@ -282,7 +285,7 @@
         }
     ],
     "wof:id":421175595,
-    "wof:lastmodified":1561778136,
+    "wof:lastmodified":1582346019,
     "wof:name":"Prey Veng",
     "wof:parent_id":1108564789,
     "wof:placetype":"locality",

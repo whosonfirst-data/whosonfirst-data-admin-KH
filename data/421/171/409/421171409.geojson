@@ -87,6 +87,9 @@
     },
     "wof:country":"KH",
     "wof:created":1459008892,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ef42b81007c0a7304b4190094805e997",
     "wof:hierarchy":[
         {
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":421171409,
-    "wof:lastmodified":1566727527,
+    "wof:lastmodified":1582346020,
     "wof:name":"Prasat Bakong",
     "wof:parent_id":85673029,
     "wof:placetype":"county",
