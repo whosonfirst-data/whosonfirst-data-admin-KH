@@ -113,6 +113,9 @@
     },
     "wof:country":"KH",
     "wof:created":1459009390,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"397a1fd7ed97970150b8e6d71c80177f",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":421183889,
-    "wof:lastmodified":1566727526,
+    "wof:lastmodified":1582346020,
     "wof:name":"Ponhea Kraek",
     "wof:parent_id":1108804319,
     "wof:placetype":"county",

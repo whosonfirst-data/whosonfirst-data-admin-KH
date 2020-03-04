@@ -273,6 +273,9 @@
         "wk:page":"Kep Province"
     },
     "wof:country":"KH",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f525d22033b3fc81b64637f14f89da69",
     "wof:hierarchy":[
         {
@@ -288,7 +291,7 @@
     "wof:lang_x_spoken":[
         "khm"
     ],
-    "wof:lastmodified":1566727283,
+    "wof:lastmodified":1582346005,
     "wof:name":"Kep",
     "wof:parent_id":85632359,
     "wof:placetype":"region",

@@ -289,6 +289,9 @@
         "wk:page":"Kampong Thom Province"
     },
     "wof:country":"KH",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1d290f1604bf2720babfc9ec70377fa0",
     "wof:hierarchy":[
         {
@@ -304,7 +307,7 @@
     "wof:lang_x_spoken":[
         "khm"
     ],
-    "wof:lastmodified":1566727282,
+    "wof:lastmodified":1582346003,
     "wof:name":"K\u00e2mp\u00f3ng Thum",
     "wof:parent_id":85632359,
     "wof:placetype":"region",

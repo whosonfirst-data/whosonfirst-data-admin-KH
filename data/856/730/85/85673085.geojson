@@ -289,6 +289,9 @@
         "wk:page":"Mondulkiri Province"
     },
     "wof:country":"KH",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"74ab45a71d4c8b8e3419a611e0b6fd5d",
     "wof:hierarchy":[
         {
@@ -304,7 +307,7 @@
     "wof:lang_x_spoken":[
         "khm"
     ],
-    "wof:lastmodified":1566727284,
+    "wof:lastmodified":1582346005,
     "wof:name":"M\u00f4nd\u00f3l Kiri",
     "wof:parent_id":85632359,
     "wof:placetype":"region",

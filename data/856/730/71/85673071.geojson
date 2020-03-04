@@ -292,6 +292,9 @@
         "wk:page":"Preah Vihear Province"
     },
     "wof:country":"KH",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b3fd9b30fb7dfd890d32f2105a785a74",
     "wof:hierarchy":[
         {
@@ -307,7 +310,7 @@
     "wof:lang_x_spoken":[
         "khm"
     ],
-    "wof:lastmodified":1566727284,
+    "wof:lastmodified":1582346005,
     "wof:name":"Preah Vih\u00e9ar ",
     "wof:parent_id":85632359,
     "wof:placetype":"region",

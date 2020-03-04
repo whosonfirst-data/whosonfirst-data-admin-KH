@@ -1052,6 +1052,11 @@
     },
     "wof:country":"KH",
     "wof:country_alpha3":"KHM",
+    "wof:geom_alt":[
+        "meso",
+        "naturalearth",
+        "naturalearth-display-terrestrial-zoom6"
+    ],
     "wof:geomhash":"f558f16934723b328389e7253bf0b1d5",
     "wof:hierarchy":[
         {
@@ -1066,7 +1071,7 @@
     "wof:lang_x_spoken":[
         "khm"
     ],
-    "wof:lastmodified":1566727285,
+    "wof:lastmodified":1582346006,
     "wof:name":"Cambodia",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

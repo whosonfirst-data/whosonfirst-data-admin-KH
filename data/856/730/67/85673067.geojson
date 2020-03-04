@@ -276,6 +276,9 @@
         "wk:page":"Prey Veng Province"
     },
     "wof:country":"KH",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"911ae3f429bb6a42d67714be96b7a54e",
     "wof:hierarchy":[
         {
@@ -291,7 +294,7 @@
     "wof:lang_x_spoken":[
         "khm"
     ],
-    "wof:lastmodified":1566727282,
+    "wof:lastmodified":1582346003,
     "wof:name":"Prey V\u00eang",
     "wof:parent_id":85632359,
     "wof:placetype":"region",

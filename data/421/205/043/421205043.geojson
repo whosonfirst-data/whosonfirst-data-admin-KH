@@ -118,6 +118,9 @@
     },
     "wof:country":"KH",
     "wof:created":1459010210,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f7192916f4117e36032aae1860c595c5",
     "wof:hierarchy":[
         {
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":421205043,
-    "wof:lastmodified":1566727523,
+    "wof:lastmodified":1582346018,
     "wof:name":"Kampong Siem",
     "wof:parent_id":85673041,
     "wof:placetype":"county",

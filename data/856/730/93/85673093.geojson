@@ -285,6 +285,9 @@
         "wk:page":"Kampot Province"
     },
     "wof:country":"KH",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4414fc42456a18ee6d21d7a8db80a778",
     "wof:hierarchy":[
         {
@@ -300,7 +303,7 @@
     "wof:lang_x_spoken":[
         "khm"
     ],
-    "wof:lastmodified":1566727282,
+    "wof:lastmodified":1582346003,
     "wof:name":"K\u00e2mp\u00f4t",
     "wof:parent_id":85632359,
     "wof:placetype":"region",

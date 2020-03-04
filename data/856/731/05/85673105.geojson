@@ -283,6 +283,9 @@
         "wk:page":"Svay Rieng Province"
     },
     "wof:country":"KH",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3d4249bad84b930dbba2f994fed230d4",
     "wof:hierarchy":[
         {
@@ -298,7 +301,7 @@
     "wof:lang_x_spoken":[
         "khm"
     ],
-    "wof:lastmodified":1566727285,
+    "wof:lastmodified":1582346006,
     "wof:name":"Svay Rieng",
     "wof:parent_id":85632359,
     "wof:placetype":"region",

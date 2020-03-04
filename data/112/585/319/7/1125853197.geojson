@@ -497,6 +497,9 @@
     ],
     "wof:country":"KH",
     "wof:created":1497293502,
+    "wof:geom_alt":[
+        "qs_pg"
+    ],
     "wof:geomhash":"69683eeebba7f6080dd286f1ade3e20f",
     "wof:hierarchy":[
         {
@@ -508,7 +511,7 @@
         }
     ],
     "wof:id":1125853197,
-    "wof:lastmodified":1566727528,
+    "wof:lastmodified":1582346020,
     "wof:name":"Phnom Penh",
     "wof:parent_id":1108564771,
     "wof:placetype":"locality",

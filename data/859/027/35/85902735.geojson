@@ -75,6 +75,9 @@
         "qs_pg:id":235409
     },
     "wof:country":"KH",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a9c11de5d5f853ae1b3792bfc60f86cf",
     "wof:hierarchy":[
         {
@@ -90,7 +93,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566727282,
+    "wof:lastmodified":1582346002,
     "wof:name":"Toul Tapeung",
     "wof:parent_id":1108952563,
     "wof:placetype":"neighbourhood",

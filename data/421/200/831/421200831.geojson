@@ -87,6 +87,9 @@
     },
     "wof:country":"KH",
     "wof:created":1459010043,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"372c21b82b1209b69ae311e9c5406532",
     "wof:hierarchy":[
         {
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":421200831,
-    "wof:lastmodified":1566727526,
+    "wof:lastmodified":1582346019,
     "wof:name":"Svay Leu",
     "wof:parent_id":85673029,
     "wof:placetype":"county",

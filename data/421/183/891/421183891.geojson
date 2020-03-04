@@ -135,6 +135,9 @@
     },
     "wof:country":"KH",
     "wof:created":1459009391,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c2cf19effdfdb8af38cb527900c27147",
     "wof:hierarchy":[
         {
@@ -145,7 +148,7 @@
         }
     ],
     "wof:id":421183891,
-    "wof:lastmodified":1566727526,
+    "wof:lastmodified":1582346020,
     "wof:name":"Tboung Khmum",
     "wof:parent_id":1108804319,
     "wof:placetype":"county",

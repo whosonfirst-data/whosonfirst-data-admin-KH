@@ -304,6 +304,9 @@
         "wk:page":"Banteay Meanchey Province"
     },
     "wof:country":"KH",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"64a20ead7e0134e00b47e306517ea5ad",
     "wof:hierarchy":[
         {
@@ -319,7 +322,7 @@
     "wof:lang_x_spoken":[
         "khm"
     ],
-    "wof:lastmodified":1566727282,
+    "wof:lastmodified":1582346003,
     "wof:name":"B\u00e2nt\u00e9ay M\u00e9anchey",
     "wof:parent_id":85632359,
     "wof:placetype":"region",

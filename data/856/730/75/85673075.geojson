@@ -281,6 +281,9 @@
         "wd:id":"Q837889"
     },
     "wof:country":"KH",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ed03529f3762a0897f320f13476b14a6",
     "wof:hierarchy":[
         {
@@ -296,7 +299,7 @@
     "wof:lang_x_spoken":[
         "khm"
     ],
-    "wof:lastmodified":1566727283,
+    "wof:lastmodified":1582346004,
     "wof:name":"St\u0153ng Tr\u00eang",
     "wof:parent_id":85632359,
     "wof:placetype":"region",

@@ -97,6 +97,9 @@
     },
     "wof:country":"KH",
     "wof:created":1459009532,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3e44fec058a6fa4f84720684b97314cf",
     "wof:hierarchy":[
         {
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":421188049,
-    "wof:lastmodified":1566727524,
+    "wof:lastmodified":1582346018,
     "wof:name":"Kracheh",
     "wof:parent_id":85673081,
     "wof:placetype":"county",

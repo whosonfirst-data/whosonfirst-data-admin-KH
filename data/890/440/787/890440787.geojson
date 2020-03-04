@@ -105,6 +105,9 @@
     },
     "wof:country":"KH",
     "wof:created":1469052297,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"231368c41f883bc2931f9bd2772630e7",
     "wof:hierarchy":[
         {
@@ -115,7 +118,7 @@
         }
     ],
     "wof:id":890440787,
-    "wof:lastmodified":1566727527,
+    "wof:lastmodified":1582346020,
     "wof:name":"Sameakki Mean Chey",
     "wof:parent_id":85673047,
     "wof:placetype":"county",

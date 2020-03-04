@@ -166,6 +166,9 @@
     },
     "wof:country":"KH",
     "wof:created":1459008761,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"652d108a53f23d26e6070fc1797f2c58",
     "wof:hierarchy":[
         {
@@ -176,7 +179,7 @@
         }
     ],
     "wof:id":421168305,
-    "wof:lastmodified":1566727522,
+    "wof:lastmodified":1582346017,
     "wof:name":"Ta Khmau",
     "wof:parent_id":85673051,
     "wof:placetype":"county",

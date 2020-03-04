@@ -260,6 +260,9 @@
     },
     "wof:country":"KH",
     "wof:created":1459008897,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f61f3bbdc4822b6d4a6abe9c619f39dc",
     "wof:hierarchy":[
         {
@@ -270,7 +273,7 @@
         }
     ],
     "wof:id":421171545,
-    "wof:lastmodified":1566727527,
+    "wof:lastmodified":1582346020,
     "wof:name":"Battambang",
     "wof:parent_id":85673015,
     "wof:placetype":"county",

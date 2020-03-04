@@ -286,6 +286,9 @@
         "wk:page":"Kandal Province"
     },
     "wof:country":"KH",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d27fbab501790aceb263bde70e393cc7",
     "wof:hierarchy":[
         {
@@ -301,7 +304,7 @@
     "wof:lang_x_spoken":[
         "khm"
     ],
-    "wof:lastmodified":1566727282,
+    "wof:lastmodified":1582346003,
     "wof:name":"K\u00e2ndal",
     "wof:parent_id":85632359,
     "wof:placetype":"region",

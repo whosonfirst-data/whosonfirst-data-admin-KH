@@ -88,6 +88,9 @@
     },
     "wof:country":"KH",
     "wof:created":1459009532,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ca119f2b710d92a434c9a16832b9bbfd",
     "wof:hierarchy":[
         {
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":421188051,
-    "wof:lastmodified":1566727525,
+    "wof:lastmodified":1582346019,
     "wof:name":"Sambour",
     "wof:parent_id":85673081,
     "wof:placetype":"county",

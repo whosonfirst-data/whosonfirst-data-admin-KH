@@ -291,6 +291,9 @@
         "wd:id":"Q629538"
     },
     "wof:country":"KH",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"59c080a688344cc888b4573fc0a741e8",
     "wof:hierarchy":[
         {
@@ -306,7 +309,7 @@
     "wof:lang_x_spoken":[
         "khm"
     ],
-    "wof:lastmodified":1566727282,
+    "wof:lastmodified":1582346003,
     "wof:name":"Otdar Mean Chey",
     "wof:parent_id":85632359,
     "wof:placetype":"region",

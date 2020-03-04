@@ -115,6 +115,9 @@
     },
     "wof:country":"KH",
     "wof:created":1459009166,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"97623f38957c8acc4f24a80ef7c4199c",
     "wof:hierarchy":[
         {
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":421177965,
-    "wof:lastmodified":1566727526,
+    "wof:lastmodified":1582346020,
     "wof:name":"Odongk",
     "wof:parent_id":85673053,
     "wof:placetype":"county",

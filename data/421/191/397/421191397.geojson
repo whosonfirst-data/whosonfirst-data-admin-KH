@@ -118,6 +118,9 @@
     },
     "wof:country":"KH",
     "wof:created":1459009690,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3bcc7e755229128579f6ee6a179352c2",
     "wof:hierarchy":[
         {
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":421191397,
-    "wof:lastmodified":1566727525,
+    "wof:lastmodified":1582346019,
     "wof:name":"Peam Ro",
     "wof:parent_id":85673067,
     "wof:placetype":"county",

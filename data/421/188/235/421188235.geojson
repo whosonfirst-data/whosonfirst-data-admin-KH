@@ -110,6 +110,9 @@
     },
     "wof:country":"KH",
     "wof:created":1459009538,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f81db48bd89122e05e741c89317260ab",
     "wof:hierarchy":[
         {
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":421188235,
-    "wof:lastmodified":1566727524,
+    "wof:lastmodified":1582346019,
     "wof:name":"Ponhea Lueu",
     "wof:parent_id":85673051,
     "wof:placetype":"county",

@@ -87,6 +87,9 @@
     },
     "wof:country":"KH",
     "wof:created":1459010110,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"46c88eec699f0823ec0b7552b3e066ab",
     "wof:hierarchy":[
         {
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":421202239,
-    "wof:lastmodified":1566727523,
+    "wof:lastmodified":1582346018,
     "wof:name":"Sangkae",
     "wof:parent_id":85673015,
     "wof:placetype":"county",

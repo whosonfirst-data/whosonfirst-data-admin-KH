@@ -115,6 +115,9 @@
     },
     "wof:country":"KH",
     "wof:created":1459008939,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"45c9d6ea6a85120d37ac3ff9c4356f5e",
     "wof:hierarchy":[
         {
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":421172391,
-    "wof:lastmodified":1566727525,
+    "wof:lastmodified":1582346019,
     "wof:name":"Aek Phnum",
     "wof:parent_id":85673015,
     "wof:placetype":"county",
