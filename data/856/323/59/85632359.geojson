@@ -1029,9 +1029,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Cambodia",
-        "digitalenvoy:country_code":[
-            116
-        ],
+        "digitalenvoy:country_code":116,
         "fb:id":"en.cambodia",
         "fifa:id":"CAM",
         "fips:code":"CB",
@@ -1074,7 +1072,7 @@
     "wof:lang_x_spoken":[
         "khm"
     ],
-    "wof:lastmodified":1583529170,
+    "wof:lastmodified":1583797376,
     "wof:name":"Cambodia",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
