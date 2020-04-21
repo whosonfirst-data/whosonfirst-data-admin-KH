@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":15.115937,
-    "geom:area_square_m":182303811926.732849,
+    "geom:area_square_m":182303811660.805969,
     "geom:bbox":"102.333542,9.907056,107.627687,14.690179",
     "geom:latitude":12.710386,
     "geom:longitude":104.916899,
@@ -57,6 +57,9 @@
     "name:arg_x_variant":[
         "Campuchia"
     ],
+    "name:ary_x_preferred":[
+        "\u0643\u0627\u0645\u0628\u0648\u062f\u062c"
+    ],
     "name:arz_x_preferred":[
         "\u0643\u0627\u0645\u0628\u0648\u062f\u064a\u0627"
     ],
@@ -80,6 +83,9 @@
     ],
     "name:bam_x_preferred":[
         "Kamboji"
+    ],
+    "name:ban_x_preferred":[
+        "Kamboja"
     ],
     "name:bar_x_preferred":[
         "Kambodscha"
@@ -173,6 +179,12 @@
     "name:dan_x_preferred":[
         "Cambodja"
     ],
+    "name:deu_at_x_preferred":[
+        "Kambodscha"
+    ],
+    "name:deu_ch_x_preferred":[
+        "Kambodscha"
+    ],
     "name:deu_x_colloquial":[
         "Koenigreich Kambodscha",
         "Konigreich Kambodscha"
@@ -203,6 +215,12 @@
     ],
     "name:ell_x_preferred":[
         "\u039a\u03b1\u03bc\u03c0\u03cc\u03c4\u03b6\u03b7"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Cambodia"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Cambodia"
     ],
     "name:eng_x_preferred":[
         "Cambodia"
@@ -287,6 +305,9 @@
     "name:gan_x_preferred":[
         "\u67ec\u57d4\u5be8"
     ],
+    "name:gcr_x_preferred":[
+        "Kanbodj"
+    ],
     "name:gla_x_preferred":[
         "Cambuidea"
     ],
@@ -306,6 +327,9 @@
     ],
     "name:gom_x_preferred":[
         "\u0915\u0902\u092c\u094b\u0921\u093f\u092f\u093e"
+    ],
+    "name:got_x_preferred":[
+        "\ud800\udf3a\ud800\udf30\ud800\udf3c\ud800\udf31\ud800\udf30\ud800\udf3f\ud800\udf33\ud800\udf33\ud800\udf39"
     ],
     "name:grn_x_preferred":[
         "Kamb\u00f3ja"
@@ -613,6 +637,9 @@
     "name:nov_x_preferred":[
         "Kambodia"
     ],
+    "name:nqo_x_preferred":[
+        "\u07de\u07ca\u07f2\u07d3\u07cf\u07d6\u07cc\u07eb"
+    ],
     "name:oci_x_preferred":[
         "Camb\u00f2tja"
     ],
@@ -664,6 +691,9 @@
     "name:pol_x_preferred":[
         "Kambod\u017ca"
     ],
+    "name:por_br_x_preferred":[
+        "Camboja"
+    ],
     "name:por_x_preferred":[
         "Camboja"
     ],
@@ -699,6 +729,9 @@
     ],
     "name:sah_x_preferred":[
         "\u041a\u0430\u043c\u0431\u043e\u0434\u044c\u0430"
+    ],
+    "name:sat_x_preferred":[
+        "\u1c60\u1c6e\u1c62\u1c75\u1c73\u1c70\u1c64\u1c6d\u1c5f"
     ],
     "name:scn_x_preferred":[
         "Camboggia"
@@ -758,6 +791,12 @@
     "name:srd_x_preferred":[
         "Camb\u00f2gia"
     ],
+    "name:srp_ec_x_preferred":[
+        "\u041a\u0430\u043c\u0431\u043e\u045f\u0430"
+    ],
+    "name:srp_el_x_preferred":[
+        "Kambod\u017ea"
+    ],
     "name:srp_x_preferred":[
         "\u041a\u0430\u043c\u0431\u043e\u045f\u0430"
     ],
@@ -778,6 +817,9 @@
     ],
     "name:szl_x_preferred":[
         "Kambod\u017ca"
+    ],
+    "name:szy_x_preferred":[
+        "Cambodia"
     ],
     "name:tam_x_preferred":[
         "\u0b95\u0bae\u0bcd\u0baa\u0bcb\u0b9f\u0bbf\u0baf\u0bbe"
@@ -911,8 +953,26 @@
     "name:zha_x_preferred":[
         "Genjbujcai"
     ],
+    "name:zho_cn_x_preferred":[
+        "\u67ec\u57d4\u5be8"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u67ec\u57d4\u5be8"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Kampuchea"
+    ],
+    "name:zho_mo_x_preferred":[
+        "\u67ec\u57d4\u5be8"
+    ],
+    "name:zho_my_x_preferred":[
+        "\u67ec\u57d4\u5be8"
+    ],
+    "name:zho_sg_x_preferred":[
+        "\u67ec\u57d4\u5be8"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u67ec\u57d4\u5be8"
     ],
     "name:zho_x_preferred":[
         "\u67ec\u57d4\u5be8"
@@ -1072,7 +1132,7 @@
     "wof:lang_x_spoken":[
         "khm"
     ],
-    "wof:lastmodified":1583797376,
+    "wof:lastmodified":1587428024,
     "wof:name":"Cambodia",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
