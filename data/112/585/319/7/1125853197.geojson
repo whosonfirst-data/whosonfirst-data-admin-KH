@@ -513,7 +513,9 @@
         85673063
     ],
     "wof:breaches":[],
-    "wof:capital_of":85632359,
+    "wof:capital_of":[
+        85632359
+    ],
     "wof:concordances":{
         "gn:id":1821306,
         "qs_pg:id":89559,
@@ -538,7 +540,7 @@
         }
     ],
     "wof:id":1125853197,
-    "wof:lastmodified":1587428025,
+    "wof:lastmodified":1607390892,
     "wof:name":"Phnom Penh",
     "wof:parent_id":1108564771,
     "wof:placetype":"locality",
