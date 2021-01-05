@@ -233,10 +233,9 @@
         "\u041f\u043d\u043e\u043c\u043f\u0435\u043d\u044c"
     ],
     "name:khm_x_preferred":[
-        "Phnum P\u00e9nh"
+        "\u1797\u17d2\u1793\u17c6\u1796\u17c1\u1789"
     ],
     "name:khm_x_variant":[
-        "\u1797\u17d2\u1793\u17c6\u1796\u17c1\u1789",
         "\u1797\u17d2\u1793\u17c6\u1780\u17c6\u1796\u1784\u17cb\u178f\u17d2\u179a\u17b6\u1785"
     ],
     "name:kir_x_preferred":[
@@ -540,7 +539,7 @@
         }
     ],
     "wof:id":1125853197,
-    "wof:lastmodified":1607390892,
+    "wof:lastmodified":1609878977,
     "wof:name":"Phnom Penh",
     "wof:parent_id":1108564771,
     "wof:placetype":"locality",
