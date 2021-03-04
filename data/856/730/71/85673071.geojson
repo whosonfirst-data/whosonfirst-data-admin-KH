@@ -67,11 +67,11 @@
         "Pre\u0103h Vih\u00e9ar"
     ],
     "name:fra_x_preferred":[
-        "Province de Preah Vihear"
+        "Preah Vihear"
     ],
     "name:fra_x_variant":[
         "province de Preah Vihear",
-        "Preah Vihear"
+        "Province de Preah Vihear"
     ],
     "name:frr_x_preferred":[
         "Preah Vihear"
@@ -310,7 +310,7 @@
     "wof:lang_x_spoken":[
         "khm"
     ],
-    "wof:lastmodified":1587164337,
+    "wof:lastmodified":1614893080,
     "wof:name":"Preah Vih\u00e9ar",
     "wof:parent_id":85632359,
     "wof:placetype":"region",
