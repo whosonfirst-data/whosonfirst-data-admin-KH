@@ -32,6 +32,9 @@
     "name:ceb_x_preferred":[
         "Svay Rieng"
     ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d5\u05d5\u05d9\u05d9 \u05e8\u05d9\u05d9\u05e0\u05d2"
+    ],
     "name:khm_x_preferred":[
         "Svay Rieng"
     ],
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1276799203,
-    "wof:lastmodified":1566727366,
+    "wof:lastmodified":1636500703,
     "wof:name":"Svay Rieng",
     "wof:parent_id":1108564849,
     "wof:placetype":"locality",

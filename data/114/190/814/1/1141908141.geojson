@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"105.450038614,12.0004419138,105.450038614,12.0004419138",
+    "geom:bbox":"105.450039,12.000442,105.450039,12.000442",
     "geom:latitude":12.000442,
     "geom:longitude":105.450039,
     "iso:country":"KH",
@@ -56,6 +56,9 @@
     ],
     "name:hin_x_preferred":[
         "\u0915\u093e\u092e\u094d\u092a\u094b\u0902\u0917 \u091a\u093e\u092e"
+    ],
+    "name:hun_x_preferred":[
+        "Kampong Cham"
     ],
     "name:ind_x_preferred":[
         "Kampong Cham"
@@ -252,7 +255,7 @@
     },
     "wof:country":"KH",
     "wof:created":1499130828,
-    "wof:geomhash":"0995d50db0a499f8854a935422cd1f6d",
+    "wof:geomhash":"b041930de20c0f6e2ee48aae4bb34eb7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -263,7 +266,7 @@
         }
     ],
     "wof:id":1141908141,
-    "wof:lastmodified":1566727654,
+    "wof:lastmodified":1636500708,
     "wof:name":"Kampong Cham",
     "wof:parent_id":421202233,
     "wof:placetype":"locality",
@@ -273,10 +276,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    105.45003861391615,
-    12.00044191380141,
-    105.45003861391615,
-    12.00044191380141
+    105.450039,
+    12.000442,
+    105.450039,
+    12.000442
 ],
-  "geometry": {"coordinates":[105.45003861391615,12.00044191380141],"type":"Point"}
+  "geometry": {"coordinates":[105.450039,12.000442],"type":"Point"}
 }

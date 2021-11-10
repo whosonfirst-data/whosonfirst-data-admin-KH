@@ -35,6 +35,9 @@
     "name:fra_x_preferred":[
         "Kampot"
     ],
+    "name:hun_x_preferred":[
+        "Kampot"
+    ],
     "name:khm_x_preferred":[
         "Kampot"
     ],
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1259459265,
-    "wof:lastmodified":1566727604,
+    "wof:lastmodified":1636500707,
     "wof:name":"Kampot",
     "wof:parent_id":1108564801,
     "wof:placetype":"locality",

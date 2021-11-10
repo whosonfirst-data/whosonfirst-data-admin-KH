@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"105.324003607,11.4839999817,105.324003607,11.4839999817",
+    "geom:bbox":"105.324004,11.484,105.324004,11.484",
     "geom:latitude":11.484,
     "geom:longitude":105.324004,
     "iso:country":"KH",
@@ -53,6 +53,9 @@
     ],
     "name:guj_x_preferred":[
         "\u0aaa\u0acd\u0ab0\u0ac7\u0aaf \u0ab5\u0ac7\u0a82\u0a97"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05e8\u05d9\u05d9 \u05d5\u05d5\u05e0\u05d2"
     ],
     "name:hin_x_preferred":[
         "\u092a\u094d\u0930\u0940\u0908 \u0935\u0947\u0902\u0917"
@@ -257,7 +260,7 @@
     },
     "wof:country":"KH",
     "wof:created":1499130552,
-    "wof:geomhash":"a43fae7ece55eb91523f874f96506faa",
+    "wof:geomhash":"84db7f872df91dfcb6980cad1f37664a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -268,7 +271,7 @@
         }
     ],
     "wof:id":1141906175,
-    "wof:lastmodified":1566727654,
+    "wof:lastmodified":1636500708,
     "wof:name":"Prey Veng",
     "wof:parent_id":1108564789,
     "wof:placetype":"locality",
@@ -280,10 +283,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    105.32400360684386,
-    11.48399998172647,
-    105.32400360684386,
-    11.48399998172647
+    105.324004,
+    11.484,
+    105.324004,
+    11.484
 ],
-  "geometry": {"coordinates":[105.32400360684386,11.48399998172647],"type":"Point"}
+  "geometry": {"coordinates":[105.324004,11.484],"type":"Point"}
 }

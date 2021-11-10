@@ -53,6 +53,9 @@
     "name:hin_x_preferred":[
         "\u0938\u0941\u0902\u0917 \u091f\u094d\u0930\u0947\u0902\u0917"
     ],
+    "name:hun_x_preferred":[
+        "Stoeng Treng"
+    ],
     "name:ind_x_preferred":[
         "Stung Treng"
     ],
@@ -285,7 +288,7 @@
         }
     ],
     "wof:id":421184153,
-    "wof:lastmodified":1582346020,
+    "wof:lastmodified":1636500706,
     "wof:name":"Stoeng Treng",
     "wof:parent_id":421200835,
     "wof:placetype":"locality",

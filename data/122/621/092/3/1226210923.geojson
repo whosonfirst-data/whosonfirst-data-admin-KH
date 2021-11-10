@@ -35,6 +35,9 @@
     "name:deu_x_preferred":[
         "Trang"
     ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05e8\u05d0\u05e0\u05d2"
+    ],
     "name:khm_x_preferred":[
         "Trang"
     ],
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1226210923,
-    "wof:lastmodified":1566727613,
+    "wof:lastmodified":1636500707,
     "wof:name":"Trang",
     "wof:parent_id":1108564747,
     "wof:placetype":"locality",
