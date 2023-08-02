@@ -26,6 +26,9 @@
     "name:ceb_x_preferred":[
         "Lumph\u0103t"
     ],
+    "name:deu_x_preferred":[
+        "Lumphat"
+    ],
     "name:ell_x_preferred":[
         "\u039b\u03bf\u03c5\u03bc\u03c0\u03ac\u03c4"
     ],
@@ -243,7 +246,7 @@
         }
     ],
     "wof:id":421187885,
-    "wof:lastmodified":1636500705,
+    "wof:lastmodified":1690938128,
     "wof:name":"Lumphat",
     "wof:parent_id":1108564723,
     "wof:placetype":"locality",

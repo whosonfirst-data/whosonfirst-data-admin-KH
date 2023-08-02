@@ -50,6 +50,9 @@
     "name:deu_x_preferred":[
         "Pailin"
     ],
+    "name:diq_x_preferred":[
+        "Pailin"
+    ],
     "name:ell_x_preferred":[
         "\u03a0\u03b1\u03ca\u03bb\u03af\u03bd"
     ],
@@ -186,6 +189,9 @@
     "name:war_x_preferred":[
         "Pailin"
     ],
+    "name:yue_x_preferred":[
+        "\u62dc\u9023\u7701"
+    ],
     "name:zho_x_preferred":[
         "\u62dc\u6797\u5e02"
     ],
@@ -312,7 +318,7 @@
     "wof:lang_x_spoken":[
         "khm"
     ],
-    "wof:lastmodified":1636500701,
+    "wof:lastmodified":1690938101,
     "wof:name":"Krong Pailin",
     "wof:parent_id":85632359,
     "wof:placetype":"region",

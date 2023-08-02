@@ -38,16 +38,25 @@
     "name:ben_x_preferred":[
         "\u09ac\u09be\u09a8\u09cd\u099f\u09bf \u09ae\u09bf\u099e\u09cd\u099a\u09bf \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
+    "name:ben_x_variant":[
+        "\u09ac\u09be\u09a8\u09a4\u09bf\u09af\u09bc\u09c7\u0987 \u09ae\u09bf\u09af\u09bc\u09c7\u099e\u09cd\u099a\u09bf\u09af\u09bc\u09c7\u0987 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
+    ],
     "name:bul_x_preferred":[
         "\u0411\u0430\u043d\u0442\u0435\u0430\u0439 \u041c\u0435\u0430\u043d\u0442\u0435\u0439"
     ],
     "name:ceb_x_preferred":[
         "Banteay Meanchey"
     ],
+    "name:cym_x_preferred":[
+        "Talaith Banteay Meanchey"
+    ],
     "name:dan_x_preferred":[
         "Banteay Meanchey Province"
     ],
     "name:deu_x_preferred":[
+        "Banteay Meanchey"
+    ],
+    "name:diq_x_preferred":[
         "Banteay Meanchey"
     ],
     "name:ell_x_preferred":[
@@ -87,6 +96,9 @@
     "name:guj_x_preferred":[
         "\u0aac\u0abe\u0aa8\u0acd\u0aa4\u0ac7\u0aaf \u0aae\u0abf\u0aa8\u0acd\u0a9a\u0ac7\u0aaf \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d0\u05e0\u05d8\u05d9 \u05de\u05d9\u05e0\u05e6'\u05d9"
+    ],
     "name:hin_x_preferred":[
         "\u092c\u0948\u0902\u0924\u0940\u090f \u092e\u0940\u0928\u091a\u093f\u090f \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
@@ -107,6 +119,9 @@
     ],
     "name:kor_x_preferred":[
         "\ubc18\ud14c\uc544\uc774\uba54\uc548\uccb4\uc774 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ubc18\ud14c\uc544\uc774\uba54\uc548\uccb4\uc774\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Bant\u012bejm\u012ben\u0137eajas province"
@@ -159,6 +174,9 @@
     "name:sin_x_preferred":[
         "\u0db6\u0dd0\u0db1\u0dca\u0da7\u0dda \u0db4\u0dc5\u0dcf\u0dad"
     ],
+    "name:som_x_preferred":[
+        "Banteay Meanchey Province"
+    ],
     "name:spa_x_preferred":[
         "Provincia de Banteay Mean Chey"
     ],
@@ -197,6 +215,9 @@
     ],
     "name:war_x_preferred":[
         "Banteay Meanchey"
+    ],
+    "name:yue_x_preferred":[
+        "\u73ed\u8fed\u68c9\u82b7\u7701"
     ],
     "name:zho_x_preferred":[
         "\u73ed\u8fed\u68c9\u5409\u7701"
@@ -322,7 +343,7 @@
     "wof:lang_x_spoken":[
         "khm"
     ],
-    "wof:lastmodified":1614893079,
+    "wof:lastmodified":1690938099,
     "wof:name":"B\u00e2nt\u00e9ay M\u00e9anchey",
     "wof:parent_id":85632359,
     "wof:placetype":"region",

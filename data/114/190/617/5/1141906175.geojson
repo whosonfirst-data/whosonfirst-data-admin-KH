@@ -21,6 +21,12 @@
     "name:ara_x_preferred":[
         "\u0628\u0631\u064a \u0641\u064a\u0646\u062c"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0631\u0649 \u0641\u064a\u0646\u062c"
+    ],
+    "name:bel_x_preferred":[
+        "\u041f\u0440\u044d\u0439\u0432\u044d\u043d\u0433"
+    ],
     "name:ben_x_preferred":[
         "\u09aa\u09cd\u09b0\u09c7 \u09ad\u09c7\u0982"
     ],
@@ -120,6 +126,9 @@
     "name:sin_x_preferred":[
         "\u0db4\u0dca\u200d\u0dbb\u0dda \u0dc0\u0dd9\u0db1\u0dca"
     ],
+    "name:spa_x_preferred":[
+        "Prey Veng"
+    ],
     "name:swe_x_preferred":[
         "Prey Veng"
     ],
@@ -131,6 +140,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e01\u0e33\u0e1b\u0e07 \u0e40\u0e25\u0e35\u0e22\u0e1f"
+    ],
+    "name:tha_x_variant":[
+        "\u0e44\u0e1e\u0e23\u0e41\u0e27\u0e07"
     ],
     "name:tur_x_preferred":[
         "Prey Veng"
@@ -271,7 +283,7 @@
         }
     ],
     "wof:id":1141906175,
-    "wof:lastmodified":1636500708,
+    "wof:lastmodified":1690938141,
     "wof:name":"Prey Veng",
     "wof:parent_id":1108564789,
     "wof:placetype":"locality",

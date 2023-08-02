@@ -21,6 +21,15 @@
     "name:ara_x_preferred":[
         "\u062a\u0627\u064a \u0646\u064a\u0646\u0647"
     ],
+    "name:arz_x_preferred":[
+        "\u062a\u0627\u0649 \u0646\u064a\u0646\u0647"
+    ],
+    "name:ast_x_preferred":[
+        "Svay Rieng"
+    ],
+    "name:bel_x_preferred":[
+        "\u0421\u0432\u0430\u0439\u0440\u044b\u0435\u043d\u0433"
+    ],
     "name:ben_x_preferred":[
         "\u09b8\u09ad\u09be\u09af\u09bc \u09b0\u09bf\u09af\u09bc\u09c7\u0982"
     ],
@@ -102,6 +111,9 @@
     "name:por_x_preferred":[
         "Svay Rieng"
     ],
+    "name:ron_x_preferred":[
+        "Svay Rieng"
+    ],
     "name:rus_x_preferred":[
         "\u0421\u0432\u0430\u0439\u0440\u0438\u0435\u043d\u0433"
     ],
@@ -122,6 +134,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e08\u0e31\u0e19\u0e17\u0e23\u0e35"
+    ],
+    "name:tha_x_variant":[
+        "\u0e2a\u0e27\u0e32\u0e22\u0e40\u0e23\u0e35\u0e22\u0e07"
     ],
     "name:tur_x_preferred":[
         "Svay Rieng"
@@ -260,7 +275,7 @@
         }
     ],
     "wof:id":1141906179,
-    "wof:lastmodified":1636500708,
+    "wof:lastmodified":1690938141,
     "wof:name":"Svay Rieng",
     "wof:parent_id":1108564863,
     "wof:placetype":"locality",

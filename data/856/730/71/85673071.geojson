@@ -35,8 +35,14 @@
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0628\u0631\u064a\u0627\u0647 \u0641\u064a\u0647\u064a\u0631"
     ],
+    "name:bel_x_preferred":[
+        "\u041f\u0440\u044d\u0430\u0445\u0432\u0456\u0445\u0435\u0430"
+    ],
     "name:ben_x_preferred":[
         "\u09aa\u09cd\u09b0\u09bf\u09af\u09bc\u09c7 \u09ad\u09bf\u09b9\u09c7 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
+    ],
+    "name:ben_x_variant":[
+        "\u09aa\u09cd\u09b0\u09bf\u09af\u09bc \u09ac\u09bf\u09b9\u09be\u09b0 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
     "name:bul_x_preferred":[
         "\u041f\u0440\u0435\u0430\u0445 \u0412\u0438\u0445\u0435\u0430"
@@ -44,10 +50,16 @@
     "name:ceb_x_preferred":[
         "Preah Vihear"
     ],
+    "name:cym_x_preferred":[
+        "Talaith Preah Vihear"
+    ],
     "name:dan_x_preferred":[
         "Preah Vihear"
     ],
     "name:deu_x_preferred":[
+        "Preah Vihear"
+    ],
+    "name:diq_x_preferred":[
         "Preah Vihear"
     ],
     "name:ell_x_preferred":[
@@ -79,6 +91,9 @@
     "name:guj_x_preferred":[
         "\u0aaa\u0acd\u0ab0\u0ac7\u0ab9 \u0ab5\u0abf\u0ab9\u0abf\u0a85\u0ab0 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d7\u05d5\u05d6 \u05e4\u05e8\u05d0\u05d4 \u05d5\u05d9\u05d4\u05d0\u05e8"
+    ],
     "name:hin_x_preferred":[
         "\u092a\u094d\u0930\u0940\u0939 \u0935\u0940\u0939\u093f\u092f\u0930 \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
@@ -102,6 +117,9 @@
     ],
     "name:kor_x_preferred":[
         "\ud504\ub808\uc544\ube44\ud5e4\uc544\ub974 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ud504\ub808\uc544\ube44\ud5e4\uc544\ub974\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Pr\u012behvih\u012beras province"
@@ -183,6 +201,9 @@
     ],
     "name:war_x_preferred":[
         "Preah Vihear"
+    ],
+    "name:yue_x_preferred":[
+        "\u67cf\u5a01\u590f\u7701"
     ],
     "name:zho_x_preferred":[
         "\u67cf\u5a01\u590f\u7701"
@@ -310,7 +331,7 @@
     "wof:lang_x_spoken":[
         "khm"
     ],
-    "wof:lastmodified":1614893080,
+    "wof:lastmodified":1690938103,
     "wof:name":"Preah Vih\u00e9ar",
     "wof:parent_id":85632359,
     "wof:placetype":"region",

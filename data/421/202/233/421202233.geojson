@@ -63,6 +63,9 @@
     "name:spa_x_preferred":[
         "Kompung Siem"
     ],
+    "name:swe_x_preferred":[
+        "Kampong Siem"
+    ],
     "name:tha_x_preferred":[
         "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e01\u0e33\u0e1b\u0e07\u0e40\u0e2a\u0e35\u0e22\u0e21"
     ],
@@ -134,7 +137,7 @@
         }
     ],
     "wof:id":421202233,
-    "wof:lastmodified":1636500705,
+    "wof:lastmodified":1690938127,
     "wof:name":"Kampong Cham",
     "wof:parent_id":85673041,
     "wof:placetype":"county",

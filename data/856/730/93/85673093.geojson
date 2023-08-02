@@ -35,8 +35,14 @@
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0643\u0627\u0645\u0628\u0648\u062a"
     ],
+    "name:bel_x_preferred":[
+        "\u041a\u0430\u043c\u043f\u043e\u0442"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09be\u09ae\u09cd\u09aa\u099f \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
+    ],
+    "name:ben_x_variant":[
+        "\u0995\u09be\u09ae\u09aa\u099f \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
     "name:bul_x_preferred":[
         "\u041a\u0430\u043c\u043f\u043e\u0442"
@@ -44,10 +50,16 @@
     "name:ceb_x_preferred":[
         "Kampot"
     ],
+    "name:cym_x_preferred":[
+        "Talaith Kampot"
+    ],
     "name:dan_x_preferred":[
         "Kampot Province"
     ],
     "name:deu_x_preferred":[
+        "Kampot"
+    ],
+    "name:diq_x_preferred":[
         "Kampot"
     ],
     "name:ell_x_preferred":[
@@ -102,6 +114,9 @@
     "name:kor_x_preferred":[
         "\uce84\ud3ec\ud2b8 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\uce84\ud3ec\ud2b8\uc8fc"
+    ],
     "name:lav_x_preferred":[
         "Kampotas province"
     ],
@@ -141,11 +156,15 @@
     "name:sin_x_preferred":[
         "\u0d9a\u0dd0\u0db8\u0dca\u0db4\u0da7\u0dca \u0db4\u0dc5\u0dcf\u0dad"
     ],
+    "name:som_x_preferred":[
+        "Kampot Province"
+    ],
     "name:spa_x_preferred":[
         "Provincia de Kompot"
     ],
     "name:spa_x_variant":[
-        "Kompot"
+        "Kompot",
+        "Kampot"
     ],
     "name:swe_x_preferred":[
         "Kampot"
@@ -158,6 +177,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e01\u0e33\u0e1b\u0e2d\u0e15"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e01\u0e33\u0e1b\u0e2d\u0e14"
     ],
     "name:tur_x_preferred":[
         "Kampot Province"
@@ -176,6 +198,9 @@
     ],
     "name:war_x_preferred":[
         "Kampot"
+    ],
+    "name:yue_x_preferred":[
+        "\u8ca2\u5e03\u7701"
     ],
     "name:zho_x_preferred":[
         "\u8d21\u5e03\u7701"
@@ -303,7 +328,7 @@
     "wof:lang_x_spoken":[
         "khm"
     ],
-    "wof:lastmodified":1614893078,
+    "wof:lastmodified":1690938098,
     "wof:name":"K\u00e2mp\u00f4t",
     "wof:parent_id":85632359,
     "wof:placetype":"region",

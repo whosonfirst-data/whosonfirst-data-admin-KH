@@ -43,7 +43,7 @@
     "name:eng_x_variant":[
         "Krong Pursat",
         "Sampov Meas",
-        "Sampov Meas"
+        "Pursat Municipality"
     ],
     "name:fra_x_preferred":[
         "Sampov Meas"
@@ -65,6 +65,9 @@
     ],
     "name:vie_x_preferred":[
         "Sampov Meas"
+    ],
+    "name:zho_x_preferred":[
+        "\u83e9\u8428\u53bf"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1108564795,
-    "wof:lastmodified":1636500703,
+    "wof:lastmodified":1690938112,
     "wof:name":"Pursat",
     "wof:parent_id":85673023,
     "wof:placetype":"county",

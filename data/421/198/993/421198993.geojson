@@ -20,8 +20,17 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u064a\u0628\u062a"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0648\u064a\u0628\u062a"
+    ],
+    "name:ast_x_preferred":[
+        "Poipet"
+    ],
     "name:ben_x_preferred":[
         "\u09aa\u0987\u09aa\u09c7\u099f"
+    ],
+    "name:ceb_x_preferred":[
+        "Pa\u00f4y P\u00eat"
     ],
     "name:dan_x_preferred":[
         "Poipet"
@@ -43,6 +52,9 @@
     ],
     "name:guj_x_preferred":[
         "\u0aaa\u0acb\u0a88\u0aaa\u0ac7\u0a9f"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d9\u05d5\u05e4\u05d8"
     ],
     "name:hin_x_preferred":[
         "\u092a\u094b\u092a\u0947\u091f"
@@ -132,6 +144,9 @@
     "name:vie_x_preferred":[
         "Poipet"
     ],
+    "name:war_x_preferred":[
+        "Poipet"
+    ],
     "name:zho_x_preferred":[
         "\u6ce2\u5225"
     ],
@@ -182,7 +197,7 @@
         }
     ],
     "wof:id":421198993,
-    "wof:lastmodified":1566727525,
+    "wof:lastmodified":1690938131,
     "wof:name":"Paoy Pet",
     "wof:parent_id":1108564751,
     "wof:placetype":"locality",

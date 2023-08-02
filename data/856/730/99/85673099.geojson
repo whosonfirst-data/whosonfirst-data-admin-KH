@@ -38,11 +38,20 @@
     "name:ben_x_preferred":[
         "\u0995\u09c7\u09aa \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
+    "name:ceb_x_preferred":[
+        "Kep"
+    ],
+    "name:cym_x_preferred":[
+        "Talaith Kep"
+    ],
     "name:dan_x_preferred":[
         "Kep Province"
     ],
     "name:deu_x_preferred":[
         "Kep"
+    ],
+    "name:diq_x_preferred":[
+        "Keb"
     ],
     "name:ell_x_preferred":[
         "\u039a\u03b5\u03c0"
@@ -57,6 +66,9 @@
     ],
     "name:est_x_preferred":[
         "K\u00eabi provints"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u06a9\u067e"
     ],
     "name:fin_x_preferred":[
         "K\u00eab"
@@ -137,6 +149,9 @@
     "name:sin_x_preferred":[
         "\u0d9a\u0dd9\u0db4\u0dca \u0db4\u0dc5\u0dcf\u0dad"
     ],
+    "name:som_x_preferred":[
+        "Kep Province"
+    ],
     "name:spa_x_preferred":[
         "Provincia de Kep"
     ],
@@ -170,8 +185,14 @@
     "name:war_x_preferred":[
         "Kep"
     ],
+    "name:yue_x_preferred":[
+        "\u767d\u99ac\u7701"
+    ],
     "name:zho_x_preferred":[
         "\u767d\u99ac\u5e02"
+    ],
+    "name:zho_x_variant":[
+        "\u767d\u99ac\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"KHM",
@@ -294,7 +315,7 @@
     "wof:lang_x_spoken":[
         "khm"
     ],
-    "wof:lastmodified":1636500701,
+    "wof:lastmodified":1690938101,
     "wof:name":"Kep",
     "wof:parent_id":85632359,
     "wof:placetype":"region",

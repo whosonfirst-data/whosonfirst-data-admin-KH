@@ -35,8 +35,14 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0633\u0641\u0627\u064a \u0631\u064a\u0646\u063a"
     ],
+    "name:bel_x_preferred":[
+        "\u0421\u0432\u0430\u0439\u0440\u044b\u0435\u043d\u0433"
+    ],
     "name:ben_x_preferred":[
         "\u09b8\u09c7\u09ad\u09be\u09af\u09bc \u09b0\u09bf\u0982 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
+    ],
+    "name:ben_x_variant":[
+        "\u09b8\u09cb\u09af\u09bc\u09be\u0987 \u09b0\u09bf\u09af\u09bc\u09c7\u0982 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
     "name:bul_x_preferred":[
         "\u0421\u0432\u0430\u0439 \u0420\u0438\u0435\u043d\u0433"
@@ -44,10 +50,16 @@
     "name:ceb_x_preferred":[
         "Svay Rieng"
     ],
+    "name:cym_x_preferred":[
+        "Talaith Svay Rieng"
+    ],
     "name:dan_x_preferred":[
         "Svay Rieng Province"
     ],
     "name:deu_x_preferred":[
+        "Svay Rieng"
+    ],
+    "name:diq_x_preferred":[
         "Svay Rieng"
     ],
     "name:ell_x_preferred":[
@@ -62,6 +74,9 @@
     ],
     "name:est_x_preferred":[
         "Svay Ri\u0115ngi provints"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0633\u0648\u0627\u06cc \u0631\u06cc\u0646\u06af"
     ],
     "name:fin_x_preferred":[
         "Svay Ri\u0115ng"
@@ -101,6 +116,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc2a4\ubc14\uc774\ub9ac\uc5e5 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc2a4\ubc14\uc774\ub9ac\uc5e5\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Sv\u0101jr\u012benas province"
@@ -147,6 +165,9 @@
     "name:sin_x_preferred":[
         "\u0dc3\u0dca\u0dc0\u0dda \u0dbb\u0dd2\u0db1\u0dca\u0d9c\u0dca \u0db4\u0dc5\u0dcf\u0dad"
     ],
+    "name:som_x_preferred":[
+        "Svay Rieng Province"
+    ],
     "name:spa_x_preferred":[
         "Provincia de Svay Rieng"
     ],
@@ -179,6 +200,9 @@
     ],
     "name:war_x_preferred":[
         "Svay Rieng"
+    ],
+    "name:yue_x_preferred":[
+        "\u67f4\u6968\u7701"
     ],
     "name:zho_x_preferred":[
         "\u67f4\u6968\u7701"
@@ -304,7 +328,7 @@
     "wof:lang_x_spoken":[
         "khm"
     ],
-    "wof:lastmodified":1636500702,
+    "wof:lastmodified":1690938104,
     "wof:name":"Svay Rieng",
     "wof:parent_id":85632359,
     "wof:placetype":"region",

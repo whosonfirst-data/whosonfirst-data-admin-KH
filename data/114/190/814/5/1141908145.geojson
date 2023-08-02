@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"104.783309284,10.9837597849,104.783309284,10.9837597849",
+    "geom:bbox":"104.783309,10.98376,104.783309,10.98376",
     "geom:latitude":10.98376,
     "geom:longitude":104.783309,
     "iso:country":"KH",
@@ -20,6 +20,12 @@
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062a\u0627\u0643\u064a\u0648"
+    ],
+    "name:arz_x_preferred":[
+        "\u062a\u0627\u0643\u064a\u0648"
+    ],
+    "name:ast_x_preferred":[
+        "Tak\u00e9o"
     ],
     "name:ben_x_preferred":[
         "\u099f\u09be\u0995\u09c7\u0993"
@@ -249,7 +255,7 @@
     },
     "wof:country":"KH",
     "wof:created":1499130829,
-    "wof:geomhash":"a90b51aeb70785d44015318f07a05d37",
+    "wof:geomhash":"a19f248e4ddc6948f38a3f982891dc7c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -260,7 +266,7 @@
         }
     ],
     "wof:id":1141908145,
-    "wof:lastmodified":1566727654,
+    "wof:lastmodified":1690938141,
     "wof:name":"Takeo",
     "wof:parent_id":421187977,
     "wof:placetype":"locality",
@@ -270,10 +276,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    104.78330928448639,
-    10.98375978489116,
-    104.78330928448639,
-    10.98375978489116
+    104.783309,
+    10.98376,
+    104.783309,
+    10.98376
 ],
-  "geometry": {"coordinates":[104.78330928448639,10.98375978489116],"type":"Point"}
+  "geometry": {"coordinates":[104.783309,10.98376],"type":"Point"}
 }

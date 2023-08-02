@@ -38,11 +38,20 @@
     "name:ben_x_preferred":[
         "\u099f\u09be\u0995\u09c7\u0993 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
+    "name:ben_x_variant":[
+        "\u09a4\u09be\u0995\u09c7\u0993 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
+    ],
     "name:bul_x_preferred":[
         "\u0422\u0430\u043a\u0435\u043e"
     ],
     "name:ceb_x_preferred":[
         "Takeo"
+    ],
+    "name:ces_x_preferred":[
+        "Tak\u00e9o"
+    ],
+    "name:cym_x_preferred":[
+        "Talaith Tak\u00e9o"
     ],
     "name:dan_x_preferred":[
         "Tak\u00e9o Province"
@@ -60,6 +69,12 @@
         "Takeo",
         "Tak\u00eav",
         "Tak\u00e9o Province"
+    ],
+    "name:est_x_preferred":[
+        "Tak\u00eavi provints"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u062a\u0627\u06a9\u0626\u0648"
     ],
     "name:fin_x_preferred":[
         "Tak\u00eav"
@@ -97,6 +112,9 @@
     ],
     "name:kor_x_preferred":[
         "\ud0c0\ucf00\uc624 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ud0c0\ucf00\uc624\uc8fc"
     ],
     "name:lav_x_preferred":[
         "T\u0101k\u0113vas province"
@@ -140,6 +158,9 @@
     "name:sin_x_preferred":[
         "\u0da7\u0d9a\u0dd9\u0dba\u0ddd \u0db4\u0dc5\u0dcf\u0dad"
     ],
+    "name:som_x_preferred":[
+        "Tak\u00e9o Province"
+    ],
     "name:spa_x_preferred":[
         "Provincia de Tak\u00e9o"
     ],
@@ -151,6 +172,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0baf  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+    ],
+    "name:tam_x_variant":[
+        "\u0ba4\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c1f\u0c3e\u0c15\u0c3f\u0c2f\u0c4b \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
@@ -175,6 +199,9 @@
     ],
     "name:war_x_preferred":[
         "Tak\u00e9o"
+    ],
+    "name:yue_x_preferred":[
+        "\u8336\u81a0\u7701"
     ],
     "name:zho_x_preferred":[
         "\u8336\u80f6\u7701"
@@ -300,7 +327,7 @@
     "wof:lang_x_spoken":[
         "khm"
     ],
-    "wof:lastmodified":1614893080,
+    "wof:lastmodified":1690938104,
     "wof:name":"Tak\u00eav",
     "wof:parent_id":85632359,
     "wof:placetype":"region",
