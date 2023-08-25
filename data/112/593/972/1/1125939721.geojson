@@ -25,8 +25,17 @@
     "name:ara_x_preferred":[
         "\u0633\u064a\u0647\u0627\u0646\u0648\u0643\u0641\u064a\u0644"
     ],
+    "name:ast_x_preferred":[
+        "Sihanoukville"
+    ],
     "name:ben_x_preferred":[
         "\u09b8\u09bf\u09b9\u09be\u09a8\u09c1\u0995\u09ad\u09bf\u09b2"
+    ],
+    "name:cat_x_preferred":[
+        "Sihanoukville"
+    ],
+    "name:ces_x_preferred":[
+        "Sihanoukville"
     ],
     "name:dan_x_preferred":[
         "Sihanoukville"
@@ -133,6 +142,9 @@
     "name:sin_x_preferred":[
         "\u0dc3\u0dd2\u0dc4\u0dcf\u0db1\u0ddc\u0dc0\u0dd4\u0d9a\u0dca\u0dc0\u0dd2\u0dbd\u0dd3"
     ],
+    "name:slk_x_preferred":[
+        "Sihanoukville"
+    ],
     "name:spa_x_preferred":[
         "Ciudad de Sihanoukville"
     ],
@@ -164,6 +176,9 @@
         "\u0633\u06cc\u06c1\u0627\u0646\u0648\u06a9\u0648\u06cc\u0644"
     ],
     "name:vie_x_preferred":[
+        "Sihanoukville"
+    ],
+    "name:war_x_preferred":[
         "Sihanoukville"
     ],
     "name:zho_x_preferred":[
@@ -208,7 +223,7 @@
         }
     ],
     "wof:id":1125939721,
-    "wof:lastmodified":1566727528,
+    "wof:lastmodified":1690938138,
     "wof:name":"Sihanoukville",
     "wof:parent_id":1108564777,
     "wof:placetype":"locality",

@@ -58,11 +58,17 @@
     "name:rus_x_preferred":[
         "\u041f\u043d\u043e\u043c\u0442\u0431\u0435\u043d\u0433\u043c\u0435\u0430\u043d\u0442\u044c\u0435\u0439"
     ],
+    "name:spa_x_preferred":[
+        "Preah Wij\u00eda"
+    ],
     "name:swe_x_preferred":[
         "Tb\u00eang M\u00e9anchey"
     ],
     "name:tha_x_preferred":[
         "\u0e1e\u0e19\u0e21\u0e15\u0e30\u0e41\u0e1a\u0e07\u0e21\u0e35\u0e0a\u0e31\u0e22"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1e\u0e23\u0e30\u0e27\u0e34\u0e2b\u0e32\u0e23"
     ],
     "name:und_x_variant":[
         "Thbeng Meanchey"
@@ -196,7 +202,7 @@
         }
     ],
     "wof:id":890417861,
-    "wof:lastmodified":1566727527,
+    "wof:lastmodified":1690938136,
     "wof:name":"Tb\u00eang M\u00e9anchey",
     "wof:parent_id":1108564779,
     "wof:placetype":"locality",

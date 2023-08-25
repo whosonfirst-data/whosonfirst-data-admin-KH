@@ -22,8 +22,17 @@
     "name:ara_x_preferred":[
         "\u0633\u0646\u0645\u0648\u0646\u0648\u0631\u0648\u0645"
     ],
+    "name:arz_x_preferred":[
+        "\u0633\u0646\u0645\u0648\u0646\u0648\u0631\u0648\u0645"
+    ],
+    "name:ast_x_preferred":[
+        "Senmonorom"
+    ],
     "name:ben_x_preferred":[
         "\u09b8\u09c7\u09a8\u09ae\u09a8\u09cb\u09b0\u09ae"
+    ],
+    "name:ceb_x_preferred":[
+        "S\u00eanm\u00f4no\u016dr\u00f4m"
     ],
     "name:dan_x_preferred":[
         "Sen Monorom"
@@ -265,7 +274,7 @@
         }
     ],
     "wof:id":890444159,
-    "wof:lastmodified":1566727527,
+    "wof:lastmodified":1690938136,
     "wof:name":"S\u00eanm\u00f4no\u016dr\u00f4m",
     "wof:parent_id":421188055,
     "wof:placetype":"locality",

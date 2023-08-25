@@ -22,8 +22,17 @@
     "name:ara_x_preferred":[
         "\u0633\u064a\u0627\u0645 \u0631\u064a\u0628"
     ],
+    "name:arz_x_preferred":[
+        "\u0633\u064a\u0627\u0645 \u0631\u064a\u0628"
+    ],
+    "name:ast_x_preferred":[
+        "Siem Reap"
+    ],
     "name:aze_x_preferred":[
         "Siemreap"
+    ],
+    "name:bel_x_preferred":[
+        "\u0421\u0456\u0435\u043c\u0440\u044d\u0430\u043f"
     ],
     "name:ben_x_preferred":[
         "\u09b8\u09bf\u09ae\u09b0\u09bf\u09aa"
@@ -74,6 +83,12 @@
         "Si\u0115m R\u00e9ab"
     ],
     "name:fra_x_preferred":[
+        "Siem Reap"
+    ],
+    "name:frr_x_preferred":[
+        "Siem Reap"
+    ],
+    "name:gle_x_preferred":[
         "Siem Reap"
     ],
     "name:glg_x_preferred":[
@@ -136,6 +151,9 @@
     "name:msa_x_preferred":[
         "Siem Reap"
     ],
+    "name:mya_x_preferred":[
+        "\u1006\u102e\u101a\u1019\u103a\u101b\u102d\u1019\u103c\u102d\u102f\u1037"
+    ],
     "name:mzn_x_preferred":[
         "\u0633\u0645 \u0631\u0626\u0627\u067e"
     ],
@@ -184,6 +202,9 @@
     "name:sin_x_preferred":[
         "\u0dc3\u0dd2\u0dba\u0db8\u0dca \u0dbb\u0dd2\u0dba\u0db4\u0dca"
     ],
+    "name:slv_x_preferred":[
+        "Siem Reap"
+    ],
     "name:spa_x_preferred":[
         "Ciudad de Siem Riep"
     ],
@@ -220,11 +241,17 @@
     "name:urd_x_preferred":[
         "\u0633\u06cc\u0626\u0645 \u0631\u06cc\u0626\u067e"
     ],
+    "name:vec_x_preferred":[
+        "Siem Reap"
+    ],
     "name:vie_x_preferred":[
         "Xi\u00eam Ri\u1ec7p"
     ],
     "name:war_x_preferred":[
         "Siem Reap"
+    ],
+    "name:wuu_x_preferred":[
+        "\u66b9\u7c92\u5e02"
     ],
     "name:zho_x_preferred":[
         "\u66b9\u7c92\u7701"
@@ -355,7 +382,7 @@
         }
     ],
     "wof:id":890444157,
-    "wof:lastmodified":1566727527,
+    "wof:lastmodified":1690938136,
     "wof:name":"Si\u0115mr\u00e9ab",
     "wof:parent_id":421204115,
     "wof:placetype":"locality",

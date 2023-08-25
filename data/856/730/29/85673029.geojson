@@ -35,6 +35,9 @@
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0633\u064a\u0645 \u0631\u064a\u0627\u0628"
     ],
+    "name:bel_x_preferred":[
+        "\u0421\u0456\u0435\u043c\u0440\u044d\u0430\u043f"
+    ],
     "name:ben_x_preferred":[
         "\u09b8\u09bf\u09af\u09bc\u09c7\u09ae \u09b0\u09bf\u09aa \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
@@ -107,6 +110,9 @@
     "name:kor_x_preferred":[
         "\uc2dc\uc5e0\ub808\uc544\ud504 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\uc2dc\uc5e0\ub808\uc544\ud504\uc8fc"
+    ],
     "name:lav_x_preferred":[
         "S\u012bemr\u012bebas province"
     ],
@@ -175,6 +181,9 @@
     ],
     "name:war_x_preferred":[
         "Siem Reap"
+    ],
+    "name:yue_x_preferred":[
+        "\u66b9\u7c92\u7701"
     ],
     "name:zho_x_preferred":[
         "\u66b9\u7c92\u7701"
@@ -301,7 +310,7 @@
     "wof:lang_x_spoken":[
         "khm"
     ],
-    "wof:lastmodified":1614893079,
+    "wof:lastmodified":1690938099,
     "wof:name":"Siemr\u00e9ab",
     "wof:parent_id":85632359,
     "wof:placetype":"region",

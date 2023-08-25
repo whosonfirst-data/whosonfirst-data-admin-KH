@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u0633\u062a\u0648\u0646\u063a \u062a\u0631\u064a\u0646\u063a"
     ],
+    "name:arz_x_preferred":[
+        "\u0633\u062a\u0648\u0646\u062c \u062a\u0631\u064a\u0646\u062c"
+    ],
+    "name:ast_x_preferred":[
+        "Stung Treng"
+    ],
     "name:ben_x_preferred":[
         "\u09b8\u09cd\u099f\u09be\u0982 \u099f\u09cd\u09b0\u09c7\u0982"
     ],
@@ -49,6 +55,9 @@
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0acd\u0a9f\u0a82\u0a97 \u0a9f\u0acd\u0ab0\u0aa8\u0acd\u0a97"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d8\u05d5\u05e0\u05d2 \u05d8\u05e8\u05e0\u05d2"
     ],
     "name:hin_x_preferred":[
         "\u0938\u0941\u0902\u0917 \u091f\u094d\u0930\u0947\u0902\u0917"
@@ -109,6 +118,9 @@
     ],
     "name:spa_x_preferred":[
         "Stud Treng"
+    ],
+    "name:spa_x_variant":[
+        "Stung Treng"
     ],
     "name:swe_x_preferred":[
         "Stung Treng"
@@ -288,7 +300,7 @@
         }
     ],
     "wof:id":421184153,
-    "wof:lastmodified":1636500706,
+    "wof:lastmodified":1690938132,
     "wof:name":"Stoeng Treng",
     "wof:parent_id":421200835,
     "wof:placetype":"locality",

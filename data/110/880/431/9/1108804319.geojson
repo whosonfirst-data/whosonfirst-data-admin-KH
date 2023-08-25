@@ -26,10 +26,19 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":8.7,
+    "name:ben_x_preferred":[
+        "\u09a4\u09ac\u09cc\u0982 \u0996\u09ae\u09c1\u09ae \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
+    ],
     "name:ceb_x_preferred":[
         "Tboung Khmum"
     ],
+    "name:cym_x_preferred":[
+        "Talaith Tbong Khmum"
+    ],
     "name:deu_x_preferred":[
+        "Tbong Khmum"
+    ],
+    "name:diq_x_preferred":[
         "Tbong Khmum"
     ],
     "name:eng_x_preferred":[
@@ -40,6 +49,9 @@
     ],
     "name:est_x_preferred":[
         "Tbong Khm\u016dmi provints"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u062a\u0628\u0648\u0646\u06af \u062e\u0645\u0648\u0645"
     ],
     "name:fra_x_preferred":[
         "Tbong Khmum"
@@ -53,6 +65,9 @@
     "name:hin_x_preferred":[
         "\u0924\u094d\u092c\u094b\u0928\u094d\u0917 \u0916\u094d\u092e\u0941\u092e \u092a\u094d\u0930\u093e\u0928\u094d\u0924"
     ],
+    "name:ind_x_preferred":[
+        "Provinsi Tboung Khmum"
+    ],
     "name:ita_x_preferred":[
         "Provincia di Tbong Khmum"
     ],
@@ -65,11 +80,20 @@
     "name:kor_x_preferred":[
         "\ud2b8\ubd09\ud06c\ubb44 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\ud2b8\ubd09\ud06c\ubb44\uc8fc"
+    ],
     "name:nan_x_preferred":[
         "Tboung Khmum S\u00e9ng"
     ],
     "name:por_x_preferred":[
         "Tbong Khmum"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0431\u043e\u043d\u0433\u0445\u043c\u0443\u043c"
+    ],
+    "name:som_x_preferred":[
+        "Tbong Khmum Province"
     ],
     "name:swe_x_preferred":[
         "Tboung Khmum"
@@ -77,11 +101,17 @@
     "name:tha_x_preferred":[
         "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e15\u0e42\u0e1a\u0e07\u0e06\u0e21\u0e38\u0e21"
     ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0431\u043e\u043d\u0433\u0445\u043c\u0443\u043c"
+    ],
     "name:urd_x_preferred":[
         "\u062a\u0628\u0648\u0646\u06af \u062e\u0645\u0648\u0645 \u0635\u0648\u0628\u06c1"
     ],
     "name:vie_x_preferred":[
         "Tbong Khmum"
+    ],
+    "name:yue_x_preferred":[
+        "\u7279\u672c\u5361\u8499\u7701"
     ],
     "name:zho_x_preferred":[
         "\u7279\u672c\u514b\u8499\u7701"
@@ -129,7 +159,7 @@
     "wof:lang_x_spoken":[
         "khm"
     ],
-    "wof:lastmodified":1614893080,
+    "wof:lastmodified":1690938108,
     "wof:name":"Tboung Khmum",
     "wof:parent_id":85632359,
     "wof:placetype":"region",

@@ -22,6 +22,12 @@
     "mz:is_current":1,
     "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Koh Kong"
+    ],
+    "name:ceb_x_preferred":[
+        "Koh Kong"
+    ],
     "name:ces_x_preferred":[
         "Koh Kong"
     ],
@@ -50,7 +56,8 @@
         "Ka\u00f4h K\u014fng"
     ],
     "name:khm_x_variant":[
-        "\u1780\u17c4\u17c7\u1780\u17bb\u1784"
+        "\u1780\u17c4\u17c7\u1780\u17bb\u1784",
+        "\u1780\u17d2\u179a\u17bb\u1784\u1781\u17c1\u1798\u179a\u1797\u17bc\u1798\u17b7\u1793\u17d2\u1791"
     ],
     "name:kor_x_preferred":[
         "\ucf54\ucf69"
@@ -73,6 +80,9 @@
     "name:rus_x_preferred":[
         "\u041a\u043e\u0445\u043a\u043e\u043d\u0433"
     ],
+    "name:rus_x_variant":[
+        "\u041a\u0430\u0445\u043a\u043e\u043d\u0433"
+    ],
     "name:spa_x_preferred":[
         "Koh Kong"
     ],
@@ -81,6 +91,12 @@
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e02\u0e21\u0e23\u0e31\u0e10\u0e20\u0e39\u0e21\u0e34\u0e19\u0e17\u0e23\u0e4c"
+    ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e02\u0e21\u0e23\u0e20\u0e39\u0e21\u0e34\u0e19\u0e17\u0e23\u0e4c"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u0445\u043a\u043e\u043d\u0433"
     ],
     "name:und_x_variant":[
         "Khemarak Phoumin Ville"
@@ -133,7 +149,7 @@
         }
     ],
     "wof:id":1125822243,
-    "wof:lastmodified":1566727528,
+    "wof:lastmodified":1690938138,
     "wof:name":"Ka\u00f4h K\u014fng",
     "wof:parent_id":1108564705,
     "wof:placetype":"locality",
