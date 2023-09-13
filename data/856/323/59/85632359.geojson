@@ -1231,7 +1231,7 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"naturalearth",
-    "src:population_year":"2019",
+    "src:population_date":"2019",
     "statoids:dial":"855",
     "statoids:ds":"K",
     "statoids:fifa":"CAM",
@@ -1303,7 +1303,7 @@
     "wof:lang_x_spoken":[
         "khm"
     ],
-    "wof:lastmodified":1694492077,
+    "wof:lastmodified":1694639531,
     "wof:name":"Cambodia",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
