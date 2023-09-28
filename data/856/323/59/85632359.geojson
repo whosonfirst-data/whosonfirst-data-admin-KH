@@ -1269,6 +1269,7 @@
         "hasc:id":"KH",
         "icao:code":"XU",
         "ioc:id":"CAM",
+        "iso:code":"KH",
         "itu:id":"CBG",
         "m49:code":"116",
         "marc:id":"cb",
@@ -1282,6 +1283,7 @@
         "wk:page":"Cambodia",
         "wmo:id":"KP"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"KH",
     "wof:country_alpha3":"KHM",
     "wof:geom_alt":[
@@ -1303,7 +1305,7 @@
     "wof:lang_x_spoken":[
         "khm"
     ],
-    "wof:lastmodified":1694639531,
+    "wof:lastmodified":1695881188,
     "wof:name":"Cambodia",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
