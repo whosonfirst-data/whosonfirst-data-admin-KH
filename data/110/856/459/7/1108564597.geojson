@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.072504,
-    "geom:area_square_m":873643087.554106,
+    "geom:area_square_m":873643130.665976,
     "geom:bbox":"102.830565,12.771547,103.222172,13.137404",
     "geom:latitude":12.971833,
     "geom:longitude":103.045933,
@@ -73,9 +73,10 @@
     "wof:concordances":{
         "hasc:id":"KH.BA.BN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1474062605,
-    "wof:geomhash":"e4284a05ebcf1fc0498a54500e9a60b2",
+    "wof:geomhash":"1df8e76c5997fd4b3ae2b789ff244075",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108564597,
-    "wof:lastmodified":1627522282,
+    "wof:lastmodified":1695886750,
     "wof:name":"Banan",
     "wof:parent_id":85673015,
     "wof:placetype":"county",

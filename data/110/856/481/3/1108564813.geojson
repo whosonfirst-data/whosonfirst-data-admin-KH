@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004384,
-    "geom:area_square_m":53107632.158172,
+    "geom:area_square_m":53107661.359174,
     "geom:bbox":"104.822274,11.5454,104.89565,11.649403",
     "geom:latitude":11.595448,
     "geom:longitude":104.861178,
@@ -54,9 +54,10 @@
     "wof:concordances":{
         "hasc:id":"KH.PP.RK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1474062788,
-    "wof:geomhash":"72e705904067c601ed378c049fda703f",
+    "wof:geomhash":"37187281fba8a79ab5d5b7dba3047b4d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -66,7 +67,7 @@
         }
     ],
     "wof:id":1108564813,
-    "wof:lastmodified":1627522285,
+    "wof:lastmodified":1695886752,
     "wof:name":"Saensokh",
     "wof:parent_id":85673063,
     "wof:placetype":"county",

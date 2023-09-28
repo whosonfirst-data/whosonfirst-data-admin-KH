@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.1285,
-    "geom:area_square_m":1540666305.384721,
+    "geom:area_square_m":1540666681.115665,
     "geom:bbox":"103.821393,13.955731,104.166591,14.378603",
     "geom:latitude":14.157946,
     "geom:longitude":103.998165,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"KH.OC.AV"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1474062598,
-    "wof:geomhash":"6eefd261f7f65967de1a090d69841877",
+    "wof:geomhash":"f8ff9e150c1f1d1bf1fb0aca71905335",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1108564589,
-    "wof:lastmodified":1627522282,
+    "wof:lastmodified":1695886749,
     "wof:name":"Anlong Veaeng",
     "wof:parent_id":85673033,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021466,
-    "geom:area_square_m":260757254.038413,
+    "geom:area_square_m":260757254.038324,
     "geom:bbox":"103.547058105,10.6509765028,103.812356358,10.9410454314",
     "geom:latitude":10.769398,
     "geom:longitude":103.683483,
@@ -87,9 +87,10 @@
         "hasc:id":"KH.KA.SH",
         "wd:id":"Q4929384"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1474062821,
-    "wof:geomhash":"a65d72e9f99888b90b3aa061f198b413",
+    "wof:geomhash":"0a7f68a1c3b9ea906d2c6720094acf48",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -99,7 +100,7 @@
         }
     ],
     "wof:id":1108564851,
-    "wof:lastmodified":1566727451,
+    "wof:lastmodified":1695886187,
     "wof:name":"Stueng Hav",
     "wof:parent_id":85673101,
     "wof:placetype":"county",

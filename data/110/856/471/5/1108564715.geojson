@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031581,
-    "geom:area_square_m":382912719.240794,
+    "geom:area_square_m":382912719.24058,
     "geom:bbox":"104.536380626,11.1891665695,104.789342268,11.4353523593",
     "geom:latitude":11.317427,
     "geom:longitude":104.657232,
@@ -86,9 +86,10 @@
         "hasc:id":"KH.KS.KP",
         "wd:id":"Q4929012"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1474062701,
-    "wof:geomhash":"e0d91250d5523537afd73111a118b4d5",
+    "wof:geomhash":"f0a0d79267efcae276c31d14bf8f9c91",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -98,7 +99,7 @@
         }
     ],
     "wof:id":1108564715,
-    "wof:lastmodified":1566727451,
+    "wof:lastmodified":1695886186,
     "wof:name":"Kong Pisei",
     "wof:parent_id":85673053,
     "wof:placetype":"county",

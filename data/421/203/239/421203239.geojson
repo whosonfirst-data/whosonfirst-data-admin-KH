@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.132517,
-    "geom:area_square_m":1599950625.657952,
+    "geom:area_square_m":1599950625.658169,
     "geom:bbox":"103.991753432,12.1991617077,104.391268847,12.7276785005",
     "geom:latitude":12.467397,
     "geom:longitude":104.186757,
@@ -112,12 +112,13 @@
         "wd:id":"Q4929565",
         "wk:page":"Krakor District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1459010144,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"cfdc66c447bf28a8eedb43d9007fe396",
+    "wof:geomhash":"5462f1ce6e0b093e79cf0e888001708b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -127,7 +128,7 @@
         }
     ],
     "wof:id":421203239,
-    "wof:lastmodified":1582346018,
+    "wof:lastmodified":1695886785,
     "wof:name":"Krakor",
     "wof:parent_id":85673023,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.042388,
-    "geom:area_square_m":510739966.387791,
+    "geom:area_square_m":510739884.258275,
     "geom:bbox":"102.485557,12.888083,102.755182,13.115057",
     "geom:latitude":12.981576,
     "geom:longitude":102.640453,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"KH.PL.SK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1474062789,
-    "wof:geomhash":"085bf5f090d637080a8812a8d0cdad80",
+    "wof:geomhash":"5e645ab5c7539412497800adc81425b2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1108564815,
-    "wof:lastmodified":1627522285,
+    "wof:lastmodified":1695886752,
     "wof:name":"Sala Krau",
     "wof:parent_id":85673037,
     "wof:placetype":"county",

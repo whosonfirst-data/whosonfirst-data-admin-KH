@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02018,
-    "geom:area_square_m":245104530.770196,
+    "geom:area_square_m":245104530.770209,
     "geom:bbox":"104.852078924,10.6627346509,105.098419,10.915396375",
     "geom:latitude":10.813383,
     "geom:longitude":104.988777,
@@ -87,9 +87,10 @@
         "hasc:id":"KH.TA.BC",
         "wd:id":"Q4950138"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1474062623,
-    "wof:geomhash":"51464902c514e7d64b77dca9f9c40f66",
+    "wof:geomhash":"a78c906253d370294673a7a27a870c0d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -99,7 +100,7 @@
         }
     ],
     "wof:id":1108564619,
-    "wof:lastmodified":1566727459,
+    "wof:lastmodified":1695886194,
     "wof:name":"Borei Cholsar",
     "wof:parent_id":85673107,
     "wof:placetype":"county",

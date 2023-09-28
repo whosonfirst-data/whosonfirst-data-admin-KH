@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.039124,
-    "geom:area_square_m":469997494.885566,
+    "geom:area_square_m":469997494.885598,
     "geom:bbox":"107.07933534,13.5904754553,107.327393293,13.8389804607",
     "geom:latitude":13.708105,
     "geom:longitude":107.195403,
@@ -89,9 +89,10 @@
         "hasc:id":"KH.RO.BK",
         "wd:id":"Q4857942"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1474062611,
-    "wof:geomhash":"dd6ae5d2eaa7d51999e0cd59143baae3",
+    "wof:geomhash":"cb806df4a5c70eecff5ad1497dee0a92",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":1108564607,
-    "wof:lastmodified":1566727458,
+    "wof:lastmodified":1695886193,
     "wof:name":"Bar Kaev",
     "wof:parent_id":85673089,
     "wof:placetype":"county",

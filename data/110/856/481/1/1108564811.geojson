@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.042793,
-    "geom:area_square_m":518854653.163513,
+    "geom:area_square_m":518854653.023516,
     "geom:bbox":"104.927131,11.170388,105.169604,11.464478",
     "geom:latitude":11.32017,
     "geom:longitude":105.037208,
@@ -83,9 +83,10 @@
         "hasc:id":"KH.KN.SA",
         "wd:id":"Q7387018"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1474062786,
-    "wof:geomhash":"2e98e33a1cb3390da3b1ebafea6bbd43",
+    "wof:geomhash":"6ab95936bf366cb010fad53adaec1287",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -95,7 +96,7 @@
         }
     ],
     "wof:id":1108564811,
-    "wof:lastmodified":1690938115,
+    "wof:lastmodified":1695886190,
     "wof:name":"S'ang",
     "wof:parent_id":85673051,
     "wof:placetype":"county",

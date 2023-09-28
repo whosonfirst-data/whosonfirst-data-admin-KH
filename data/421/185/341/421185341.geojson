@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016994,
-    "geom:area_square_m":204168602.983934,
+    "geom:area_square_m":204168640.196462,
     "geom:bbox":"106.940185,13.578954,107.092139,13.763942",
     "geom:latitude":13.682566,
     "geom:longitude":107.030404,
@@ -146,12 +146,13 @@
         "qs_pg:id":891117,
         "wd:id":"Q4856829"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1459009439,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f93cb75c216ef33006b0cd780a3a4346",
+    "wof:geomhash":"470aad33adbd35578bdc0826c2dbcc8b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -161,7 +162,7 @@
         }
     ],
     "wof:id":421185341,
-    "wof:lastmodified":1690938135,
+    "wof:lastmodified":1695886787,
     "wof:name":"Ban Lung",
     "wof:parent_id":85673089,
     "wof:placetype":"county",

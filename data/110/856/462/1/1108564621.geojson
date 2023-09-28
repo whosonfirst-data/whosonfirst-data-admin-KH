@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.049999,
-    "geom:area_square_m":604131702.335904,
+    "geom:area_square_m":604131702.336065,
     "geom:bbox":"105.131788643,12.099335437,105.4218937,12.4015552153",
     "geom:latitude":12.268291,
     "geom:longitude":105.287797,
@@ -89,9 +89,10 @@
         "hasc:id":"KH.KC.CL",
         "wd:id":"Q4930163"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1474062625,
-    "wof:geomhash":"378e79429378a1199b482df08d4b9ac4",
+    "wof:geomhash":"0eb12cea40fa2216fd8772d1445c0d53",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":1108564621,
-    "wof:lastmodified":1566727455,
+    "wof:lastmodified":1695886190,
     "wof:name":"Chamkar Leu",
     "wof:parent_id":85673041,
     "wof:placetype":"county",

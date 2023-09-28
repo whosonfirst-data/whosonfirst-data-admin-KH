@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.040081,
-    "geom:area_square_m":483698154.439079,
+    "geom:area_square_m":483697793.949742,
     "geom:bbox":"103.235441,12.502234,103.6436,12.6869",
     "geom:latitude":12.588024,
     "geom:longitude":103.444872,
@@ -54,9 +54,10 @@
     "wof:concordances":{
         "hasc:id":"KH.BA.MR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1474062781,
-    "wof:geomhash":"8ab9555738202d2c2791dc8ac059d402",
+    "wof:geomhash":"44e5b9027c57719dbd0c6c547759709b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -66,7 +67,7 @@
         }
     ],
     "wof:id":1108564805,
-    "wof:lastmodified":1627522285,
+    "wof:lastmodified":1695886752,
     "wof:name":"Rukh Kiri",
     "wof:parent_id":85673015,
     "wof:placetype":"county",

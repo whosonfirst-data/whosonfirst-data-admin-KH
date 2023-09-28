@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.041617,
-    "geom:area_square_m":504981008.191559,
+    "geom:area_square_m":504981003.68692,
     "geom:bbox":"105.429613,10.947911,105.63458,11.261516",
     "geom:latitude":11.095465,
     "geom:longitude":105.535191,
@@ -111,12 +111,13 @@
         "qs_pg:id":220666,
         "wd:id":"Q4929343"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1459010112,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"53de7a731c9414a7047f64cd9764b6c2",
+    "wof:geomhash":"b7f02caeb772c4028cf537617ab8b36f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -126,7 +127,7 @@
         }
     ],
     "wof:id":421202305,
-    "wof:lastmodified":1690938128,
+    "wof:lastmodified":1695886785,
     "wof:name":"Kampong Trabaek",
     "wof:parent_id":85673067,
     "wof:placetype":"county",

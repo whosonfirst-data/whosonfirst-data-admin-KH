@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.120774,
-    "geom:area_square_m":1461794236.030361,
+    "geom:area_square_m":1461794477.255139,
     "geom:bbox":"102.776033,11.484782,103.200629,12.021579",
     "geom:latitude":11.807252,
     "geom:longitude":103.009954,
@@ -88,12 +88,13 @@
         "hasc:id":"KH.KK.MS",
         "qs_pg:id":214991
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1459010090,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3a2013aefddfc40ce38e86c73c927716",
+    "wof:geomhash":"9b11df213c7c847589ffed909979769f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -103,7 +104,7 @@
         }
     ],
     "wof:id":421201861,
-    "wof:lastmodified":1627522284,
+    "wof:lastmodified":1695886751,
     "wof:name":"Mondol Seima",
     "wof:parent_id":85673019,
     "wof:placetype":"county",

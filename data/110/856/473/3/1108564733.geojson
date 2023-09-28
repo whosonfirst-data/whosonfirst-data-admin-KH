@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002401,
-    "geom:area_square_m":29090544.025271,
+    "geom:area_square_m":29090546.1295,
     "geom:bbox":"104.861559,11.481486,104.945433,11.550295",
     "geom:latitude":11.520689,
     "geom:longitude":104.905821,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"KH.PP.MC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1474062716,
-    "wof:geomhash":"699f864644aeb93ae7c07cf838d6f27e",
+    "wof:geomhash":"c1168d4741f2ac15605e523495e57442",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1108564733,
-    "wof:lastmodified":1627522284,
+    "wof:lastmodified":1695886751,
     "wof:name":"Mean Chey",
     "wof:parent_id":85673063,
     "wof:placetype":"county",

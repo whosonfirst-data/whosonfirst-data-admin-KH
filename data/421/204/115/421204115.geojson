@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.054417,
-    "geom:area_square_m":654815400.255362,
+    "geom:area_square_m":654815400.255111,
     "geom:bbox":"103.7255697,13.0942176726,103.991431346,13.4704467236",
     "geom:latitude":13.304637,
     "geom:longitude":103.842816,
@@ -233,12 +233,13 @@
         "hasc:id":"KH.SI.SR",
         "qs_pg:id":238186
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1459010174,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"97fa63e9e5bd693c931b05b21b3a1b55",
+    "wof:geomhash":"28293b96122b1a8fb928f2c773c15675",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -248,7 +249,7 @@
         }
     ],
     "wof:id":421204115,
-    "wof:lastmodified":1582346018,
+    "wof:lastmodified":1695886786,
     "wof:name":"Siem Reap",
     "wof:parent_id":85673029,
     "wof:placetype":"county",

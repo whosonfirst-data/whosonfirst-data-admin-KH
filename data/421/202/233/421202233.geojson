@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001994,
-    "geom:area_square_m":24120142.078395,
+    "geom:area_square_m":24120269.531061,
     "geom:bbox":"105.399682,11.961295,105.474441,12.015001",
     "geom:latitude":11.984705,
     "geom:longitude":105.442424,
@@ -122,12 +122,13 @@
         "wd:id":"Q4930039",
         "wk:page":"Kampong Siem District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1459010110,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1e08510f2a87cbefd132867b19fda23f",
+    "wof:geomhash":"106081d6979b2d6a5b3998b0e1c052c6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -137,7 +138,7 @@
         }
     ],
     "wof:id":421202233,
-    "wof:lastmodified":1690938127,
+    "wof:lastmodified":1695886765,
     "wof:name":"Kampong Cham",
     "wof:parent_id":85673041,
     "wof:placetype":"county",

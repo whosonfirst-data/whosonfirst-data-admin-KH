@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.037161,
-    "geom:area_square_m":449309911.969744,
+    "geom:area_square_m":449309911.969735,
     "geom:bbox":"105.102722227,11.9918579307,105.355421279,12.2169396401",
     "geom:latitude":12.087896,
     "geom:longitude":105.227599,
@@ -86,9 +86,10 @@
         "hasc:id":"KH.KC.PC",
         "wd:id":"Q4929127"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1474062765,
-    "wof:geomhash":"e3274f6254e7b5ce27175444b77fb2a1",
+    "wof:geomhash":"d2ba870fe104697ab1129e9acb7d8458",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -98,7 +99,7 @@
         }
     ],
     "wof:id":1108564783,
-    "wof:lastmodified":1566727451,
+    "wof:lastmodified":1695886186,
     "wof:name":"Prey Chhor",
     "wof:parent_id":85673041,
     "wof:placetype":"county",

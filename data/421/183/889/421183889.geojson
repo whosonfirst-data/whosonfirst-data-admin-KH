@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.062978,
-    "geom:area_square_m":762393054.735563,
+    "geom:area_square_m":762393296.16346,
     "geom:bbox":"105.664694,11.599002,106.028996,11.900538",
     "geom:latitude":11.760296,
     "geom:longitude":105.861713,
@@ -120,12 +120,13 @@
         "qs_pg:id":985879,
         "wd:id":"Q4929166"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1459009390,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2f43cb85759258fc49cc64fbd942bd05",
+    "wof:geomhash":"dad7808ca9f301b41dc13648e11ac2be",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":421183889,
-    "wof:lastmodified":1690938133,
+    "wof:lastmodified":1695886787,
     "wof:name":"Ponhea Kraek",
     "wof:parent_id":1108804319,
     "wof:placetype":"county",

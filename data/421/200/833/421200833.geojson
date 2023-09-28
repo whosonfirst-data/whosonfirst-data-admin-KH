@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.09146,
-    "geom:area_square_m":1098064422.388892,
+    "geom:area_square_m":1098064446.330398,
     "geom:bbox":"103.684561,13.681091,104.115724,13.969398",
     "geom:latitude":13.845861,
     "geom:longitude":103.916689,
@@ -120,12 +120,13 @@
         "qs_pg:id":897583,
         "wd:id":"Q4930239"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1459010043,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2db5ff1d409644d15455d6545649e10f",
+    "wof:geomhash":"bc6e4694d85ee992670af95a754102de",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":421200833,
-    "wof:lastmodified":1690938132,
+    "wof:lastmodified":1695886786,
     "wof:name":"Varin",
     "wof:parent_id":85673029,
     "wof:placetype":"county",

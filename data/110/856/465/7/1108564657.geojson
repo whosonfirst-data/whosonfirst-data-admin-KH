@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026143,
-    "geom:area_square_m":317632008.503987,
+    "geom:area_square_m":317632008.503959,
     "geom:bbox":"104.301242272,10.6213554328,104.531621798,10.7910082193",
     "geom:latitude":10.707294,
     "geom:longitude":104.422139,
@@ -89,9 +89,10 @@
         "hasc:id":"KH.KP.DT",
         "wd:id":"Q5215951"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1474062657,
-    "wof:geomhash":"65d05c0c233ab5a82c9d7c2c9a7bc52b",
+    "wof:geomhash":"32902da1fc4957729e30eaa96a6f9df5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":1108564657,
-    "wof:lastmodified":1566727454,
+    "wof:lastmodified":1695886189,
     "wof:name":"Dang Tong",
     "wof:parent_id":85673093,
     "wof:placetype":"county",

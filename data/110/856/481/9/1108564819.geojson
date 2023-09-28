@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.060615,
-    "geom:area_square_m":734548966.352085,
+    "geom:area_square_m":734548915.899504,
     "geom:bbox":"104.275589,11.290752,104.67672,11.607727",
     "geom:latitude":11.467083,
     "geom:longitude":104.494875,
@@ -86,9 +86,10 @@
         "hasc:id":"KH.KS.SY",
         "wd:id":"Q4929551"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1474062795,
-    "wof:geomhash":"3b5da6ba8bbf149714ec2e2b2d50b67e",
+    "wof:geomhash":"54f4b5922dcdd023d3f482bf2ab1c1c4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -98,7 +99,7 @@
         }
     ],
     "wof:id":1108564819,
-    "wof:lastmodified":1690938115,
+    "wof:lastmodified":1695886190,
     "wof:name":"Samraong Tong",
     "wof:parent_id":85673053,
     "wof:placetype":"county",

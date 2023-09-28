@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.04209,
-    "geom:area_square_m":508266573.684003,
+    "geom:area_square_m":508266573.68383,
     "geom:bbox":"104.33947966,12.2894088455,104.625040279,12.6089241343",
     "geom:latitude":12.422453,
     "geom:longitude":104.461909,
@@ -115,12 +115,13 @@
         "wd:id":"Q4860702",
         "wk:page":"Baribour District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1459010110,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e0709d02ca947574f91080481098ff0c",
+    "wof:geomhash":"3d982ca7d5f93b0afbbaeb944c38adf3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -130,7 +131,7 @@
         }
     ],
     "wof:id":421202235,
-    "wof:lastmodified":1582346018,
+    "wof:lastmodified":1695886785,
     "wof:name":"Baribour",
     "wof:parent_id":85673047,
     "wof:placetype":"county",

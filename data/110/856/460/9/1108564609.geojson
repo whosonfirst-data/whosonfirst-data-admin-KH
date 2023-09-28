@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.042259,
-    "geom:area_square_m":512621915.80078,
+    "geom:area_square_m":512621915.800823,
     "geom:bbox":"104.383614654,11.0770845815,104.692036726,11.3209236277",
     "geom:latitude":11.184152,
     "geom:longitude":104.536394,
@@ -83,9 +83,10 @@
         "hasc:id":"KH.KS.BS",
         "wd:id":"Q4866644"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1474062614,
-    "wof:geomhash":"10c4800ad46352e164b3788cfe918021",
+    "wof:geomhash":"a12ddd8394dcba44c772854895ef9543",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -95,7 +96,7 @@
         }
     ],
     "wof:id":1108564609,
-    "wof:lastmodified":1566727458,
+    "wof:lastmodified":1695886193,
     "wof:name":"Basedth",
     "wof:parent_id":85673053,
     "wof:placetype":"county",

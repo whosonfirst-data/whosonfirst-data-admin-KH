@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019388,
-    "geom:area_square_m":235008348.404192,
+    "geom:area_square_m":235008348.404193,
     "geom:bbox":"104.655883703,11.3290068425,104.960602932,11.4619183974",
     "geom:latitude":11.395546,
     "geom:longitude":104.833472,
@@ -80,9 +80,10 @@
         "hasc:id":"KH.KN.KD",
         "wd:id":"Q6361246"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1474062681,
-    "wof:geomhash":"bd36a4e18a73d0e497c66df4160baa7d",
+    "wof:geomhash":"7a366e2102609a5d784d712491bf3308",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -92,7 +93,7 @@
         }
     ],
     "wof:id":1108564685,
-    "wof:lastmodified":1566727459,
+    "wof:lastmodified":1695886194,
     "wof:name":"Kandal Stueng",
     "wof:parent_id":85673051,
     "wof:placetype":"county",

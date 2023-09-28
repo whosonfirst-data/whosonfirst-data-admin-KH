@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.046675,
-    "geom:area_square_m":560398306.415054,
+    "geom:area_square_m":560398413.234424,
     "geom:bbox":"103.421032,13.692244,103.731211,13.96943",
     "geom:latitude":13.837236,
     "geom:longitude":103.563619,
@@ -83,9 +83,10 @@
         "hasc:id":"KH.SI.SS",
         "wd:id":"Q4929593"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1474062818,
-    "wof:geomhash":"b23af36833e7c4c75d0c1831fa41a40a",
+    "wof:geomhash":"7e318d237ba873638db638b49ffca8ee",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -95,7 +96,7 @@
         }
     ],
     "wof:id":1108564847,
-    "wof:lastmodified":1690938111,
+    "wof:lastmodified":1695886188,
     "wof:name":"Srei Snam",
     "wof:parent_id":85673029,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.114653,
-    "geom:area_square_m":1384236771.00331,
+    "geom:area_square_m":1384237129.027727,
     "geom:bbox":"105.695132,12.25491,106.045137,12.722438",
     "geom:latitude":12.474014,
     "geom:longitude":105.875675,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"KH.KH.PP"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1474062764,
-    "wof:geomhash":"c3ca0a095a6c91fc33b75d91284c6f24",
+    "wof:geomhash":"cbceb33b46124ba446e670021680070b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1108564781,
-    "wof:lastmodified":1627522284,
+    "wof:lastmodified":1695886751,
     "wof:name":"Prek Prasab",
     "wof:parent_id":85673081,
     "wof:placetype":"county",

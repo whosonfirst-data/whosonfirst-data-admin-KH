@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009717,
-    "geom:area_square_m":117677008.799948,
+    "geom:area_square_m":117677221.977465,
     "geom:bbox":"104.733621,11.578882,104.866443,11.716764",
     "geom:latitude":11.640227,
     "geom:longitude":104.8008,
@@ -54,9 +54,10 @@
     "wof:concordances":{
         "hasc:id":"KH.PP.DK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1474062751,
-    "wof:geomhash":"57a83b17f065051341419e97090ecbec",
+    "wof:geomhash":"e3c99fadd99269b8f0f35e26c08c0fc5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -66,7 +67,7 @@
         }
     ],
     "wof:id":1108564769,
-    "wof:lastmodified":1627522284,
+    "wof:lastmodified":1695886751,
     "wof:name":"Praek Pnov",
     "wof:parent_id":85673063,
     "wof:placetype":"county",

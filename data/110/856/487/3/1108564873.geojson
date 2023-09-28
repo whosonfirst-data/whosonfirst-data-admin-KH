@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.059035,
-    "geom:area_square_m":714765427.578265,
+    "geom:area_square_m":714765080.503886,
     "geom:bbox":"104.225515,11.56,104.6253,11.950573",
     "geom:latitude":11.717816,
     "geom:longitude":104.37644,
@@ -89,9 +89,10 @@
         "hasc:id":"KH.KS.TP",
         "wd:id":"Q4929091"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1474062844,
-    "wof:geomhash":"d29d3ccbbc81601a4b8b9d04ad5d991c",
+    "wof:geomhash":"b30e66e9e9640123751b5e8cde7b6c63",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":1108564873,
-    "wof:lastmodified":1690938118,
+    "wof:lastmodified":1695886192,
     "wof:name":"Thpong",
     "wof:parent_id":85673053,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.082082,
-    "geom:area_square_m":995825332.122734,
+    "geom:area_square_m":995825553.679454,
     "geom:bbox":"103.785455,10.902463,104.077972,11.433721",
     "geom:latitude":11.142043,
     "geom:longitude":103.946426,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"KH.KK.KP"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1474062671,
-    "wof:geomhash":"c89fbb92501b46cdd74c4812a54a3432",
+    "wof:geomhash":"27a04391a6cfcd7a9416dbbe6dd83c5e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1108564673,
-    "wof:lastmodified":1627522283,
+    "wof:lastmodified":1695886750,
     "wof:name":"Kampong Seila",
     "wof:parent_id":85673019,
     "wof:placetype":"county",

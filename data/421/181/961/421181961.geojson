@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.06799,
-    "geom:area_square_m":816390690.703203,
+    "geom:area_square_m":816390690.703263,
     "geom:bbox":"102.742999332,13.6974404774,103.232712082,13.9386998458",
     "geom:latitude":13.815407,
     "geom:longitude":102.95225,
@@ -116,12 +116,13 @@
         "qs_pg:id":527122,
         "wd:id":"Q4929021"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1459009314,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b485451fade13e19fb0025b84edda29a",
+    "wof:geomhash":"171c479ef0257b2da4b116e03c1d027c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -131,7 +132,7 @@
         }
     ],
     "wof:id":421181961,
-    "wof:lastmodified":1582346019,
+    "wof:lastmodified":1695886786,
     "wof:name":"Svay Chek",
     "wof:parent_id":85673011,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.090936,
-    "geom:area_square_m":1098390419.986513,
+    "geom:area_square_m":1098390850.654666,
     "geom:bbox":"105.361086,12.164436,105.777688,12.501578",
     "geom:latitude":12.358085,
     "geom:longitude":105.558683,
@@ -89,9 +89,10 @@
         "hasc:id":"KH.KC.ST",
         "wd:id":"Q4929112"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1474062824,
-    "wof:geomhash":"548640342188df8e80b8a89dbca28f98",
+    "wof:geomhash":"d820ed740e711e7565f1d7ced916c2b0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":1108564853,
-    "wof:lastmodified":1690938109,
+    "wof:lastmodified":1695886187,
     "wof:name":"Stueng Trang",
     "wof:parent_id":85673041,
     "wof:placetype":"county",

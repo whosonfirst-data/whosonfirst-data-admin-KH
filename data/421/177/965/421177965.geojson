@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.043679,
-    "geom:area_square_m":528938427.231274,
+    "geom:area_square_m":528938427.231314,
     "geom:bbox":"104.420238101,11.5512059574,104.753082123,11.8279427572",
     "geom:latitude":11.668923,
     "geom:longitude":104.612517,
@@ -113,12 +113,13 @@
         "qs_pg:id":19972,
         "wd:id":"Q4929250"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1459009166,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"97623f38957c8acc4f24a80ef7c4199c",
+    "wof:geomhash":"316825c808e8818a41448f377bf11b47",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -128,7 +129,7 @@
         }
     ],
     "wof:id":421177965,
-    "wof:lastmodified":1582346020,
+    "wof:lastmodified":1695886786,
     "wof:name":"Odongk",
     "wof:parent_id":85673053,
     "wof:placetype":"county",

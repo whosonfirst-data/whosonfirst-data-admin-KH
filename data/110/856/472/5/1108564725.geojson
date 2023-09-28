@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022057,
-    "geom:area_square_m":267238076.535673,
+    "geom:area_square_m":267238168.023373,
     "geom:bbox":"104.945002,11.392163,105.302079,11.642834",
     "geom:latitude":11.524527,
     "geom:longitude":105.122137,
@@ -86,9 +86,10 @@
         "hasc:id":"KH.KN.LA",
         "wd:id":"Q4930020"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1474062712,
-    "wof:geomhash":"c8db47b13ad3f9ae9809706359c0fdaa",
+    "wof:geomhash":"315c8ed5573332d423660df7716dbb20",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -98,7 +99,7 @@
         }
     ],
     "wof:id":1108564725,
-    "wof:lastmodified":1690938117,
+    "wof:lastmodified":1695886191,
     "wof:name":"Lvea Aem",
     "wof:parent_id":85673051,
     "wof:placetype":"county",

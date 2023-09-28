@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.155142,
-    "geom:area_square_m":1860957918.803366,
+    "geom:area_square_m":1860957918.804355,
     "geom:bbox":"106.612687655,13.77,107.067391618,14.3862048503",
     "geom:latitude":14.051057,
     "geom:longitude":106.855276,
@@ -113,12 +113,13 @@
         "qs_pg:id":891118,
         "wd:id":"Q4930123"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1459009814,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2145c59641ff643e86d609987a26583a",
+    "wof:geomhash":"4a545eeb43ba1284fe873a6924d9f4fc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -128,7 +129,7 @@
         }
     ],
     "wof:id":421194641,
-    "wof:lastmodified":1582346017,
+    "wof:lastmodified":1695886785,
     "wof:name":"Veun Sai",
     "wof:parent_id":85673089,
     "wof:placetype":"county",

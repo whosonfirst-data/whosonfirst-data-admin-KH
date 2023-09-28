@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.124567,
-    "geom:area_square_m":1513297961.164071,
+    "geom:area_square_m":1513297677.506256,
     "geom:bbox":"103.916671,10.545389,104.379093,11.024395",
     "geom:latitude":10.742455,
     "geom:longitude":104.107811,
@@ -81,9 +81,10 @@
         "hasc:id":"KH.KP.KP",
         "wd:id":"Q6359357"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1474062851,
-    "wof:geomhash":"8cabdce6efe2fa650b29a273c708f379",
+    "wof:geomhash":"781064b554e77e10f2017d59c608cdf1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1108564883,
-    "wof:lastmodified":1690938114,
+    "wof:lastmodified":1695886190,
     "wof:name":"Tuek Chhou",
     "wof:parent_id":85673093,
     "wof:placetype":"county",

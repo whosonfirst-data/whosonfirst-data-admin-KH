@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.092622,
-    "geom:area_square_m":1113256552.97812,
+    "geom:area_square_m":1113256318.197455,
     "geom:bbox":"105.103897,13.445203,105.577295,13.753307",
     "geom:latitude":13.582978,
     "geom:longitude":105.342856,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"KH.PH.CS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1474062634,
-    "wof:geomhash":"54f72e01db1fc01da37eb9941e0979ed",
+    "wof:geomhash":"07e43a50e26a8d766cfd698f936b2753",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1108564633,
-    "wof:lastmodified":1627522282,
+    "wof:lastmodified":1695886750,
     "wof:name":"Chey Saen",
     "wof:parent_id":85673071,
     "wof:placetype":"county",

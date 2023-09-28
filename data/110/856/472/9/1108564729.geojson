@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033788,
-    "geom:area_square_m":409622305.440254,
+    "geom:area_square_m":409622305.440387,
     "geom:bbox":"105.456659268,11.2068828939,105.669162844,11.4868262064",
     "geom:latitude":11.355077,
     "geom:longitude":105.573866,
@@ -83,9 +83,10 @@
         "hasc:id":"KH.PY.MS",
         "wd:id":"Q4929602"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1474062714,
-    "wof:geomhash":"a8963f806eab6bdf8b424d7537cd9244",
+    "wof:geomhash":"3c73069ece5096eda0c98e356d0a8402",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -95,7 +96,7 @@
         }
     ],
     "wof:id":1108564729,
-    "wof:lastmodified":1566727456,
+    "wof:lastmodified":1695886191,
     "wof:name":"Me Sang",
     "wof:parent_id":85673067,
     "wof:placetype":"county",

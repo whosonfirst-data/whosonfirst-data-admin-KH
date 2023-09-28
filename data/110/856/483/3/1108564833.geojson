@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.122415,
-    "geom:area_square_m":1473051412.566439,
+    "geom:area_square_m":1473051284.398592,
     "geom:bbox":"105.542066,13.112982,106.125228,13.50909",
     "geom:latitude":13.305878,
     "geom:longitude":105.815005,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"KH.ST.SB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1474062807,
-    "wof:geomhash":"f2eeef4ca0deea7849ca3f75d7100f07",
+    "wof:geomhash":"c25bc1e1054796f0d8a6fd7bd137b834",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1108564833,
-    "wof:lastmodified":1627522285,
+    "wof:lastmodified":1695886752,
     "wof:name":"Siem Bouk",
     "wof:parent_id":85673075,
     "wof:placetype":"county",

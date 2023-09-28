@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009535,
-    "geom:area_square_m":115549128.250362,
+    "geom:area_square_m":115549240.203817,
     "geom:bbox":"104.777778,11.423665,104.923543,11.521956",
     "geom:latitude":11.469171,
     "geom:longitude":104.860358,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"KH.PP.DK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1474062658,
-    "wof:geomhash":"4db545bdedaf4f41beee0dad531b85eb",
+    "wof:geomhash":"37cdb27b082e60b2897782918707f82a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1108564661,
-    "wof:lastmodified":1627522283,
+    "wof:lastmodified":1695886750,
     "wof:name":"Dangkao",
     "wof:parent_id":85673063,
     "wof:placetype":"county",

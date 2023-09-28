@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.040174,
-    "geom:area_square_m":486494324.456201,
+    "geom:area_square_m":486494144.533136,
     "geom:bbox":"105.103667,11.557087,105.402529,11.79828",
     "geom:latitude":11.669087,
     "geom:longitude":105.243015,
@@ -89,9 +89,10 @@
         "hasc:id":"KH.PY.PG",
         "wd:id":"Q4930230"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1474062738,
-    "wof:geomhash":"8ab16c96a27e20efe368618bf83758e3",
+    "wof:geomhash":"0e4fedc91948e4573980e291fb4a02aa",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":1108564753,
-    "wof:lastmodified":1690938116,
+    "wof:lastmodified":1695886191,
     "wof:name":"Pea Reang",
     "wof:parent_id":85673067,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008569,
-    "geom:area_square_m":103978704.869599,
+    "geom:area_square_m":103978629.642401,
     "geom:bbox":"105.736802,11.025238,105.889775,11.156911",
     "geom:latitude":11.095251,
     "geom:longitude":105.809745,
@@ -82,9 +82,10 @@
         "hasc:id":"KH.SR.SR",
         "wd:id":"Q4929043"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1474062832,
-    "wof:geomhash":"3d1dc520ef6f286aaf4bb4903145fe47",
+    "wof:geomhash":"aaaf226a132bc0e64fb6894913f15fe2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -94,7 +95,7 @@
         }
     ],
     "wof:id":1108564863,
-    "wof:lastmodified":1690938117,
+    "wof:lastmodified":1695886765,
     "wof:name":"Svay Rieng",
     "wof:parent_id":85673105,
     "wof:placetype":"county",

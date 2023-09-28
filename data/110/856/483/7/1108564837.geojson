@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026196,
-    "geom:area_square_m":317108868.698594,
+    "geom:area_square_m":317108864.578014,
     "geom:bbox":"105.231286,11.677353,105.508768,11.868529",
     "geom:latitude":11.77295,
     "geom:longitude":105.362755,
@@ -83,9 +83,10 @@
         "hasc:id":"KH.PY.SK",
         "wd:id":"Q4930028"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1474062811,
-    "wof:geomhash":"baed76f940745f843e899583a7c1d166",
+    "wof:geomhash":"78bd2fc73a43ad915734a75423441a61",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -95,7 +96,7 @@
         }
     ],
     "wof:id":1108564837,
-    "wof:lastmodified":1690938111,
+    "wof:lastmodified":1695886188,
     "wof:name":"Sithor Kandal",
     "wof:parent_id":85673067,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007227,
-    "geom:area_square_m":87569617.486835,
+    "geom:area_square_m":87569579.370982,
     "geom:bbox":"104.931552,11.460736,105.049637,11.556667",
     "geom:latitude":11.506764,
     "geom:longitude":104.987508,
@@ -85,9 +85,10 @@
         "hasc:id":"KH.KN.KS",
         "wd:id":"Q4886889"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1474062630,
-    "wof:geomhash":"be07422960d603842f4ce85bb6b4a642",
+    "wof:geomhash":"d6a0b8bb5dd924f9ef039327fadc25ff",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -97,7 +98,7 @@
         }
     ],
     "wof:id":1108564629,
-    "wof:lastmodified":1690938114,
+    "wof:lastmodified":1695886190,
     "wof:name":"Chbar Ampov",
     "wof:parent_id":85673063,
     "wof:placetype":"county",

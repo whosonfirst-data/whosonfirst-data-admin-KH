@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015038,
-    "geom:area_square_m":182182196.066295,
+    "geom:area_square_m":182182196.066264,
     "geom:bbox":"104.659539116,11.4449220159,104.768534597,11.6881389419",
     "geom:latitude":11.551936,
     "geom:longitude":104.71041,
@@ -80,9 +80,10 @@
         "hasc:id":"KH.KN.AS",
         "wd:id":"Q4763307"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1474062591,
-    "wof:geomhash":"c955608899dc8fac3923f4ffeb98970c",
+    "wof:geomhash":"1f86d886a0e4af8d997b68d496d72d8c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -92,7 +93,7 @@
         }
     ],
     "wof:id":1108564577,
-    "wof:lastmodified":1566727459,
+    "wof:lastmodified":1695886194,
     "wof:name":"Angk Snuol",
     "wof:parent_id":85673051,
     "wof:placetype":"county",

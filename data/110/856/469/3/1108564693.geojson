@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028946,
-    "geom:area_square_m":351639546.662165,
+    "geom:area_square_m":351639546.662152,
     "geom:bbox":"104.808700666,10.6352749176,105.016172373,10.8461858271",
     "geom:latitude":10.749483,
     "geom:longitude":104.926121,
@@ -80,9 +80,10 @@
         "hasc:id":"KH.TA.KA",
         "wd:id":"Q4929064"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1474062687,
-    "wof:geomhash":"9e3cfe09979e97af4781b6debffd607c",
+    "wof:geomhash":"29e65d37b131db6d36b5d5611b850d14",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -92,7 +93,7 @@
         }
     ],
     "wof:id":1108564693,
-    "wof:lastmodified":1566727459,
+    "wof:lastmodified":1695886195,
     "wof:name":"Kaoh Andaet",
     "wof:parent_id":85673107,
     "wof:placetype":"county",

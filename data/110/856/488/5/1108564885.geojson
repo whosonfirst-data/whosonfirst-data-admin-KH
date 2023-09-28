@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.140359,
-    "geom:area_square_m":1697103785.274275,
+    "geom:area_square_m":1697104234.932559,
     "geom:bbox":"104.171365,11.758323,104.624213,12.353445",
     "geom:latitude":12.083614,
     "geom:longitude":104.377355,
@@ -86,9 +86,10 @@
         "hasc:id":"KH.KG.TP",
         "wd:id":"Q4930078"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1474062852,
-    "wof:geomhash":"81a0cf34cb7d8e0e13978581f8207836",
+    "wof:geomhash":"2e69cab255323f9289d06186dc0b82b3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -98,7 +99,7 @@
         }
     ],
     "wof:id":1108564885,
-    "wof:lastmodified":1690938115,
+    "wof:lastmodified":1695886190,
     "wof:name":"Tuek Phos",
     "wof:parent_id":85673047,
     "wof:placetype":"county",

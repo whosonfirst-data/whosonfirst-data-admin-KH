@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.07141,
-    "geom:area_square_m":859455761.609933,
+    "geom:area_square_m":859455761.609882,
     "geom:bbox":"102.908748792,13.0852886422,103.284145144,13.4127087436",
     "geom:latitude":13.260032,
     "geom:longitude":103.095276,
@@ -96,9 +96,10 @@
         "hasc:id":"KH.BA.TK",
         "wd:id":"Q4930610"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1474062842,
-    "wof:geomhash":"49f648f0cfc049da6f866f0ebc81e5dc",
+    "wof:geomhash":"8303c32eb658ca658f8c46d4cc3db301",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -108,7 +109,7 @@
         }
     ],
     "wof:id":1108564871,
-    "wof:lastmodified":1566727457,
+    "wof:lastmodified":1695886192,
     "wof:name":"Thma Koul",
     "wof:parent_id":85673015,
     "wof:placetype":"county",

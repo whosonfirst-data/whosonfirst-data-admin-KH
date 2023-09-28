@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.037162,
-    "geom:area_square_m":451097935.928823,
+    "geom:area_square_m":451097935.928772,
     "geom:bbox":"104.354981377,10.8490156891,104.542499927,11.1471556499",
     "geom:latitude":10.982942,
     "geom:longitude":104.4341,
@@ -86,9 +86,10 @@
         "hasc:id":"KH.KP.CK",
         "wd:id":"Q4929362"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1474062647,
-    "wof:geomhash":"bf06f108e4a817009eedf943afd9e23c",
+    "wof:geomhash":"7c4b8e43b7969b306514abf5a642cb79",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -98,7 +99,7 @@
         }
     ],
     "wof:id":1108564651,
-    "wof:lastmodified":1566727454,
+    "wof:lastmodified":1695886189,
     "wof:name":"Chum Kiri",
     "wof:parent_id":85673093,
     "wof:placetype":"county",

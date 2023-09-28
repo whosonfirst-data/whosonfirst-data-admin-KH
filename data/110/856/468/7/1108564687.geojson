@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.072351,
-    "geom:area_square_m":872629091.483795,
+    "geom:area_square_m":872629091.483994,
     "geom:bbox":"103.88187535,12.5488692199,104.175359038,12.9466752005",
     "geom:latitude":12.733198,
     "geom:longitude":104.015801,
@@ -86,9 +86,10 @@
         "hasc:id":"KH.PO.KD",
         "wd:id":"Q6361505"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1474062682,
-    "wof:geomhash":"b121de69a773ae21625fdb7673d0a6e2",
+    "wof:geomhash":"6ff355484f7e316027f6b0f66a1ef1be",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -98,7 +99,7 @@
         }
     ],
     "wof:id":1108564687,
-    "wof:lastmodified":1566727459,
+    "wof:lastmodified":1695886194,
     "wof:name":"Kandieng",
     "wof:parent_id":85673023,
     "wof:placetype":"county",

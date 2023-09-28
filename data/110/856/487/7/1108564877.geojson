@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.046257,
-    "geom:area_square_m":561444496.861009,
+    "geom:area_square_m":561444513.829772,
     "geom:bbox":"104.409774,10.883566,104.75478,11.132789",
     "geom:latitude":11.011849,
     "geom:longitude":104.605496,
@@ -89,9 +89,10 @@
         "hasc:id":"KH.TA.TK",
         "wd:id":"Q4929370"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1474062846,
-    "wof:geomhash":"8eba91ef165ebb8bfba6bbb67af004e8",
+    "wof:geomhash":"0597c899d3d7b1c29f01329f473a0718",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":1108564877,
-    "wof:lastmodified":1690938117,
+    "wof:lastmodified":1695886193,
     "wof:name":"Tram Kak",
     "wof:parent_id":85673107,
     "wof:placetype":"county",

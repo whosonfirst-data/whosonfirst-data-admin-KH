@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.246267,
-    "geom:area_square_m":2966234487.532645,
+    "geom:area_square_m":2966234487.533021,
     "geom:bbox":"105.068626557,12.7745830829,105.690618045,13.4490215648",
     "geom:latitude":13.070678,
     "geom:longitude":105.411375,
@@ -279,12 +279,13 @@
         "qs_pg:id":9926,
         "wd:id":"Q21072874"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1459009532,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6b050dc360df7dd1aa86b9f556763ce8",
+    "wof:geomhash":"0cb07e236eebd23ac9730227a124883d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -294,7 +295,7 @@
         }
     ],
     "wof:id":421188047,
-    "wof:lastmodified":1582346018,
+    "wof:lastmodified":1695886785,
     "wof:name":"Sandan",
     "wof:parent_id":85673057,
     "wof:placetype":"county",

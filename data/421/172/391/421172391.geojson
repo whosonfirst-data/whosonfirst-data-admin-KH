@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.098775,
-    "geom:area_square_m":1188934521.858152,
+    "geom:area_square_m":1188934710.25729,
     "geom:bbox":"103.156414,13.105106,103.812826,13.38657",
     "geom:latitude":13.234821,
     "geom:longitude":103.467963,
@@ -114,12 +114,13 @@
         "qs_pg:id":1308611,
         "wd:id":"Q4930600"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1459008939,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ed3f764d4eac1f20b477168df9f98f6c",
+    "wof:geomhash":"9041da5d55a7edb35e551245178545ec",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -129,7 +130,7 @@
         }
     ],
     "wof:id":421172391,
-    "wof:lastmodified":1690938130,
+    "wof:lastmodified":1695886786,
     "wof:name":"Aek Phnum",
     "wof:parent_id":85673015,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016156,
-    "geom:area_square_m":195863316.224479,
+    "geom:area_square_m":195863316.224516,
     "geom:bbox":"105.255607718,11.2170516748,105.391947829,11.4514877463",
     "geom:latitude":11.353857,
     "geom:longitude":105.316553,
@@ -116,12 +116,13 @@
         "qs_pg:id":19971,
         "wd:id":"Q7157916"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1459009690,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3bcc7e755229128579f6ee6a179352c2",
+    "wof:geomhash":"9f50076ebffd3d9f9b19346817f8d1ad",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -131,7 +132,7 @@
         }
     ],
     "wof:id":421191397,
-    "wof:lastmodified":1582346019,
+    "wof:lastmodified":1695886786,
     "wof:name":"Peam Ro",
     "wof:parent_id":85673067,
     "wof:placetype":"county",

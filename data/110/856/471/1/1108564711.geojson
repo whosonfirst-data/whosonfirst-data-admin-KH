@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.090854,
-    "geom:area_square_m":1096026643.394961,
+    "geom:area_square_m":1096026815.467155,
     "geom:bbox":"102.996546,12.436952,103.356656,12.910591",
     "geom:latitude":12.679888,
     "geom:longitude":103.18262,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"KH.BA.KK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1474062699,
-    "wof:geomhash":"d7fef300ff4ab7d962008bb276fb8ebe",
+    "wof:geomhash":"dce96374edd7ea9ffafdd877e68a7d22",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1108564711,
-    "wof:lastmodified":1627522283,
+    "wof:lastmodified":1695886751,
     "wof:name":"Koas Krala",
     "wof:parent_id":85673015,
     "wof:placetype":"county",

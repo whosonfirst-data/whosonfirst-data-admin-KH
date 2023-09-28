@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.139141,
-    "geom:area_square_m":1672649007.382767,
+    "geom:area_square_m":1672649007.381948,
     "geom:bbox":"107.263853444,13.2769969223,107.627687,13.8360230434",
     "geom:latitude":13.544434,
     "geom:longitude":107.447767,
@@ -92,9 +92,10 @@
         "hasc:id":"KH.RO.OY",
         "wd:id":"Q4930220"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1474062735,
-    "wof:geomhash":"d62db3e877ed0f6f9b66803b3cd26d4b",
+    "wof:geomhash":"b36298d804a8cd9bf1c8072d61a2891c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,7 +105,7 @@
         }
     ],
     "wof:id":1108564747,
-    "wof:lastmodified":1566727457,
+    "wof:lastmodified":1695886192,
     "wof:name":"Ou Ya Dav",
     "wof:parent_id":85673089,
     "wof:placetype":"county",

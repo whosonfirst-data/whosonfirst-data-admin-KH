@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.121632,
-    "geom:area_square_m":1467932652.472912,
+    "geom:area_square_m":1467932394.239348,
     "geom:bbox":"105.989867,12.336251,106.409109,12.790705",
     "geom:latitude":12.57369,
     "geom:longitude":106.204124,
@@ -55,9 +55,10 @@
     "wof:concordances":{
         "hasc:id":"KH.KH.KR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1474062632,
-    "wof:geomhash":"6d81cce6e04a446867d1b5f296c5081c",
+    "wof:geomhash":"6c1eb51455cc0192ff0f030e10278964",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,7 +68,7 @@
         }
     ],
     "wof:id":1108564631,
-    "wof:lastmodified":1627522282,
+    "wof:lastmodified":1695886750,
     "wof:name":"Chetr Borei",
     "wof:parent_id":85673081,
     "wof:placetype":"county",

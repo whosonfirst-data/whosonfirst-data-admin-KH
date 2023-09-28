@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.113479,
-    "geom:area_square_m":1360493016.025471,
+    "geom:area_square_m":1360493016.025519,
     "geom:bbox":"103.034804206,13.9142280863,103.454364733,14.3793881679",
     "geom:latitude":14.170175,
     "geom:longitude":103.268368,
@@ -89,9 +89,10 @@
         "hasc:id":"KH.OC.BA",
         "wd:id":"Q4857202"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1474062607,
-    "wof:geomhash":"b8f5e4dc1eff9a267e7d6201a944b038",
+    "wof:geomhash":"7877ddbfae40cd7d11f4db452ad2c88e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":1108564599,
-    "wof:lastmodified":1566727460,
+    "wof:lastmodified":1695886195,
     "wof:name":"Banteay Ampil",
     "wof:parent_id":85673033,
     "wof:placetype":"county",

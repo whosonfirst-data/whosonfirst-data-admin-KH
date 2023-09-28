@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.065979,
-    "geom:area_square_m":795353084.827277,
+    "geom:area_square_m":795353085.420941,
     "geom:bbox":"102.71133,12.731855,103.043651,13.091438",
     "geom:latitude":12.869627,
     "geom:longitude":102.874743,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"KH.BA.RM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1474062778,
-    "wof:geomhash":"1803ce9c772a77e79323c0c77eecf97e",
+    "wof:geomhash":"8108c72788974f91ad5efa88045a9d2e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108564799,
-    "wof:lastmodified":1627522285,
+    "wof:lastmodified":1695886752,
     "wof:name":"Rotonak Mondol",
     "wof:parent_id":85673015,
     "wof:placetype":"county",

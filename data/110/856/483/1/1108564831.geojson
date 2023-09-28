@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.224953,
-    "geom:area_square_m":2703513964.281502,
+    "geom:area_square_m":2703513633.684064,
     "geom:bbox":"106.023883,13.32208,106.664009,13.890769",
     "geom:latitude":13.606261,
     "geom:longitude":106.358125,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"KH.ST.SS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1474062805,
-    "wof:geomhash":"7c00377cbf6b9d8d0ad3f3625f6bab6f",
+    "wof:geomhash":"b97a055b7b0a76c2ece71192a3b34314",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1108564831,
-    "wof:lastmodified":1627522285,
+    "wof:lastmodified":1695886752,
     "wof:name":"Sesan",
     "wof:parent_id":85673075,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.110617,
-    "geom:area_square_m":1330074032.677673,
+    "geom:area_square_m":1330073935.846692,
     "geom:bbox":"104.564752,13.251518,104.987798,13.725297",
     "geom:latitude":13.487588,
     "geom:longitude":104.781029,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"KH.PH.ST"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1474062801,
-    "wof:geomhash":"39ef72553c645e6eaed3216ffc83ed61",
+    "wof:geomhash":"3ff6c357487f7002adb603770fe22878",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108564827,
-    "wof:lastmodified":1627522285,
+    "wof:lastmodified":1695886752,
     "wof:name":"Sangkum Thmei",
     "wof:parent_id":85673071,
     "wof:placetype":"county",

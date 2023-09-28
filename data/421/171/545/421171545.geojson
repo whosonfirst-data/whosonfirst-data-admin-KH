@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009746,
-    "geom:area_square_m":117382202.358069,
+    "geom:area_square_m":117382200.225919,
     "geom:bbox":"103.080901,13.029848,103.230262,13.159221",
     "geom:latitude":13.086786,
     "geom:longitude":103.164918,
@@ -285,12 +285,13 @@
         "qs_pg:id":483437,
         "wd:id":"Q748336"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1459008897,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d74fee54f0e8df1878f1890bd733b918",
+    "wof:geomhash":"9fb4824fd18142cf08cb52a91132080f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -300,7 +301,7 @@
         }
     ],
     "wof:id":421171545,
-    "wof:lastmodified":1690938134,
+    "wof:lastmodified":1695886786,
     "wof:name":"Battambang",
     "wof:parent_id":85673015,
     "wof:placetype":"county",

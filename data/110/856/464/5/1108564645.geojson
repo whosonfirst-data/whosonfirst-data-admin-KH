@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027435,
-    "geom:area_square_m":331622563.161443,
+    "geom:area_square_m":331622563.161436,
     "geom:bbox":"104.706463878,12.0080365602,104.903515977,12.296233622",
     "geom:latitude":12.159247,
     "geom:longitude":104.822682,
@@ -83,9 +83,10 @@
         "hasc:id":"KH.KG.CK",
         "wd:id":"Q4930069"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1474062643,
-    "wof:geomhash":"029ee8116f0939fa2147b50f40c2c8db",
+    "wof:geomhash":"e8e92ad7cb1b2e8362a51e7bc3f94998",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -95,7 +96,7 @@
         }
     ],
     "wof:id":1108564645,
-    "wof:lastmodified":1566727454,
+    "wof:lastmodified":1695886189,
     "wof:name":"Chol Kiri",
     "wof:parent_id":85673047,
     "wof:placetype":"county",

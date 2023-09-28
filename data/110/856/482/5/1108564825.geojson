@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024446,
-    "geom:area_square_m":296594923.494712,
+    "geom:area_square_m":296594617.607079,
     "geom:bbox":"104.683668,11.037203,104.852746,11.221161",
     "geom:latitude":11.129617,
     "geom:longitude":104.771509,
@@ -73,9 +73,10 @@
     "wof:concordances":{
         "hasc:id":"KH.OC.SR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1474062798,
-    "wof:geomhash":"931a764b9514e283f95073ccf8ed8eac",
+    "wof:geomhash":"14febaa77d01245fb0f6e01f55a7cde9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108564825,
-    "wof:lastmodified":1627522285,
+    "wof:lastmodified":1695886752,
     "wof:name":"Samraong",
     "wof:parent_id":85673107,
     "wof:placetype":"county",

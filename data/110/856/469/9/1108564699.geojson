@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.439563,
-    "geom:area_square_m":5293753362.03586,
+    "geom:area_square_m":5293754366.938272,
     "geom:bbox":"106.338916,12.836241,107.602729,13.418234",
     "geom:latitude":13.103276,
     "geom:longitude":106.966764,
@@ -86,9 +86,10 @@
         "hasc:id":"KH.MK.KN",
         "wd:id":"Q4929526"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1474062690,
-    "wof:geomhash":"cd551d7371976d50a89f028e0fb0ec67",
+    "wof:geomhash":"8fdc87dd3d544c38976ce8ae2e676e59",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -98,7 +99,7 @@
         }
     ],
     "wof:id":1108564699,
-    "wof:lastmodified":1690938121,
+    "wof:lastmodified":1695886193,
     "wof:name":"Kaoh Nheaek",
     "wof:parent_id":85673085,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.03914,
-    "geom:area_square_m":474231386.316831,
+    "geom:area_square_m":474231191.775016,
     "geom:bbox":"105.339878,11.355769,105.591746,11.650927",
     "geom:latitude":11.515934,
     "geom:longitude":105.457067,
@@ -66,9 +66,10 @@
         "hasc:id":"KH.PY.PV",
         "wd:id":"Q4930093"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1474062827,
-    "wof:geomhash":"4b22bf1b2b58d5a710b4ca4bd34a20bb",
+    "wof:geomhash":"0e730301869a417477cfef426058a016",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1108564859,
-    "wof:lastmodified":1690938109,
+    "wof:lastmodified":1695886187,
     "wof:name":"Svay Antor",
     "wof:parent_id":85673067,
     "wof:placetype":"county",

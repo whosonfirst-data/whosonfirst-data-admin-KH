@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012136,
-    "geom:area_square_m":147038613.931151,
+    "geom:area_square_m":147038613.93112,
     "geom:bbox":"104.720740775,11.454999229,104.874112863,11.6095404",
     "geom:latitude":11.535775,
     "geom:longitude":104.793111,
@@ -71,9 +71,10 @@
         "hasc:id":"KH.KN.AS",
         "wd:id":"Q4763307"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1474062773,
-    "wof:geomhash":"d330c57ff54c1439649d74a389b48f19",
+    "wof:geomhash":"38de61211fcfa66dfdafb0584fd3f88e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,7 +84,7 @@
         }
     ],
     "wof:id":1108564793,
-    "wof:lastmodified":1566727454,
+    "wof:lastmodified":1695886189,
     "wof:name":"Pur SenChey",
     "wof:parent_id":85673063,
     "wof:placetype":"county",

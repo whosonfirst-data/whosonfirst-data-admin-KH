@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016452,
-    "geom:area_square_m":199158735.50652,
+    "geom:area_square_m":199158719.034852,
     "geom:bbox":"104.858382,11.670636,105.018674,11.880619",
     "geom:latitude":11.772147,
     "geom:longitude":104.938769,
@@ -89,9 +89,10 @@
         "hasc:id":"KH.KN.MK",
         "wd:id":"Q4930627"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1474062728,
-    "wof:geomhash":"9d26159263c60a083fd8c8a3b7e1472d",
+    "wof:geomhash":"0c8ac97f4e440659b4487783c3b7dcf7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":1108564741,
-    "wof:lastmodified":1690938118,
+    "wof:lastmodified":1695886192,
     "wof:name":"Mukh Kampul",
     "wof:parent_id":85673051,
     "wof:placetype":"county",

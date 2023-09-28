@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.03124,
-    "geom:area_square_m":378984430.162051,
+    "geom:area_square_m":378984528.572882,
     "geom:bbox":"105.128562,10.911485,105.282647,11.328778",
     "geom:latitude":11.161795,
     "geom:longitude":105.198515,
@@ -83,9 +83,10 @@
         "hasc:id":"KH.KN.LD",
         "wd:id":"Q4930358"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1474062709,
-    "wof:geomhash":"b4e2755ac44c630e484eb6fe77c221e2",
+    "wof:geomhash":"c205fb31c4e709217855442e8109f12d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -95,7 +96,7 @@
         }
     ],
     "wof:id":1108564721,
-    "wof:lastmodified":1690938116,
+    "wof:lastmodified":1695886190,
     "wof:name":"Leuk Daek",
     "wof:parent_id":85673051,
     "wof:placetype":"county",

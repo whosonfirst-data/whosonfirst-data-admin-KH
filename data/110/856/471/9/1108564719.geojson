@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.046527,
-    "geom:area_square_m":562326578.434838,
+    "geom:area_square_m":562326347.319415,
     "geom:bbox":"105.530882,12.087317,105.842757,12.300543",
     "geom:latitude":12.195984,
     "geom:longitude":105.676666,
@@ -86,9 +86,10 @@
         "hasc:id":"KH.TB.KC",
         "wd:id":"Q4930636"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1474062706,
-    "wof:geomhash":"0a750ce6ea876a76c22cbf81f4482448",
+    "wof:geomhash":"ad12635384f70e5014a2f5e14f255af5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -98,7 +99,7 @@
         }
     ],
     "wof:id":1108564719,
-    "wof:lastmodified":1690938109,
+    "wof:lastmodified":1695886186,
     "wof:name":"Krouch Chhmar",
     "wof:parent_id":1108804319,
     "wof:placetype":"county",

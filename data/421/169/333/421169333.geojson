@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.13021,
-    "geom:area_square_m":1570444541.947451,
+    "geom:area_square_m":1570444573.757547,
     "geom:bbox":"104.354351,12.517245,105.032275,12.98482",
     "geom:latitude":12.738271,
     "geom:longitude":104.710773,
@@ -121,12 +121,13 @@
         "wd:id":"Q4930103",
         "wk:page":"Kampong Svay District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1459008805,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a1b799df416746074453b44187cbd6fc",
+    "wof:geomhash":"ad87f2750562474a5d7804e9d7721636",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -136,7 +137,7 @@
         }
     ],
     "wof:id":421169333,
-    "wof:lastmodified":1690938126,
+    "wof:lastmodified":1695886785,
     "wof:name":"Kampong Svay",
     "wof:parent_id":85673057,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.062165,
-    "geom:area_square_m":749390440.075741,
+    "geom:area_square_m":749390474.340879,
     "geom:bbox":"105.000107,12.703816,105.298044,13.021863",
     "geom:latitude":12.864726,
     "geom:longitude":105.141322,
@@ -111,12 +111,13 @@
         "qs_pg:id":918097,
         "wd:id":"Q4930593"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1459009333,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0ac93f1c16b12f259d6fe5be86c9aca1",
+    "wof:geomhash":"75becf62fe058955a8f7525db80dca1b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -126,7 +127,7 @@
         }
     ],
     "wof:id":421182521,
-    "wof:lastmodified":1690938134,
+    "wof:lastmodified":1695886787,
     "wof:name":"Prasat Sambour",
     "wof:parent_id":85673057,
     "wof:placetype":"county",

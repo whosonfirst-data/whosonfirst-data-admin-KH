@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000776,
-    "geom:area_square_m":9402141.813084,
+    "geom:area_square_m":9402115.04452,
     "geom:bbox":"104.899798,11.526321,104.947304,11.555201",
     "geom:latitude":11.543512,
     "geom:longitude":104.923087,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"KH.PP.CM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1474062627,
-    "wof:geomhash":"fbcd9dbc6ef979535744135cf3d52aa6",
+    "wof:geomhash":"d7550c8da5560ce5daa340938a699954",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108564625,
-    "wof:lastmodified":1627522282,
+    "wof:lastmodified":1695886750,
     "wof:name":"Chamkar Mon",
     "wof:parent_id":85673063,
     "wof:placetype":"county",

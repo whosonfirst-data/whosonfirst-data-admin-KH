@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.163322,
-    "geom:area_square_m":1968497855.729691,
+    "geom:area_square_m":1968498130.803638,
     "geom:bbox":"104.171101,12.635685,104.71478,13.28119",
     "geom:latitude":12.90446,
     "geom:longitude":104.484548,
@@ -89,9 +89,10 @@
         "hasc:id":"KH.KT.SG",
         "wd:id":"Q7620568"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1474062819,
-    "wof:geomhash":"a5b6fe29c660242c47ecdc61317282af",
+    "wof:geomhash":"33f3fb30c5dd476ad97a69680fb57e19",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":1108564849,
-    "wof:lastmodified":1690938111,
+    "wof:lastmodified":1695886188,
     "wof:name":"Stoung",
     "wof:parent_id":85673057,
     "wof:placetype":"county",

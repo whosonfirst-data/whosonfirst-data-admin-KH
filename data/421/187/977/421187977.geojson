@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00791,
-    "geom:area_square_m":96009544.465465,
+    "geom:area_square_m":96009598.238704,
     "geom:bbox":"104.744802,10.926754,104.863977,11.041562",
     "geom:latitude":10.994807,
     "geom:longitude":104.796735,
@@ -119,12 +119,13 @@
         "wd:id":"Q4929284",
         "wk:page":"Doun Kaev District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1459009529,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ff0bd6a082f895ea905dc0bee24993ab",
+    "wof:geomhash":"fa15ac5df34a55589d4bc0568fc5c7d4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -134,7 +135,7 @@
         }
     ],
     "wof:id":421187977,
-    "wof:lastmodified":1690938128,
+    "wof:lastmodified":1695886785,
     "wof:name":"Doun Kaev",
     "wof:parent_id":85673107,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.232803,
-    "geom:area_square_m":2811066738.450849,
+    "geom:area_square_m":2811066738.451196,
     "geom:bbox":"106.357768455,12.06183,107.046125205,12.760457542",
     "geom:latitude":12.4389,
     "geom:longitude":106.735038,
@@ -86,9 +86,10 @@
         "hasc:id":"KH.MK.KS",
         "wd:id":"Q6346045"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1474062663,
-    "wof:geomhash":"597a2d07ef250b89d6ae7a406315da4e",
+    "wof:geomhash":"384d6c72e9e1266aef6d3038fabfca6d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -98,7 +99,7 @@
         }
     ],
     "wof:id":1108564667,
-    "wof:lastmodified":1566727460,
+    "wof:lastmodified":1695886196,
     "wof:name":"Kaev Seima",
     "wof:parent_id":85673085,
     "wof:placetype":"county",

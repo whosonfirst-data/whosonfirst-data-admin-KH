@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.283349,
-    "geom:area_square_m":3424809304.075264,
+    "geom:area_square_m":3424809304.075581,
     "geom:bbox":"103.469761352,11.8397632828,104.201818545,12.5171356619",
     "geom:latitude":12.178412,
     "geom:longitude":103.823278,
@@ -86,9 +86,10 @@
         "hasc:id":"KH.PO.PK",
         "wd:id":"Q4929393"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1474062744,
-    "wof:geomhash":"ebacd5af7a3cbe08e9dd71cf557f027e",
+    "wof:geomhash":"f803d3f5fc8d43df808ffa0555eee800",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -98,7 +99,7 @@
         }
     ],
     "wof:id":1108564759,
-    "wof:lastmodified":1566727456,
+    "wof:lastmodified":1695886191,
     "wof:name":"Phnum Kravanh",
     "wof:parent_id":85673023,
     "wof:placetype":"county",

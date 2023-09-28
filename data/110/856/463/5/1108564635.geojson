@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.072,
-    "geom:area_square_m":870259494.219829,
+    "geom:area_square_m":870259465.857763,
     "geom:bbox":"105.831417,11.953133,106.302168,12.366355",
     "geom:latitude":12.179455,
     "geom:longitude":106.112942,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"KH.KH.CL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1474062637,
-    "wof:geomhash":"553aa880143fd868560cbb2e160273fc",
+    "wof:geomhash":"71140381b0f8c67a783a4d4a9ec4ed0e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1108564635,
-    "wof:lastmodified":1627522282,
+    "wof:lastmodified":1695886750,
     "wof:name":"Chhloung",
     "wof:parent_id":85673081,
     "wof:placetype":"county",

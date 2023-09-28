@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.070046,
-    "geom:area_square_m":840639453.236303,
+    "geom:area_square_m":840639453.236261,
     "geom:bbox":"107.152854891,13.784182665,107.473876,14.1346607611",
     "geom:latitude":13.934353,
     "geom:longitude":107.311845,
@@ -86,9 +86,10 @@
         "hasc:id":"KH.RO.AM",
         "wd:id":"Q4754589"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1474062589,
-    "wof:geomhash":"3975714ec27e00b35d742c57576d499f",
+    "wof:geomhash":"20c4f2ad677e3c8df07a98787f77a1e1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -98,7 +99,7 @@
         }
     ],
     "wof:id":1108564575,
-    "wof:lastmodified":1566727459,
+    "wof:lastmodified":1695886194,
     "wof:name":"Andoung Meas",
     "wof:parent_id":85673089,
     "wof:placetype":"county",

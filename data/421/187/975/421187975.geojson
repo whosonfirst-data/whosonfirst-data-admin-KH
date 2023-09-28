@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.212564,
-    "geom:area_square_m":2551286309.037,
+    "geom:area_square_m":2551286309.036993,
     "geom:bbox":"105.117924583,13.6344018508,105.899309653,14.160593",
     "geom:latitude":13.912669,
     "geom:longitude":105.461625,
@@ -115,12 +115,13 @@
         "wd:id":"Q4929159",
         "wk:page":"Chhaeb District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1459009529,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d677dec8377c3a284897fc643dafea23",
+    "wof:geomhash":"395ab1d9fdbc4176458b82067c63aaed",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -130,7 +131,7 @@
         }
     ],
     "wof:id":421187975,
-    "wof:lastmodified":1582346018,
+    "wof:lastmodified":1695886785,
     "wof:name":"Chhaeb",
     "wof:parent_id":85673071,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.058753,
-    "geom:area_square_m":705878652.260893,
+    "geom:area_square_m":705878762.819458,
     "geom:bbox":"105.926287,13.388174,106.206134,13.924656",
     "geom:latitude":13.68211,
     "geom:longitude":106.067869,
@@ -106,12 +106,13 @@
         "qs_pg:id":897584,
         "wd:id":"Q4929505"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1459010043,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"01efb588effcff8401a402b97ec2dc1d",
+    "wof:geomhash":"eeeea7c166141e8cd846fa25fcea42f5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -121,7 +122,7 @@
         }
     ],
     "wof:id":421200835,
-    "wof:lastmodified":1690938132,
+    "wof:lastmodified":1695886786,
     "wof:name":"Stueng Traeng",
     "wof:parent_id":85673075,
     "wof:placetype":"county",
