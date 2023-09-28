@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.134911,
-    "geom:area_square_m":13686261353.28319,
+    "geom:area_square_m":13686261966.131145,
     "geom:bbox":"106.338916,12.06183,107.602729,13.418234",
     "geom:latitude":12.766516,
     "geom:longitude":106.991572,
@@ -300,17 +300,19 @@
         "gn:id":1830306,
         "gp:id":2344936,
         "hasc:id":"KH.MK",
+        "iso:code":"KH-11",
         "iso:id":"KH-11",
         "qs_pg:id":1083807,
         "unlc:id":"KH-11",
         "wd:id":"Q652830",
         "wk:page":"Mondulkiri Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"KH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2da3bc7904d1b9ef6e3bd27e10f12805",
+    "wof:geomhash":"95c41d8340d829f023f3f399ad6d4821",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -325,7 +327,7 @@
     "wof:lang_x_spoken":[
         "khm"
     ],
-    "wof:lastmodified":1690938103,
+    "wof:lastmodified":1695884485,
     "wof:name":"M\u00f4nd\u00f3l Kiri",
     "wof:parent_id":85632359,
     "wof:placetype":"region",

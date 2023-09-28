@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.057069,
-    "geom:area_square_m":691352194.17042,
+    "geom:area_square_m":691352194.170246,
     "geom:bbox":"104.720740775,11.4236649278,105.04963697,11.7367342189",
     "geom:latitude":11.563186,
     "geom:longitude":104.865757,
@@ -510,9 +510,11 @@
         "gn:id":1830103,
         "gp:id":20070095,
         "hasc:id":"KH.PP",
+        "iso:code":"KH-12",
         "iso:id":"KH-12",
         "qs_pg:id":241614
     },
+    "wof:concordances_official":"iso:code",
     "wof:coterminous":[
         1125853197
     ],
@@ -520,7 +522,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9d90893307c4a5e82d36f1c07f66ab35",
+    "wof:geomhash":"69824c4a4483606c5cf60a2e50579194",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -535,7 +537,7 @@
     "wof:lang_x_spoken":[
         "khm"
     ],
-    "wof:lastmodified":1582346005,
+    "wof:lastmodified":1695884363,
     "wof:name":"Phnom Penh",
     "wof:parent_id":85632359,
     "wof:placetype":"region",

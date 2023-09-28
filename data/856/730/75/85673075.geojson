@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.00587,
-    "geom:area_square_m":12078256997.225163,
+    "geom:area_square_m":12078256568.937935,
     "geom:bbox":"105.519569,13.112982,106.79,14.593423",
     "geom:latitude":13.805348,
     "geom:longitude":106.176282,
@@ -294,15 +294,17 @@
         "gn:id":1822028,
         "gp:id":2344942,
         "hasc:id":"KH.ST",
+        "iso:code":"KH-19",
         "iso:id":"KH-19",
         "qs_pg:id":1134965,
         "wd:id":"Q837889"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"KH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a206c30dc04f526be59a5aab52ab72e6",
+    "wof:geomhash":"3f574eea6fa2b4be73be758d5f114f50",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -317,7 +319,7 @@
     "wof:lang_x_spoken":[
         "khm"
     ],
-    "wof:lastmodified":1690938100,
+    "wof:lastmodified":1695884363,
     "wof:name":"St\u0153ng Tr\u00eang",
     "wof:parent_id":85632359,
     "wof:placetype":"region",

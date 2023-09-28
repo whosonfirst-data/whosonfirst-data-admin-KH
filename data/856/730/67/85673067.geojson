@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.394362,
-    "geom:area_square_m":4780173808.010448,
+    "geom:area_square_m":4780173282.7752,
     "geom:bbox":"105.103667,10.859526,105.802379,11.868529",
     "geom:latitude":11.396387,
     "geom:longitude":105.42527,
@@ -294,16 +294,18 @@
         "gn:id":1822609,
         "gp:id":2344939,
         "hasc:id":"KH.PY",
+        "iso:code":"KH-14",
         "iso:id":"KH-14",
         "qs_pg:id":1285063,
         "wd:id":"Q856788",
         "wk:page":"Prey Veng Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"KH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"78b3903d6fc1d3dd99fbfcce3657174e",
+    "wof:geomhash":"23ce945f9870b6f23b70b52988eea0b3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -318,7 +320,7 @@
     "wof:lang_x_spoken":[
         "khm"
     ],
-    "wof:lastmodified":1690938098,
+    "wof:lastmodified":1695884484,
     "wof:name":"Prey V\u00eang",
     "wof:parent_id":85632359,
     "wof:placetype":"region",

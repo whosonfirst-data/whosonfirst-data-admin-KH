@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.996307,
-    "geom:area_square_m":12021241603.69725,
+    "geom:area_square_m":12021241307.561924,
     "geom:bbox":"105.58847,11.949355,106.801823,13.406971",
     "geom:latitude":12.628467,
     "geom:longitude":106.169959,
@@ -298,16 +298,18 @@
         "gn:id":1830563,
         "gp:id":2344935,
         "hasc:id":"KH.KH",
+        "iso:code":"KH-10",
         "iso:id":"KH-10",
         "qs_pg:id":1134963,
         "unlc:id":"KH-10",
         "wd:id":"Q785896"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"KH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6ee3592a0127bf425676d943edce6d30",
+    "wof:geomhash":"cc86442393898b237924fddaebd39aa5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -322,7 +324,7 @@
     "wof:lang_x_spoken":[
         "khm"
     ],
-    "wof:lastmodified":1690938101,
+    "wof:lastmodified":1695884485,
     "wof:name":"Kr\u00e2ch\u00e9h",
     "wof:parent_id":85632359,
     "wof:placetype":"region",

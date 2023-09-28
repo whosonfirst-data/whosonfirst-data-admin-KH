@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.09051,
-    "geom:area_square_m":1091022043.704001,
+    "geom:area_square_m":1091022226.08987,
     "geom:bbox":"102.485557,12.661085,102.755952,13.115057",
     "geom:latitude":12.878767,
     "geom:longitude":102.632741,
@@ -293,17 +293,19 @@
         "gn:id":1830206,
         "gp:id":20070097,
         "hasc:id":"KH.PL",
+        "iso:code":"KH-24",
         "iso:id":"KH-24",
         "qs_pg:id":1181214,
         "unlc:id":"KH-24",
         "wd:id":"Q506646",
         "wk:page":"Pailin Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"KH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"cdd13eb66df8d679cff847d6919ffd6f",
+    "wof:geomhash":"2f7c42a2eee3d6070b96e732341d93df",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -318,7 +320,7 @@
     "wof:lang_x_spoken":[
         "khm"
     ],
-    "wof:lastmodified":1690938101,
+    "wof:lastmodified":1695884875,
     "wof:name":"Krong Pailin",
     "wof:parent_id":85632359,
     "wof:placetype":"region",

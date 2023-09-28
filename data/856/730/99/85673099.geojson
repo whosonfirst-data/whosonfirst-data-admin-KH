@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012239,
-    "geom:area_square_m":148790558.72628,
+    "geom:area_square_m":148790913.556629,
     "geom:bbox":"104.263856,10.445389,104.425959,10.587746",
     "geom:latitude":10.522827,
     "geom:longitude":104.345812,
@@ -291,16 +291,18 @@
         "gn:id":1830937,
         "gp:id":20070094,
         "hasc:id":"KH.KB",
+        "iso:code":"KH-23",
         "iso:id":"KH-23",
         "qs_pg:id":1121150,
         "wd:id":"Q852089",
         "wk:page":"Kep Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"KH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f9189590ac2345a7cecd36067a59b9d5",
+    "wof:geomhash":"00a2ef21b9f9d6f9f400ef2544c03d08",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -315,7 +317,7 @@
     "wof:lang_x_spoken":[
         "khm"
     ],
-    "wof:lastmodified":1690938101,
+    "wof:lastmodified":1695884875,
     "wof:name":"Kep",
     "wof:parent_id":85632359,
     "wof:placetype":"region",

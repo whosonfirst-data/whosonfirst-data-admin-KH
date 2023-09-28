@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.288246,
-    "geom:area_square_m":3499424053.763896,
+    "geom:area_square_m":3499423802.72989,
     "geom:bbox":"104.409774,10.517929,105.098419,11.353003",
     "geom:latitude":10.940183,
     "geom:longitude":104.817103,
@@ -303,16 +303,18 @@
         "gn:id":1821939,
         "gp:id":2344944,
         "hasc:id":"KH.TA",
+        "iso:code":"KH-21",
         "iso:id":"KH-21",
         "qs_pg:id":1168628,
         "wd:id":"Q613345",
         "wk:page":"Tak\u00e9o Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"KH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1c582a58e152660bc7becebd2445b534",
+    "wof:geomhash":"ed4ee306cd1ad25ce1c014b6875fb71d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -327,7 +329,7 @@
     "wof:lang_x_spoken":[
         "khm"
     ],
-    "wof:lastmodified":1690938104,
+    "wof:lastmodified":1695884486,
     "wof:name":"Tak\u00eav",
     "wof:parent_id":85632359,
     "wof:placetype":"region",

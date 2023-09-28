@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.26893,
-    "geom:area_square_m":3259477447.253802,
+    "geom:area_square_m":3259477397.853993,
     "geom:bbox":"104.655884,10.897906,105.302079,11.894728",
     "geom:latitude":11.422155,
     "geom:longitude":105.019126,
@@ -307,16 +307,18 @@
         "gn:id":1831095,
         "gp:id":2344933,
         "hasc:id":"KH.KN",
+        "iso:code":"KH-8",
         "iso:id":"KH-8",
         "qs_pg:id":1285062,
         "wd:id":"Q466031",
         "wk:page":"Kandal Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"KH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"fdc3a4f3eaa9d405268e0aef4e04a0e8",
+    "wof:geomhash":"d4636d229a33bf1f6bbb6f85d6df92e5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -331,7 +333,7 @@
     "wof:lang_x_spoken":[
         "khm"
     ],
-    "wof:lastmodified":1690938098,
+    "wof:lastmodified":1695884484,
     "wof:name":"K\u00e2ndal",
     "wof:parent_id":85632359,
     "wof:placetype":"region",

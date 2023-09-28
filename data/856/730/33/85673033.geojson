@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.555353,
-    "geom:area_square_m":6658238402.194561,
+    "geom:area_square_m":6658238975.405189,
     "geom:bbox":"103.034804,13.880749,104.5069,14.440413",
     "geom:latitude":14.165259,
     "geom:longitude":103.788594,
@@ -315,16 +315,18 @@
         "gn:id":1822210,
         "gp:id":20070092,
         "hasc:id":"KH.OC",
+        "iso:code":"KH-22",
         "iso:id":"KH-22",
         "qs_pg:id":332098,
         "unlc:id":"KH-22",
         "wd:id":"Q629538"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"KH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3ed0a7ec6ba283b593918513a1e08e44",
+    "wof:geomhash":"41858df10daddedd0add7765837f5122",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -339,7 +341,7 @@
     "wof:lang_x_spoken":[
         "khm"
     ],
-    "wof:lastmodified":1690938099,
+    "wof:lastmodified":1695884875,
     "wof:name":"Otdar Mean Chey",
     "wof:parent_id":85632359,
     "wof:placetype":"region",

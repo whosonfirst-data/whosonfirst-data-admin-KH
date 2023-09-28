@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.515004,
-    "geom:area_square_m":6186739091.010147,
+    "geom:area_square_m":6186739164.967072,
     "geom:bbox":"102.333542,13.358995,103.441361,14.240363",
     "geom:latitude":13.70663,
     "geom:longitude":103.013159,
@@ -319,16 +319,18 @@
         "gn:id":1899273,
         "gp:id":20070093,
         "hasc:id":"KH.OM",
+        "iso:code":"KH-1",
         "iso:id":"KH-1",
         "qs_pg:id":888184,
         "wd:id":"Q3817",
         "wk:page":"Banteay Meanchey Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"KH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a90ad8984bec399cf95b9f57bae8bbfe",
+    "wof:geomhash":"fbe20414c918b541758a6381d3850323",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -343,7 +345,7 @@
     "wof:lang_x_spoken":[
         "khm"
     ],
-    "wof:lastmodified":1690938099,
+    "wof:lastmodified":1695884484,
     "wof:name":"B\u00e2nt\u00e9ay M\u00e9anchey",
     "wof:parent_id":85632359,
     "wof:placetype":"region",

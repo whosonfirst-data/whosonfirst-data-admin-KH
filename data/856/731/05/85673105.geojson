@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.236862,
-    "geom:area_square_m":2873486158.593634,
+    "geom:area_square_m":2873486358.018273,
     "geom:bbox":"105.580698,10.790262,106.206263,11.602052",
     "geom:latitude":11.156339,
     "geom:longitude":105.862876,
@@ -304,16 +304,18 @@
         "gn:id":1821992,
         "gp:id":2344943,
         "hasc:id":"KH.SR",
+        "iso:code":"KH-20",
         "iso:id":"KH-20",
         "qs_pg:id":219522,
         "wd:id":"Q751864",
         "wk:page":"Svay Rieng Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"KH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"33cbd776657a82807010c768be8243ca",
+    "wof:geomhash":"f9da7245b29a0d467cbf0aa07493fe34",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -328,7 +330,7 @@
     "wof:lang_x_spoken":[
         "khm"
     ],
-    "wof:lastmodified":1690938104,
+    "wof:lastmodified":1695884875,
     "wof:name":"Svay Rieng",
     "wof:parent_id":85632359,
     "wof:placetype":"region",

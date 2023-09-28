@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.378402,
-    "geom:area_square_m":4574596681.60238,
+    "geom:area_square_m":4574597378.002566,
     "geom:bbox":"104.818481,11.732076,105.777688,12.501578",
     "geom:latitude":12.125373,
     "geom:longitude":105.273755,
@@ -315,16 +315,18 @@
         "gn:id":1831172,
         "gp:id":2344928,
         "hasc:id":"KH.KC",
+        "iso:code":"KH-3",
         "iso:id":"KH-3",
         "qs_pg:id":1285060,
         "wd:id":"Q142258",
         "wk:page":"Kampong Cham Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"KH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7c9ed66fcaf8b311923a57b4f9752ab6",
+    "wof:geomhash":"2fae47caaa96062170d12a4a542e1d04",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -339,7 +341,7 @@
     "wof:lang_x_spoken":[
         "khm"
     ],
-    "wof:lastmodified":1690938102,
+    "wof:lastmodified":1695884485,
     "wof:name":"K\u00e2mp\u00f3ng Cham",
     "wof:parent_id":85632359,
     "wof:placetype":"region",
