@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.091128,
-    "geom:area_square_m":1095335988.54753,
+    "geom:area_square_m":1095335988.547498,
     "geom:bbox":"103.006600377,13.3589947924,103.417987642,13.7508095951",
     "geom:latitude":13.574654,
     "geom:longitude":103.24411,
@@ -117,12 +117,13 @@
         "qs_pg:id":987094,
         "wd:id":"Q1385840"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1459009396,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8ab59aab772c03734db7957a44ea01b6",
+    "wof:geomhash":"f12bffb2a92a776c39318933079c4feb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -132,7 +133,7 @@
         }
     ],
     "wof:id":421183973,
-    "wof:lastmodified":1582346020,
+    "wof:lastmodified":1695886787,
     "wof:name":"Preah Netr Preah",
     "wof:parent_id":85673011,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.044144,
-    "geom:area_square_m":531593769.903075,
+    "geom:area_square_m":531593834.945557,
     "geom:bbox":"102.39166,12.978367,102.761832,13.201069",
     "geom:latitude":13.121466,
     "geom:longitude":102.561896,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"KH.BA.KR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1474062679,
-    "wof:geomhash":"5473cb34234ff9d2bfe394e17d9409af",
+    "wof:geomhash":"5536db3269a816864af27bafdedf6e87",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108564683,
-    "wof:lastmodified":1627522283,
+    "wof:lastmodified":1695886750,
     "wof:name":"Kamrieng",
     "wof:parent_id":85673015,
     "wof:placetype":"county",

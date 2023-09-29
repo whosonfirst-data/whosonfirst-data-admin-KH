@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.136274,
-    "geom:area_square_m":1652319930.803411,
+    "geom:area_square_m":1652319819.232803,
     "geom:bbox":"104.022745,11.09,104.466318,11.527779",
     "geom:latitude":11.311042,
     "geom:longitude":104.236786,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"KH.KS.PS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1474062748,
-    "wof:geomhash":"a5766874868be6346cc23e97b20b0b41",
+    "wof:geomhash":"5f7ecc969ece463a5c0665f532f8d2cc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1108564765,
-    "wof:lastmodified":1627522284,
+    "wof:lastmodified":1695886751,
     "wof:name":"Phnum Sruoch",
     "wof:parent_id":85673053,
     "wof:placetype":"county",

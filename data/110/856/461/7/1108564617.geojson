@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016719,
-    "geom:area_square_m":202910703.661519,
+    "geom:area_square_m":202910637.966012,
     "geom:bbox":"105.953135,10.971624,106.206263,11.102091",
     "geom:latitude":11.042449,
     "geom:longitude":106.098764,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"KH.SR.ST"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1474062622,
-    "wof:geomhash":"04f9cf450cad7faf3be4822a588cca80",
+    "wof:geomhash":"af2bdbc5e3880fb5e73882e78d48ac32",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1108564617,
-    "wof:lastmodified":1627522282,
+    "wof:lastmodified":1695886750,
     "wof:name":"Bavet",
     "wof:parent_id":85673105,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02258,
-    "geom:area_square_m":271357985.948467,
+    "geom:area_square_m":271357900.702173,
     "geom:bbox":"102.870447,13.511221,103.083094,13.716706",
     "geom:latitude":13.61301,
     "geom:longitude":102.967086,
@@ -116,12 +116,13 @@
         "qs_pg:id":239150,
         "wd:id":"Q4929174"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1459008848,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1071a618dfaca674bbacb9445b0cef17",
+    "wof:geomhash":"29a0aae0dae83c59b011189f23444663",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -131,7 +132,7 @@
         }
     ],
     "wof:id":421170329,
-    "wof:lastmodified":1690938133,
+    "wof:lastmodified":1695886786,
     "wof:name":"Serei Saophoan",
     "wof:parent_id":85673011,
     "wof:placetype":"county",

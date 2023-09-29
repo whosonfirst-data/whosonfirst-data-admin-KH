@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.152592,
-    "geom:area_square_m":1835268449.82444,
+    "geom:area_square_m":1835268912.09337,
     "geom:bbox":"106.845277,13.171389,107.377389,13.697121",
     "geom:latitude":13.425065,
     "geom:longitude":107.081545,
@@ -143,9 +143,10 @@
         "hasc:id":"KH.RO.LP",
         "wd:id":"Q2235920"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1474062710,
-    "wof:geomhash":"a228e7c467ebf0d6189202d596d171cf",
+    "wof:geomhash":"e47f155bd91b3a267728d8d12be6b21f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -155,7 +156,7 @@
         }
     ],
     "wof:id":1108564723,
-    "wof:lastmodified":1690938117,
+    "wof:lastmodified":1695886765,
     "wof:name":"Lumphat",
     "wof:parent_id":85673089,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.127082,
-    "geom:area_square_m":1537719986.592506,
+    "geom:area_square_m":1537720585.768774,
     "geom:bbox":"105.957778,11.669341,106.467042,12.152009",
     "geom:latitude":11.882121,
     "geom:longitude":106.203448,
@@ -104,9 +104,10 @@
         "hasc:id":"KH.TB.MM",
         "wd:id":"Q2221903"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1474062722,
-    "wof:geomhash":"90e415e7365cfd4a21f1f5144b4afcea",
+    "wof:geomhash":"fd7d264320bb321145c312681f4d1759",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -116,7 +117,7 @@
         }
     ],
     "wof:id":1108564735,
-    "wof:lastmodified":1690938118,
+    "wof:lastmodified":1695886192,
     "wof:name":"Memot",
     "wof:parent_id":1108804319,
     "wof:placetype":"county",

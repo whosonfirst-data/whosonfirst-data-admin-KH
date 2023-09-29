@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009249,
-    "geom:area_square_m":111894068.068313,
+    "geom:area_square_m":111894162.058162,
     "geom:bbox":"105.618296,11.862559,105.720908,11.998659",
     "geom:latitude":11.93402,
     "geom:longitude":105.669474,
@@ -92,9 +92,10 @@
         "hasc:id":"KH.KM.TK",
         "wd:id":"Q7641860"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1474062825,
-    "wof:geomhash":"ff77ea9979fc2aff7aa6fcbb03aa1bf1",
+    "wof:geomhash":"d346a8dd7a2429456fb39389ebbdf0c6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -110,7 +111,7 @@
         }
     ],
     "wof:id":1108564855,
-    "wof:lastmodified":1690938110,
+    "wof:lastmodified":1695886187,
     "wof:name":"Suong",
     "wof:parent_id":-1,
     "wof:placetype":"county",

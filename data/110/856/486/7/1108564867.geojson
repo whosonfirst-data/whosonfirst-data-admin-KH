@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.053951,
-    "geom:area_square_m":647828112.052449,
+    "geom:area_square_m":647828218.63786,
     "geom:bbox":"104.84091,13.602093,105.18369,13.939369",
     "geom:latitude":13.810335,
     "geom:longitude":105.029134,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"KH.PH.TM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1474062837,
-    "wof:geomhash":"791c580fe6ed5d4d606b0a523c0722fe",
+    "wof:geomhash":"e4f8a8fe4b1e1f8afe5a680ea0039d1c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108564867,
-    "wof:lastmodified":1627522286,
+    "wof:lastmodified":1695886753,
     "wof:name":"Tbaeng Mean Chey",
     "wof:parent_id":85673071,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.102324,
-    "geom:area_square_m":1235947095.188772,
+    "geom:area_square_m":1235947486.751913,
     "geom:bbox":"106.815767,12.131628,107.547997,12.527825",
     "geom:latitude":12.356384,
     "geom:longitude":107.171104,
@@ -86,9 +86,10 @@
         "hasc:id":"KH.MK.OR",
         "wd:id":"Q4929265"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1474062733,
-    "wof:geomhash":"2e1617c7a1e426432f612f0f34ed44e2",
+    "wof:geomhash":"5aae779c337b3b322e4b5de225832689",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -98,7 +99,7 @@
         }
     ],
     "wof:id":1108564745,
-    "wof:lastmodified":1690938119,
+    "wof:lastmodified":1695886192,
     "wof:name":"Ou Reang",
     "wof:parent_id":85673085,
     "wof:placetype":"county",

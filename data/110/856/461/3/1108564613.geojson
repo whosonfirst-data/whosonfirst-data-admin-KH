@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030939,
-    "geom:area_square_m":375179964.217062,
+    "geom:area_square_m":375180024.704278,
     "geom:bbox":"104.692775,11.200628,104.941685,11.353003",
     "geom:latitude":11.275369,
     "geom:longitude":104.819909,
@@ -115,9 +115,10 @@
     "wof:concordances":{
         "hasc:id":"KH.TA.BT"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1474062617,
-    "wof:geomhash":"a3854d3423367afb7a504012de250e55",
+    "wof:geomhash":"dfa2ddcba39c94eab3ef257ff1114713",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -127,7 +128,7 @@
         }
     ],
     "wof:id":1108564613,
-    "wof:lastmodified":1636500704,
+    "wof:lastmodified":1695886765,
     "wof:name":"Bati",
     "wof:parent_id":85673107,
     "wof:placetype":"county",

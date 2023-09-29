@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.050342,
-    "geom:area_square_m":605096328.764353,
+    "geom:area_square_m":605096950.888907,
     "geom:bbox":"103.914037,13.421282,104.120769,13.76899",
     "geom:latitude":13.574999,
     "geom:longitude":104.014591,
@@ -86,9 +86,10 @@
         "hasc:id":"KH.SI.BS",
         "wd:id":"Q4857206"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1474062609,
-    "wof:geomhash":"0709f6800176d13ba2b830ad76719c65",
+    "wof:geomhash":"113ce5ae4a53d2f7de778c83f165ac2e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -98,7 +99,7 @@
         }
     ],
     "wof:id":1108564603,
-    "wof:lastmodified":1690938121,
+    "wof:lastmodified":1695886193,
     "wof:name":"Banteay Srei",
     "wof:parent_id":85673029,
     "wof:placetype":"county",

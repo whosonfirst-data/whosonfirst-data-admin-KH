@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.18669,
-    "geom:area_square_m":2263655303.794017,
+    "geom:area_square_m":2263655631.302244,
     "geom:bbox":"103.536178,10.896013,104.066593,11.617964",
     "geom:latitude":11.305255,
     "geom:longitude":103.766342,
@@ -88,12 +88,13 @@
         "hasc:id":"KH.KK.SA",
         "qs_pg:id":962480
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1459009358,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ad9a981d08c7753ff7675bfc215d544e",
+    "wof:geomhash":"b4d633419929681bf4547e6d7b4f9a1f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -103,7 +104,7 @@
         }
     ],
     "wof:id":421183117,
-    "wof:lastmodified":1627522286,
+    "wof:lastmodified":1695886752,
     "wof:name":"Srae Ambel",
     "wof:parent_id":85673019,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032503,
-    "geom:area_square_m":393217867.076914,
+    "geom:area_square_m":393217792.160614,
     "geom:bbox":"104.987966,11.843915,105.344859,12.021963",
     "geom:latitude":11.938857,
     "geom:longitude":105.148468,
@@ -86,9 +86,10 @@
         "hasc:id":"KH.KC.KM",
         "wd:id":"Q6362249"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1474062684,
-    "wof:geomhash":"188f879bde9e36a52e7daf2d3198dc12",
+    "wof:geomhash":"63203495b0bbad137f1a835b70ef1773",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -98,7 +99,7 @@
         }
     ],
     "wof:id":1108564689,
-    "wof:lastmodified":1690938122,
+    "wof:lastmodified":1695886195,
     "wof:name":"Kang Meas",
     "wof:parent_id":85673041,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.577718,
-    "geom:area_square_m":6999251060.382603,
+    "geom:area_square_m":6999250535.626396,
     "geom:bbox":"103.772811,11.077085,104.789342,12.075546",
     "geom:latitude":11.535323,
     "geom:longitude":104.293564,
@@ -290,15 +290,17 @@
         "gn:id":1831132,
         "gp:id":2344930,
         "hasc:id":"KH.KS",
+        "iso:code":"KH-5",
         "iso:id":"KH-5",
         "qs_pg:id":1134962,
         "wd:id":"Q652867"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"KH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3b6dee32a2954b837337fd0a55b8fa69",
+    "wof:geomhash":"d0dd36ec8ec63508fbe5bc18cc069f85",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -313,7 +315,7 @@
     "wof:lang_x_spoken":[
         "khm"
     ],
-    "wof:lastmodified":1690938101,
+    "wof:lastmodified":1695884485,
     "wof:name":"K\u00e2mp\u00f3ng Sp\u0153",
     "wof:parent_id":85632359,
     "wof:placetype":"region",

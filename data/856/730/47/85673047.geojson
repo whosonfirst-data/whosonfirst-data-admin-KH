@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.449011,
-    "geom:area_square_m":5427369145.700543,
+    "geom:area_square_m":5427369474.127123,
     "geom:bbox":"104.171365,11.733954,104.903516,12.608924",
     "geom:latitude":12.166258,
     "geom:longitude":104.559437,
@@ -309,17 +309,19 @@
         "gn:id":1831166,
         "gp:id":2344929,
         "hasc:id":"KH.KG",
+        "iso:code":"KH-4",
         "iso:id":"KH-4",
         "qs_pg:id":1285061,
         "unlc:id":"KH-4",
         "wd:id":"Q877468",
         "wk:page":"Kampong Chhnang Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"KH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9d31f3ff73df4fb94f9e2ddfae1b46d5",
+    "wof:geomhash":"43d408a4b3f9dbb4bcbf395adfd09530",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -334,7 +336,7 @@
     "wof:lang_x_spoken":[
         "khm"
     ],
-    "wof:lastmodified":1690938103,
+    "wof:lastmodified":1695884485,
     "wof:name":"K\u00e2mp\u00f3ng Chhnang",
     "wof:parent_id":85632359,
     "wof:placetype":"region",

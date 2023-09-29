@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026133,
-    "geom:area_square_m":316739631.210881,
+    "geom:area_square_m":316739716.298647,
     "geom:bbox":"105.026668,11.311402,105.274818,11.53917",
     "geom:latitude":11.41903,
     "geom:longitude":105.144164,
@@ -95,9 +95,10 @@
         "hasc:id":"KH.KN.KS",
         "wd:id":"Q4886889"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1474062696,
-    "wof:geomhash":"5794d3ad66c249440f6cb4599bac1428",
+    "wof:geomhash":"3fc924593de00499a23c544b018784f0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -107,7 +108,7 @@
         }
     ],
     "wof:id":1108564707,
-    "wof:lastmodified":1690938112,
+    "wof:lastmodified":1695886188,
     "wof:name":"Kien Svay",
     "wof:parent_id":85673051,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.382485,
-    "geom:area_square_m":4585460954.94456,
+    "geom:area_square_m":4585460516.198162,
     "geom:bbox":"105.994552,13.833963,106.79,14.593423",
     "geom:latitude":14.175847,
     "geom:longitude":106.422343,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"KH.ST.SP"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1474062808,
-    "wof:geomhash":"6daf329e6d81c82f3708f36a743fe536",
+    "wof:geomhash":"abd23a9517bdfdc2a44f253028930996",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1108564835,
-    "wof:lastmodified":1627522286,
+    "wof:lastmodified":1695886752,
     "wof:name":"Siem Pang",
     "wof:parent_id":85673075,
     "wof:placetype":"county",

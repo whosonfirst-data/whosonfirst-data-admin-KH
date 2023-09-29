@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023928,
-    "geom:area_square_m":289652589.228615,
+    "geom:area_square_m":289652589.228471,
     "geom:bbox":"104.70310832,11.6640068729,104.888073199,11.8947284647",
     "geom:latitude":11.768469,
     "geom:longitude":104.800915,
@@ -108,12 +108,13 @@
         "qs_pg:id":1091006,
         "wd:id":"Q4930646"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1459009538,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f81db48bd89122e05e741c89317260ab",
+    "wof:geomhash":"d22fdde4d8141c6e249d60899d6b67f4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -123,7 +124,7 @@
         }
     ],
     "wof:id":421188235,
-    "wof:lastmodified":1582346019,
+    "wof:lastmodified":1695886786,
     "wof:name":"Ponhea Lueu",
     "wof:parent_id":85673051,
     "wof:placetype":"county",

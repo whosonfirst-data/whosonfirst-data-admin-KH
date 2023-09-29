@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.988378,
-    "geom:area_square_m":11976666240.413164,
+    "geom:area_square_m":11976665770.658022,
     "geom:bbox":"102.776033,10.855361,104.077972,12.116112",
     "geom:latitude":11.483611,
     "geom:longitude":103.459315,
@@ -298,17 +298,19 @@
         "gn:id":1831037,
         "gp:id":2344934,
         "hasc:id":"KH.KK",
+        "iso:code":"KH-9",
         "iso:id":"KH-9",
         "qs_pg:id":1083806,
         "unlc:id":"KH-9",
         "wd:id":"Q466000",
         "wk:page":"Koh Kong Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"KH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"78032ef322e7118c84adc80ba462eff2",
+    "wof:geomhash":"3c4a0d2fbe98067dd06a2b8accec0502",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -323,7 +325,7 @@
     "wof:lang_x_spoken":[
         "khm"
     ],
-    "wof:lastmodified":1690938100,
+    "wof:lastmodified":1695884485,
     "wof:name":"Ka\u00f4h Kong",
     "wof:parent_id":85632359,
     "wof:placetype":"region",

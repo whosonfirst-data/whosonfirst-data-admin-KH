@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026247,
-    "geom:area_square_m":317821211.782189,
+    "geom:area_square_m":317820952.879878,
     "geom:bbox":"105.37943,11.597993,105.722198,11.756868",
     "geom:latitude":11.685746,
     "geom:longitude":105.559552,
@@ -86,9 +86,10 @@
         "hasc:id":"KH.PY.KC",
         "wd:id":"Q4929327"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1474062685,
-    "wof:geomhash":"e7c009fba6fb89a2dfd448075be5675f",
+    "wof:geomhash":"4c89846ce79a32945c9027fe59f38dc1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -98,7 +99,7 @@
         }
     ],
     "wof:id":1108564691,
-    "wof:lastmodified":1690938121,
+    "wof:lastmodified":1695886195,
     "wof:name":"Kanhchriech",
     "wof:parent_id":85673067,
     "wof:placetype":"county",

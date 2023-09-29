@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007738,
-    "geom:area_square_m":93732754.760161,
+    "geom:area_square_m":93732773.538585,
     "geom:bbox":"102.972916,11.53875,103.095172,11.649708",
     "geom:latitude":11.596774,
     "geom:longitude":103.03075,
@@ -55,9 +55,10 @@
     "wof:concordances":{
         "hasc:id":"KH.KK.SM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1474062694,
-    "wof:geomhash":"385fe961d21c7a29bd8ea26ad5a3e7a3",
+    "wof:geomhash":"7d669ecfb9d3fb16ab1fc5cf5c58a918",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,7 +68,7 @@
         }
     ],
     "wof:id":1108564705,
-    "wof:lastmodified":1627522283,
+    "wof:lastmodified":1695886751,
     "wof:name":"Khemara Phoumin",
     "wof:parent_id":85673019,
     "wof:placetype":"county",

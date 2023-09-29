@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.045863,
-    "geom:area_square_m":551105905.801502,
+    "geom:area_square_m":551105905.801426,
     "geom:bbox":"102.653685694,13.4829876718,102.929794406,13.8263754297",
     "geom:latitude":13.643907,
     "geom:longitude":102.808217,
@@ -116,12 +116,13 @@
         "qs_pg:id":987093,
         "wd:id":"Q4929257"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1459009938,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"53a0f6de6bbece9ac959235280350afa",
+    "wof:geomhash":"a2af6870f2ea354f1fc2110f1e677082",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -131,7 +132,7 @@
         }
     ],
     "wof:id":421198129,
-    "wof:lastmodified":1582346019,
+    "wof:lastmodified":1695886786,
     "wof:name":"Ou Chrov",
     "wof:parent_id":85673011,
     "wof:placetype":"county",

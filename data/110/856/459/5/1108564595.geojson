@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.15509,
-    "geom:area_square_m":1870601485.051004,
+    "geom:area_square_m":1870601485.051058,
     "geom:bbox":"103.460247908,12.3808492962,103.998895971,13.053045475",
     "geom:latitude":12.72647,
     "geom:longitude":103.763707,
@@ -86,9 +86,10 @@
         "hasc:id":"KH.PO.BK",
         "wd:id":"Q4849003"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1474062603,
-    "wof:geomhash":"e293120a08d35ce08f47cb5cfc5ce262",
+    "wof:geomhash":"1b0699dcb127a223be7cb2c141cb2099",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -98,7 +99,7 @@
         }
     ],
     "wof:id":1108564595,
-    "wof:lastmodified":1566727460,
+    "wof:lastmodified":1695886195,
     "wof:name":"Bakan",
     "wof:parent_id":85673023,
     "wof:placetype":"county",

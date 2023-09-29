@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000591,
-    "geom:area_square_m":7162636.810386,
+    "geom:area_square_m":7162591.023032,
     "geom:bbox":"104.887645,11.549022,104.90708,11.590223",
     "geom:latitude":11.568527,
     "geom:longitude":104.896869,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"KH.PP.TK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1474062853,
-    "wof:geomhash":"d312fc2278a37c93e4b0ea11d6e2f166",
+    "wof:geomhash":"658221d2def598fdc5d18a9bb60ae5de",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108564887,
-    "wof:lastmodified":1627522287,
+    "wof:lastmodified":1695886753,
     "wof:name":"Tuol Kouk",
     "wof:parent_id":85673063,
     "wof:placetype":"county",

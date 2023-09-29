@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.173971,
-    "geom:area_square_m":14097225936.817955,
+    "geom:area_square_m":14097225936.820705,
     "geom:bbox":"104.358251,13.054435,105.89931,14.437626",
     "geom:latitude":13.79878,
     "geom:longitude":105.007166,
@@ -306,17 +306,19 @@
         "gn:id":1822676,
         "gp:id":2344938,
         "hasc:id":"KH.PH",
+        "iso:code":"KH-13",
         "iso:id":"KH-13",
         "qs_pg:id":1083808,
         "unlc:id":"KH-13",
         "wd:id":"Q502151",
         "wk:page":"Preah Vihear Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"KH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f9213f0dee0c9a11821d48e0121ec89b",
+    "wof:geomhash":"b2bb43cfbd1a07cb7964664803f5e887",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -331,7 +333,7 @@
     "wof:lang_x_spoken":[
         "khm"
     ],
-    "wof:lastmodified":1690938103,
+    "wof:lastmodified":1695884485,
     "wof:name":"Preah Vih\u00e9ar",
     "wof:parent_id":85632359,
     "wof:placetype":"region",

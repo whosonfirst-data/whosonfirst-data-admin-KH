@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.055834,
-    "geom:area_square_m":675644047.49789,
+    "geom:area_square_m":675644047.497929,
     "geom:bbox":"104.412725306,11.7339537619,104.733276792,12.0504219748",
     "geom:latitude":11.868195,
     "geom:longitude":104.555711,
@@ -103,12 +103,13 @@
         "wd:id":"Q7409232",
         "wk:page":"Smach Mean Chey District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1469052297,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"231368c41f883bc2931f9bd2772630e7",
+    "wof:geomhash":"8219ea2dabbdb00b269e65980e0ec2cf",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -118,7 +119,7 @@
         }
     ],
     "wof:id":890440787,
-    "wof:lastmodified":1582346020,
+    "wof:lastmodified":1695886787,
     "wof:name":"Sameakki Mean Chey",
     "wof:parent_id":85673047,
     "wof:placetype":"county",

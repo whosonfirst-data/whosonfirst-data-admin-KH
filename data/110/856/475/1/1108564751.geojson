@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022381,
-    "geom:area_square_m":268932682.128378,
+    "geom:area_square_m":268932682.128405,
     "geom:bbox":"102.547946,13.5608690044,102.757876574,13.7385885317",
     "geom:latitude":13.649277,
     "geom:longitude":102.659938,
@@ -83,9 +83,10 @@
         "hasc:id":"KH.OM.OC",
         "wd:id":"Q4929257"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1474062737,
-    "wof:geomhash":"563e2dd542b52c7677d3ceade0cb95b3",
+    "wof:geomhash":"b9447698f9f02f232b3e95e0923e3c39",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -95,7 +96,7 @@
         }
     ],
     "wof:id":1108564751,
-    "wof:lastmodified":1566727456,
+    "wof:lastmodified":1695886191,
     "wof:name":"Paoy Paet",
     "wof:parent_id":85673011,
     "wof:placetype":"county",

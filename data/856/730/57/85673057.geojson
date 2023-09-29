@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.071917,
-    "geom:area_square_m":12923791655.725243,
+    "geom:area_square_m":12923790894.736954,
     "geom:bbox":"104.171101,12.190697,105.735496,13.449022",
     "geom:latitude":12.822568,
     "geom:longitude":105.045736,
@@ -315,17 +315,19 @@
         "gn:id":1831124,
         "gp:id":2344931,
         "hasc:id":"KH.KT",
+        "iso:code":"KH-6",
         "iso:id":"KH-6",
         "qs_pg:id":318347,
         "unlc:id":"KH-6",
         "wd:id":"Q502148",
         "wk:page":"Kampong Thom Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"KH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"95267e981cbf5b7530d6b8f2b4848f94",
+    "wof:geomhash":"3119fe414e5b4dc43afb1c94bdda3b00",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -340,7 +342,7 @@
     "wof:lang_x_spoken":[
         "khm"
     ],
-    "wof:lastmodified":1690938097,
+    "wof:lastmodified":1695884484,
     "wof:name":"K\u00e2mp\u00f3ng Thum",
     "wof:parent_id":85632359,
     "wof:placetype":"region",

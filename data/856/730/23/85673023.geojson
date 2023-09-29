@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.035021,
-    "geom:area_square_m":12501120951.486954,
+    "geom:area_square_m":12501120421.927929,
     "geom:bbox":"102.70351,11.839763,104.391269,13.053045",
     "geom:latitude":12.367472,
     "geom:longitude":103.635652,
@@ -303,16 +303,18 @@
         "gn:id":1821301,
         "gp:id":2344937,
         "hasc:id":"KH.PO",
+        "iso:code":"KH-15",
         "iso:id":"KH-15",
         "qs_pg:id":423610,
         "wd:id":"Q834464",
         "wk:page":"Pursat Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"KH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c49503b260ac535f96b6c6dc49bd21a4",
+    "wof:geomhash":"5e363f1d91946e7c88b9a8845b15f351",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -327,7 +329,7 @@
     "wof:lang_x_spoken":[
         "khm"
     ],
-    "wof:lastmodified":1690938102,
+    "wof:lastmodified":1695884875,
     "wof:name":"Pouthisat",
     "wof:parent_id":85632359,
     "wof:placetype":"region",

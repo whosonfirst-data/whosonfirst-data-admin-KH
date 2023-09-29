@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030611,
-    "geom:area_square_m":369365864.875351,
+    "geom:area_square_m":369365788.497132,
     "geom:bbox":"104.747034,12.519644,104.954305,12.74112",
     "geom:latitude":12.617602,
     "geom:longitude":104.855834,
@@ -111,12 +111,13 @@
         "wd:id":"Q4930194",
         "wk:page":"Stueng Saen District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1459009261,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"35df27542f11630876d68fa1c125e5e0",
+    "wof:geomhash":"90c41390e9a2913decf33dba9ed348e1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -126,7 +127,7 @@
         }
     ],
     "wof:id":421180491,
-    "wof:lastmodified":1690938128,
+    "wof:lastmodified":1695886785,
     "wof:name":"Stueng Saen",
     "wof:parent_id":85673057,
     "wof:placetype":"county",

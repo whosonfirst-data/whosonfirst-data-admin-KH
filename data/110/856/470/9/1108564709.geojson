@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.048615,
-    "geom:area_square_m":590801019.241931,
+    "geom:area_square_m":590801173.29897,
     "geom:bbox":"104.672784,10.517929,104.95474,10.782045",
     "geom:latitude":10.639264,
     "geom:longitude":104.796832,
@@ -86,9 +86,10 @@
         "hasc:id":"KH.TA.KV",
         "wd:id":"Q4930130"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1474062698,
-    "wof:geomhash":"50f0e6f7dd7cb7d7dbb3a1f7b2ed40fd",
+    "wof:geomhash":"1d899178818bf01f1f71244d559ec48d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -98,7 +99,7 @@
         }
     ],
     "wof:id":1108564709,
-    "wof:lastmodified":1690938111,
+    "wof:lastmodified":1695886188,
     "wof:name":"Kiri Vong",
     "wof:parent_id":85673107,
     "wof:placetype":"county",

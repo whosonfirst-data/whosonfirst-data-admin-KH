@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.182022,
-    "geom:area_square_m":2189894982.616154,
+    "geom:area_square_m":2189894982.614833,
     "geom:bbox":"104.802229008,13.0544349139,105.539953904,13.6350641396",
     "geom:latitude":13.351848,
     "geom:longitude":105.09641,
@@ -89,9 +89,10 @@
         "hasc:id":"KH.PH.RV",
         "wd:id":"Q4929033"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1474062780,
-    "wof:geomhash":"1dce9971d57994b1ddb74088ec4f0ae8",
+    "wof:geomhash":"5c26c0583c9dfd7aabffcb1ba7206ddc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":1108564801,
-    "wof:lastmodified":1566727458,
+    "wof:lastmodified":1695886194,
     "wof:name":"Rovieng",
     "wof:parent_id":85673071,
     "wof:placetype":"county",

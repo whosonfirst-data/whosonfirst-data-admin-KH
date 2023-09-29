@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029458,
-    "geom:area_square_m":356689735.043521,
+    "geom:area_square_m":356689735.043578,
     "geom:bbox":"104.932937983,11.5762201987,105.159342774,11.8521048816",
     "geom:latitude":11.694186,
     "geom:longitude":105.035902,
@@ -110,12 +110,13 @@
         "qs_pg:id":19967,
         "wd:id":"Q4930148"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1459009542,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6597524bfc32c008b3c54e2c06309e2d",
+    "wof:geomhash":"2426184d5ea69ca095787f30df48c0af",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -125,7 +126,7 @@
         }
     ],
     "wof:id":421188351,
-    "wof:lastmodified":1582346019,
+    "wof:lastmodified":1695886786,
     "wof:name":"Khsach Kandal",
     "wof:parent_id":85673051,
     "wof:placetype":"county",

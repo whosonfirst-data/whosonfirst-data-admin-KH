@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.079904,
-    "geom:area_square_m":961771351.127837,
+    "geom:area_square_m":961771510.969442,
     "geom:bbox":"102.687731,13.036923,102.997773,13.411696",
     "geom:latitude":13.238178,
     "geom:longitude":102.827319,
@@ -67,9 +67,10 @@
     "wof:concordances":{
         "hasc:id":"KH.BA.BV"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1474062620,
-    "wof:geomhash":"39d33736c141eafe0e502b3e8cc51bdc",
+    "wof:geomhash":"93652151ca8f0e90a2a67e8187d6d083",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1108564615,
-    "wof:lastmodified":1627522282,
+    "wof:lastmodified":1695886750,
     "wof:name":"Bavel",
     "wof:parent_id":85673015,
     "wof:placetype":"county",

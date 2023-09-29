@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00759,
-    "geom:area_square_m":91635392.651118,
+    "geom:area_square_m":91635544.364091,
     "geom:bbox":"105.982192,12.426706,106.093328,12.540123",
     "geom:latitude":12.489313,
     "geom:longitude":106.040673,
@@ -125,12 +125,13 @@
         "hasc:id":"KH.KH.KR",
         "qs_pg:id":9945
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1459009532,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"61922b083c5eb57848ade04e986c7ae7",
+    "wof:geomhash":"cd025ebf2c868f1d4f6c51119433646e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -140,7 +141,7 @@
         }
     ],
     "wof:id":421188049,
-    "wof:lastmodified":1636500705,
+    "wof:lastmodified":1695886765,
     "wof:name":"Kracheh",
     "wof:parent_id":85673081,
     "wof:placetype":"county",

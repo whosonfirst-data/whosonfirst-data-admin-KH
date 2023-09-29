@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030798,
-    "geom:area_square_m":374408410.784516,
+    "geom:area_square_m":374408335.119765,
     "geom:bbox":"104.362727,10.404543,104.600472,10.632484",
     "geom:latitude":10.531674,
     "geom:longitude":104.476656,
@@ -92,9 +92,10 @@
         "hasc:id":"KH.KP.KT",
         "wd:id":"Q1385801"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1474062675,
-    "wof:geomhash":"b1457e598f61674e5d683e1cfd168a6d",
+    "wof:geomhash":"f02718bb5c18bae260304ca190991e6a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,7 +105,7 @@
         }
     ],
     "wof:id":1108564675,
-    "wof:lastmodified":1690938120,
+    "wof:lastmodified":1695886193,
     "wof:name":"Kampong Trach",
     "wof:parent_id":85673093,
     "wof:placetype":"county",

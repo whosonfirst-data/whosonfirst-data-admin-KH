@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028792,
-    "geom:area_square_m":348448928.14947,
+    "geom:area_square_m":348448724.143747,
     "geom:bbox":"105.042618,11.732076,105.289093,11.951738",
     "geom:latitude":11.835855,
     "geom:longitude":105.166257,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"KH.KC.SS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1474062816,
-    "wof:geomhash":"c5d834c954a670c18c4ddbe367952fc8",
+    "wof:geomhash":"c03cd49d7d75f32777f188eeca80c2f1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1108564845,
-    "wof:lastmodified":1627522286,
+    "wof:lastmodified":1695886753,
     "wof:name":"Srei Santhor",
     "wof:parent_id":85673041,
     "wof:placetype":"county",

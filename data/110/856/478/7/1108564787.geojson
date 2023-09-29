@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022255,
-    "geom:area_square_m":269996406.311775,
+    "geom:area_square_m":269996406.311763,
     "geom:bbox":"104.834935385,11.0731321076,105.023276328,11.2395998788",
     "geom:latitude":11.145531,
     "geom:longitude":104.930095,
@@ -86,9 +86,10 @@
         "hasc:id":"KH.TA.PK",
         "wd:id":"Q4929404"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1474062767,
-    "wof:geomhash":"8eba9209948d7a69b943408600c4de5a",
+    "wof:geomhash":"5a9bd78e2cdbae739324de17a691f416",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -98,7 +99,7 @@
         }
     ],
     "wof:id":1108564787,
-    "wof:lastmodified":1566727451,
+    "wof:lastmodified":1695886187,
     "wof:name":"Prey Kabbas",
     "wof:parent_id":85673107,
     "wof:placetype":"county",

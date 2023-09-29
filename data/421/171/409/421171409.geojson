@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.042442,
-    "geom:area_square_m":510828510.829376,
+    "geom:area_square_m":510828341.263203,
     "geom:bbox":"103.875076,13.046235,104.079176,13.447767",
     "geom:latitude":13.249977,
     "geom:longitude":103.972211,
@@ -88,12 +88,13 @@
         "hasc:id":"KH.SI.PB",
         "qs_pg:id":1249425
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1459008892,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"db76ec8afa4e41c9b86ee24827b4eea3",
+    "wof:geomhash":"c06173cc1dcbb087363b5a3c19e2ac9e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -103,7 +104,7 @@
         }
     ],
     "wof:id":421171409,
-    "wof:lastmodified":1627522284,
+    "wof:lastmodified":1695886751,
     "wof:name":"Prasat Bakong",
     "wof:parent_id":85673029,
     "wof:placetype":"county",

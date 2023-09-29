@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007214,
-    "geom:area_square_m":87357251.167956,
+    "geom:area_square_m":87357315.177174,
     "geom:bbox":"104.863343,11.565415,104.968137,11.736734",
     "geom:latitude":11.666198,
     "geom:longitude":104.924915,
@@ -54,9 +54,10 @@
     "wof:concordances":{
         "hasc:id":"KH.PP.RK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1474062646,
-    "wof:geomhash":"4f4e67a12a4630c2d656f1f25a4b3ca7",
+    "wof:geomhash":"b9b1926c0b2225ac51a2a044a62ac019",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -66,7 +67,7 @@
         }
     ],
     "wof:id":1108564649,
-    "wof:lastmodified":1627522283,
+    "wof:lastmodified":1695886750,
     "wof:name":"Chraoy Chongvar",
     "wof:parent_id":85673063,
     "wof:placetype":"county",

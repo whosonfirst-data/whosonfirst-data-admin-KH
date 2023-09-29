@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.037853,
-    "geom:area_square_m":455278808.632937,
+    "geom:area_square_m":455279055.526573,
     "geom:bbox":"102.354795,13.357524,102.690357,13.479488",
     "geom:latitude":13.418901,
     "geom:longitude":102.527369,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"KH.BA.SL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1474062794,
-    "wof:geomhash":"4e9e91f3f4a742558a1f10056e9a83f0",
+    "wof:geomhash":"ac62c80b3944816f558dcc064661d04e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108564817,
-    "wof:lastmodified":1627522285,
+    "wof:lastmodified":1695886752,
     "wof:name":"Sampov Lun",
     "wof:parent_id":85673015,
     "wof:placetype":"county",

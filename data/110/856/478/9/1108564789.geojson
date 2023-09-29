@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005778,
-    "geom:area_square_m":70017517.704924,
+    "geom:area_square_m":70017586.985461,
     "geom:bbox":"105.286001,11.430135,105.395175,11.523868",
     "geom:latitude":11.477568,
     "geom:longitude":105.3358,
@@ -73,9 +73,10 @@
     "wof:concordances":{
         "hasc:id":"KH.PY.PV"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1474062770,
-    "wof:geomhash":"ae635f324e2e4e0ab9ef6c9a06c34f58",
+    "wof:geomhash":"25829bc9a0e9f2b034dc41403ec527a2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1108564789,
-    "wof:lastmodified":1636500703,
+    "wof:lastmodified":1695886764,
     "wof:name":"Prey Veng",
     "wof:parent_id":85673067,
     "wof:placetype":"county",

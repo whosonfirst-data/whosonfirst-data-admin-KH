@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.063776,
-    "geom:area_square_m":765766387.872199,
+    "geom:area_square_m":765766387.87206,
     "geom:bbox":"103.159893055,13.6575140498,103.441360737,14.0234504076",
     "geom:latitude":13.822201,
     "geom:longitude":103.317774,
@@ -95,9 +95,10 @@
         "hasc:id":"KH.OM.PS",
         "wd:id":"Q3306393"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1474062747,
-    "wof:geomhash":"999e1f86bc096454ef9ed918459b9804",
+    "wof:geomhash":"90b01642866927dd9f7be953018feb76",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -107,7 +108,7 @@
         }
     ],
     "wof:id":1108564763,
-    "wof:lastmodified":1566727452,
+    "wof:lastmodified":1695886187,
     "wof:name":"Phnum Srok",
     "wof:parent_id":85673011,
     "wof:placetype":"county",

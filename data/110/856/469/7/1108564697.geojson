@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.1861,
-    "geom:area_square_m":2256283400.008799,
+    "geom:area_square_m":2256283400.009598,
     "geom:bbox":"102.974555969,10.855360985,103.477568591,11.6441934112",
     "geom:latitude":11.332582,
     "geom:longitude":103.226485,
@@ -79,9 +79,10 @@
         "hasc:id":"KH.KK.KK",
         "wd:id":"Q1385849"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1474062688,
-    "wof:geomhash":"d6487197b81fad3e6bd03864141f5de6",
+    "wof:geomhash":"5de88e6e385cf35d8dd83ca40c450603",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":1108564697,
-    "wof:lastmodified":1566727459,
+    "wof:lastmodified":1695886195,
     "wof:name":"Kaoh Kong",
     "wof:parent_id":85673019,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029506,
-    "geom:area_square_m":356241892.709733,
+    "geom:area_square_m":356241737.825005,
     "geom:bbox":"103.786477,12.352573,104.01797,12.569025",
     "geom:latitude":12.472791,
     "geom:longitude":103.915051,
@@ -81,9 +81,10 @@
         "hasc:id":"KH.PO.SM",
         "wd:id":"Q4929515"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1474062775,
-    "wof:geomhash":"6d26179692780e537a8d95ade14bae4d",
+    "wof:geomhash":"232555eed9b78668f643ec84508a0672",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1108564795,
-    "wof:lastmodified":1690938112,
+    "wof:lastmodified":1695886764,
     "wof:name":"Pursat",
     "wof:parent_id":85673023,
     "wof:placetype":"county",

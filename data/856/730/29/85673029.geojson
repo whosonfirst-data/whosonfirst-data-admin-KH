@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.951485,
-    "geom:area_square_m":11441378572.589142,
+    "geom:area_square_m":11441378953.289249,
     "geom:bbox":"103.392259,12.748222,104.680289,13.96943",
     "geom:latitude":13.47306,
     "geom:longitude":104.018906,
@@ -286,16 +286,18 @@
         "gn:id":1822213,
         "gp:id":2344941,
         "hasc:id":"KH.SI",
+        "iso:code":"KH-17",
         "iso:id":"KH-17",
         "qs_pg:id":672297,
         "unlc:id":"KH-17",
         "wd:id":"Q652818"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"KH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"985a0f935aef4ed3a41d34641dcd10d8",
+    "wof:geomhash":"d6134b66d82fcd6d5df1337f5f724041",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -310,7 +312,7 @@
     "wof:lang_x_spoken":[
         "khm"
     ],
-    "wof:lastmodified":1690938099,
+    "wof:lastmodified":1695884485,
     "wof:name":"Siemr\u00e9ab",
     "wof:parent_id":85632359,
     "wof:placetype":"region",

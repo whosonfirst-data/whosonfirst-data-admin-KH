@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022511,
-    "geom:area_square_m":272735008.467336,
+    "geom:area_square_m":272735008.467347,
     "geom:bbox":"105.123461176,11.426977461,105.39817485,11.614790605",
     "geom:latitude":11.536254,
     "geom:longitude":105.25967,
@@ -74,9 +74,10 @@
         "hasc:id":"KH.PY.KL",
         "wd:id":"Q4930117"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1474062772,
-    "wof:geomhash":"ffcbb918ab1935f51dd79d23c5835603",
+    "wof:geomhash":"9bcbf046480ebd54f58ee2e754d60361",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -86,7 +87,7 @@
         }
     ],
     "wof:id":1108564791,
-    "wof:lastmodified":1566727454,
+    "wof:lastmodified":1695886189,
     "wof:name":"Pur Rieng",
     "wof:parent_id":85673067,
     "wof:placetype":"county",

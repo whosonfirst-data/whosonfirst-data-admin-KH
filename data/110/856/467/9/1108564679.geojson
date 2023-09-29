@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.038642,
-    "geom:area_square_m":467412673.463048,
+    "geom:area_square_m":467412841.949999,
     "geom:bbox":"104.626362,11.82725,104.894421,12.120663",
     "geom:latitude":11.976901,
     "geom:longitude":104.753894,
@@ -89,9 +89,10 @@
         "hasc:id":"KH.KG.KT",
         "wd:id":"Q1385857"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1474062676,
-    "wof:geomhash":"456a532a51c8d6ed8e2f319387f24e2f",
+    "wof:geomhash":"dd9adee6cf77f4293f5f49a350efb432",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":1108564679,
-    "wof:lastmodified":1690938119,
+    "wof:lastmodified":1695886193,
     "wof:name":"Kampong Tralach",
     "wof:parent_id":85673047,
     "wof:placetype":"county",

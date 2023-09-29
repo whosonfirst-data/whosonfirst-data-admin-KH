@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0027,
-    "geom:area_square_m":32719398.604802,
+    "geom:area_square_m":32719332.55578,
     "geom:bbox":"104.917975,11.419137,104.972412,11.494032",
     "geom:latitude":11.455532,
     "geom:longitude":104.94292,
@@ -170,12 +170,13 @@
         "qs_pg:id":1091007,
         "wd:id":"Q1948407"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1459008761,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c2642724da8e244f4aa82c5dbc590fd7",
+    "wof:geomhash":"c5c928453b81f0ee5ec465c1bcc98ca6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -185,7 +186,7 @@
         }
     ],
     "wof:id":421168305,
-    "wof:lastmodified":1690938125,
+    "wof:lastmodified":1695886785,
     "wof:name":"Ta Khmau",
     "wof:parent_id":85673051,
     "wof:placetype":"county",

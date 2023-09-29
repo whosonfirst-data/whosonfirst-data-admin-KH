@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.103176,
-    "geom:area_square_m":1242341061.337793,
+    "geom:area_square_m":1242341704.139691,
     "geom:bbox":"103.927111,12.828362,104.222989,13.492199",
     "geom:latitude":13.147514,
     "geom:longitude":104.0993,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"KH.SI.SN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1474062814,
-    "wof:geomhash":"a145bd3b8cc9c84ccfce38681346b45a",
+    "wof:geomhash":"32a2a4350059367f6b0fa12b7d298431",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108564843,
-    "wof:lastmodified":1627522286,
+    "wof:lastmodified":1695886753,
     "wof:name":"Soutr Nikom",
     "wof:parent_id":85673029,
     "wof:placetype":"county",

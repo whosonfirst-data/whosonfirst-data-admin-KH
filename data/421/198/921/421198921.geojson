@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.109175,
-    "geom:area_square_m":1318531319.611841,
+    "geom:area_square_m":1318530987.538902,
     "geom:bbox":"104.852326,12.190697,105.401076,12.540843",
     "geom:latitude":12.388262,
     "geom:longitude":105.10465,
@@ -118,12 +118,13 @@
         "wd:id":"Q4858526",
         "wk:page":"Baray District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1459009966,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3fd3f358f1cc626ecdd2ae7851b5e007",
+    "wof:geomhash":"ab6a0d0f6f1eba609213c371047d1ee9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -133,7 +134,7 @@
         }
     ],
     "wof:id":421198921,
-    "wof:lastmodified":1690938131,
+    "wof:lastmodified":1695886786,
     "wof:name":"Baray",
     "wof:parent_id":85673057,
     "wof:placetype":"county",

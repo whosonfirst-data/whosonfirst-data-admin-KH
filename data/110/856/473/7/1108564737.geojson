@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.067178,
-    "geom:area_square_m":807863592.020056,
+    "geom:area_square_m":807863717.83848,
     "geom:bbox":"102.686997,13.359412,103.260744,13.570945",
     "geom:latitude":13.457173,
     "geom:longitude":102.989118,
@@ -107,9 +107,10 @@
         "hasc:id":"KH.OM.MB",
         "wd:id":"Q1945748"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1474062725,
-    "wof:geomhash":"2ae90aee0cd956d878c68f07b05c42ee",
+    "wof:geomhash":"db4516b78de2d86beb9956b6a133aff2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -119,7 +120,7 @@
         }
     ],
     "wof:id":1108564737,
-    "wof:lastmodified":1690938118,
+    "wof:lastmodified":1695886192,
     "wof:name":"Mongkol Borei",
     "wof:parent_id":85673011,
     "wof:placetype":"county",

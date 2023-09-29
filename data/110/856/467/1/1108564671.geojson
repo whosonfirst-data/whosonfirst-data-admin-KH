@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032758,
-    "geom:area_square_m":397701420.245803,
+    "geom:area_square_m":397701410.735737,
     "geom:bbox":"105.796094,10.833239,106.066577,11.046423",
     "geom:latitude":10.940088,
     "geom:longitude":105.942692,
@@ -86,9 +86,10 @@
         "hasc:id":"KH.SR.KR",
         "wd:id":"Q8011114"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1474062669,
-    "wof:geomhash":"913627a8612a39be71ec1707a391377f",
+    "wof:geomhash":"a4af42d82b1c0e36bec3d12eae2bb336",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -98,7 +99,7 @@
         }
     ],
     "wof:id":1108564671,
-    "wof:lastmodified":1690938120,
+    "wof:lastmodified":1695886193,
     "wof:name":"Kampong Rou",
     "wof:parent_id":85673105,
     "wof:placetype":"county",

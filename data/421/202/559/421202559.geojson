@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003998,
-    "geom:area_square_m":48305394.232924,
+    "geom:area_square_m":48305448.825782,
     "geom:bbox":"104.646082,12.217285,104.716871,12.321925",
     "geom:latitude":12.260312,
     "geom:longitude":104.678423,
@@ -117,12 +117,13 @@
         "wd:id":"Q2508561",
         "wk:page":"Kampong Cham District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1459010122,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"48c8bc7adbbc52d9888db408bf46ae24",
+    "wof:geomhash":"5c80b759e2f6a5daafdb16723c6b229d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -132,7 +133,7 @@
         }
     ],
     "wof:id":421202559,
-    "wof:lastmodified":1690938127,
+    "wof:lastmodified":1695886785,
     "wof:name":"Kampong Chhnang",
     "wof:parent_id":85673047,
     "wof:placetype":"county",

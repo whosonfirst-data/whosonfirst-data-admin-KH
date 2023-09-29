@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.081876,
-    "geom:area_square_m":988674034.137433,
+    "geom:area_square_m":988674111.817504,
     "geom:bbox":"104.49788,12.207273,104.899245,12.607328",
     "geom:latitude":12.431188,
     "geom:longitude":104.707458,
@@ -107,12 +107,13 @@
         "qs_pg:id":1091008,
         "wd:id":"Q4929050"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1459009538,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"def9aec998c633817be7376750ea363a",
+    "wof:geomhash":"a07b2c8e524f3159a91da439838adff2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -122,7 +123,7 @@
         }
     ],
     "wof:id":421188239,
-    "wof:lastmodified":1690938130,
+    "wof:lastmodified":1695886786,
     "wof:name":"Kampong Leaeng",
     "wof:parent_id":85673047,
     "wof:placetype":"county",

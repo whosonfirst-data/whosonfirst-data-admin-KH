@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035763,
-    "geom:area_square_m":432458103.618561,
+    "geom:area_square_m":432457960.180054,
     "geom:bbox":"105.326616,11.921554,105.548358,12.187687",
     "geom:latitude":12.059684,
     "geom:longitude":105.434794,
@@ -119,12 +119,13 @@
         "qs_pg:id":1191491,
         "wd:id":"Q4930039"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1459010210,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"636ac24c66f94d8d7971acaa88cec64c",
+    "wof:geomhash":"77d5b508de5c72b6ebdeb9d9187cad4f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -134,7 +135,7 @@
         }
     ],
     "wof:id":421205043,
-    "wof:lastmodified":1690938128,
+    "wof:lastmodified":1695886786,
     "wof:name":"Kampong Siem",
     "wof:parent_id":85673041,
     "wof:placetype":"county",

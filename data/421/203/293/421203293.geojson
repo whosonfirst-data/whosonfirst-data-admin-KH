@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.091684,
-    "geom:area_square_m":1099953613.034439,
+    "geom:area_square_m":1099953613.034917,
     "geom:bbox":"102.794382528,13.8176161317,103.220454305,14.2403627882",
     "geom:latitude":14.013694,
     "geom:longitude":103.039988,
@@ -119,12 +119,13 @@
         "qs_pg:id":231047,
         "wd:id":"Q1385830"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1459010146,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b70a17a53d3c82bb2bc1c28383258e83",
+    "wof:geomhash":"09625ba0aed894b2c17a14f73515e511",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -134,7 +135,7 @@
         }
     ],
     "wof:id":421203293,
-    "wof:lastmodified":1582346018,
+    "wof:lastmodified":1695886785,
     "wof:name":"Thma Puok",
     "wof:parent_id":85673011,
     "wof:placetype":"county",

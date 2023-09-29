@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016069,
-    "geom:area_square_m":195270547.312316,
+    "geom:area_square_m":195270375.652346,
     "geom:bbox":"103.126198,10.274583,103.592926,10.779583",
     "geom:latitude":10.651619,
     "geom:longitude":103.377566,
@@ -55,9 +55,10 @@
     "wof:concordances":{
         "hasc:id":"KH.KK.BS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1474062761,
-    "wof:geomhash":"5a056ce1cb638744ad4e4b82d5ca41fb",
+    "wof:geomhash":"f248af1b8fa7d92aaf6505da997aca25",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,7 +68,7 @@
         }
     ],
     "wof:id":1108564777,
-    "wof:lastmodified":1627522286,
+    "wof:lastmodified":1695886752,
     "wof:name":"Preah Sihanouk",
     "wof:parent_id":85673101,
     "wof:placetype":"county",

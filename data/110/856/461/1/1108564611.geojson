@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0552,
-    "geom:area_square_m":667571312.502796,
+    "geom:area_square_m":667571312.502553,
     "geom:bbox":"104.818481132,11.8063905429,105.027689791,12.264756483",
     "geom:latitude":12.030067,
     "geom:longitude":104.932053,
@@ -89,9 +89,10 @@
         "hasc:id":"KH.KC.BT",
         "wd:id":"Q4869002"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1474062616,
-    "wof:geomhash":"cf27a0bd8afc90b025c392b67d3c6528",
+    "wof:geomhash":"a46f66723f3f6d7d6ae05b678e76cfcb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":1108564611,
-    "wof:lastmodified":1566727459,
+    "wof:lastmodified":1695886194,
     "wof:name":"Batheay",
     "wof:parent_id":85673041,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006288,
-    "geom:area_square_m":76445451.579122,
+    "geom:area_square_m":76445683.543702,
     "geom:bbox":"104.263856,10.474556,104.356585,10.587746",
     "geom:latitude":10.533169,
     "geom:longitude":104.31251,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"KH.KB.KB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1474062662,
-    "wof:geomhash":"9b23d0405e9fda355c12bf1198e20699",
+    "wof:geomhash":"5c1bfef251f161530bd126e72f853d0a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108564665,
-    "wof:lastmodified":1627522283,
+    "wof:lastmodified":1695886750,
     "wof:name":"Kaeb",
     "wof:parent_id":85673099,
     "wof:placetype":"county",

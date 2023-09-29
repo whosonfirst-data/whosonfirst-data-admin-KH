@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.060501,
-    "geom:area_square_m":731649736.078147,
+    "geom:area_square_m":731649367.150146,
     "geom:bbox":"105.785441,11.842352,106.018246,12.219879",
     "geom:latitude":12.037794,
     "geom:longitude":105.90057,
@@ -90,9 +90,10 @@
         "hasc:id":"KH.TB.DB",
         "wd:id":"Q5212074"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1474062649,
-    "wof:geomhash":"c3cd8e13879553982f2f194b7569e366",
+    "wof:geomhash":"b33c14d394a98313c9e068e3b2b2d540",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -102,7 +103,7 @@
         }
     ],
     "wof:id":1108564653,
-    "wof:lastmodified":1690938114,
+    "wof:lastmodified":1695886190,
     "wof:name":"Dambae",
     "wof:parent_id":1108804319,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02847,
-    "geom:area_square_m":345236159.701379,
+    "geom:area_square_m":345236134.673816,
     "geom:bbox":"105.315063,11.173456,105.539285,11.401695",
     "geom:latitude":11.282302,
     "geom:longitude":105.421796,
@@ -86,9 +86,10 @@
         "hasc:id":"KH.PY.BP",
         "wd:id":"Q4837067"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1474062601,
-    "wof:geomhash":"4c1ae13249028962c8b7b4aa3d75c18b",
+    "wof:geomhash":"1cd78f30f4edb74356efdd6e232c4c0f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -98,7 +99,7 @@
         }
     ],
     "wof:id":1108564593,
-    "wof:lastmodified":1690938123,
+    "wof:lastmodified":1695886195,
     "wof:name":"Ba Phnum",
     "wof:parent_id":85673067,
     "wof:placetype":"county",

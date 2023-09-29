@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00464,
-    "geom:area_square_m":56392675.80369,
+    "geom:area_square_m":56392946.853242,
     "geom:bbox":"104.11995,10.537917,104.222084,10.64159",
     "geom:latitude":10.595587,
     "geom:longitude":104.170228,
@@ -77,9 +77,10 @@
     "wof:concordances":{
         "hasc:id":"KH.KP.KP"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1474062678,
-    "wof:geomhash":"08f17179653ef357a5f425fdbbda3e97",
+    "wof:geomhash":"692051368622598e5be09b8107422d36",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,7 +90,7 @@
         }
     ],
     "wof:id":1108564681,
-    "wof:lastmodified":1636500704,
+    "wof:lastmodified":1695886765,
     "wof:name":"Kampot",
     "wof:parent_id":85673093,
     "wof:placetype":"county",

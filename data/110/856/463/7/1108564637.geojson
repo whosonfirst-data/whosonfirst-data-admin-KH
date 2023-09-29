@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.107209,
-    "geom:area_square_m":1301560148.543581,
+    "geom:area_square_m":1301559911.991606,
     "geom:bbox":"104.05817,10.760732,104.564976,11.172214",
     "geom:latitude":10.942755,
     "geom:longitude":104.26423,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"KH.KP.CH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1474062638,
-    "wof:geomhash":"8d95ce3e819451d41838cb971852cc14",
+    "wof:geomhash":"3e1011f0b7ee740824a049e02f423a73",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108564637,
-    "wof:lastmodified":1627522282,
+    "wof:lastmodified":1695886750,
     "wof:name":"Chhuk",
     "wof:parent_id":85673093,
     "wof:placetype":"county",

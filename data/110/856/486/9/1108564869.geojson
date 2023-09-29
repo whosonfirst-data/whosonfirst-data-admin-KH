@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.217263,
-    "geom:area_square_m":2610352013.174623,
+    "geom:area_square_m":2610352371.839686,
     "geom:bbox":"105.519569,13.324441,106.046417,13.936797",
     "geom:latitude":13.673978,
     "geom:longitude":105.787696,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"KH.ST.TB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1474062840,
-    "wof:geomhash":"9ca7d473f39cf3660714de03d7911a5d",
+    "wof:geomhash":"5411d37ff35a357b2daaec170e9bc4be",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1108564869,
-    "wof:lastmodified":1627522287,
+    "wof:lastmodified":1695886753,
     "wof:name":"Thala Barivat",
     "wof:parent_id":85673075,
     "wof:placetype":"county",

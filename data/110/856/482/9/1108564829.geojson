@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.215046,
-    "geom:area_square_m":2594774091.447181,
+    "geom:area_square_m":2594774005.443048,
     "geom:bbox":"104.816173,12.372531,105.735496,12.809902",
     "geom:latitude":12.626825,
     "geom:longitude":105.337969,
@@ -89,9 +89,10 @@
         "hasc:id":"KH.KT.ST",
         "wd:id":"Q4930664"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1474062803,
-    "wof:geomhash":"cb37afd46f00d4fe3158d3c8955c3d31",
+    "wof:geomhash":"b20b1950c052a187635caa2258ccdd84",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":1108564829,
-    "wof:lastmodified":1690938110,
+    "wof:lastmodified":1695886187,
     "wof:name":"Santuk",
     "wof:parent_id":85673057,
     "wof:placetype":"county",

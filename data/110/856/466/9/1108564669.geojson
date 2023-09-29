@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.038255,
-    "geom:area_square_m":463387631.545576,
+    "geom:area_square_m":463387631.545605,
     "geom:bbox":"105.461089073,11.4266356457,105.802378664,11.7191974364",
     "geom:latitude":11.588844,
     "geom:longitude":105.641899,
@@ -86,9 +86,10 @@
         "hasc:id":"KH.PY.KM",
         "wd:id":"Q4929411"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1474062665,
-    "wof:geomhash":"0c43f0b908b861985a50942b5614e7c9",
+    "wof:geomhash":"9e058ee1a214fe3fa8903e361330a4c8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -98,7 +99,7 @@
         }
     ],
     "wof:id":1108564669,
-    "wof:lastmodified":1566727460,
+    "wof:lastmodified":1695886196,
     "wof:name":"Kamchay Mear",
     "wof:parent_id":85673067,
     "wof:placetype":"county",

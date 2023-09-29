@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.084818,
-    "geom:area_square_m":1020018267.484458,
+    "geom:area_square_m":1020018297.451527,
     "geom:bbox":"103.473705,13.232057,103.817409,13.633111",
     "geom:latitude":13.45049,
     "geom:longitude":103.647446,
@@ -113,12 +113,13 @@
         "qs_pg:id":897580,
         "wd:id":"Q1883685"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1459009445,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"73b0e38f4e625204dfce84d559576fa1",
+    "wof:geomhash":"5dd6f95ec7760854f2fb3b0db032aefb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -128,7 +129,7 @@
         }
     ],
     "wof:id":421185505,
-    "wof:lastmodified":1690938134,
+    "wof:lastmodified":1695886787,
     "wof:name":"Puok",
     "wof:parent_id":85673029,
     "wof:placetype":"county",

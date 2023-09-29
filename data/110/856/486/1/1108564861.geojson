@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.042648,
-    "geom:area_square_m":517463588.193974,
+    "geom:area_square_m":517463636.70433,
     "geom:bbox":"105.580698,10.973176,105.855648,11.272548",
     "geom:latitude":11.111105,
     "geom:longitude":105.695132,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"KH.SR.SC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1474062829,
-    "wof:geomhash":"186a2e68204bd4552cc845ae2ee3d039",
+    "wof:geomhash":"1203713a094e3d9f2ddf381a58953cd5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1108564861,
-    "wof:lastmodified":1627522286,
+    "wof:lastmodified":1695886753,
     "wof:name":"Svay Chrum",
     "wof:parent_id":85673105,
     "wof:placetype":"county",

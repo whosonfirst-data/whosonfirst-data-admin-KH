@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.036046,
-    "geom:area_square_m":437505214.16769,
+    "geom:area_square_m":437505089.317719,
     "geom:bbox":"105.183151,10.859526,105.380673,11.226534",
     "geom:latitude":11.011685,
     "geom:longitude":105.268944,
@@ -86,9 +86,10 @@
         "hasc:id":"KH.PY.PC",
         "wd:id":"Q4929420"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1474062740,
-    "wof:geomhash":"875703a53cc2e2abb1a129c2eef4bf44",
+    "wof:geomhash":"590cb77e63164947783ef71558a7455b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -98,7 +99,7 @@
         }
     ],
     "wof:id":1108564755,
-    "wof:lastmodified":1690938116,
+    "wof:lastmodified":1695886191,
     "wof:name":"Peam Chor",
     "wof:parent_id":85673067,
     "wof:placetype":"county",

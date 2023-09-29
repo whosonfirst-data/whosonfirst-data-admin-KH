@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.189971,
-    "geom:area_square_m":2276267045.869472,
+    "geom:area_square_m":2276266915.748283,
     "geom:bbox":"106.988673,13.926782,107.559339,14.690179",
     "geom:latitude":14.296636,
     "geom:longitude":107.239641,
@@ -88,12 +88,13 @@
         "hasc:id":"KH.RO.TV",
         "qs_pg:id":9978
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1459009532,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3d57713170236a55d9521fe3f826a877",
+    "wof:geomhash":"9fe8a8c66c84d780502723d549627f08",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -103,7 +104,7 @@
         }
     ],
     "wof:id":421188053,
-    "wof:lastmodified":1627522286,
+    "wof:lastmodified":1695886752,
     "wof:name":"Ta Veaeng",
     "wof:parent_id":85673089,
     "wof:placetype":"county",

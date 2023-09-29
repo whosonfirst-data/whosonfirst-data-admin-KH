@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001994,
-    "geom:area_square_m":24149382.883149,
+    "geom:area_square_m":24149446.349964,
     "geom:bbox":"104.855651,11.585166,104.921292,11.660132",
     "geom:latitude":11.619679,
     "geom:longitude":104.894273,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"KH.PP.RK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1474062784,
-    "wof:geomhash":"53943cc5432e5ff43a4a73db5e1154fc",
+    "wof:geomhash":"0a8b00e7c77f287e3e876d636807dbb3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1108564809,
-    "wof:lastmodified":1627522285,
+    "wof:lastmodified":1695886752,
     "wof:name":"Russey Keo",
     "wof:parent_id":85673063,
     "wof:placetype":"county",

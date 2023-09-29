@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033177,
-    "geom:area_square_m":403183145.145855,
+    "geom:area_square_m":403183145.146154,
     "geom:bbox":"104.509363625,10.527323,104.716815627,10.7761334233",
     "geom:latitude":10.639268,
     "geom:longitude":104.602567,
@@ -92,9 +92,10 @@
         "hasc:id":"KH.KP.BM",
         "wd:id":"Q4857204"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1474062608,
-    "wof:geomhash":"6812593636a94d6c32f3055562971380",
+    "wof:geomhash":"b62bcb484f737d4a277b92e780b95532",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,7 +105,7 @@
         }
     ],
     "wof:id":1108564601,
-    "wof:lastmodified":1566727458,
+    "wof:lastmodified":1695886193,
     "wof:name":"Banteay Meas",
     "wof:parent_id":85673093,
     "wof:placetype":"county",

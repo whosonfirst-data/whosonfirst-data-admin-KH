@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024859,
-    "geom:area_square_m":301750017.377441,
+    "geom:area_square_m":301750002.148809,
     "geom:bbox":"104.831935,10.841107,105.04835,11.102921",
     "geom:latitude":10.992661,
     "geom:longitude":104.95091,
@@ -98,9 +98,10 @@
         "hasc:id":"KH.TA.AB",
         "wd:id":"Q4763323"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1474062593,
-    "wof:geomhash":"7e9dc69cfb60f0ad88dca12017f6f9ce",
+    "wof:geomhash":"5c2ddd30317bf0ae08bd348d364b70e4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -110,7 +111,7 @@
         }
     ],
     "wof:id":1108564579,
-    "wof:lastmodified":1690938122,
+    "wof:lastmodified":1695886194,
     "wof:name":"Angkor Borei",
     "wof:parent_id":85673107,
     "wof:placetype":"county",

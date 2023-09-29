@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.131594,
-    "geom:area_square_m":1586396252.519002,
+    "geom:area_square_m":1586396758.664398,
     "geom:bbox":"103.30386,12.60353,103.918881,13.125431",
     "geom:latitude":12.856263,
     "geom:longitude":103.555209,
@@ -70,9 +70,10 @@
     "wof:concordances":{
         "hasc:id":"KH.BA.MR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1474062726,
-    "wof:geomhash":"61e319a0f1608d9f8527fa4137884ec4",
+    "wof:geomhash":"25b7d8b564c07b12d5b232c1f1448740",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -82,7 +83,7 @@
         }
     ],
     "wof:id":1108564739,
-    "wof:lastmodified":1627522284,
+    "wof:lastmodified":1695886751,
     "wof:name":"Moung Ruessei",
     "wof:parent_id":85673015,
     "wof:placetype":"county",

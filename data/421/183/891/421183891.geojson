@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.073882,
-    "geom:area_square_m":893681433.191408,
+    "geom:area_square_m":893680828.296684,
     "geom:bbox":"105.456135,11.796409,105.846149,12.139432",
     "geom:latitude":11.975616,
     "geom:longitude":105.65546,
@@ -166,12 +166,13 @@
         "wd:id":"Q15623578",
         "wk:page":"Tboung Khmum Province"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1459009391,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b2919ac54d8033de8ddfc65328ec6327",
+    "wof:geomhash":"453a57c6cb3ed165e330125f6e67c1eb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -181,7 +182,7 @@
         }
     ],
     "wof:id":421183891,
-    "wof:lastmodified":1690938134,
+    "wof:lastmodified":1695886752,
     "wof:name":"Tboung Khmum",
     "wof:parent_id":1108804319,
     "wof:placetype":"county",

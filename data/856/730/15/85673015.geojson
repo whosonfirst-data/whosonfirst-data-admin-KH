@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.013176,
-    "geom:area_square_m":12207811523.895376,
+    "geom:area_square_m":12207811407.084326,
     "geom:bbox":"102.345097,12.372945,103.918881,13.479488",
     "geom:latitude":12.981186,
     "geom:longitude":103.102112,
@@ -302,16 +302,18 @@
         "gn:id":1821310,
         "gp:id":20070098,
         "hasc:id":"KH.BA",
+        "iso:code":"KH-2",
         "iso:id":"KH-2",
         "qs_pg:id":896382,
         "wd:id":"Q810923",
         "wk:page":"Battambang Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"KH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5e16ffb1a134ae648d00ee2df0e3eb90",
+    "wof:geomhash":"7e02b18b293598dac966ca9e0ff1b7c0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -326,7 +328,7 @@
     "wof:lang_x_spoken":[
         "khm"
     ],
-    "wof:lastmodified":1690938102,
+    "wof:lastmodified":1695884484,
     "wof:name":"Batd\u00e2mb\u00e2ng",
     "wof:parent_id":85632359,
     "wof:placetype":"region",

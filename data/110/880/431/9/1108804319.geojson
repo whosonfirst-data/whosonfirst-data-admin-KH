@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.408504,
-    "geom:area_square_m":4942010396.205816,
+    "geom:area_square_m":4942010130.981228,
     "geom:bbox":"105.413103,11.599002,106.467042,12.300543",
     "geom:latitude":11.935411,
     "geom:longitude":105.888756,
@@ -139,12 +139,14 @@
     "wof:concordances":{
         "fips:code":"CB31",
         "hasc:id":"KH.TB",
+        "iso:code":"KH-25",
         "iso:id":"KH-25",
         "wd:id":"Q15623578"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"KH",
     "wof:created":1485293517,
-    "wof:geomhash":"7c799a126d704054bfed5dd164b9fbf8",
+    "wof:geomhash":"a6e868bb5afd281d2f1a88e9272eec84",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -159,7 +161,7 @@
     "wof:lang_x_spoken":[
         "khm"
     ],
-    "wof:lastmodified":1690938108,
+    "wof:lastmodified":1695884486,
     "wof:name":"Tboung Khmum",
     "wof:parent_id":85632359,
     "wof:placetype":"region",

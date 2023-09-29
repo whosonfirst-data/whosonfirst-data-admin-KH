@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.047524,
-    "geom:area_square_m":571219416.903117,
+    "geom:area_square_m":571219177.479435,
     "geom:bbox":"103.392259,13.346385,103.615768,13.75026",
     "geom:latitude":13.576659,
     "geom:longitude":103.485082,
@@ -116,12 +116,13 @@
         "qs_pg:id":891119,
         "wd:id":"Q1883697"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1459009815,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"983b2421c53d36e5cbafeaed0dba1e9a",
+    "wof:geomhash":"9e57db1cdf83f7aedd09ef5c58ec1d4d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -131,7 +132,7 @@
         }
     ],
     "wof:id":421194643,
-    "wof:lastmodified":1690938125,
+    "wof:lastmodified":1695886785,
     "wof:name":"Kralanh",
     "wof:parent_id":85673029,
     "wof:placetype":"county",

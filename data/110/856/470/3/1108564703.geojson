@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.039743,
-    "geom:area_square_m":482249653.327856,
+    "geom:area_square_m":482249656.282565,
     "geom:bbox":"104.990997,10.897906,105.16354,11.242857",
     "geom:latitude":11.088449,
     "geom:longitude":105.084028,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"KH.KN.KT"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1474062693,
-    "wof:geomhash":"5b50a7b3a6843e8466adb1c0bbccab86",
+    "wof:geomhash":"ad7718189983028b27eea7d5da7f268d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1108564703,
-    "wof:lastmodified":1627522283,
+    "wof:lastmodified":1695886750,
     "wof:name":"Kaoh Thum",
     "wof:parent_id":85673051,
     "wof:placetype":"county",

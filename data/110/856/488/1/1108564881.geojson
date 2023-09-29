@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033839,
-    "geom:area_square_m":410903604.361064,
+    "geom:area_square_m":410903639.286647,
     "geom:bbox":"104.675288,10.765446,104.959061,10.995684",
     "geom:latitude":10.883601,
     "geom:longitude":104.802374,
@@ -89,9 +89,10 @@
         "hasc:id":"KH.TA.TG",
         "wd:id":"Q4929468"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1474062849,
-    "wof:geomhash":"af3958fa7404f581564763c63cec3507",
+    "wof:geomhash":"d939e8eb82044c970314d26336b41413",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":1108564881,
-    "wof:lastmodified":1690938114,
+    "wof:lastmodified":1695886190,
     "wof:name":"Treang",
     "wof:parent_id":85673107,
     "wof:placetype":"county",

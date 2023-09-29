@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.046836,
-    "geom:area_square_m":562312736.756525,
+    "geom:area_square_m":562312736.756556,
     "geom:bbox":"106.871138704,13.7201960986,107.166072246,13.9757708361",
     "geom:latitude":13.841857,
     "geom:longitude":107.034971,
@@ -86,9 +86,10 @@
         "hasc:id":"KH.RO.OC",
         "wd:id":"Q4930108"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1474062731,
-    "wof:geomhash":"10ae9b3c377eef251a19c037e33cf9b6",
+    "wof:geomhash":"e54d24e8d5c894be92d48be32fa96463",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -98,7 +99,7 @@
         }
     ],
     "wof:id":1108564743,
-    "wof:lastmodified":1566727457,
+    "wof:lastmodified":1695886192,
     "wof:name":"Ou Chum",
     "wof:parent_id":85673089,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.097818,
-    "geom:area_square_m":1178265238.798539,
+    "geom:area_square_m":1178265114.224009,
     "geom:bbox":"103.163544,12.89,103.742986,13.242126",
     "geom:latitude":13.057167,
     "geom:longitude":103.410873,
@@ -88,12 +88,13 @@
         "hasc:id":"KH.BA.SK",
         "qs_pg:id":10018
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1459010110,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4520bbae2bd8db6ed3a21f0838b94e68",
+    "wof:geomhash":"24e5ddefddc010a1df633e2e53f177f9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -103,7 +104,7 @@
         }
     ],
     "wof:id":421202239,
-    "wof:lastmodified":1627522285,
+    "wof:lastmodified":1695886751,
     "wof:name":"Sangkae",
     "wof:parent_id":85673015,
     "wof:placetype":"county",

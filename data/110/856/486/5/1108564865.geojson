@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027501,
-    "geom:area_square_m":333688924.406515,
+    "geom:area_square_m":333688878.831439,
     "geom:bbox":"105.833615,10.967706,106.082788,11.212194",
     "geom:latitude":11.107606,
     "geom:longitude":105.942049,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"KH.SR.ST"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1474062834,
-    "wof:geomhash":"5dd28451d57f7db976922f4b0ed62d93",
+    "wof:geomhash":"9b9e5a171491572358560849c9c99302",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1108564865,
-    "wof:lastmodified":1627522286,
+    "wof:lastmodified":1695886753,
     "wof:name":"Svay Teab",
     "wof:parent_id":85673105,
     "wof:placetype":"county",

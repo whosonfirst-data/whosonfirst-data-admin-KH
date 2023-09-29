@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0903,
-    "geom:area_square_m":1095710591.409937,
+    "geom:area_square_m":1095710246.462004,
     "geom:bbox":"103.155202,10.863722,103.603482,11.315516",
     "geom:latitude":11.093063,
     "geom:longitude":103.380204,
@@ -115,12 +115,13 @@
         "wd:id":"Q4929301",
         "wk:page":"Botum Sakor District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1459010117,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8c0b6fe560a87f6d8db7021178a0568b",
+    "wof:geomhash":"1bff8b30dbbd9e15335833ca1b2096cc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -130,7 +131,7 @@
         }
     ],
     "wof:id":421202413,
-    "wof:lastmodified":1690938127,
+    "wof:lastmodified":1695886785,
     "wof:name":"Botum Sakor",
     "wof:parent_id":85673019,
     "wof:placetype":"county",

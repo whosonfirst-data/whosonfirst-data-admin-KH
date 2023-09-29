@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.389937,
-    "geom:area_square_m":4736302017.150033,
+    "geom:area_square_m":4736301839.328018,
     "geom:bbox":"103.916671,10.404543,104.727201,11.172214",
     "geom:latitude":10.795169,
     "geom:longitude":104.310225,
@@ -303,17 +303,19 @@
         "gn:id":1831111,
         "gp:id":2344932,
         "hasc:id":"KH.KP",
+        "iso:code":"KH-7",
         "iso:id":"KH-7",
         "qs_pg:id":318348,
         "unlc:id":"KH-7",
         "wd:id":"Q748470",
         "wk:page":"Kampot Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"KH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ecd8b5381d4ad298798cb6126097c22e",
+    "wof:geomhash":"8afd77c5f4b581aa0ff2592cddcdfa5a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -328,7 +330,7 @@
     "wof:lang_x_spoken":[
         "khm"
     ],
-    "wof:lastmodified":1690938098,
+    "wof:lastmodified":1695884484,
     "wof:name":"K\u00e2mp\u00f4t",
     "wof:parent_id":85632359,
     "wof:placetype":"region",

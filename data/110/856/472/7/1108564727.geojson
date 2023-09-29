@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.042423,
-    "geom:area_square_m":510032244.955672,
+    "geom:area_square_m":510032244.955741,
     "geom:bbox":"102.333542,13.4436900292,102.829386965,13.6091227696",
     "geom:latitude":13.521341,
     "geom:longitude":102.56926,
@@ -98,9 +98,10 @@
         "hasc:id":"KH.OM.ML",
         "wd:id":"Q4929080"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1474062713,
-    "wof:geomhash":"09c46e6696874b3193c987b110e69c63",
+    "wof:geomhash":"b225eea3e20d2e168bba8deba31496e3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -110,7 +111,7 @@
         }
     ],
     "wof:id":1108564727,
-    "wof:lastmodified":1566727456,
+    "wof:lastmodified":1695886191,
     "wof:name":"Malai",
     "wof:parent_id":85673011,
     "wof:placetype":"county",

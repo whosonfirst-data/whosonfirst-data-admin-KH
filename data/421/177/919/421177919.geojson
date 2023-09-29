@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028285,
-    "geom:area_square_m":342345539.104805,
+    "geom:area_square_m":342345544.223571,
     "geom:bbox":"105.413103,11.740672,105.680511,11.914805",
     "geom:latitude":11.812562,
     "geom:longitude":105.539772,
@@ -113,12 +113,13 @@
         "qs_pg:id":9952,
         "wd:id":"Q4930654"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1459009165,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"83660538f411a730bcf5f21ca1aee8b6",
+    "wof:geomhash":"90013628b08aa4dd0c1f87fc110002d4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -128,7 +129,7 @@
         }
     ],
     "wof:id":421177919,
-    "wof:lastmodified":1690938133,
+    "wof:lastmodified":1695886786,
     "wof:name":"Ou Reang Ov",
     "wof:parent_id":1108804319,
     "wof:placetype":"county",

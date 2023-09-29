@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.233683,
-    "geom:area_square_m":2824322998.198422,
+    "geom:area_square_m":2824322998.197978,
     "geom:bbox":"106.141667229,11.9493554094,106.801823181,12.5115197289",
     "geom:latitude":12.194823,
     "geom:longitude":106.471857,
@@ -92,9 +92,10 @@
         "hasc:id":"KH.KH.SN",
         "wd:id":"Q4929275"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KH",
     "wof:created":1474062812,
-    "wof:geomhash":"dc9ea97465499d1b34a6b76a44560dbc",
+    "wof:geomhash":"fa53eba39c56ee05dc3a8509df654d6c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,7 +105,7 @@
         }
     ],
     "wof:id":1108564841,
-    "wof:lastmodified":1566727453,
+    "wof:lastmodified":1695886188,
     "wof:name":"Snuol",
     "wof:parent_id":85673081,
     "wof:placetype":"county",
