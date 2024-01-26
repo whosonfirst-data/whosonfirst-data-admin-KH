@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"102.97054,11.69787,102.97054,11.69787",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Phum Ka\u00f4h Sm\u0103ch",
@@ -57,12 +59,14 @@
         }
     ],
     "wof:id":1327419303,
-    "wof:lastmodified":1566727214,
+    "wof:lastmodified":1706240323,
     "wof:name":"Phumi Kaoh Smach",
     "wof:parent_id":421201861,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kh",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1293123209
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

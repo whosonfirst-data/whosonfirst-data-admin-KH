@@ -47,6 +47,11 @@
     "wof:concordances":{
         "gn:id":1824498
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            11478009
+        ]
+    },
     "wof:country":"KH",
     "wof:geomhash":"d2d57388518e4c93e034e57f6ed7b7c8",
     "wof:hierarchy":[
@@ -59,13 +64,15 @@
         }
     ],
     "wof:id":1260374051,
-    "wof:lastmodified":1566727439,
+    "wof:lastmodified":1706240323,
     "wof:name":"Stueng Slout",
     "wof:parent_id":421191397,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kh",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343535087
+    ],
     "wof:tags":[]
 },
   "bbox": [
