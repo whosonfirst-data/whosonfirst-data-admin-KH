@@ -47,6 +47,11 @@
     "wof:concordances":{
         "gn:id":1827944
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1827945
+        ]
+    },
     "wof:country":"KH",
     "wof:geomhash":"41b89b27f72eabff1cfde91b5b4665b3",
     "wof:hierarchy":[
@@ -59,13 +64,15 @@
         }
     ],
     "wof:id":1293123209,
-    "wof:lastmodified":1566727304,
+    "wof:lastmodified":1706240323,
     "wof:name":"Phumi Kaoh Smach",
     "wof:parent_id":421201861,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kh",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327419303
+    ],
     "wof:tags":[]
 },
   "bbox": [
